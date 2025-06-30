@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartperlayer</key>
+	<string>hardchapterkind</string>
+	<key>consumerBottom</key>
+	<string>canSetStateThread</string>
+	<key>crudeAlert</key>
+	<string>requiredPopup</string>
+	<key>parallelCapsule</key>
+	<string>gateComposite</string>
+	<key>subtleDispatcher</key>
+	<string>annotateReducer</string>
+</dict>
+</plist>

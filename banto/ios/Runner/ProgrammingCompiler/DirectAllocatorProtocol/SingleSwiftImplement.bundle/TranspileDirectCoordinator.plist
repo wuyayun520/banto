@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitoutsidework</key>
+	<string>deactivateRow</string>
+	<key>comprehensiveResolver</key>
+	<string>multiplicationTension</string>
+	<key>crudeThroughput</key>
+	<string>routeCanvas</string>
+	<key>defaultPageView</key>
+	<string>nextProfile</string>
+	<key>oldlocalizationtag</key>
+	<string>shouldHandleTextField</string>
+	<key>precisioninfo</key>
+	<string>axisResponse</string>
+	<key>reusableCoordinator</key>
+	<string>buttonPosition</string>
+	<key>statelessChart</key>
+	<string>draggablePopup</string>
+	<key>subscriberorientation</key>
+	<string>presentermediatorfeedback</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocFormat</key>
+	<string>deactivateDecoration</string>
+	<key>constraintCenter</key>
+	<string>canPersistTabBar</string>
+	<key>euclideanGroup</key>
+	<string>modulusType</string>
+	<key>litetable</key>
+	<string>petObserver</string>
+	<key>persistentPublisher</key>
+	<string>seamlessBrush</string>
+</dict>
+</plist>

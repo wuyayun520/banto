@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicremediation</key>
+	<string>navigationAdapter</string>
+	<key>crudeSample</key>
+	<string>scaleTransparency</string>
+	<key>keyGestureDetector</key>
+	<string>otherError</string>
+	<key>mediocreTicker</key>
+	<string>cancelAnimation</string>
+	<key>modulusrectangle</key>
+	<string>shouldMountedBitrate</string>
+	<key>shouldNavigateRichText</key>
+	<string>canMountContainer</string>
+	<key>shouldPaintCanvas</key>
+	<string>mediocreRow</string>
+	<key>significantTextField</key>
+	<string>shouldDispatchSwitch</string>
+</dict>
+</plist>

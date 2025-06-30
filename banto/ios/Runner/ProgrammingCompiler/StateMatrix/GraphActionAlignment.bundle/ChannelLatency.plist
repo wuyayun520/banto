@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicInterval</key>
+	<string>custompaintthroughinterpreter</string>
+	<key>dependencyPosition</key>
+	<string>commonCreator</string>
+	<key>lostCharacter</key>
+	<string>providerEnvironment</string>
+	<key>pivotalScene</key>
+	<string>explicitContraction</string>
+	<key>prevArchitecture</key>
+	<string>repositoryMargin</string>
+	<key>semanticsobserver</key>
+	<string>directAlert</string>
+	<key>specifyUnary</key>
+	<string>setstateObserver</string>
+	<key>unsortedSlider</key>
+	<string>swiftPressure</string>
+</dict>
+</plist>

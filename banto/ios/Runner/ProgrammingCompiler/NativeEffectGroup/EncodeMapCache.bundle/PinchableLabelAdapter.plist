@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logstageappearance</key>
+	<string>largeConsumer</string>
+	<key>publicsizeshade</key>
+	<string>canHandlePageView</string>
+	<key>shouldEmitAxis</key>
+	<string>instructionWork</string>
+	<key>shouldStopWidget</key>
+	<string>shouldDisconnectMultiplication</string>
+	<key>singleScaffold</key>
+	<string>lostRectangle</string>
+</dict>
+</plist>

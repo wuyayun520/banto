@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lifecyclestyle</key>
+	<string>shouldAttachExpanded</string>
+	<key>nibMomentum</key>
+	<string>canResumeCaption</string>
+	<key>relationalSound</key>
+	<string>filterCenter</string>
+	<key>richtexttaxonomy</key>
+	<string>statefulisolateresponse</string>
+</dict>
+</plist>

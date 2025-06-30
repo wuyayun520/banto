@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerorigin</key>
+	<string>instantiateInteractor</string>
+	<key>handleraudio</key>
+	<string>vertexedge</string>
+	<key>pivotalRepository</key>
+	<string>shouldProcessSlider</string>
+	<key>requiredCombiner</key>
+	<string>labelzone</string>
+	<key>responsiveSwitch</key>
+	<string>newestBatch</string>
+</dict>
+</plist>

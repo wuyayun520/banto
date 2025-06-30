@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionjobmomentum</key>
+	<string>shouldStreamProjection</string>
+	<key>deferredMaterial</key>
+	<string>currentStrength</string>
+	<key>desktopDispatcher</key>
+	<string>significantContrast</string>
+	<key>directScroller</key>
+	<string>transformFrame</string>
+	<key>gramcycleoffset</key>
+	<string>shouldUnmountedOverlay</string>
+	<key>listenersearcher</key>
+	<string>difficultAppBar</string>
+	<key>oninterpolationtap</key>
+	<string>tappableSplitter</string>
+	<key>shouldPersistTask</key>
+	<string>precisionForce</string>
+	<key>shouldRenderPlayback</key>
+	<string>temporaryNib</string>
+</dict>
+</plist>

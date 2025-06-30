@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredElement</key>
+	<string>accordionBinary</string>
+	<key>mobileLoss</key>
+	<string>shouldNavigateReference</string>
+	<key>resilienceScale</key>
+	<string>notificationFlags</string>
+	<key>shouldRestartMedia</key>
+	<string>canEndMedia</string>
+	<key>uniformQuaternion</key>
+	<string>immediateScale</string>
+</dict>
+</plist>

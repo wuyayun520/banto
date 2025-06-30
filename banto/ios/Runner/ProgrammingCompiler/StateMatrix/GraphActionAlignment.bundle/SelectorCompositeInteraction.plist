@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeCycle</key>
+	<string>mediaqueryEdge</string>
+	<key>flexibleColumn</key>
+	<string>storeBloc</string>
+	<key>intermediateTrigger</key>
+	<string>profilefactory</string>
+	<key>sessionTag</key>
+	<string>viewTail</string>
+	<key>shouldDismissCosine</key>
+	<string>shouldContinueSwift</string>
+	<key>sophisticatedAction</key>
+	<string>canEmitDialogs</string>
+	<key>spinekindalignment</key>
+	<string>navigateSink</string>
+	<key>statefulKernel</key>
+	<string>inactiveButton</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanDimension</key>
+	<string>persistentConvolution</string>
+	<key>iterativeRectangle</key>
+	<string>keepProvider</string>
+	<key>menuCoord</key>
+	<string>canBuildTouch</string>
+	<key>normalDropdownButton</key>
+	<string>attachconstraint</string>
+	<key>responseContrast</key>
+	<string>consultativeHero</string>
+</dict>
+</plist>

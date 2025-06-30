@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryVisible</key>
+	<string>singleprofile</string>
+	<key>criticalcoordinator</key>
+	<string>viewaroundprototype</string>
+	<key>logcolor</key>
+	<string>visualizeSink</string>
+	<key>shouldDetachStateful</key>
+	<string>shouldPublishTangent</string>
+	<key>shouldRenderTool</key>
+	<string>segmentBuffer</string>
+	<key>shouldValidateAlert</key>
+	<string>shouldFinishCard</string>
+	<key>sortedSize</key>
+	<string>prismaticFeature</string>
+	<key>textfieldPosition</key>
+	<string>delicatePageView</string>
+</dict>
+</plist>

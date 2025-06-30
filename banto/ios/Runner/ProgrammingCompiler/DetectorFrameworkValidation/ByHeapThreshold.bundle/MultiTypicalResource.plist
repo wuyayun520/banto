@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardTint</key>
+	<string>concreteChannels</string>
+	<key>dismissappbar</key>
+	<string>draggableStorage</string>
+	<key>providerole</key>
+	<string>dialogsColor</string>
+	<key>responsiveUsage</key>
+	<string>difficultBuilder</string>
+	<key>shouldPrepareCoordinator</key>
+	<string>insteadstoryboard</string>
+	<key>shouldRestartSegue</key>
+	<string>secondObject</string>
+	<key>shouldResumeGestureDetector</key>
+	<string>publicScenario</string>
+	<key>transformintensity</key>
+	<string>functionalTriangles</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityContrast</key>
+	<string>serviceevaluation</string>
+	<key>customStamp</key>
+	<string>geometricOverlay</string>
+	<key>desktopProvider</key>
+	<string>consumerinset</string>
+	<key>permanentLoss</key>
+	<string>constraintisolate</string>
+	<key>protectedlinker</key>
+	<string>navigatorPrototype</string>
+	<key>shouldBindMargin</key>
+	<string>visualizeAction</string>
+	<key>standaloneBase</key>
+	<string>textureAlignment</string>
+	<key>textstrength</key>
+	<string>cellTail</string>
+</dict>
+</plist>

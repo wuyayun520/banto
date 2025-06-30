@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueinkwell</key>
+	<string>gemLayer</string>
+	<key>disconnectgesturedetector</key>
+	<string>interpolationMediator</string>
+	<key>integerobject</key>
+	<string>clipperbound</string>
+	<key>loopValidation</key>
+	<string>shouldCancelCube</string>
+	<key>semanticCosine</key>
+	<string>shouldPopDrawer</string>
+	<key>shouldBuildDecoration</key>
+	<string>uniqueInfrastructure</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoAllocator</key>
+	<string>pickerShade</string>
+	<key>grayscaleduringnumber</key>
+	<string>richtextbrightness</string>
+	<key>shouldUnbindBuilder</key>
+	<string>deserializeMatrix</string>
+</dict>
+</plist>

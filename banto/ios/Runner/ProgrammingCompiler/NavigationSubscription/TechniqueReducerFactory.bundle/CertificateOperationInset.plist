@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardduration</key>
+	<string>consumerDuration</string>
+	<key>delicateGridView</key>
+	<string>showLog</string>
+	<key>dispatchchart</key>
+	<string>specifiertexture</string>
+	<key>imperativePager</key>
+	<string>modulusFrequency</string>
+	<key>pagerInteraction</key>
+	<string>canBuildTransition</string>
+	<key>rowlikestate</key>
+	<string>publicCupertino</string>
+	<key>sortedCapacities</key>
+	<string>measureLabel</string>
+</dict>
+</plist>

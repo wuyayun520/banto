@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoProcessor</key>
+	<string>mounteddescription</string>
+	<key>expandedobserverbound</key>
+	<string>poolTimer</string>
+	<key>gateDelay</key>
+	<string>dynamicNotification</string>
+	<key>layerState</key>
+	<string>resizableGestureDetector</string>
+	<key>providerposition</key>
+	<string>activeRoute</string>
+	<key>replicaBehavior</key>
+	<string>roleResponse</string>
+	<key>routerFrequency</key>
+	<string>positionDecorator</string>
+	<key>sinetierforce</key>
+	<string>quantizerLayer</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentTail</key>
+	<string>viewappearance</string>
+	<key>concreteTable</key>
+	<string>displayableManager</string>
+	<key>geometricSize</key>
+	<string>canCacheBaseline</string>
+	<key>hashSize</key>
+	<string>loadnib</string>
+	<key>liteTernary</key>
+	<string>unlockWidget</string>
+	<key>localPosition</key>
+	<string>detailbrightness</string>
+	<key>mediocreExpanded</key>
+	<string>mediocreStateless</string>
+	<key>normBehavior</key>
+	<string>reduceController</string>
+	<key>quantizerrow</key>
+	<string>benchmarkNavigator</string>
+	<key>shouldMountedRoute</key>
+	<string>indicatorSystem</string>
+</dict>
+</plist>

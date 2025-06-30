@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerFlags</key>
+	<string>largeNavigator</string>
+	<key>blocState</key>
+	<string>baseforce</string>
+	<key>currentternary</key>
+	<string>canTrainBinary</string>
+	<key>momentumHue</key>
+	<string>showGridView</string>
+	<key>pivotalbehaviorduration</key>
+	<string>transitionSkewY</string>
+	<key>shouldPublishChallenge</key>
+	<string>canValidateNib</string>
+	<key>statelessBuilder</key>
+	<string>intermediateReference</string>
+</dict>
+</plist>

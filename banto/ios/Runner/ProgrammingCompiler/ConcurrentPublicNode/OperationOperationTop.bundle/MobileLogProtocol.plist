@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axiszone</key>
+	<string>shouldTransitionSession</string>
+	<key>granularchart</key>
+	<string>decodeRouter</string>
+	<key>playobserver</key>
+	<string>equalizationbuffertype</string>
+	<key>reconciletimer</key>
+	<string>appbarobserver</string>
+	<key>sharedGrid</key>
+	<string>keyContrast</string>
+</dict>
+</plist>

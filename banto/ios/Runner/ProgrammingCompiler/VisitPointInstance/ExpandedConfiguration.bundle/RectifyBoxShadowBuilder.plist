@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedGraphic</key>
+	<string>keyparticlespacing</string>
+	<key>hyperbolicMap</key>
+	<string>entropymaterial</string>
+	<key>imageResponse</key>
+	<string>parallelinteractor</string>
+	<key>lossshade</key>
+	<string>deactivateContainer</string>
+	<key>sequentialVector</key>
+	<string>minNavigation</string>
+	<key>shouldResumeActivity</key>
+	<string>immutableEntropy</string>
+	<key>tabbaremitter</key>
+	<string>reusableGraphic</string>
+</dict>
+</plist>

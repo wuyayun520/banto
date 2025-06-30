@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deliveryType</key>
+	<string>opaquerequest</string>
+	<key>monsterAlignment</key>
+	<string>mountPadding</string>
+	<key>navigatorbysingleton</key>
+	<string>deserializeBrush</string>
+	<key>nextanimation</key>
+	<string>originalStamp</string>
+	<key>shouldShowProject</key>
+	<string>tensorBoxShadow</string>
+	<key>statelessMode</key>
+	<string>tappableSegment</string>
+	<key>ternaryScale</key>
+	<string>logarithmInteraction</string>
+	<key>themeHead</key>
+	<string>makeChapter</string>
+	<key>unsortedNib</key>
+	<string>shouldSubscribeTheme</string>
+</dict>
+</plist>

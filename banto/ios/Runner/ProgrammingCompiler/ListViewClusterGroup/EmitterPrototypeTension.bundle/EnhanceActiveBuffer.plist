@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTask</key>
+	<string>canCancelSine</string>
+	<key>baselineTag</key>
+	<string>shouldBuildImage</string>
+	<key>mediumChecklist</key>
+	<string>compositionalGift</string>
+	<key>processdelegate</key>
+	<string>analyzeInterface</string>
+	<key>progressbarwithouttype</key>
+	<string>notifySegue</string>
+	<key>resilientModal</key>
+	<string>pushProtocol</string>
+	<key>revisitscroll</key>
+	<string>offsetPadding</string>
+	<key>shouldConnectSemantics</key>
+	<string>canDismissBloc</string>
+	<key>substantialConsumption</key>
+	<string>canRouteFlex</string>
+	<key>toleranceTop</key>
+	<string>callbackstate</string>
+</dict>
+</plist>

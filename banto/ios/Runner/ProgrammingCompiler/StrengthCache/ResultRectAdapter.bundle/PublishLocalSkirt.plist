@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureDuration</key>
+	<string>grainOrigin</string>
+	<key>asynchronousgrain</key>
+	<string>customTable</string>
+	<key>autoMenu</key>
+	<string>statelessrotation</string>
+	<key>disconnecttangent</key>
+	<string>customizedasynclocation</string>
+	<key>opaqueSorter</key>
+	<string>temporaryOperation</string>
+	<key>respectiveEvaluation</key>
+	<string>seamlessPriority</string>
+	<key>shouldLayoutLoss</key>
+	<string>handlerow</string>
+	<key>shouldendswift</key>
+	<string>canLoadObserver</string>
+</dict>
+</plist>

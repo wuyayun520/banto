@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleextensionskewx</key>
+	<string>searcherHead</string>
+	<key>cupertinoorstate</key>
+	<string>enabledGroup</string>
+	<key>dialogsoutsidejob</key>
+	<string>resumeDialogs</string>
+	<key>entityOffset</key>
+	<string>detachState</string>
+	<key>flexibleBehavior</key>
+	<string>materialSkin</string>
+	<key>liteTweak</key>
+	<string>invisiblevector</string>
+	<key>shouldPopTernary</key>
+	<string>canListenAlert</string>
+	<key>shouldPresentAlert</key>
+	<string>dedicatedView</string>
+	<key>shouldSaveContainer</key>
+	<string>refreshBloc</string>
+</dict>
+</plist>

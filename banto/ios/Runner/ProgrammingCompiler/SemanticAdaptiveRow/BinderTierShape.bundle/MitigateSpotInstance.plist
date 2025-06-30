@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerInteraction</key>
+	<string>canPrepareBaseline</string>
+	<key>eagerSingleton</key>
+	<string>setstateaction</string>
+	<key>inkwellContrast</key>
+	<string>momentumOrigin</string>
+	<key>rapidDuration</key>
+	<string>cartesianActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionOrientation</key>
+	<string>restoreController</string>
+	<key>adaptiveStep</key>
+	<string>thresholdFeedback</string>
+	<key>chooserVisible</key>
+	<string>spinEvent</string>
+	<key>commonInkWell</key>
+	<string>notifyStack</string>
+	<key>discardedGem</key>
+	<string>readSize</string>
+	<key>resizableStep</key>
+	<string>sinkBuffer</string>
+	<key>shouldKeepNavigation</key>
+	<string>canKeepSample</string>
+	<key>shouldPauseMusic</key>
+	<string>shouldPaintChallenge</string>
+</dict>
+</plist>

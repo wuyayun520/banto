@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousReducer</key>
+	<string>shouldFinishBorder</string>
+	<key>backwardnotification</key>
+	<string>lostBrush</string>
+	<key>cupertinoScene</key>
+	<string>firstScheduler</string>
+	<key>lostwrapper</key>
+	<string>notifyProgressBar</string>
+	<key>nextInstruction</key>
+	<string>composableresourceduration</string>
+	<key>shouldconnectmission</key>
+	<string>dynamicTentative</string>
+	<key>smallstream</key>
+	<string>transitionvariablestate</string>
+	<key>statelessEffect</key>
+	<string>enabledImpact</string>
+	<key>tensorMetadata</key>
+	<string>canConnectSlider</string>
+</dict>
+</plist>

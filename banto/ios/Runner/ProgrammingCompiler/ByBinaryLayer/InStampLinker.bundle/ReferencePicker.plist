@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationanalyzer</key>
+	<string>elasticConsumption</string>
+	<key>itemoffset</key>
+	<string>draggableQueue</string>
+	<key>overridesubscription</key>
+	<string>spinSingleton</string>
+	<key>permutationRotation</key>
+	<string>petVisitor</string>
+	<key>priorProtocol</key>
+	<string>injectLabel</string>
+	<key>reliabilityMomentum</key>
+	<string>secondScroll</string>
+	<key>seamlessbaseline</key>
+	<string>collectionproxytheme</string>
+</dict>
+</plist>

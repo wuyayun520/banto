@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listviewMomentum</key>
+	<string>specifyDimension</string>
+	<key>prioritysplitter</key>
+	<string>semanticProfile</string>
+	<key>shapePadding</key>
+	<string>canPauseConstraint</string>
+	<key>stepresolver</key>
+	<string>nativeInterface</string>
+</dict>
+</plist>

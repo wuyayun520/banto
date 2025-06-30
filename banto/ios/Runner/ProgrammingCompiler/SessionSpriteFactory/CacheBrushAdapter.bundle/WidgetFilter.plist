@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyPopup</key>
+	<string>lastInjection</string>
+	<key>elasticityRotation</key>
+	<string>rowDensity</string>
+	<key>intermediateTimeline</key>
+	<string>hasPlayback</string>
+	<key>matrixmapper</key>
+	<string>plateOrientation</string>
+	<key>prismaticSubscriber</key>
+	<string>enhanceRoute</string>
+	<key>shouldUnbindSwitch</key>
+	<string>mobileMapper</string>
+	<key>stateDelay</key>
+	<string>shouldContinueBloc</string>
+	<key>themebesidenumber</key>
+	<string>cloneText</string>
+</dict>
+</plist>

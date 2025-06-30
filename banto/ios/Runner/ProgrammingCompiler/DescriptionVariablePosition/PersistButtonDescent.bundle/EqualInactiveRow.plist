@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerStyle</key>
+	<string>serviceValidation</string>
+	<key>drawerframe</key>
+	<string>prevMaster</string>
+	<key>independentProtocol</key>
+	<string>shouldDisposeInteger</string>
+	<key>invisibleDetector</key>
+	<string>consultativeTheme</string>
+	<key>isextension</key>
+	<string>optimizerDepth</string>
+	<key>notificationVelocity</key>
+	<string>menuOrigin</string>
+	<key>shouldFinishOption</key>
+	<string>hyperbolicInformation</string>
+	<key>tabviewOffset</key>
+	<string>delicateDropdownButton</string>
+</dict>
+</plist>

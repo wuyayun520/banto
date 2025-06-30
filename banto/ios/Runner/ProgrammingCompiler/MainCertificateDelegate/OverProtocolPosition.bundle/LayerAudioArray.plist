@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSearcher</key>
+	<string>unsortedTitle</string>
+	<key>diffableTaxonomy</key>
+	<string>tableStructure</string>
+	<key>independentCube</key>
+	<string>statefulFlags</string>
+	<key>independentmaster</key>
+	<string>receivercolor</string>
+	<key>rebuildrepository</key>
+	<string>activatedOption</string>
+	<key>sessionBottom</key>
+	<string>utilmargin</string>
+	<key>shouldEndProvider</key>
+	<string>controllervalidation</string>
+	<key>webMonster</key>
+	<string>canRebuildConsumer</string>
+</dict>
+</plist>

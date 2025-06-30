@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAction</key>
+	<string>sizeworkorientation</string>
+	<key>directlyScene</key>
+	<string>stateCenter</string>
+	<key>eventmechanism</key>
+	<string>discardedRestriction</string>
+	<key>immutableMusic</key>
+	<string>deserializeSample</string>
+	<key>independentBatch</key>
+	<string>rectangleDuration</string>
+	<key>intuitiveProvision</key>
+	<string>cacheactivity</string>
+	<key>keyVertex</key>
+	<string>mainTabView</string>
+	<key>otherCatalyst</key>
+	<string>callbackParam</string>
+	<key>unactivatedReducer</key>
+	<string>similarSubscriber</string>
+</dict>
+</plist>

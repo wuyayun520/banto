@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumesensor</key>
+	<string>shouldAttachConsumer</string>
+	<key>immutableIntegration</key>
+	<string>retainPopup</string>
+	<key>multiplicationformlocation</key>
+	<string>grainagainstcycle</string>
+	<key>refreshaccessory</key>
+	<string>canUpdateStateless</string>
+	<key>respectivelistener</key>
+	<string>significantScenario</string>
+	<key>shouldobservemap</key>
+	<string>bulletduration</string>
+	<key>taskInset</key>
+	<string>presenterscope</string>
+	<key>uniqueTitle</key>
+	<string>textTop</string>
+</dict>
+</plist>

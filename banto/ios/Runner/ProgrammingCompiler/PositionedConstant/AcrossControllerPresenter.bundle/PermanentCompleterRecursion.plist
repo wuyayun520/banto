@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicPolyfill</key>
+	<string>reusablemapper</string>
+	<key>consumerPosition</key>
+	<string>discardedEquipment</string>
+	<key>finishsemantics</key>
+	<string>canRestartWorkflow</string>
+	<key>mutableBaseline</key>
+	<string>menuShape</string>
+	<key>shouldvalidategate</key>
+	<string>ternarySaturation</string>
+</dict>
+</plist>

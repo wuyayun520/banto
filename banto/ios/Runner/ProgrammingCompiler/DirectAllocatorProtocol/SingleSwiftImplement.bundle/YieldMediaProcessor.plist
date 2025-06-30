@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentAlignment</key>
+	<string>toolState</string>
+	<key>dismissaction</key>
+	<string>modalforbridge</string>
+	<key>futureaslayer</key>
+	<string>canContinueStoryboard</string>
+	<key>hashDepth</key>
+	<string>canLoadEffect</string>
+	<key>hyperbolicThroughput</key>
+	<string>encodeNib</string>
+	<key>imperativeRouter</key>
+	<string>prepareCertificate</string>
+	<key>mechanismShape</key>
+	<string>cupertinoNavigator</string>
+	<key>semanticRouter</key>
+	<string>relationalButton</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedDispatcher</key>
+	<string>distinctionAlignment</string>
+	<key>discardedObserver</key>
+	<string>shouldParseBox</string>
+	<key>invisibleSlash</key>
+	<string>scrollerFrequency</string>
+	<key>shouldDisposeWidget</key>
+	<string>enumerateChannel</string>
+	<key>sinkinteraction</key>
+	<string>rapidSlash</string>
+	<key>uniqueAperture</key>
+	<string>conformRequest</string>
+</dict>
+</plist>

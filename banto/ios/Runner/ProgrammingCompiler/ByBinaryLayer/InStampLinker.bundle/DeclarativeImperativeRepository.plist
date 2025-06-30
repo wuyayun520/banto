@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionHead</key>
+	<string>transpileEvent</string>
+	<key>movementLocation</key>
+	<string>gradientBehavior</string>
+	<key>scaffoldLeft</key>
+	<string>shouldEncodeAnchor</string>
+	<key>sharedcontrollermomentum</key>
+	<string>completerFrequency</string>
+	<key>ternaryVelocity</key>
+	<string>canUpdateMember</string>
+	<key>uniformListener</key>
+	<string>canPauseSpot</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterkind</key>
+	<string>shouldReplaceGestureDetector</string>
+	<key>handleradapterrate</key>
+	<string>rendererIndex</string>
+	<key>iterativestreamtransparency</key>
+	<string>loaderFeedback</string>
+	<key>labelColor</key>
+	<string>canDismissNavigation</string>
+	<key>liteUseCase</key>
+	<string>shouldEncodeChecklist</string>
+	<key>protectedrequest</key>
+	<string>notificationTop</string>
+	<key>publicservice</key>
+	<string>staticParticle</string>
+	<key>retainedRadius</key>
+	<string>originalassettop</string>
+</dict>
+</plist>

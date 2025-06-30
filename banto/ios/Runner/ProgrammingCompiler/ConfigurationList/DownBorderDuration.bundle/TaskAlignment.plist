@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisleft</key>
+	<string>vectorizeDuration</string>
+	<key>customizedDisclaimer</key>
+	<string>canResumeStep</string>
+	<key>pivotalRadio</key>
+	<string>mobilePlatform</string>
+	<key>semanticAnimator</key>
+	<string>animateRow</string>
+	<key>shaderFeedback</key>
+	<string>synchronizeLoop</string>
+	<key>widgethue</key>
+	<string>flexibleMapper</string>
+</dict>
+</plist>

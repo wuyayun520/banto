@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonRoute</key>
+	<string>functionalBoxShadow</string>
+	<key>greatListView</key>
+	<string>assetMediator</string>
+	<key>missedTrajectory</key>
+	<string>robustSize</string>
+	<key>replaceprogressbar</key>
+	<string>hardCube</string>
+	<key>sharedAnalyzer</key>
+	<string>positionedPattern</string>
+	<key>shouldMountCustomPaint</key>
+	<string>accordionCompleter</string>
+	<key>statefulSplitter</key>
+	<string>firstDrawer</string>
+	<key>viewquaternion</key>
+	<string>resourcearoundstructure</string>
+</dict>
+</plist>

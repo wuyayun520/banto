@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicEntropy</key>
+	<string>shouldRebuildPositioned</string>
+	<key>enabledProject</key>
+	<string>widgetShade</string>
+	<key>factoryMode</key>
+	<string>shouldencodecoordinator</string>
+	<key>projectproxymode</key>
+	<string>repositoryAdapter</string>
+	<key>routerAcceleration</key>
+	<string>reductionChain</string>
+	<key>shouldShowOperation</key>
+	<string>marginStage</string>
+	<key>shouldTransitionImage</key>
+	<string>makefuture</string>
+	<key>streammetadata</key>
+	<string>shouldpopcompletion</string>
+	<key>unsortedheap</key>
+	<string>histogramInterval</string>
+</dict>
+</plist>

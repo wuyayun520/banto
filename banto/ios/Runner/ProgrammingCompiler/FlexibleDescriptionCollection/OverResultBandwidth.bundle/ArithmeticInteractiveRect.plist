@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisResponse</key>
+	<string>permissiveLayout</string>
+	<key>displayablePainter</key>
+	<string>shapestate</string>
+	<key>matrixInset</key>
+	<string>seekView</string>
+	<key>statefulOptimizer</key>
+	<string>shaderVariable</string>
+	<key>uniformsine</key>
+	<string>tensorError</string>
+	<key>usedView</key>
+	<string>draggableProjection</string>
+</dict>
+</plist>

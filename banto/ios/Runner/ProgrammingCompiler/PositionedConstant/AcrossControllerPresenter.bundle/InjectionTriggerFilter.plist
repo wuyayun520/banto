@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityTail</key>
+	<string>mediumBitrate</string>
+	<key>brushframe</key>
+	<string>referenceTail</string>
+	<key>documentinterval</key>
+	<string>dedicatedTool</string>
+	<key>statictabviewmargin</key>
+	<string>emitAlignment</string>
+</dict>
+</plist>

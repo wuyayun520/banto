@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futurevalidation</key>
+	<string>embedSlider</string>
+	<key>sizelocation</key>
+	<string>beginnerGram</string>
+	<key>vertexName</key>
+	<string>detachSegment</string>
+</dict>
+</plist>

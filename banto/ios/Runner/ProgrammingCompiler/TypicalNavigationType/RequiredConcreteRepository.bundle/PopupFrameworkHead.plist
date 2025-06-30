@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainervisibility</key>
+	<string>characterLevel</string>
+	<key>encodelayer</key>
+	<string>autoMovement</string>
+	<key>geometricCharacter</key>
+	<string>plateVisible</string>
+	<key>originalTransformer</key>
+	<string>escalateCoordinator</string>
+	<key>shouldformataperture</key>
+	<string>concurrentPresenter</string>
+</dict>
+</plist>

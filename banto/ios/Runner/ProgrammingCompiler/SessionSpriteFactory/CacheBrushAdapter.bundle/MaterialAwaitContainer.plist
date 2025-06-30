@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalSegue</key>
+	<string>scheduleStore</string>
+	<key>grayscalemodescale</key>
+	<string>segueActivity</string>
+	<key>onwidgetchanged</key>
+	<string>actionAction</string>
+	<key>scaffoldTheme</key>
+	<string>nativedescriptionleft</string>
+	<key>shouldUnmountLog</key>
+	<string>restoreUtil</string>
+</dict>
+</plist>

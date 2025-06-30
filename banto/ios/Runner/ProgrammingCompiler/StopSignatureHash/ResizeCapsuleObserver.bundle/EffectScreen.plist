@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentVelocity</key>
+	<string>divideAnimation</string>
+	<key>analogyindex</key>
+	<string>explicitProtocol</string>
+	<key>animatedCapsule</key>
+	<string>annotateMetadata</string>
+	<key>kernelRotation</key>
+	<string>cosineMediator</string>
+	<key>persistentTangent</key>
+	<string>publishPainter</string>
+	<key>resourceinset</key>
+	<string>playbackStyle</string>
+	<key>serializeoption</key>
+	<string>interceptSingleton</string>
+	<key>tabviewOrientation</key>
+	<string>backwardProcessor</string>
+</dict>
+</plist>

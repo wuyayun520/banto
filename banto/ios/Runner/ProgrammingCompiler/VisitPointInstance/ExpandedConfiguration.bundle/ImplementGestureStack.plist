@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOffset</key>
+	<string>usedColor</string>
+	<key>constraintMargin</key>
+	<string>cupertinoBrightness</string>
+	<key>custompaintOrigin</key>
+	<string>mediumStack</string>
+	<key>fusedDropdownButton</key>
+	<string>handleProject</string>
+	<key>gemType</key>
+	<string>cosineOffset</string>
+	<key>shouldLoadTable</key>
+	<string>eagercupertino</string>
+	<key>shouldYieldConstraint</key>
+	<string>denseTask</string>
+	<key>specifyobserverbound</key>
+	<string>canNavigateCaption</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelDistance</key>
+	<string>renderNotifier</string>
+	<key>detailRate</key>
+	<string>catalystposition</string>
+	<key>giftfunctionrotation</key>
+	<string>handleBullet</string>
+	<key>inactiveConfiguration</key>
+	<string>shouldEndDuration</string>
+	<key>isolateprototypebound</key>
+	<string>captionContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoSegment</key>
+	<string>upgradeWidget</string>
+	<key>eagerProvision</key>
+	<string>streamparticle</string>
+	<key>functionalTaxonomy</key>
+	<string>taskType</string>
+	<key>largeThreshold</key>
+	<string>reactiveVector</string>
+	<key>segmentticker</key>
+	<string>protectedConfiguration</string>
+	<key>shouldShowCoordinator</key>
+	<string>subpixelForce</string>
+	<key>typicalPainter</key>
+	<string>discoverCubit</string>
+	<key>usedStrength</key>
+	<string>shouldAttachContraction</string>
+</dict>
+</plist>

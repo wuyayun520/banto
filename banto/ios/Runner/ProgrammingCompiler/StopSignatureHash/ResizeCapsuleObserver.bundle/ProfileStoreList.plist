@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticScope</key>
+	<string>canUnmountedStamp</string>
+	<key>persistentgridflags</key>
+	<string>serializecanvas</string>
+	<key>resourcesinceproxy</key>
+	<string>imperativemodal</string>
+	<key>responsiveBehavior</key>
+	<string>kernelBridge</string>
+	<key>shouldObserveLogarithm</key>
+	<string>standaloneBinder</string>
+	<key>usedIntegration</key>
+	<string>parseInkWell</string>
+</dict>
+</plist>

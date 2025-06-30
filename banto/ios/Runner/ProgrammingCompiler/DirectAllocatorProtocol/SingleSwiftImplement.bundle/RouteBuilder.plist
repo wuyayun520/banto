@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalUseCase</key>
+	<string>reliabilityResponse</string>
+	<key>lazyDetail</key>
+	<string>renameMethod</string>
+	<key>moduleposition</key>
+	<string>numericalScaffold</string>
+	<key>offsetAppearance</key>
+	<string>respondcomposition</string>
+	<key>responderBottom</key>
+	<string>responseLevel</string>
+	<key>sizebrightness</key>
+	<string>canTrainBrush</string>
+	<key>sophisticatedDuration</key>
+	<string>notationState</string>
+</dict>
+</plist>

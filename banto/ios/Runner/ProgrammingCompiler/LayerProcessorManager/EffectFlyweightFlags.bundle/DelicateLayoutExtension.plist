@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnMargin</key>
+	<string>canUnbindMonster</string>
+	<key>concurrentGraph</key>
+	<string>shouldFetchSubpixel</string>
+	<key>customBaseline</key>
+	<string>listenerLayer</string>
+	<key>grayscaleTag</key>
+	<string>activatedProject</string>
+	<key>groupskewx</key>
+	<string>canSaveProtocol</string>
+	<key>intuitiveEvolution</key>
+	<string>slidermatrix</string>
+	<key>providerprovider</key>
+	<string>validatetouch</string>
+	<key>selectedbehavior</key>
+	<string>smallLifecycle</string>
+	<key>spineactivityshape</key>
+	<string>explicitRequest</string>
+	<key>storyboardInteraction</key>
+	<string>syncSize</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationIndex</key>
+	<string>protectedCharacteristic</string>
+	<key>buttoncenter</key>
+	<string>shouldDispatchStateless</string>
+	<key>canvasType</key>
+	<string>saveBox</string>
+	<key>denseGram</key>
+	<string>reduceQueue</string>
+	<key>diversifiedMargin</key>
+	<string>gesturedetectorfragments</string>
+	<key>monstermatrix</key>
+	<string>crucialBullet</string>
+	<key>scaleAppearance</key>
+	<string>statelessRect</string>
+</dict>
+</plist>

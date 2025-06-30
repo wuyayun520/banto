@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachpopup</key>
+	<string>respectiveNotification</string>
+	<key>immediateInteraction</key>
+	<string>dissociateResolver</string>
+	<key>mobileOperation</key>
+	<string>unbindHero</string>
+	<key>nativeInterface</key>
+	<string>efficiencyPosition</string>
+	<key>primaryMission</key>
+	<string>connectStack</string>
+	<key>routerconsumption</key>
+	<string>playbackBehavior</string>
+	<key>shouldDetachReduction</key>
+	<string>customdelegatetint</string>
+	<key>shouldNotifyButton</key>
+	<string>multiTouch</string>
+	<key>singletonMomentum</key>
+	<string>managerKind</string>
+	<key>traversalLeft</key>
+	<string>shouldNotifyCache</string>
+</dict>
+</plist>

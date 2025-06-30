@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedappbarskewy</key>
+	<string>projectindex</string>
+	<key>heapmetadata</key>
+	<string>transposeTransformer</string>
+	<key>numericalGridView</key>
+	<string>arithmeticFlags</string>
+	<key>spinePosition</key>
+	<string>challengeColor</string>
+	<key>splitterSize</key>
+	<string>dedicatedInterpolation</string>
+	<key>statelessprovider</key>
+	<string>directTouch</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autopromise</key>
+	<string>enabledassetrate</string>
+	<key>consultativeInterface</key>
+	<string>freenavigator</string>
+	<key>mediaquerycompositemode</key>
+	<string>cartesianRectangle</string>
+	<key>metadataframe</key>
+	<string>canAnimateOption</string>
+	<key>mobileZone</key>
+	<string>logarithmPosition</string>
+	<key>movementSkewX</key>
+	<string>priorGate</string>
+	<key>relationalMaterial</key>
+	<string>regulateFeature</string>
+	<key>resourcesprite</key>
+	<string>storyboardtiername</string>
+	<key>shouldDetachOverlay</key>
+	<string>parallelButton</string>
+	<key>viewformat</key>
+	<string>routePattern</string>
+</dict>
+</plist>

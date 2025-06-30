@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSlider</key>
+	<string>ephemeralFinder</string>
+	<key>backwardGraphic</key>
+	<string>resilientBox</string>
+	<key>containermode</key>
+	<string>draggableGradient</string>
+	<key>disabledConstraint</key>
+	<string>shouldSetStateGram</string>
+	<key>dropdownbuttonRotation</key>
+	<string>popLogarithm</string>
+	<key>localTouch</key>
+	<string>formatEdge</string>
+	<key>persistentChannel</key>
+	<string>agileThroughput</string>
+	<key>reducerdensity</key>
+	<string>canFormatImage</string>
+	<key>tensorPresenter</key>
+	<string>canPauseGraphic</string>
+</dict>
+</plist>

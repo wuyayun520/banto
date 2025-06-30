@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnBehavior</key>
+	<string>capacitiesTint</string>
+	<key>containerSize</key>
+	<string>cellEnvironment</string>
+	<key>dispatcherspeed</key>
+	<string>shouldReplaceLog</string>
+	<key>eagerTexture</key>
+	<string>publicCatalyst</string>
+	<key>plateInteraction</key>
+	<string>captionAlignment</string>
+	<key>thresholdValidation</key>
+	<string>shearStream</string>
+	<key>uniqueGram</key>
+	<string>tappableCertificate</string>
+</dict>
+</plist>

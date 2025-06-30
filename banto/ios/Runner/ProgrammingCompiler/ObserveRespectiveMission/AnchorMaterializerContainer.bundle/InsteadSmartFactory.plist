@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentZone</key>
+	<string>shouldCreateInterpolation</string>
+	<key>providerBrightness</key>
+	<string>intuitiveManager</string>
+	<key>shouldDisposeNavigator</key>
+	<string>priorityObserver</string>
+	<key>shouldFetchSizedBox</key>
+	<string>dedicatedVertex</string>
+	<key>sophisticatedEquipment</key>
+	<string>dimensionInset</string>
+</dict>
+</plist>

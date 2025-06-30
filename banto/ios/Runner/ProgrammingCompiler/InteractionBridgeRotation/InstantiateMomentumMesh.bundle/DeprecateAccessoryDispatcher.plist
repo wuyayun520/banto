@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetAlignment</key>
+	<string>gridthroughactivity</string>
+	<key>lazyEmitter</key>
+	<string>impressionOpacity</string>
+	<key>mediumtexture</key>
+	<string>protocolDensity</string>
+</dict>
+</plist>

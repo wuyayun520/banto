@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inkwellTension</key>
+	<string>skipremainder</string>
+	<key>interactiveChannels</key>
+	<string>nativeService</string>
+	<key>metadatabehavior</key>
+	<string>rectBorder</string>
+	<key>requiredAccessory</key>
+	<string>deserializeradius</string>
+	<key>shouldCancelKernel</key>
+	<string>globalAppBar</string>
+	<key>shouldKeepMusic</key>
+	<string>pagerBrightness</string>
+	<key>shouldParseAnchor</key>
+	<string>featureStatus</string>
+	<key>shouldPopDrawer</key>
+	<string>poolSprite</string>
+	<key>subscriptionsensor</key>
+	<string>draweraroundplatform</string>
+	<key>tensorexceptiontint</key>
+	<string>rebuildTouch</string>
+</dict>
+</plist>

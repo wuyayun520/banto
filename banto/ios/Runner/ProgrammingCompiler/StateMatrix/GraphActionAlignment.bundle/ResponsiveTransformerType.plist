@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationSize</key>
+	<string>unsortedconvolutioncolor</string>
+	<key>dedicatedIcon</key>
+	<string>explicitFeature</string>
+	<key>finderskewx</key>
+	<string>finderColor</string>
+	<key>imperativeDialogs</key>
+	<string>shouldDetachGridView</string>
+	<key>unmountcubit</key>
+	<string>animatePoint</string>
+</dict>
+</plist>

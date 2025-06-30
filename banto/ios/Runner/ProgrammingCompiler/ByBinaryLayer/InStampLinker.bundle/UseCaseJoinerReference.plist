@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialSample</key>
+	<string>listviewlayerskewx</string>
+	<key>cupertinojobinterval</key>
+	<string>dimensionAppearance</string>
+	<key>fixedrowtype</key>
+	<string>canDismissPadding</string>
+	<key>retainedwidget</key>
+	<string>renameListener</string>
+</dict>
+</plist>

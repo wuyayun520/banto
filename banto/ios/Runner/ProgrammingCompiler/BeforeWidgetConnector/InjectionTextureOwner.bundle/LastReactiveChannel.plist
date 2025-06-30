@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultAsset</key>
+	<string>connectUtil</string>
+	<key>hierarchicalUtil</key>
+	<string>persistentAllocator</string>
+	<key>invisibleIntensity</key>
+	<string>shouldshowbatch</string>
+	<key>listviewVisible</key>
+	<string>commonOption</string>
+	<key>multiGridView</key>
+	<string>pageviewtransformer</string>
+	<key>normaloffset</key>
+	<string>statelessVolume</string>
+	<key>polyfillTint</key>
+	<string>composableShape</string>
+	<key>shouldEndSpot</key>
+	<string>unactivatedStateless</string>
+	<key>showswitch</key>
+	<string>usedModel</string>
+	<key>unactivatedPageView</key>
+	<string>shouldBuildStack</string>
+</dict>
+</plist>

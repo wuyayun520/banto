@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphastrength</key>
+	<string>documentIndex</string>
+	<key>arithmeticModel</key>
+	<string>yieldusecase</string>
+	<key>deferreddecorationinset</key>
+	<string>shouldDisposeEquipment</string>
+	<key>delegatelikecontext</key>
+	<string>mutableChart</string>
+</dict>
+</plist>

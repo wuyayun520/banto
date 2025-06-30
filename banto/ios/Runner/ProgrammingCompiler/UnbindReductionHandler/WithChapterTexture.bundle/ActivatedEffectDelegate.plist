@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSpeed</key>
+	<string>shouldNavigateUsage</string>
+	<key>basicButton</key>
+	<string>requestRow</string>
+	<key>cubittop</key>
+	<string>isbatch</string>
+	<key>dispatchertag</key>
+	<string>canDispatchSegue</string>
+	<key>impressionAlignment</key>
+	<string>statelessError</string>
+	<key>injectionContrast</key>
+	<string>delicateUsage</string>
+	<key>intuitiveLatency</key>
+	<string>controllerOpacity</string>
+	<key>permanentInfo</key>
+	<string>shouldContinueStamp</string>
+</dict>
+</plist>

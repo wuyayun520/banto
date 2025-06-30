@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstCube</key>
+	<string>actionbysingleton</string>
+	<key>formatTail</key>
+	<string>shouldFormatSkin</string>
+	<key>localreductionstatus</key>
+	<string>exitRow</string>
+	<key>paddingDelay</key>
+	<string>textfieldBorder</string>
+	<key>protectedJoiner</key>
+	<string>flexForm</string>
+	<key>scenarioVelocity</key>
+	<string>canStartCompletion</string>
+	<key>shouldEncodeBase</key>
+	<string>projectType</string>
+	<key>shouldTransformText</key>
+	<string>canSkipBaseline</string>
+</dict>
+</plist>

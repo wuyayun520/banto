@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocHue</key>
+	<string>drawerappearance</string>
+	<key>cellmenu</key>
+	<string>pauseBrush</string>
+	<key>chapterversusparam</key>
+	<string>trainSine</string>
+	<key>composableMaterial</key>
+	<string>shouldMountUnary</string>
+	<key>decorationtag</key>
+	<string>cancelReduction</string>
+	<key>easyElasticity</key>
+	<string>behaviorTail</string>
+	<key>originalOperation</key>
+	<string>disparateInteractor</string>
+	<key>requiredSize</key>
+	<string>shouldKeepBorder</string>
+</dict>
+</plist>

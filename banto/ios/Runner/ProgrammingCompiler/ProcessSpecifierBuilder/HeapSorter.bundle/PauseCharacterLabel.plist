@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleDepth</key>
+	<string>emitAlert</string>
+	<key>disparateModel</key>
+	<string>disposeFragment</string>
+	<key>mainstate</key>
+	<string>easyCubit</string>
+	<key>recursionBehavior</key>
+	<string>missedProvision</string>
+	<key>shouldInflateEquipment</key>
+	<string>declarativeRestriction</string>
+	<key>statefulResponder</key>
+	<string>compareFeature</string>
+	<key>tangentdrawer</key>
+	<string>giftShade</string>
+	<key>volumeVisible</key>
+	<string>shouldSkipHeap</string>
+	<key>volumetheme</key>
+	<string>shouldNotifyStoryboard</string>
+</dict>
+</plist>

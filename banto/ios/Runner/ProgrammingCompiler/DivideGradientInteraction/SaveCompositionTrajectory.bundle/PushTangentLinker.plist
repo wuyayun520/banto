@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>largewidget</key>
+	<string>scrollBound</string>
+	<key>lazyAnimator</key>
+	<string>blocObserver</string>
+	<key>multiFlex</key>
+	<string>shouldUpdateTangent</string>
+	<key>notifygraph</key>
+	<string>canPopPositioned</string>
+	<key>seamlessQuaternion</key>
+	<string>resourcebound</string>
+	<key>shouldValidateCheckbox</key>
+	<string>attachslash</string>
+	<key>shouldconnectappbar</key>
+	<string>inactiveScroll</string>
+	<key>shouldunmountreduction</key>
+	<string>intuitiveImpact</string>
+	<key>spotShade</key>
+	<string>canEmitSegment</string>
+</dict>
+</plist>

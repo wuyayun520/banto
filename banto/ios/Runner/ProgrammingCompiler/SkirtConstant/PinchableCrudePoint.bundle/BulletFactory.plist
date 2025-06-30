@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOrientation</key>
+	<string>cancelInterpolation</string>
+	<key>dynamicLifecycle</key>
+	<string>canShowSwitch</string>
+	<key>flexibleStorage</key>
+	<string>dialogsDistance</string>
+	<key>hierarchicalListView</key>
+	<string>shouldReplaceTabView</string>
+	<key>memberTag</key>
+	<string>threadScale</string>
+	<key>parseaccessory</key>
+	<string>customGestureDetector</string>
+	<key>shouldDisposeInterpolation</key>
+	<string>mutableSubscription</string>
+	<key>shouldShowStamp</key>
+	<string>unmountRole</string>
+	<key>tangentDepth</key>
+	<string>backwardProvider</string>
+	<key>typicalText</key>
+	<string>interfaceDelay</string>
+</dict>
+</plist>

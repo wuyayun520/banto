@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lossMode</key>
+	<string>sophisticatedButton</string>
+	<key>normalkernel</key>
+	<string>shouldRenderRole</string>
+	<key>popupbehavior</key>
+	<string>singleSorter</string>
+	<key>publicReducer</key>
+	<string>euclideanIsolate</string>
+	<key>utilwithoutparameter</key>
+	<string>cartesianProfile</string>
+</dict>
+</plist>

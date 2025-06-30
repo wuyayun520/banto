@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderValidation</key>
+	<string>progressbarEnvironment</string>
+	<key>inactiveProvider</key>
+	<string>firstMobile</string>
+	<key>secondBorder</key>
+	<string>nativeChannel</string>
+	<key>sharedEquipment</key>
+	<string>entropyLocation</string>
+	<key>shouldDispatchColumn</key>
+	<string>desktopChannels</string>
+</dict>
+</plist>

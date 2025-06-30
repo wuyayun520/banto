@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeReduction</key>
+	<string>interpolationequivalent</string>
+	<key>directGesture</key>
+	<string>asynchronousAlpha</string>
+	<key>fetchcard</key>
+	<string>spriteBrightness</string>
+	<key>mediumActivity</key>
+	<string>pageviewstyle</string>
+	<key>presenterSize</key>
+	<string>shouldTransitionSpecifier</string>
+	<key>requiredmetadata</key>
+	<string>navigateProjection</string>
+	<key>resilienceTop</key>
+	<string>unaryLeft</string>
+	<key>shouldnavigateprotocol</key>
+	<string>iterativebatchposition</string>
+	<key>stateInteraction</key>
+	<string>shouldShowSample</string>
+</dict>
+</plist>

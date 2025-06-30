@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentIntegration</key>
+	<string>activeRenderer</string>
+	<key>draggableTime</key>
+	<string>dedicatedSubscriber</string>
+	<key>instantiatetopic</key>
+	<string>shouldBindModulus</string>
+	<key>mainPoint</key>
+	<string>currentthread</string>
+	<key>replacecallback</key>
+	<string>canPublishArithmetic</string>
+</dict>
+</plist>

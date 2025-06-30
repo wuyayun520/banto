@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricOperation</key>
+	<string>disconnectTicker</string>
+	<key>impactBottom</key>
+	<string>creatorDistance</string>
+	<key>invisibleJoiner</key>
+	<string>draggableScroller</string>
+	<key>nextinteraction</key>
+	<string>crudeInteraction</string>
+	<key>releasewidget</key>
+	<string>encodeDescription</string>
+	<key>restartbutton</key>
+	<string>lastProfile</string>
+	<key>statelessUnary</key>
+	<string>controllerType</string>
+	<key>tappableLocalization</key>
+	<string>immediateReference</string>
+	<key>techniquereplica</key>
+	<string>factoryFlyweight</string>
+	<key>variantinterpreterresponse</key>
+	<string>gridinset</string>
+</dict>
+</plist>

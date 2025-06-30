@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledCapacities</key>
+	<string>logLocation</string>
+	<key>flexiblePolygon</key>
+	<string>sharedTolerance</string>
+	<key>persistlogarithm</key>
+	<string>processGestureDetector</string>
+	<key>roleamongform</key>
+	<string>desktopWorkflow</string>
+	<key>synchronousCompleter</key>
+	<string>smartChooser</string>
+	<key>uniqueProject</key>
+	<string>configurationOrientation</string>
+</dict>
+</plist>

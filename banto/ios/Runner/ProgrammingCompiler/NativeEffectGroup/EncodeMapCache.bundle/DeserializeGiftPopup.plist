@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatcherDuration</key>
+	<string>easyAscent</string>
+	<key>diversifiedSizedBox</key>
+	<string>shouldDetachMargin</string>
+	<key>marginValidation</key>
+	<string>statelessorlevel</string>
+	<key>reducerdepth</key>
+	<string>upgradeButton</string>
+</dict>
+</plist>

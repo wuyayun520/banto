@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobileConfidentiality</key>
+	<string>canDispatchRow</string>
+	<key>mobilebrightness</key>
+	<string>positionincludemediator</string>
+	<key>requestfromstate</key>
+	<string>modelSystem</string>
+	<key>resilientProjection</key>
+	<string>fusedStamp</string>
+	<key>shouldUpdateGrayscale</key>
+	<string>basicfragments</string>
+	<key>sustainablegrouphead</key>
+	<string>rendererInset</string>
+	<key>ternarydistance</key>
+	<string>canFormatAxis</string>
+</dict>
+</plist>

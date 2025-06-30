@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedFormat</key>
+	<string>providePopup</string>
+	<key>resiliencehead</key>
+	<string>canStartFuture</string>
+	<key>seamlessUsage</key>
+	<string>semanticAlpha</string>
+	<key>searcherValidation</key>
+	<string>textfieldmediatoroffset</string>
+	<key>shouldDisconnectText</key>
+	<string>displayablelistener</string>
+	<key>shouldRouteBullet</key>
+	<string>consultativeGestureDetector</string>
+</dict>
+</plist>

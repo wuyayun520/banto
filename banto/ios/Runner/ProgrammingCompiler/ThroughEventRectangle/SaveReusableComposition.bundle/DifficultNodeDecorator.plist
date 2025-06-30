@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoConstant</key>
+	<string>respectiveService</string>
+	<key>functionalUtil</key>
+	<string>consumeFactory</string>
+	<key>invisibleHandler</key>
+	<string>displaySprite</string>
+	<key>shouldResumeMargin</key>
+	<string>finishPriority</string>
+	<key>shouldformatvariant</key>
+	<string>inactiveBoxShadow</string>
+	<key>tensorActivity</key>
+	<string>canMountedCapacities</string>
+</dict>
+</plist>

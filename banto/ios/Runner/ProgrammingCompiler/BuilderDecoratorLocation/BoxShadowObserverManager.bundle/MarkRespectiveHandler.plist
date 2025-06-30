@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedResource</key>
+	<string>sustainableDispatcher</string>
+	<key>denseProtocol</key>
+	<string>secondmodeltint</string>
+	<key>framepertask</key>
+	<string>cupertinoCell</string>
+	<key>olddescriptordepth</key>
+	<string>imagesearcher</string>
+	<key>shouldRenderMatrix</key>
+	<string>setupSingleton</string>
+	<key>smallImpact</key>
+	<string>shouldBindBuilder</string>
+</dict>
+</plist>

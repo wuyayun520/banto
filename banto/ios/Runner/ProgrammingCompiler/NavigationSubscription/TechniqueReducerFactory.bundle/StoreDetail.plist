@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonsize</key>
+	<string>combineText</string>
+	<key>delicateconfiguration</key>
+	<string>nextBrush</string>
+	<key>oldReference</key>
+	<string>integerOrientation</string>
+	<key>reactiveMember</key>
+	<string>slashPadding</string>
+	<key>repositoryInset</key>
+	<string>gemCenter</string>
+	<key>responsivePosition</key>
+	<string>canDetachTangent</string>
+	<key>rowright</key>
+	<string>chartOffset</string>
+	<key>unactivatedCurve</key>
+	<string>repositoryawayflyweight</string>
+</dict>
+</plist>

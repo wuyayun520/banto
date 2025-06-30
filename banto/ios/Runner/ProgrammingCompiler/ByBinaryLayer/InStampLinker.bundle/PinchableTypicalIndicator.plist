@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedManager</key>
+	<string>titleScope</string>
+	<key>basicPlate</key>
+	<string>protocolState</string>
+	<key>continueintensity</key>
+	<string>baseAppearance</string>
+	<key>intensityOffset</key>
+	<string>providerVisitor</string>
+	<key>lostAxis</key>
+	<string>readSize</string>
+	<key>seamlessButton</key>
+	<string>otherMediaQuery</string>
+	<key>sortedPlayback</key>
+	<string>configurationShape</string>
+</dict>
+</plist>

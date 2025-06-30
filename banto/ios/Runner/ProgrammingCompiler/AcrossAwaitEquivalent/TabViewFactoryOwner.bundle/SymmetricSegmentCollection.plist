@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaAcceleration</key>
+	<string>completedGesture</string>
+	<key>autoCell</key>
+	<string>requiredScenario</string>
+	<key>constraintBound</key>
+	<string>minUsage</string>
+	<key>missedplayback</key>
+	<string>binderSkewX</string>
+	<key>requiredConvolution</key>
+	<string>detectordepth</string>
+	<key>resilientAsync</key>
+	<string>maxNorm</string>
+	<key>yieldoffset</key>
+	<string>flexTransparency</string>
+</dict>
+</plist>

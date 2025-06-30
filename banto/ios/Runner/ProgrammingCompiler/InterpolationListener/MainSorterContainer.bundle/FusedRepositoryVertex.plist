@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionDuration</key>
+	<string>nextTabBar</string>
+	<key>directlyMethod</key>
+	<string>shouldKeepCollection</string>
+	<key>responsiveImpact</key>
+	<string>maxInstruction</string>
+	<key>shouldRestartArithmetic</key>
+	<string>inheritedCharacteristic</string>
+	<key>shouldResumePainter</key>
+	<string>columnPressure</string>
+	<key>singletonFlags</key>
+	<string>offsetTitle</string>
+</dict>
+</plist>

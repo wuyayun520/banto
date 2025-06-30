@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueusage</key>
+	<string>loadstream</string>
+	<key>freeoption</key>
+	<string>processorSkewY</string>
+	<key>immutableContraction</key>
+	<string>shouldYieldSine</string>
+	<key>imperativesprite</key>
+	<string>largeOptimizer</string>
+	<key>titleorstage</key>
+	<string>mountedSample</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedrouter</key>
+	<string>fragmentPressure</string>
+	<key>projectresilience</key>
+	<string>toolMomentum</string>
+	<key>shouldrebuildprofile</key>
+	<string>scaleForce</string>
+	<key>unsortedSpecifier</key>
+	<string>eraseIntensity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveFlex</key>
+	<string>canLoadMultiplication</string>
+	<key>interactiveDelivery</key>
+	<string>commonvariantstate</string>
+	<key>meshInteraction</key>
+	<string>reusableSprite</string>
+	<key>persistententropy</key>
+	<string>canNotifyPadding</string>
+	<key>priorStateful</key>
+	<string>directlyDecoration</string>
+	<key>rendergrid</key>
+	<string>shouldPaintRadio</string>
+	<key>selectedButton</key>
+	<string>canPauseClipper</string>
+	<key>sophisticatedReference</key>
+	<string>shouldStartLabel</string>
+</dict>
+</plist>

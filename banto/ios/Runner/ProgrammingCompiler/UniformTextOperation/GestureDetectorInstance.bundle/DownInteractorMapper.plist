@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateSpacing</key>
+	<string>storagebridgeoffset</string>
+	<key>mutableTweak</key>
+	<string>featureBound</string>
+	<key>sharedTitle</key>
+	<string>sequentialmonsterbehavior</string>
+	<key>shouldProcessDrawer</key>
+	<string>retainedAlpha</string>
+	<key>tickeroperationcenter</key>
+	<string>retainedGradient</string>
+</dict>
+</plist>

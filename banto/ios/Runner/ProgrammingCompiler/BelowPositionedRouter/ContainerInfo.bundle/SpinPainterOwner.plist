@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureBottom</key>
+	<string>singletonscroller</string>
+	<key>contrastleft</key>
+	<string>cacheStyle</string>
+	<key>descriptionmargin</key>
+	<string>particlebrightness</string>
+	<key>inactiveticker</key>
+	<string>functionalUtil</string>
+	<key>shaderscenario</key>
+	<string>canConnectButton</string>
+	<key>shouldDecodeExponent</key>
+	<string>hyperbolicJoiner</string>
+	<key>shouldTransformConvolution</key>
+	<string>pushLayout</string>
+</dict>
+</plist>

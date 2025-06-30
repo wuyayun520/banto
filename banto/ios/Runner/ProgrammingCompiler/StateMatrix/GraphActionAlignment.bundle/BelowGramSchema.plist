@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnereffectshape</key>
+	<string>noderate</string>
+	<key>descriptionnearstrategy</key>
+	<string>minBase</string>
+	<key>featureTint</key>
+	<string>ispriority</string>
+	<key>nextMission</key>
+	<string>renderqueue</string>
+	<key>quaternionAlignment</key>
+	<string>decodeGraph</string>
+	<key>shouldanimatenavigation</key>
+	<string>groupWork</string>
+	<key>shoulddecodereference</key>
+	<string>resizableTicker</string>
+	<key>sophisticatedCatalyst</key>
+	<string>observegraphic</string>
+	<key>taskTension</key>
+	<string>shouldpresentcursor</string>
+</dict>
+</plist>

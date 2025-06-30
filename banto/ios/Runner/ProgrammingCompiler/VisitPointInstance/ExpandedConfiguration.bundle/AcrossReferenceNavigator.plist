@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialconstraint</key>
+	<string>loopaboutparam</string>
+	<key>ephemeralSemantics</key>
+	<string>shouldSkipDialogs</string>
+	<key>escalatesegue</key>
+	<string>cubitType</string>
+	<key>fusedSegment</key>
+	<string>finishTextField</string>
+	<key>gridviewEdge</key>
+	<string>channelMemento</string>
+	<key>itemSaturation</key>
+	<string>projectadaptertag</string>
+	<key>otherMaterial</key>
+	<string>methodPosition</string>
+	<key>precisionexceptmediator</key>
+	<string>visitHandler</string>
+</dict>
+</plist>

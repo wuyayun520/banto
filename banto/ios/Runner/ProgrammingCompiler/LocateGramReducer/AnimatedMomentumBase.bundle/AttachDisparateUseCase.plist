@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCapacity</key>
+	<string>flexibleDialogs</string>
+	<key>cubitCenter</key>
+	<string>uniquesegment</string>
+	<key>fixedFactory</key>
+	<string>disabledNotifier</string>
+	<key>indicatorvector</key>
+	<string>agileInstruction</string>
+	<key>intuitiveActivity</key>
+	<string>checkHandler</string>
+	<key>popprofile</key>
+	<string>offsetProxy</string>
+	<key>statefullogorientation</key>
+	<string>arithmeticPoint</string>
+	<key>tableOffset</key>
+	<string>oldpolygon</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridviewScale</key>
+	<string>batchsaturation</string>
+	<key>insteadresponse</key>
+	<string>shouldPersistClipper</string>
+	<key>nibinset</key>
+	<string>integerOrigin</string>
+	<key>reusableAspect</key>
+	<string>dynamicCoordinator</string>
+	<key>shouldCancelCompletion</key>
+	<string>channelkindbound</string>
+	<key>shouldContinueUsage</key>
+	<string>canPersistPromise</string>
+	<key>stoptext</key>
+	<string>yieldIcon</string>
+</dict>
+</plist>

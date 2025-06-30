@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellFlags</key>
+	<string>compositionalTabView</string>
+	<key>disabledObserver</key>
+	<string>persistScaffold</string>
+	<key>eventRate</key>
+	<string>typicalPoint</string>
+	<key>expandedInset</key>
+	<string>shouldLayoutTheme</string>
+	<key>haspromise</key>
+	<string>threadagainststate</string>
+	<key>iterativeNode</key>
+	<string>shouldBuildReference</string>
+	<key>notifystore</key>
+	<string>prismaticBoxShadow</string>
+	<key>relationalPrecision</key>
+	<string>concreteRecursion</string>
+	<key>shouldreplaceaperture</key>
+	<string>capacityAppearance</string>
+</dict>
+</plist>

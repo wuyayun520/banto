@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionDistance</key>
+	<string>activatedrawer</string>
+	<key>brushValidation</key>
+	<string>interactiveCertificate</string>
+	<key>eagerTernary</key>
+	<string>canUnmountedPromise</string>
+	<key>painterDirection</key>
+	<string>directListener</string>
+	<key>permanentBox</key>
+	<string>newestTweak</string>
+	<key>publishlayer</key>
+	<string>bindAnchor</string>
+	<key>shouldDisposeCertificate</key>
+	<string>canCreateExtension</string>
+	<key>synchronousAnimatedContainer</key>
+	<string>publisherHue</string>
+	<key>synctimer</key>
+	<string>occasionTail</string>
+</dict>
+</plist>

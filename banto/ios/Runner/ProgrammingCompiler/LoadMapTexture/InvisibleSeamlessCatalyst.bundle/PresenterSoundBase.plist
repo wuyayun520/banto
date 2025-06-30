@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorAcceleration</key>
+	<string>mediumCard</string>
+	<key>annotatetextfield</key>
+	<string>scrollableFlex</string>
+	<key>projectionoftier</key>
+	<string>hyperbolicresolverleft</string>
+	<key>provisionBrightness</key>
+	<string>listviewDuration</string>
+	<key>subscribeaspectratio</key>
+	<string>staticConverter</string>
+</dict>
+</plist>

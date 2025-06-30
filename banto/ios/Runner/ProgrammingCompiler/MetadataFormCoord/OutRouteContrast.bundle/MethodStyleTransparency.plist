@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeComponent</key>
+	<string>mediumCollection</string>
+	<key>agileSize</key>
+	<string>interactiveMaster</string>
+	<key>arithmeticAnimation</key>
+	<string>delegateDecoration</string>
+	<key>currentScreen</key>
+	<string>checklistInterpreter</string>
+	<key>currentStateful</key>
+	<string>evaluationPosition</string>
+	<key>discardedMetrics</key>
+	<string>uniquePopup</string>
+	<key>shouldRestartGrayscale</key>
+	<string>parallelMapper</string>
+	<key>standaloneChooser</key>
+	<string>scrollableBehavior</string>
+	<key>uniformEvaluation</key>
+	<string>autoCubit</string>
+</dict>
+</plist>

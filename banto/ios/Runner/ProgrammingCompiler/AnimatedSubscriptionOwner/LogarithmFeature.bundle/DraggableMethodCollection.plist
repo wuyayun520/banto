@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterintegration</key>
+	<string>robustOption</string>
+	<key>elasticGraph</key>
+	<string>discoverbox</string>
+	<key>materializeservice</key>
+	<string>interactiveStatus</string>
+	<key>prevDecoration</key>
+	<string>elasticCompletion</string>
+	<key>shouldLayoutSensor</key>
+	<string>toolFunction</string>
+	<key>taxonomySpeed</key>
+	<string>streambatch</string>
+	<key>vectorPosition</key>
+	<string>initializeCoordinator</string>
+</dict>
+</plist>

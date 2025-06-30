@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerCenter</key>
+	<string>shouldTransitionRichText</string>
+	<key>dismissoptimizer</key>
+	<string>dimensionVelocity</string>
+	<key>errorBorder</key>
+	<string>hardExpanded</string>
+	<key>labelfeedback</key>
+	<string>containeragainstoperation</string>
+	<key>nativeTask</key>
+	<string>canRestartMediaQuery</string>
+	<key>navigatenib</key>
+	<string>statefulexceptflyweight</string>
+	<key>shoulddispatchrichtext</key>
+	<string>stackprocesshead</string>
+	<key>slashForce</key>
+	<string>refactorresource</string>
+	<key>tableCount</key>
+	<string>invisibleMusic</string>
+</dict>
+</plist>

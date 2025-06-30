@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonevaluation</key>
+	<string>intensitystatus</string>
+	<key>custompaintSkewY</key>
+	<string>rapidEmitter</string>
+	<key>equivalentScale</key>
+	<string>cycleParameter</string>
+	<key>multiFormat</key>
+	<string>finishallocator</string>
+	<key>navigationBehavior</key>
+	<string>interfaceShade</string>
+	<key>nextscreen</key>
+	<string>functionalSymbol</string>
+	<key>reactiveIndicator</key>
+	<string>mediocrePromise</string>
+	<key>resolverstroke</key>
+	<string>buildloss</string>
+	<key>scrollerColor</key>
+	<string>shouldtransitiongate</string>
+	<key>significantcaption</key>
+	<string>diffableNib</string>
+</dict>
+</plist>

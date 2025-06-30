@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoConsumption</key>
+	<string>labelviaadapter</string>
+	<key>configurationevaluation</key>
+	<string>sustainableConsumption</string>
+	<key>currentTimer</key>
+	<string>invisiblePublisher</string>
+	<key>invisibleStrength</key>
+	<string>containershade</string>
+	<key>playtask</key>
+	<string>animatedcontainerObserver</string>
+	<key>shouldrenderslash</key>
+	<string>gridFlyweight</string>
+	<key>subsequentTolerance</key>
+	<string>geometricCheckbox</string>
+</dict>
+</plist>

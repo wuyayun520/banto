@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleConfiguration</key>
+	<string>stepnumberresponse</string>
+	<key>activeBitrate</key>
+	<string>errorBuffer</string>
+	<key>aperturefinder</key>
+	<string>connecttransformer</string>
+	<key>drawerStyle</key>
+	<string>grainproxyinteraction</string>
+	<key>resizableMedia</key>
+	<string>uniqueNode</string>
+	<key>scrollSize</key>
+	<string>detailLeft</string>
+	<key>scrollableoperation</key>
+	<string>alertForm</string>
+</dict>
+</plist>

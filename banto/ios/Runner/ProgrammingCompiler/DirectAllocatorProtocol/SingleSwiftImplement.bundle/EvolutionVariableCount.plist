@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeAlert</key>
+	<string>pinchableAspectRatio</string>
+	<key>emitterFrequency</key>
+	<string>notifyAlignment</string>
+	<key>explicitException</key>
+	<string>permissiveBloc</string>
+	<key>functionalSegue</key>
+	<string>semanticBitrate</string>
+	<key>imagePosition</key>
+	<string>diffableCurve</string>
+	<key>shouldContinueRadio</key>
+	<string>handleMaterial</string>
+	<key>symmetricInterpolation</key>
+	<string>prevPainter</string>
+	<key>unactivatedGrayscale</key>
+	<string>arithmeticTransformer</string>
+</dict>
+</plist>

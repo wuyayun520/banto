@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionincludefacade</key>
+	<string>rendergram</string>
+	<key>customaspectratiotension</key>
+	<string>commonConstant</string>
+	<key>lostDimension</key>
+	<string>futureinterval</string>
+	<key>mediumSine</key>
+	<string>compareChannel</string>
+	<key>shouldRenderLogarithm</key>
+	<string>partitionAlignment</string>
+	<key>shouldTransformExtension</key>
+	<string>permanentScheduler</string>
+</dict>
+</plist>

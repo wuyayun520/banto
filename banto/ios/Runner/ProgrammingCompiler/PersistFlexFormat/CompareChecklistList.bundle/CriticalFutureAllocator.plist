@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiodirection</key>
+	<string>activateCoordinator</string>
+	<key>dedicatedDetail</key>
+	<string>hasFuture</string>
+	<key>fusedmodel</key>
+	<string>nativeCreator</string>
+	<key>globalInjection</key>
+	<string>newestsprite</string>
+	<key>interfaceaspect</key>
+	<string>statelessBinary</string>
+	<key>logTint</key>
+	<string>maintainCallback</string>
+	<key>thresholdName</key>
+	<string>euclideanSlash</string>
+</dict>
+</plist>

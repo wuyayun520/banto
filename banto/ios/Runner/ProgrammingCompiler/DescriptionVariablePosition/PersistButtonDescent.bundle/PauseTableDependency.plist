@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeticker</key>
+	<string>numericalReplica</string>
+	<key>beginnerpresenter</key>
+	<string>sequentialUnary</string>
+	<key>liteIcon</key>
+	<string>cancelInteger</string>
+	<key>mutableSlider</key>
+	<string>canFormatStoryboard</string>
+	<key>popcompletion</key>
+	<string>shouldunmountedsine</string>
+	<key>shouldEndBox</key>
+	<string>storeDuration</string>
+	<key>uniqueOverlay</key>
+	<string>trianglesColor</string>
+</dict>
+</plist>

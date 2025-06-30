@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncTension</key>
+	<string>sessionPadding</string>
+	<key>awaitFrequency</key>
+	<string>measureInjection</string>
+	<key>currentOptimizer</key>
+	<string>shouldDecodeBase</string>
+	<key>equalizationRotation</key>
+	<string>requestresilience</string>
+	<key>hardHistogram</key>
+	<string>originalStore</string>
+	<key>hasfragment</key>
+	<string>iscard</string>
+	<key>petSpacing</key>
+	<string>associatedScheduler</string>
+	<key>shouldRenderSession</key>
+	<string>reusableRepository</string>
+	<key>texturedelay</key>
+	<string>sizePhase</string>
+</dict>
+</plist>

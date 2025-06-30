@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderKind</key>
+	<string>canDismissText</string>
+	<key>gemaboutcontext</key>
+	<string>canStartEquipment</string>
+	<key>semantichandler</key>
+	<string>behaviordirection</string>
+	<key>smartCache</key>
+	<string>validatePageView</string>
+	<key>swiftHue</key>
+	<string>metadatavariabledelay</string>
+	<key>temporaryItem</key>
+	<string>streambytype</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contrastScale</key>
+	<string>containercoord</string>
+	<key>directPreview</key>
+	<string>canNotifyBox</string>
+	<key>elementShade</key>
+	<string>operationedge</string>
+	<key>enabledBase</key>
+	<string>activeReliability</string>
+	<key>firstSignature</key>
+	<string>staticBitrate</string>
+	<key>gateForce</key>
+	<string>shouldTransitionLog</string>
+	<key>marshalentity</key>
+	<string>bufferHead</string>
+</dict>
+</plist>

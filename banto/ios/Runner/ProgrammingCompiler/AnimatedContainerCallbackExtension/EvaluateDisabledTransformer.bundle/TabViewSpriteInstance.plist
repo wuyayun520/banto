@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintSize</key>
+	<string>loopTag</string>
+	<key>independenttickerspacing</key>
+	<string>scaleAlignment</string>
+	<key>radiusname</key>
+	<string>shouldunmountpromise</string>
+	<key>rapidChallenge</key>
+	<string>partitionSprite</string>
+	<key>rendererFrequency</key>
+	<string>minRadio</string>
+	<key>shouldEncodeAlpha</key>
+	<string>globalHistogram</string>
+	<key>stateAcceleration</key>
+	<string>otherThreshold</string>
+</dict>
+</plist>

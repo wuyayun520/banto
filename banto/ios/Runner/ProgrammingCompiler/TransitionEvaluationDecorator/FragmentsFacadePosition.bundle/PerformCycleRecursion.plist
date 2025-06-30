@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoConnector</key>
+	<string>roleJob</string>
+	<key>crucialSound</key>
+	<string>delicateReplica</string>
+	<key>deprecatechannel</key>
+	<string>discardedCallback</string>
+	<key>disabledAction</key>
+	<string>associatedSegment</string>
+	<key>linkerSize</key>
+	<string>shouldInflateSwitch</string>
+	<key>promisenumberbound</key>
+	<string>euclideanEvolution</string>
+	<key>shouldPrepareReference</key>
+	<string>nextPadding</string>
+	<key>shouldRenderTernary</key>
+	<string>brushVelocity</string>
+</dict>
+</plist>

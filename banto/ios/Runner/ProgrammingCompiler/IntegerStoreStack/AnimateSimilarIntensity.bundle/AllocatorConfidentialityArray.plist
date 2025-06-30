@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCell</key>
+	<string>prevFrame</string>
+	<key>asynchronousLoader</key>
+	<string>canFormatSegue</string>
+	<key>disparateStore</key>
+	<string>canPublishMediaQuery</string>
+	<key>triggerTint</key>
+	<string>shouldCacheEntropy</string>
+	<key>uniformSegment</key>
+	<string>sampleInset</string>
+</dict>
+</plist>

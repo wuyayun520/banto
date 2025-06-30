@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errortheme</key>
+	<string>substantialCosine</string>
+	<key>notifiertimer</key>
+	<string>validateEqualization</string>
+	<key>primaryLog</key>
+	<string>canUpdateMedia</string>
+	<key>shouldStartExpanded</key>
+	<string>connectUseCase</string>
+	<key>shouldTrainOptimizer</key>
+	<string>playbackTension</string>
+	<key>singleSkin</key>
+	<string>metadataOpacity</string>
+	<key>uniqueSprite</key>
+	<string>texttransformer</string>
+</dict>
+</plist>

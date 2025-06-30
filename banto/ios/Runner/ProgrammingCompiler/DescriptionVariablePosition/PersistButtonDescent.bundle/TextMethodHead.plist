@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrategrain</key>
+	<string>unactivatedRectangle</string>
+	<key>independentScope</key>
+	<string>accordionvolume</string>
+	<key>priorIndicator</key>
+	<string>bitratevisibility</string>
+	<key>repositoryspeed</key>
+	<string>mediocreprofilemargin</string>
+	<key>reusableOverlay</key>
+	<string>deserializedrawer</string>
+	<key>shouldBindCurve</key>
+	<string>chartconfidentiality</string>
+</dict>
+</plist>

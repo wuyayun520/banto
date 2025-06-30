@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionStatus</key>
+	<string>gesturedetectorbuffershape</string>
+	<key>dataScale</key>
+	<string>brushandactivity</string>
+	<key>mediumSplitter</key>
+	<string>backwardOption</string>
+	<key>prevMechanism</key>
+	<string>zoneInterpreter</string>
+	<key>rapidTraversal</key>
+	<string>insteadPosition</string>
+	<key>reactiveDocument</key>
+	<string>oldResult</string>
+	<key>shouldRestartAccessory</key>
+	<string>draggableCapacities</string>
+	<key>titleBound</key>
+	<string>schemaShade</string>
+</dict>
+</plist>

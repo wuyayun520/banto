@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCurve</key>
+	<string>chapterForce</string>
+	<key>draggablePolygon</key>
+	<string>beginnerlistenerdistance</string>
+	<key>globalanimationdirection</key>
+	<string>scalepainter</string>
+	<key>navigationOrientation</key>
+	<string>commonresource</string>
+	<key>pinchableTechnique</key>
+	<string>addCompleter</string>
+	<key>selectedBase</key>
+	<string>canMountedMovement</string>
+	<key>sharedStroke</key>
+	<string>resolverstagestyle</string>
+	<key>sustainablePet</key>
+	<string>materialMode</string>
+</dict>
+</plist>

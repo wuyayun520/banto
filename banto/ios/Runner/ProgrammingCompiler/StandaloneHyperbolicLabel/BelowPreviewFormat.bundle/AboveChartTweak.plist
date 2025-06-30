@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionstream</key>
+	<string>refreshDescription</string>
+	<key>endstorage</key>
+	<string>groupduration</string>
+	<key>fusedAppBar</key>
+	<string>listenController</string>
+	<key>geometricRecursion</key>
+	<string>canBuildRichText</string>
+	<key>graphskewy</key>
+	<string>sliderShade</string>
+	<key>keepclipper</key>
+	<string>shouldpresentstep</string>
+	<key>sequentialStatus</key>
+	<string>requiredScalability</string>
+</dict>
+</plist>

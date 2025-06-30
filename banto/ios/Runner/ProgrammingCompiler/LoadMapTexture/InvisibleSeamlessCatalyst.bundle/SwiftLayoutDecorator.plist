@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationamortization</key>
+	<string>arithmeticModulus</string>
+	<key>keeptransformer</key>
+	<string>updateswitch</string>
+	<key>localcubescale</key>
+	<string>analyzerStyle</string>
+	<key>receiverScale</key>
+	<string>protectedVector</string>
+	<key>reusableDuration</key>
+	<string>profileModel</string>
+	<key>shouldRestartTernary</key>
+	<string>canTransitionBrush</string>
+	<key>shouldShowProvider</key>
+	<string>shouldEndNorm</string>
+	<key>sophisticatedPublisher</key>
+	<string>mountedPageView</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCaption</key>
+	<string>resumeMultiplication</string>
+	<key>captionInset</key>
+	<string>relationalGradient</string>
+	<key>scrollableInstruction</key>
+	<string>independentBloc</string>
+	<key>selectedaccessory</key>
+	<string>declarativeTabBar</string>
+</dict>
+</plist>

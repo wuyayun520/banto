@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoManager</key>
+	<string>vectorNumber</string>
+	<key>backwardReplica</key>
+	<string>canContinuePlayback</string>
+	<key>desktopPet</key>
+	<string>canDispatchResource</string>
+	<key>handlerBrightness</key>
+	<string>disposeArithmetic</string>
+	<key>pivotalProjection</key>
+	<string>liteDecoration</string>
+	<key>statelessCapacity</key>
+	<string>shouldStreamView</string>
+	<key>sustainablewidgetleft</key>
+	<string>continueTask</string>
+	<key>tabbarLocation</key>
+	<string>commonLocalization</string>
+	<key>taskvelocity</key>
+	<string>responsePressure</string>
+</dict>
+</plist>

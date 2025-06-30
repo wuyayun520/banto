@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledTitle</key>
+	<string>strokeDuration</string>
+	<key>mediocreComposition</key>
+	<string>defaultcontroller</string>
+	<key>observerOrientation</key>
+	<string>contractionContext</string>
+	<key>responsiveVector</key>
+	<string>comprehensiveEffect</string>
+	<key>shouldPresentCard</key>
+	<string>ephemeralEmitter</string>
+</dict>
+</plist>

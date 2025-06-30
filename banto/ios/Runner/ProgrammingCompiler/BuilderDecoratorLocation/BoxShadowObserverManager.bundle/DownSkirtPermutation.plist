@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushspacing</key>
+	<string>inactiveIndicator</string>
+	<key>equipmentstroke</key>
+	<string>durationSpeed</string>
+	<key>extensionBound</key>
+	<string>borderInterval</string>
+	<key>resizableBitrate</key>
+	<string>statelessDuration</string>
+	<key>responseSkewY</key>
+	<string>clusterInteraction</string>
+	<key>selectedPlayback</key>
+	<string>retrieveAsset</string>
+	<key>shouldConnectBox</key>
+	<string>canLayoutSpecifier</string>
+	<key>shouldmountprecision</key>
+	<string>rowwithoutbridge</string>
+	<key>shouldpaintdecoration</key>
+	<string>prismaticBehavior</string>
+	<key>streamlinehandler</key>
+	<string>infoCoord</string>
+</dict>
+</plist>

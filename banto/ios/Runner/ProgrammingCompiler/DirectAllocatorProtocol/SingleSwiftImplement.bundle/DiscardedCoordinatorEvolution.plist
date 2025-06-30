@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedConfidentiality</key>
+	<string>dismissChannel</string>
+	<key>buttonbridgeorientation</key>
+	<string>presentAnchor</string>
+	<key>cartesianAnchor</key>
+	<string>uniformComposition</string>
+	<key>explicitLifecycle</key>
+	<string>cycleLeft</string>
+	<key>shouldConnectNavigator</key>
+	<string>spotDelay</string>
+	<key>shouldMountPositioned</key>
+	<string>shouldParseProjection</string>
+	<key>statefulProvision</key>
+	<string>deserializeInterface</string>
+</dict>
+</plist>

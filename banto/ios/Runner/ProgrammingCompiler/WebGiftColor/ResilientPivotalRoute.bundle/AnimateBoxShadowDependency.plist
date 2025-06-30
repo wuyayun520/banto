@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAppBar</key>
+	<string>reactiveselector</string>
+	<key>associatedSensor</key>
+	<string>difficultascent</string>
+	<key>cosineFormat</key>
+	<string>strengthSpacing</string>
+	<key>immutableStoryboard</key>
+	<string>challengeDirection</string>
+	<key>liteSession</key>
+	<string>singleWrapper</string>
+	<key>repositoryagainstchain</key>
+	<string>shouldProcessModal</string>
+	<key>semanticScroll</key>
+	<string>shouldStreamConsumer</string>
+	<key>shouldPresentNotification</key>
+	<string>herocyclestyle</string>
+	<key>unsortedConverter</key>
+	<string>imageVariable</string>
+</dict>
+</plist>

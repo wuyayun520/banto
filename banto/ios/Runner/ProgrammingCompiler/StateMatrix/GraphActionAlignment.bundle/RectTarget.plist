@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationformvelocity</key>
+	<string>fusedBase</string>
+	<key>diffableMaster</key>
+	<string>tappableSwitch</string>
+	<key>nativeCompletion</key>
+	<string>subtleImpact</string>
+	<key>reactivescaledistance</key>
+	<string>publishInkWell</string>
+	<key>shouldPersistClipper</key>
+	<string>basicPolygon</string>
+	<key>visibleRemediation</key>
+	<string>selectednib</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionConfiguration</key>
+	<string>detachSession</string>
+	<key>beginnerWidget</key>
+	<string>canHandleBinary</string>
+	<key>buttontypemargin</key>
+	<string>shouldLoadCharacter</string>
+	<key>chooserDuration</key>
+	<string>advancedSubscriber</string>
+	<key>navigatorworkdelay</key>
+	<string>functionalStep</string>
+	<key>storagemargin</key>
+	<string>hierarchicaldimension</string>
+	<key>switchvisible</key>
+	<string>bulletCommand</string>
+	<key>titleFrequency</key>
+	<string>mountedOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletRate</key>
+	<string>transitiontag</string>
+	<key>channelstween</key>
+	<string>shouldRenderAlert</string>
+	<key>controlleraroundmode</key>
+	<string>accordionManager</string>
+	<key>crucialNotifier</key>
+	<string>lazyLatency</string>
+	<key>graphcharacteristic</key>
+	<string>routefeedback</string>
+	<key>releasebuilder</key>
+	<string>shouldCacheInteger</string>
+	<key>respectiveMetrics</key>
+	<string>enabledChallenge</string>
+	<key>shouldAnimateSpot</key>
+	<string>integerBuffer</string>
+	<key>shouldObserveMediaQuery</key>
+	<string>canCreateSubpixel</string>
+	<key>sliderRate</key>
+	<string>resultSpeed</string>
+</dict>
+</plist>

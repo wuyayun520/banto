@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticpositionedcolor</key>
+	<string>shouldKeepRichText</string>
+	<key>eraseinteractor</key>
+	<string>priorNotifier</string>
+	<key>gesturedetectorworkskewx</key>
+	<string>shouldPauseAspect</string>
+	<key>sequentialMedia</key>
+	<string>giftProcess</string>
+	<key>shouldListenDecoration</key>
+	<string>sustainablePadding</string>
+	<key>unsortedSink</key>
+	<string>extensionType</string>
+</dict>
+</plist>

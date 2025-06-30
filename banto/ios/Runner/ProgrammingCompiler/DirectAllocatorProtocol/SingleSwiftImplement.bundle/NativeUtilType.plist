@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveProvider</key>
+	<string>staticCallback</string>
+	<key>animatedCapsule</key>
+	<string>shouldLoadPositioned</string>
+	<key>coordinatoroperationoffset</key>
+	<string>fixedUsage</string>
+	<key>defaultbinary</key>
+	<string>crudeConvolution</string>
+	<key>ignoredcustompaintborder</key>
+	<string>canStopPainter</string>
+	<key>mapperStatus</key>
+	<string>shouldSubscribeCompletion</string>
+	<key>strengthTint</key>
+	<string>activatedFlex</string>
+</dict>
+</plist>

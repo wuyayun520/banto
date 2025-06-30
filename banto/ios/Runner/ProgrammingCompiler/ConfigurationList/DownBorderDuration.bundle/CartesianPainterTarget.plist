@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerInset</key>
+	<string>responderValidation</string>
+	<key>contractionBehavior</key>
+	<string>inflateBrush</string>
+	<key>inheritedInformation</key>
+	<string>heapEnvironment</string>
+	<key>inheritedNavigation</key>
+	<string>substantialObject</string>
+	<key>remediationTheme</key>
+	<string>signStrategy</string>
+	<key>shouldCreateNavigator</key>
+	<string>reducerloader</string>
+	<key>shouldreplacegram</key>
+	<string>interpolationProcess</string>
+	<key>specifyDetector</key>
+	<string>customStrength</string>
+</dict>
+</plist>

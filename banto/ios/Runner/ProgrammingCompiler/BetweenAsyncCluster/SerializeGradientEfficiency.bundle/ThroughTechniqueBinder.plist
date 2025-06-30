@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicConvolution</key>
+	<string>tappableCluster</string>
+	<key>equivalentSize</key>
+	<string>floatResult</string>
+	<key>onexponenttap</key>
+	<string>localizationperpattern</string>
+	<key>reactivesteprotation</key>
+	<string>shouldYieldCard</string>
+	<key>requesttween</key>
+	<string>multiStatus</string>
+	<key>shouldDisposeScaffold</key>
+	<string>stampEnvironment</string>
+	<key>shouldPrepareInterpolation</key>
+	<string>canDeserializeNib</string>
+</dict>
+</plist>

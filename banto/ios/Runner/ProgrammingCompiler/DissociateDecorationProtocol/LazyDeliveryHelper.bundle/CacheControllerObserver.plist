@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatecurve</key>
+	<string>shouldtransitionconsumer</string>
+	<key>compositionPosition</key>
+	<string>canStopModal</string>
+	<key>consumptionTransparency</key>
+	<string>yieldCosine</string>
+	<key>mediumFuture</key>
+	<string>painterCenter</string>
+	<key>othermodalcolor</key>
+	<string>shearPreview</string>
+	<key>wrapperStyle</key>
+	<string>standaloneSplitter</string>
+</dict>
+</plist>

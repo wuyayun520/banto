@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMapper</key>
+	<string>saveSpecifier</string>
+	<key>combinesink</key>
+	<string>elasticStream</string>
+	<key>componentSpacing</key>
+	<string>associatedReplica</string>
+	<key>criticalResolver</key>
+	<string>interpolateSubscription</string>
+	<key>decouplepriority</key>
+	<string>fusedDialogs</string>
+	<key>deferredWorkflow</key>
+	<string>alphaHead</string>
+	<key>independentconfigurationopacity</key>
+	<string>instantiateObserver</string>
+	<key>retainobserver</key>
+	<string>tensorScreen</string>
+	<key>sharedDisclaimer</key>
+	<string>diffableLogarithm</string>
+</dict>
+</plist>

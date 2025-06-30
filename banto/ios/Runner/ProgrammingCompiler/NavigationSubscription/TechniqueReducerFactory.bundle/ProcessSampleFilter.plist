@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeintensity</key>
+	<string>interactiveMend</string>
+	<key>customDependency</key>
+	<string>resumeCapsule</string>
+	<key>euclideanTentative</key>
+	<string>replaceMaterial</string>
+	<key>invisibleNode</key>
+	<string>signaturemesh</string>
+	<key>opaqueMultiplication</key>
+	<string>singleScreen</string>
+	<key>robustOccasion</key>
+	<string>euclideangraindensity</string>
+	<key>routeStyle</key>
+	<string>localService</string>
+	<key>shouldPopText</key>
+	<string>oldMesh</string>
+	<key>standaloneMobile</key>
+	<string>canUnmountedImage</string>
+</dict>
+</plist>

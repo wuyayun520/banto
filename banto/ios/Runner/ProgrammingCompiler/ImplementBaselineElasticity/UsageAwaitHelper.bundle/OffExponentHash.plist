@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseDensity</key>
+	<string>shouldDecodeInkWell</string>
+	<key>cubitoperation</key>
+	<string>shouldFinishOptimizer</string>
+	<key>firstconverter</key>
+	<string>accessibleReliability</string>
+	<key>immutableDetail</key>
+	<string>mutablecontainerdistance</string>
+	<key>mediumDescriptor</key>
+	<string>shapeKind</string>
+	<key>shouldTrainBuilder</key>
+	<string>methodRight</string>
+	<key>shouldunbindaspect</key>
+	<string>smartDialogs</string>
+	<key>usedSchema</key>
+	<string>dismissanimation</string>
+</dict>
+</plist>

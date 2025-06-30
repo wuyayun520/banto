@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedBitrate</key>
+	<string>sampleCenter</string>
+	<key>delicateRoute</key>
+	<string>cardObserver</string>
+	<key>detachbox</key>
+	<string>emitRichText</string>
+	<key>exceptionTop</key>
+	<string>checkboxContrast</string>
+	<key>materializerShade</key>
+	<string>notificationCount</string>
+	<key>shouldInflateTable</key>
+	<string>textureLeft</string>
+</dict>
+</plist>

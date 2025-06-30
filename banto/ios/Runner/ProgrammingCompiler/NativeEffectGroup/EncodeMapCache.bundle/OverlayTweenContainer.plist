@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentspot</key>
+	<string>resizableDelivery</string>
+	<key>fragmentFeedback</key>
+	<string>shouldRouteMatrix</string>
+	<key>listviewinset</key>
+	<string>temporaryDimension</string>
+	<key>navigatormode</key>
+	<string>consumptionEdge</string>
+	<key>shouldcachestream</key>
+	<string>normalService</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncName</key>
+	<string>compareTexture</string>
+	<key>cosineproxyalignment</key>
+	<string>replaceInterpolation</string>
+	<key>radiusDensity</key>
+	<string>shouldSaveMaster</string>
+	<key>renderzone</key>
+	<string>opaqueStamp</string>
+	<key>shouldDispatchSymbol</key>
+	<string>crudeconnector</string>
+	<key>shouldParseProvider</key>
+	<string>cupertinoAmortization</string>
+	<key>singleCubit</key>
+	<string>seamlesslayout</string>
+	<key>synchronousPresenter</key>
+	<string>finishPrecision</string>
+	<key>tappableStroke</key>
+	<string>shouldPushConstraint</string>
+</dict>
+</plist>

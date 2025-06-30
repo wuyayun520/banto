@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityshade</key>
+	<string>publicCheckbox</string>
+	<key>borderAppearance</key>
+	<string>iterativeBase</string>
+	<key>consumptionInterval</key>
+	<string>memberTop</string>
+	<key>errorSpeed</key>
+	<string>materialElement</string>
+	<key>intermediateReplica</key>
+	<string>integrityFeedback</string>
+	<key>invisibleMediaQuery</key>
+	<string>shouldTransformSlash</string>
+	<key>keydata</key>
+	<string>displayableFinder</string>
+	<key>materializepadding</key>
+	<string>dropdownbuttonhue</string>
+	<key>parallelOccasion</key>
+	<string>controllerofprototype</string>
+	<key>protectedResource</key>
+	<string>challengespeed</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterAppearance</key>
+	<string>shouldUpdatePlayback</string>
+	<key>immediatePublisher</key>
+	<string>buildComposition</string>
+	<key>intuitiveRange</key>
+	<string>canNavigateInkWell</string>
+	<key>segueShade</key>
+	<string>sensororsystem</string>
+	<key>shouldSaveDescriptor</key>
+	<string>sessionLayer</string>
+	<key>wrapvariant</key>
+	<string>immutableskirt</string>
+</dict>
+</plist>

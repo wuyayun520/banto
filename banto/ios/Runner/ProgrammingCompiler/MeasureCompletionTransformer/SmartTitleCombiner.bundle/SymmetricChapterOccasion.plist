@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianCheckbox</key>
+	<string>scrollAcceleration</string>
+	<key>certificateValidation</key>
+	<string>radiusshade</string>
+	<key>detectorAlignment</key>
+	<string>scenecenter</string>
+	<key>geometricModel</key>
+	<string>lifecyclerate</string>
+	<key>layoutthanplatform</key>
+	<string>eagerMapper</string>
+	<key>opaquePolyfill</key>
+	<string>delicateButton</string>
+	<key>shouldPauseSign</key>
+	<string>protectedTweak</string>
+</dict>
+</plist>

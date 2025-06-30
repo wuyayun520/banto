@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clearbaseline</key>
+	<string>storyboardFormat</string>
+	<key>currentprojection</key>
+	<string>integerprototypedistance</string>
+	<key>otherComposition</key>
+	<string>optimizePreview</string>
+	<key>retainedThread</key>
+	<string>gridviewVar</string>
+</dict>
+</plist>

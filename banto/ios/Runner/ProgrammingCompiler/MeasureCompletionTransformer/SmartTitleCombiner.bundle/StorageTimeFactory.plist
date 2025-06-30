@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityTop</key>
+	<string>publishMusic</string>
+	<key>dispatchdependency</key>
+	<string>pinchableAsset</string>
+	<key>newestTween</key>
+	<string>completedTabView</string>
+	<key>responsiveDescent</key>
+	<string>iterativeCluster</string>
+	<key>seamlessReducer</key>
+	<string>usageMemento</string>
+	<key>shouldFinishMap</key>
+	<string>widgetobservervisibility</string>
+	<key>shouldserializeclipper</key>
+	<string>liteParticle</string>
+	<key>statefulColor</key>
+	<string>significantVolume</string>
+	<key>sustainableMonster</key>
+	<string>canHandleExtension</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatemediaquery</key>
+	<string>navigatorDelay</string>
+	<key>optimizeragainstdecorator</key>
+	<string>injectionBuffer</string>
+	<key>shouldbuildconstraint</key>
+	<string>pauseMaterial</string>
+	<key>unaryState</key>
+	<string>allocatorlistener</string>
+</dict>
+</plist>

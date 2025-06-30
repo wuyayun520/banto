@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateContraction</key>
+	<string>numericalThreshold</string>
+	<key>newestVertex</key>
+	<string>lazyStateful</string>
+	<key>shouldNotifyController</key>
+	<string>restoreGroup</string>
+	<key>shouldStopContainer</key>
+	<string>prepareNotifier</string>
+	<key>traversalRate</key>
+	<string>largeConsumption</string>
+</dict>
+</plist>

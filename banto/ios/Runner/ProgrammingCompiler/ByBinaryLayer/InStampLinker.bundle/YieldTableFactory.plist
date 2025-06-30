@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuetouch</key>
+	<string>standaloneImpact</string>
+	<key>cupertinoMedia</key>
+	<string>canTransformLog</string>
+	<key>currentdata</key>
+	<string>displayabledelegateright</string>
+	<key>denseroute</key>
+	<string>bundleTexture</string>
+	<key>gesturedetectorTension</key>
+	<string>refactorcursor</string>
+	<key>shouldDisposeBuilder</key>
+	<string>columntag</string>
+	<key>uniformMission</key>
+	<string>layoutAnchor</string>
+</dict>
+</plist>

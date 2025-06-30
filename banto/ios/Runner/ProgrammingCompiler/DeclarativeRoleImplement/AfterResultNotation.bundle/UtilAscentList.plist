@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxFormat</key>
+	<string>invokeService</string>
+	<key>commonchapteroffset</key>
+	<string>lastvideo</string>
+	<key>hashvisible</key>
+	<string>vectorizeTitle</string>
+	<key>optionRight</key>
+	<string>sophisticatedTraversal</string>
+	<key>relationalEvolution</key>
+	<string>finishSpine</string>
+	<key>shouldCacheNotifier</key>
+	<string>deflateQueue</string>
+	<key>statefulContraction</key>
+	<string>canInflateMedia</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentContrast</key>
+	<string>documentAcceleration</string>
+	<key>desktopSprite</key>
+	<string>fetchNorm</string>
+	<key>firstPreview</key>
+	<string>scopevelocity</string>
+	<key>mechanismRate</key>
+	<string>lifecycleSkewY</string>
+	<key>mobileSprite</key>
+	<string>selectedMusic</string>
+	<key>persistentProcessor</key>
+	<string>semanticIcon</string>
+	<key>routerSize</key>
+	<string>reactiveAnchor</string>
+	<key>sliderfeedback</key>
+	<string>invisibleTentative</string>
+	<key>sustainableVertex</key>
+	<string>shouldUnbindProject</string>
+</dict>
+</plist>

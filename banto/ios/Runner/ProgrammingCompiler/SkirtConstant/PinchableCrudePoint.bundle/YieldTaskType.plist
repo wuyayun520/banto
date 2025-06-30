@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionFrequency</key>
+	<string>anchorloader</string>
+	<key>currentRadius</key>
+	<string>largeComposition</string>
+	<key>deferredEfficiency</key>
+	<string>ignoredTrajectory</string>
+	<key>euclideanInstruction</key>
+	<string>relationalText</string>
+	<key>firstAnimation</key>
+	<string>shouldSerializeStream</string>
+	<key>fusedSplitter</key>
+	<string>receivertype</string>
+	<key>newestCoordinator</key>
+	<string>autoSlider</string>
+	<key>providerOrientation</key>
+	<string>paddingForm</string>
+	<key>videoOpacity</key>
+	<string>missedCoordinator</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoGrayscale</key>
+	<string>canReplaceDimension</string>
+	<key>basicDistinction</key>
+	<string>revisitnorm</string>
+	<key>geometricController</key>
+	<string>layerSingleton</string>
+	<key>normalCache</key>
+	<string>cancelPositioned</string>
+	<key>resultVelocity</key>
+	<string>itemspacing</string>
+	<key>swiftPadding</key>
+	<string>canUnbindPlayback</string>
+	<key>vectorIndex</key>
+	<string>observechecklist</string>
+</dict>
+</plist>

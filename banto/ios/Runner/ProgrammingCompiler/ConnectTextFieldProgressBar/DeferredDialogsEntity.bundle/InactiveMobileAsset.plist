@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSearcher</key>
+	<string>activeTabView</string>
+	<key>captionprogressbar</key>
+	<string>enumerateSingleton</string>
+	<key>effectTransparency</key>
+	<string>shouldRenderRow</string>
+	<key>hierarchicalDelegate</key>
+	<string>techniqueBuffer</string>
+	<key>protectedLogarithm</key>
+	<string>mediumFormat</string>
+	<key>shouldDetachShader</key>
+	<string>loadHistogram</string>
+	<key>shouldInflateMaterial</key>
+	<string>currentExponent</string>
+	<key>shouldMountTheme</key>
+	<string>materialframe</string>
+	<key>singletoncontrast</key>
+	<string>promiseTag</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedStatus</key>
+	<string>disabledPrecision</string>
+	<key>gemBehavior</key>
+	<string>expandedInset</string>
+	<key>permutationBound</key>
+	<string>canResumeSkirt</string>
+	<key>shouldDispatchSemantics</key>
+	<string>shouldRenderBuilder</string>
+	<key>shouldResumeUsage</key>
+	<string>shouldDeserializeScaffold</string>
+	<key>standaloneview</key>
+	<string>updateTechnique</string>
+</dict>
+</plist>

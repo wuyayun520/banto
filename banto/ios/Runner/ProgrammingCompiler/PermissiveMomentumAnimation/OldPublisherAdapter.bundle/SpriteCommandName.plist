@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerOrientation</key>
+	<string>fixedPolygon</string>
+	<key>consumersprite</key>
+	<string>eagerCycle</string>
+	<key>diffablePager</key>
+	<string>multiPicker</string>
+	<key>finderOrigin</key>
+	<string>contractionLevel</string>
+	<key>prepareresource</key>
+	<string>independentContraction</string>
+	<key>protectedMapper</key>
+	<string>interactiveStroke</string>
+	<key>shouldpersistmobile</key>
+	<string>reducerpadding</string>
+	<key>textOpacity</key>
+	<string>inheritedPrecision</string>
+</dict>
+</plist>

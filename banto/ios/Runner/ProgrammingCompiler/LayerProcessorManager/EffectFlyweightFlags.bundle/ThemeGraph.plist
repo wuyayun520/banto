@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonplatformedge</key>
+	<string>channelsStatus</string>
+	<key>combinerTransparency</key>
+	<string>concatenatePosition</string>
+	<key>decorationslider</key>
+	<string>providerprototypelocation</string>
+	<key>defaulttheme</key>
+	<string>parseEvent</string>
+	<key>layerSkewY</key>
+	<string>agileNotifier</string>
+	<key>shouldRouteTransition</key>
+	<string>listenbutton</string>
+	<key>vertexVelocity</key>
+	<string>priorEntity</string>
+</dict>
+</plist>

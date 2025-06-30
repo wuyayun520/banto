@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystformat</key>
+	<string>shoulddispatchpromise</string>
+	<key>charactertype</key>
+	<string>missionPlatform</string>
+	<key>isolateTheme</key>
+	<string>infoInteraction</string>
+	<key>resumeawait</key>
+	<string>subscribePadding</string>
+	<key>shouldTransformPoint</key>
+	<string>partitionstamp</string>
+	<key>spotCenter</key>
+	<string>richtextSystem</string>
+</dict>
+</plist>

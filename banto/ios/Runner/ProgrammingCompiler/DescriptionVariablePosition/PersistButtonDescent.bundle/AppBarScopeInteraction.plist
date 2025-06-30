@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardChooser</key>
+	<string>shouldSetStateContainer</string>
+	<key>pinchableRemediation</key>
+	<string>missedObserver</string>
+	<key>previewstructuretransparency</key>
+	<string>canPopConsumer</string>
+	<key>resizableOccasion</key>
+	<string>specifyGrid</string>
+	<key>reusableTabBar</key>
+	<string>shouldNavigateAppBar</string>
+	<key>shouldPopChannels</key>
+	<string>sustainableImpact</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRadius</key>
+	<string>subscriptionParameter</string>
+	<key>agileCapacities</key>
+	<string>storeTheme</string>
+	<key>informationSaturation</key>
+	<string>compositionalSound</string>
+	<key>listviewgrain</key>
+	<string>logarithmVisible</string>
+	<key>mutableGesture</key>
+	<string>projectborder</string>
+	<key>normalPresenter</key>
+	<string>lazyPolygon</string>
+	<key>storeCenter</key>
+	<string>hardBoxShadow</string>
+	<key>uniformTopic</key>
+	<string>substantialtext</string>
+</dict>
+</plist>

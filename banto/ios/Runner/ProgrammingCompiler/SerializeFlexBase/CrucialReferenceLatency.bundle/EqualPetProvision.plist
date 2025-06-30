@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMetadata</key>
+	<string>robustRadius</string>
+	<key>materialSkewX</key>
+	<string>canDetachAspectRatio</string>
+	<key>shouldEmitBatch</key>
+	<string>numericalRichText</string>
+	<key>shouldfinishgift</key>
+	<string>statelessCursor</string>
+	<key>transformeracceleration</key>
+	<string>shouldMountedProvider</string>
+	<key>webNavigator</key>
+	<string>canStreamProvider</string>
+</dict>
+</plist>

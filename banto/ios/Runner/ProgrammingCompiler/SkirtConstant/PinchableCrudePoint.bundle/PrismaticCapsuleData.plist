@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleNavigator</key>
+	<string>currentPopup</string>
+	<key>asyncTension</key>
+	<string>scrollableCallback</string>
+	<key>asynchronousCanvas</key>
+	<string>listenDescription</string>
+	<key>fixedexpandedtension</key>
+	<string>shouldInflateCaption</string>
+	<key>onoptiontap</key>
+	<string>maxInteger</string>
+	<key>routerprototypetransparency</key>
+	<string>popPriority</string>
+	<key>shouldSerializeSegment</key>
+	<string>binaryPosition</string>
+	<key>synchronousRemainder</key>
+	<string>canUpdateCharacter</string>
+</dict>
+</plist>

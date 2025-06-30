@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintLeft</key>
+	<string>hashsaturation</string>
+	<key>durationKind</key>
+	<string>efficiencyPressure</string>
+	<key>geometricmesh</key>
+	<string>enabledDescriptor</string>
+	<key>normalState</key>
+	<string>currentResilience</string>
+	<key>rendererSpeed</key>
+	<string>screenformat</string>
+	<key>shouldKeepBoxShadow</key>
+	<string>awaitBridge</string>
+	<key>subsequentEfficiency</key>
+	<string>statevalidation</string>
+</dict>
+</plist>

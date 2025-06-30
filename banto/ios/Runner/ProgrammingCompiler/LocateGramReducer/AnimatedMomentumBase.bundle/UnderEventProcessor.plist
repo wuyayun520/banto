@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionstagespacing</key>
+	<string>multiHash</string>
+	<key>destroygroup</key>
+	<string>flexibleFuture</string>
+	<key>scopeInteraction</key>
+	<string>pickerFrequency</string>
+	<key>shouldPushRadio</key>
+	<string>semanticPresenter</string>
+	<key>similarDocument</key>
+	<string>cosineFramework</string>
+</dict>
+</plist>

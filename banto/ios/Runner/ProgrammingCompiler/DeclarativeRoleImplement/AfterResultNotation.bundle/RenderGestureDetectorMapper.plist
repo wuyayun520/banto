@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeTool</key>
+	<string>cupertinoIntensity</string>
+	<key>directlyPainter</key>
+	<string>cupertinoTolerance</string>
+	<key>mediumCustomPaint</key>
+	<string>mediaqueryBottom</string>
+	<key>monsterSkewX</key>
+	<string>heapStyle</string>
+	<key>normIndex</key>
+	<string>storageposition</string>
+	<key>quaternionresponse</key>
+	<string>particleMomentum</string>
+	<key>requestTension</key>
+	<string>tappablechapter</string>
+	<key>throughputopacity</key>
+	<string>buildVariant</string>
+	<key>unsortedGroup</key>
+	<string>unbindGridView</string>
+</dict>
+</plist>

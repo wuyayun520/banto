@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyInstruction</key>
+	<string>dynamicGrain</string>
+	<key>explicitgrayscaleorigin</key>
+	<string>compositionParam</string>
+	<key>firstShader</key>
+	<string>roleBehavior</string>
+	<key>recursionspeed</key>
+	<string>popbox</string>
+	<key>resizableContraction</key>
+	<string>shouldlistenstamp</string>
+	<key>usageagainstinterpreter</key>
+	<string>canParseSkin</string>
+</dict>
+</plist>

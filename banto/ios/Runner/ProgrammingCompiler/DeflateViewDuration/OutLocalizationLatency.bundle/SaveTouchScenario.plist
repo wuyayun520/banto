@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableStream</key>
+	<string>intuitiveBinary</string>
+	<key>euclideanmovementposition</key>
+	<string>transitionColumn</string>
+	<key>firstExtension</key>
+	<string>canPaintSwitch</string>
+	<key>imperativefactorydelay</key>
+	<string>concurrentListView</string>
+	<key>intuitiveConsumer</key>
+	<string>similarFragment</string>
+	<key>kernelpatternspeed</key>
+	<string>observerFlags</string>
+	<key>shouldParseMember</key>
+	<string>effectBound</string>
+	<key>unsortedTabView</key>
+	<string>inheritedMusic</string>
+</dict>
+</plist>

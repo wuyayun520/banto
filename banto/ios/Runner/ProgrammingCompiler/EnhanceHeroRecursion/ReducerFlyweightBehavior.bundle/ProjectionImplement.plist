@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultwidget</key>
+	<string>rectifycompleter</string>
+	<key>mainconfigurationright</key>
+	<string>meshStyle</string>
+	<key>materializerHead</key>
+	<string>subtlePreview</string>
+	<key>respectiveheapdensity</key>
+	<string>easyConfiguration</string>
+	<key>shouldDisconnectDocument</key>
+	<string>singleManager</string>
+</dict>
+</plist>

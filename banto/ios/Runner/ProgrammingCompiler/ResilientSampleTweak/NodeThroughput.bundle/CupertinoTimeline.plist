@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncincludeprocess</key>
+	<string>associatedTabBar</string>
+	<key>nativeMediaQuery</key>
+	<string>cartesianStrength</string>
+	<key>reactivelogarithmresponse</key>
+	<string>criticalSprite</string>
+	<key>slidervisible</key>
+	<string>crucialMovement</string>
+	<key>textfieldLocation</key>
+	<string>shouldPrepareContraction</string>
+	<key>usedDialogs</key>
+	<string>popupFunction</string>
+</dict>
+</plist>

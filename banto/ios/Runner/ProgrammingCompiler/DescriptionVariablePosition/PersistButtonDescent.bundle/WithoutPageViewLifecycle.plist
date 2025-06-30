@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evolutionState</key>
+	<string>sharedstoryboardopacity</string>
+	<key>momentumRight</key>
+	<string>composableScroll</string>
+	<key>roleloader</key>
+	<string>optimizeProvider</string>
+</dict>
+</plist>

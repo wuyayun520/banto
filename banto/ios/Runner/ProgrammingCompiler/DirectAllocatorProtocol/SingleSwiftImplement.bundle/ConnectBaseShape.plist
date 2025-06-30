@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateOrientation</key>
+	<string>opaqueBase</string>
+	<key>colormargin</key>
+	<string>customizedmodel</string>
+	<key>dropoutcube</key>
+	<string>crucialContainer</string>
+	<key>eagerLoop</key>
+	<string>resizableAction</string>
+	<key>immutableFormat</key>
+	<string>requestbufferstyle</string>
+	<key>latencyRight</key>
+	<string>concurrentText</string>
+	<key>originalstore</key>
+	<string>searchsemantics</string>
+	<key>scrollableException</key>
+	<string>independentRouter</string>
+	<key>workflowTail</key>
+	<string>instructionMomentum</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateskirt</key>
+	<string>storyboardAlignment</string>
+	<key>missionasync</key>
+	<string>reactiveResponder</string>
+	<key>shouldBuildStoryboard</key>
+	<string>shouldKeepCapacities</string>
+	<key>shouldshowmedia</key>
+	<string>currentBitrate</string>
+	<key>usageindex</key>
+	<string>volumeHead</string>
+</dict>
+</plist>

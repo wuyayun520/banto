@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerSpacing</key>
+	<string>localPager</string>
+	<key>desktopIsolate</key>
+	<string>usedEffect</string>
+	<key>disclaimerInset</key>
+	<string>integerPattern</string>
+	<key>keySubscription</key>
+	<string>latencyIndex</string>
+	<key>pagerDistance</key>
+	<string>activatedIndicator</string>
+	<key>projectionDepth</key>
+	<string>firstSegue</string>
+	<key>resultindex</key>
+	<string>semanticpresenterhue</string>
+	<key>scrollableWorkflow</key>
+	<string>synchronousLifecycle</string>
+	<key>statelessGraph</key>
+	<string>subpixelFunction</string>
+</dict>
+</plist>

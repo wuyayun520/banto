@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackforce</key>
+	<string>decorationPadding</string>
+	<key>euclideansinktop</key>
+	<string>criticalOverlay</string>
+	<key>ignoredTheme</key>
+	<string>semanticGraphic</string>
+	<key>mainKernel</key>
+	<string>invisibleSample</string>
+	<key>poprichtext</key>
+	<string>pauseasync</string>
+	<key>rapidTechnique</key>
+	<string>shouldMountPageView</string>
+	<key>statefulReplica</key>
+	<string>canNotifyPainter</string>
+	<key>statefulreducer</key>
+	<string>flexibleObserver</string>
+	<key>substantialPicker</key>
+	<string>deferredCell</string>
+	<key>usecaseOrientation</key>
+	<string>smartSlash</string>
+</dict>
+</plist>

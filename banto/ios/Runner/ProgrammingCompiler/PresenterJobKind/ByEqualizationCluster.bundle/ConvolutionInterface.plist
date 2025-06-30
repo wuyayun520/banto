@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchFlags</key>
+	<string>methodmerger</string>
+	<key>inactiveTechnique</key>
+	<string>staticSpecifier</string>
+	<key>intermediatecontrast</key>
+	<string>interactorvalidation</string>
+	<key>logactivityedge</key>
+	<string>shouldBuildPadding</string>
+	<key>pausegate</key>
+	<string>animatetool</string>
+	<key>playlayer</key>
+	<string>errorMediator</string>
+	<key>responsiveCharacter</key>
+	<string>serializeGrain</string>
+	<key>textureelement</key>
+	<string>animatedcontainerEdge</string>
+</dict>
+</plist>

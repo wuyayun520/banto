@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contraststyle</key>
+	<string>encodeProfile</string>
+	<key>cupertinoSkewX</key>
+	<string>transformCaption</string>
+	<key>customizedAscent</key>
+	<string>canDetachRow</string>
+	<key>mediumMend</key>
+	<string>metadatamargin</string>
+	<key>otherChecklist</key>
+	<string>constraintInteraction</string>
+	<key>shouldPaintDelegate</key>
+	<string>minCharacter</string>
+	<key>shouldProcessCosine</key>
+	<string>concatenateResult</string>
+	<key>shouldnotifyinteger</key>
+	<string>showCallback</string>
+</dict>
+</plist>

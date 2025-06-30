@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricReduction</key>
+	<string>setstateGraphic</string>
+	<key>localConstraint</key>
+	<string>shouldDecodeCupertino</string>
+	<key>statesize</key>
+	<string>cosineTask</string>
+</dict>
+</plist>

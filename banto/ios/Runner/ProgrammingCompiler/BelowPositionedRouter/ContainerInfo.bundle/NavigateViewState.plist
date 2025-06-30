@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultHistogram</key>
+	<string>advancedThreshold</string>
+	<key>hyperbolicStateful</key>
+	<string>responsiveEffect</string>
+	<key>interactiveNavigator</key>
+	<string>activeSample</string>
+	<key>maindescriptionedge</key>
+	<string>beginnerFactory</string>
+	<key>processstore</key>
+	<string>ephemeralRect</string>
+	<key>shouldNavigateExpanded</key>
+	<string>accordionProvision</string>
+	<key>shouldStreamFragment</key>
+	<string>sustainableMethod</string>
+	<key>unactivatedNavigator</key>
+	<string>shouldPauseSpecifier</string>
+	<key>visualizestamp</key>
+	<string>retainedRouter</string>
+</dict>
+</plist>

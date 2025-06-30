@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionframe</key>
+	<string>architectureLeft</string>
+	<key>inheritedComposition</key>
+	<string>similarVector</string>
+	<key>layerbrightness</key>
+	<string>arithmeticposition</string>
+	<key>missionFlags</key>
+	<string>generateRouter</string>
+	<key>operationSpeed</key>
+	<string>canAttachScroll</string>
+	<key>scrollableInterpolation</key>
+	<string>shouldProcessLoss</string>
+	<key>shouldMountSkirt</key>
+	<string>shouldNavigateSpot</string>
+	<key>shouldResumeSine</key>
+	<string>nodeMediator</string>
+	<key>temporaryScroll</key>
+	<string>chartFacade</string>
+	<key>thresholdShade</key>
+	<string>workflowForm</string>
+</dict>
+</plist>

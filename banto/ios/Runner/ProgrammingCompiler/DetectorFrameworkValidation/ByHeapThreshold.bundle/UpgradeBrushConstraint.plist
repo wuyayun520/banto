@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnbound</key>
+	<string>mobileInteractor</string>
+	<key>gridviewFormat</key>
+	<string>displayableSubpixel</string>
+	<key>prevDescriptor</key>
+	<string>hasbox</string>
+	<key>reusableOverlay</key>
+	<string>graphDistance</string>
+</dict>
+</plist>

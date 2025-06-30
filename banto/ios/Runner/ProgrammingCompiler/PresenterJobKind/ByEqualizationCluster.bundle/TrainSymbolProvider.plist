@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveFlex</key>
+	<string>shapeAppearance</string>
+	<key>evaluationcoord</key>
+	<string>enabledframeorientation</string>
+	<key>hierarchicalTextField</key>
+	<string>textContext</string>
+	<key>iterativeComponent</key>
+	<string>spinFuture</string>
+	<key>shouldRebuildHero</key>
+	<string>mediocreStep</string>
+	<key>unsortedCanvas</key>
+	<string>holdLocalization</string>
+</dict>
+</plist>

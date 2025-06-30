@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellFrequency</key>
+	<string>contrastIndex</string>
+	<key>directlyMaterial</key>
+	<string>canEncodeTextField</string>
+	<key>matrixflyweightscale</key>
+	<string>extendButton</string>
+	<key>scrollableBuilder</key>
+	<string>orchestrateBuilder</string>
+	<key>shouldMountController</key>
+	<string>semanticrouter</string>
+	<key>shouldPrepareEntropy</key>
+	<string>mainSwift</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSensor</key>
+	<string>commonTrajectory</string>
+	<key>crucialSubscription</key>
+	<string>fixedCupertino</string>
+	<key>customTicker</key>
+	<string>synchronizeParticle</string>
+	<key>intermediateReplica</key>
+	<string>connectMonster</string>
+	<key>mainlistener</key>
+	<string>canResumeSkirt</string>
+	<key>scaleInteraction</key>
+	<string>resizableLoop</string>
+	<key>stepPosition</key>
+	<string>canRouteHeap</string>
+</dict>
+</plist>

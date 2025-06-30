@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletduration</key>
+	<string>eventagainststage</string>
+	<key>deferredframe</key>
+	<string>kernelFunction</string>
+	<key>priorBoxShadow</key>
+	<string>expandedAlignment</string>
+	<key>resilientLoader</key>
+	<string>cubeSpacing</string>
+	<key>semanticloop</key>
+	<string>decorationthroughput</string>
+	<key>shouldKeepPlayback</key>
+	<string>vertexresponse</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerTriangles</key>
+	<string>displayableMedia</string>
+	<key>interactiveScene</key>
+	<string>synchronousPolygon</string>
+	<key>nodebottom</key>
+	<string>gramdensity</string>
+	<key>reducertop</key>
+	<string>assetSaturation</string>
+	<key>resilientEqualization</key>
+	<string>navigatormementointerval</string>
+	<key>reusableRichText</key>
+	<string>skintop</string>
+	<key>shouldNotifyBehavior</key>
+	<string>inactiveanimatedcontainertype</string>
+</dict>
+</plist>

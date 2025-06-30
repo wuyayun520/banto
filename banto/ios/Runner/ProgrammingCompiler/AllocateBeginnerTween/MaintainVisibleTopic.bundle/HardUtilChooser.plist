@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gateMode</key>
+	<string>createBitrate</string>
+	<key>modulusfactory</key>
+	<string>injectionMediator</string>
+	<key>pinchabletickerinset</key>
+	<string>endPadding</string>
+	<key>routefacadedepth</key>
+	<string>serviceBridge</string>
+	<key>trainsubpixel</key>
+	<string>explicitTheme</string>
+</dict>
+</plist>

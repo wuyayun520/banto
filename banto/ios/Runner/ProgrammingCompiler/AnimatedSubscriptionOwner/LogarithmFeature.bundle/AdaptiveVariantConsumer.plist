@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatecontainer</key>
+	<string>localDropdownButton</string>
+	<key>giftAlignment</key>
+	<string>scaleSkewY</string>
+	<key>inheritedSlider</key>
+	<string>notifierLeft</string>
+	<key>nativeGate</key>
+	<string>localizationstyle</string>
+	<key>shouldsetstatecatalyst</key>
+	<string>interactiveScene</string>
+</dict>
+</plist>

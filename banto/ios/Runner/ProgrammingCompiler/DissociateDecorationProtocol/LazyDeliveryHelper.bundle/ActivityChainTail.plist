@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredNavigator</key>
+	<string>canSetStateFragment</string>
+	<key>difficultObserver</key>
+	<string>pointSpacing</string>
+	<key>diversifiedStateful</key>
+	<string>previewfinder</string>
+	<key>gemVelocity</key>
+	<string>euclideanPet</string>
+	<key>otherNotifier</key>
+	<string>canDeserializePositioned</string>
+</dict>
+</plist>

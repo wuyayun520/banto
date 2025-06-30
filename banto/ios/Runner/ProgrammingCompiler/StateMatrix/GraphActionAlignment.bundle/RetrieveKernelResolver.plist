@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachclipper</key>
+	<string>inactiveSubscription</string>
+	<key>iterativeGradient</key>
+	<string>isbatch</string>
+	<key>modalFlags</key>
+	<string>fragmentthanmode</string>
+	<key>opaqueConsumer</key>
+	<string>crucialScenario</string>
+	<key>persistentGradient</key>
+	<string>transformObserver</string>
+	<key>protectedBatch</key>
+	<string>itemVisible</string>
+	<key>shouldpaintradio</key>
+	<string>cancelbutton</string>
+	<key>stepShape</key>
+	<string>efficiencydirection</string>
+	<key>subtleSignature</key>
+	<string>canAttachCupertino</string>
+</dict>
+</plist>

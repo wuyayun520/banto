@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxShape</key>
+	<string>shouldAnimateLogarithm</string>
+	<key>concreteThread</key>
+	<string>boxDirection</string>
+	<key>persistentBox</key>
+	<string>mergerdistance</string>
+	<key>resultimpact</key>
+	<string>triggerForce</string>
+	<key>shouldYieldOverlay</key>
+	<string>canLoadSwift</string>
+	<key>smallslash</key>
+	<string>associatedTime</string>
+	<key>swiftSpeed</key>
+	<string>liteReplica</string>
+</dict>
+</plist>

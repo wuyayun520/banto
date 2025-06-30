@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaShade</key>
+	<string>permissiveExtension</string>
+	<key>arithmeticandvar</key>
+	<string>columnentity</string>
+	<key>assettransparency</key>
+	<string>quitTexture</string>
+	<key>controllerbeyondlayer</key>
+	<string>intuitiveModel</string>
+	<key>diffableIndicator</key>
+	<string>resizableCard</string>
+	<key>grayscaleDistance</key>
+	<string>graphinsideactivity</string>
+	<key>playbackMargin</key>
+	<string>immutableMesh</string>
+	<key>shouldPopSlider</key>
+	<string>popupProxy</string>
+</dict>
+</plist>

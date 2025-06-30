@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contrastVisible</key>
+	<string>textureSkewY</string>
+	<key>escalateerror</key>
+	<string>viewshade</string>
+	<key>missedResponder</key>
+	<string>ephemeralmastervelocity</string>
+	<key>mobileResponder</key>
+	<string>semanticsDepth</string>
+	<key>navigatorCenter</key>
+	<string>matrixsize</string>
+	<key>shouldDeserializeGesture</key>
+	<string>queueMomentum</string>
+	<key>shouldPauseMultiplication</key>
+	<string>animatedState</string>
+	<key>shouldfinishkernel</key>
+	<string>normdelay</string>
+</dict>
+</plist>

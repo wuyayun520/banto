@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineopacity</key>
+	<string>shearAnimation</string>
+	<key>configurationSaturation</key>
+	<string>stopEffect</string>
+	<key>decorationContrast</key>
+	<string>resultShade</string>
+	<key>prevPoint</key>
+	<string>requiredNotifier</string>
+	<key>seamlessAnchor</key>
+	<string>connectorState</string>
+	<key>semanticsSkewX</key>
+	<string>scopeShape</string>
+	<key>shouldCreateResource</key>
+	<string>originalBullet</string>
+	<key>tweencontainframework</key>
+	<string>chapterMode</string>
+</dict>
+</plist>

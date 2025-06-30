@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectcontainer</key>
+	<string>sizedboxduration</string>
+	<key>firstascent</key>
+	<string>interpolationColor</string>
+	<key>mediaqueryedge</key>
+	<string>instantiateView</string>
+	<key>navigateequipment</key>
+	<string>elasticMetadata</string>
+	<key>painterDepth</key>
+	<string>accessibleAlignment</string>
+	<key>receiverkind</key>
+	<string>appendInteractor</string>
+	<key>shouldBindAnimation</key>
+	<string>notifyBloc</string>
+</dict>
+</plist>

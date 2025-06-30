@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTechnique</key>
+	<string>hashContrast</string>
+	<key>basicmetadata</key>
+	<string>convertController</string>
+	<key>criticalException</key>
+	<string>canDisconnectProfile</string>
+	<key>inkwellVisibility</key>
+	<string>canCacheShader</string>
+	<key>oldArithmetic</key>
+	<string>clonedecoration</string>
+	<key>rapidRouter</key>
+	<string>decodeLoop</string>
+	<key>searcherTop</key>
+	<string>flexfromstrategy</string>
+	<key>statelessPageView</key>
+	<string>canDetachSwift</string>
+</dict>
+</plist>

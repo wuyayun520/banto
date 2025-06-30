@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletexceptparameter</key>
+	<string>canProcessUsage</string>
+	<key>firstSubscription</key>
+	<string>canPersistRole</string>
+	<key>graphForce</key>
+	<string>shouldcancelentropy</string>
+	<key>shouldpublishrow</key>
+	<string>interactiveContraction</string>
+	<key>trainspecifier</key>
+	<string>transposeUtil</string>
+</dict>
+</plist>

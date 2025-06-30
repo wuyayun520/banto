@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>largeAction</key>
+	<string>binaryState</string>
+	<key>materializerVisible</key>
+	<string>transposebinary</string>
+	<key>shouldreplaceinteger</key>
+	<string>canPauseGraphic</string>
+	<key>sortedScene</key>
+	<string>canBuildNib</string>
+	<key>streamreliability</key>
+	<string>shouldRestartCard</string>
+	<key>streamuntilplatform</key>
+	<string>playbackProxy</string>
+	<key>transformerTail</key>
+	<string>themename</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbacktempletension</key>
+	<string>crudeAllocator</string>
+	<key>characteristicTail</key>
+	<string>canContinueCheckbox</string>
+	<key>dynamicspine</key>
+	<string>shouldBindMaterial</string>
+	<key>immutablePageView</key>
+	<string>fetchDrawer</string>
+	<key>inkwellasync</key>
+	<string>shouldDetachKernel</string>
+	<key>transitionShape</key>
+	<string>canUnmountedNotification</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronouscustompaintvisible</key>
+	<string>stackTransparency</string>
+	<key>eagerStep</key>
+	<string>removesegment</string>
+	<key>playbackopacity</key>
+	<string>spritecreator</string>
+	<key>prismaticchartbound</key>
+	<string>typicalException</string>
+	<key>progressbaratstate</key>
+	<string>introspecttabbar</string>
+	<key>resolverValidation</key>
+	<string>rectangleRight</string>
+	<key>roleAppearance</key>
+	<string>originalColumn</string>
+	<key>shaderpressure</key>
+	<string>canCreateChecklist</string>
+</dict>
+</plist>

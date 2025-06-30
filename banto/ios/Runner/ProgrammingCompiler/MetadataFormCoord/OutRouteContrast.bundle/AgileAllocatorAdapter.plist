@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRepository</key>
+	<string>shouldEndSpine</string>
+	<key>immediateAwait</key>
+	<string>singleBullet</string>
+	<key>interceptmanager</key>
+	<string>commonmethodopacity</string>
+	<key>intuitiveData</key>
+	<string>easyTween</string>
+	<key>layerOrientation</key>
+	<string>semanticsfeature</string>
+	<key>performmediaquery</key>
+	<string>arithmeticAscent</string>
+	<key>publisherrate</key>
+	<string>detectorHue</string>
+	<key>shouldMountCell</key>
+	<string>zoneIndex</string>
+</dict>
+</plist>

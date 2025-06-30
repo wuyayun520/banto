@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileProfile</key>
+	<string>shouldDeserializeFlex</string>
+	<key>flexiblecontroller</key>
+	<string>shouldSetStateBase</string>
+	<key>layeroffset</key>
+	<string>normStrategy</string>
+	<key>mutablequeuealignment</key>
+	<string>evaluateZone</string>
+	<key>normalIntensity</key>
+	<string>shouldDismissNotification</string>
+	<key>normalPreview</key>
+	<string>typicalStream</string>
+	<key>previewTransparency</key>
+	<string>drawConfiguration</string>
+	<key>sceneFeedback</key>
+	<string>unbindCard</string>
+	<key>shouldSkipProjection</key>
+	<string>skirtappearance</string>
+	<key>standalonetaskskewx</key>
+	<string>normalResolver</string>
+</dict>
+</plist>

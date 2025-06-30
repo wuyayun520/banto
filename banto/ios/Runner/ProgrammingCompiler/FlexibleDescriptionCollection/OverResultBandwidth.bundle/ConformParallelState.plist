@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderTop</key>
+	<string>cleanRow</string>
+	<key>buffervisitortop</key>
+	<string>tappableSubscription</string>
+	<key>localizationincludescope</key>
+	<string>capsuleoffset</string>
+	<key>shouldInflatePadding</key>
+	<string>elementDensity</string>
+	<key>shouldPushExpanded</key>
+	<string>findAnimation</string>
+	<key>unactivatedInformation</key>
+	<string>functionalScalability</string>
+</dict>
+</plist>

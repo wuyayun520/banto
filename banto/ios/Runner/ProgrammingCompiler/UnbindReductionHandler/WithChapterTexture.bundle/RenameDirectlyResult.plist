@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureBottom</key>
+	<string>primarygraphinterval</string>
+	<key>arithmeticShader</key>
+	<string>shouldresumereference</string>
+	<key>cacheEdge</key>
+	<string>binaryAppearance</string>
+	<key>coordinatorwithoutshape</key>
+	<string>requestscenario</string>
+	<key>dynamicHeap</key>
+	<string>shouldDecodeAperture</string>
+	<key>exponentfrequency</key>
+	<string>delicateEntropy</string>
+	<key>resizableConvolution</key>
+	<string>introspectSubscription</string>
+	<key>symmetricTangent</key>
+	<string>webEntropy</string>
+	<key>unactivatedmemberflags</key>
+	<string>canDispatchBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerModal</key>
+	<string>heroobservercount</string>
+	<key>controllerperaction</key>
+	<string>frameRate</string>
+	<key>heroForce</key>
+	<string>accessibleMaterial</string>
+	<key>routeevent</key>
+	<string>logarithmAction</string>
+	<key>sequentiallayer</key>
+	<string>iterativeNotifier</string>
+	<key>shouldPushCube</key>
+	<string>shouldSaveGem</string>
+	<key>shouldUnbindAnimation</key>
+	<string>selectedStack</string>
+	<key>skirtflags</key>
+	<string>cancelRole</string>
+</dict>
+</plist>

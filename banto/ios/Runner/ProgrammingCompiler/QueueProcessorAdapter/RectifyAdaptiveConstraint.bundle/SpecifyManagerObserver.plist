@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedIcon</key>
+	<string>serviceCenter</string>
+	<key>asynchronousRoute</key>
+	<string>executeLabel</string>
+	<key>defaultMomentum</key>
+	<string>featureCenter</string>
+	<key>elasticcolumn</key>
+	<string>canPublishMaterial</string>
+	<key>hashColor</key>
+	<string>shouldStreamTernary</string>
+	<key>immutablecapacity</key>
+	<string>canRebuildPlate</string>
+	<key>nativeTimeline</key>
+	<string>unaryinsidevariable</string>
+	<key>opaqueAppBar</key>
+	<string>unsortedposition</string>
+	<key>operationbuilder</key>
+	<string>canCancelInteger</string>
+</dict>
+</plist>

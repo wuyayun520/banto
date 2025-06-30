@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTransition</key>
+	<string>disparateInformation</string>
+	<key>dialogsTransparency</key>
+	<string>responsiveTentative</string>
+	<key>shouldAttachModal</key>
+	<string>particleForm</string>
+	<key>taskastier</key>
+	<string>canRebuildBrush</string>
+	<key>unbindslider</key>
+	<string>repositorystructurename</string>
+	<key>webMedia</key>
+	<string>cupertinomodule</string>
+</dict>
+</plist>

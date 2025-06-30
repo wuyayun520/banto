@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateCollection</key>
+	<string>canHandleBaseline</string>
+	<key>layerlayerskewy</key>
+	<string>shouldParseSemantics</string>
+	<key>reducerTint</key>
+	<string>trainAspectRatio</string>
+	<key>shouldDisposeMomentum</key>
+	<string>hashDirection</string>
+	<key>shouldLayoutScroll</key>
+	<string>concurrentMetrics</string>
+	<key>singletonPosition</key>
+	<string>canMountDropdownButton</string>
+</dict>
+</plist>

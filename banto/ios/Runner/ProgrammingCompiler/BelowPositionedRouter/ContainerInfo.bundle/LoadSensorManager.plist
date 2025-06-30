@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticEqualization</key>
+	<string>reactiveTriangles</string>
+	<key>basicIndicator</key>
+	<string>persistBitrate</string>
+	<key>obtainpopup</key>
+	<string>desktopMonster</string>
+	<key>parallelCluster</key>
+	<string>concreteMaster</string>
+	<key>permanentSpine</key>
+	<string>grayscaleCoord</string>
+	<key>priorSegue</key>
+	<string>canTransformCurve</string>
+	<key>scenespacing</key>
+	<string>drawPosition</string>
+	<key>statelessFlex</key>
+	<string>pickerTint</string>
+</dict>
+</plist>

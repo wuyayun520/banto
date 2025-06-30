@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregatelayout</key>
+	<string>documentAction</string>
+	<key>autoPositioned</key>
+	<string>sophisticatedScene</string>
+	<key>cupertinoProject</key>
+	<string>scrollableSubpixel</string>
+	<key>defaultwidget</key>
+	<string>captionDensity</string>
+	<key>imperativeTangent</key>
+	<string>shouldNavigateProjection</string>
+	<key>oldMargin</key>
+	<string>significantPreview</string>
+	<key>resolverForce</key>
+	<string>navigateReducer</string>
+</dict>
+</plist>

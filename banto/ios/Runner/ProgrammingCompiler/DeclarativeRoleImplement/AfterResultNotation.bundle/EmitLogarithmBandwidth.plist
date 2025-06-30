@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterType</key>
+	<string>priorTweak</string>
+	<key>fetchtween</key>
+	<string>diffableLoader</string>
+	<key>geometriclinker</key>
+	<string>shouldResumeScaffold</string>
+	<key>infrastructureMode</key>
+	<string>immutableMatrix</string>
+	<key>positionVisible</key>
+	<string>constraintFlyweight</string>
+	<key>resolvethread</key>
+	<string>decodeMobile</string>
+	<key>shouldNotifyProvider</key>
+	<string>disparateshader</string>
+</dict>
+</plist>

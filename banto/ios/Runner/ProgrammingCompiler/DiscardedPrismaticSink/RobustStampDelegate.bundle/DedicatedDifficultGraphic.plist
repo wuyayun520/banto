@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineFlags</key>
+	<string>storeRotation</string>
+	<key>descriptorTag</key>
+	<string>renderBloc</string>
+	<key>dynamicReliability</key>
+	<string>subscribeslider</string>
+	<key>processentropy</key>
+	<string>intuitiveSymbol</string>
+	<key>publicUnary</key>
+	<string>sceneVelocity</string>
+	<key>scaleTint</key>
+	<string>singletonfrequency</string>
+	<key>shouldSkipObserver</key>
+	<string>accordionScene</string>
+	<key>statelessFrame</key>
+	<string>endDialogs</string>
+	<key>staticConsumption</key>
+	<string>isolateemitter</string>
+</dict>
+</plist>

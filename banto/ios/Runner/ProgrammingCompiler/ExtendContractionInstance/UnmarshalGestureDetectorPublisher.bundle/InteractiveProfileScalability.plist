@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramcontextright</key>
+	<string>permissiveExpanded</string>
+	<key>momentummechanism</key>
+	<string>saveReference</string>
+	<key>resultBound</key>
+	<string>canPresentMomentum</string>
+	<key>robustRange</key>
+	<string>cupertinoPager</string>
+	<key>shouldHandleGraphic</key>
+	<string>similarSchema</string>
+	<key>shouldValidateSignature</key>
+	<string>cupertinotabbaracceleration</string>
+	<key>tappableMaster</key>
+	<string>cupertinoVisibility</string>
+</dict>
+</plist>

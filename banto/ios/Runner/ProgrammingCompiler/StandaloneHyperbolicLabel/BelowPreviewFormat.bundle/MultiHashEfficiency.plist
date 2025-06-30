@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityDelay</key>
+	<string>activatedsliderinterval</string>
+	<key>backwardGate</key>
+	<string>zoneTheme</string>
+	<key>navigatorOpacity</key>
+	<string>bulletcolor</string>
+	<key>permanentTheme</key>
+	<string>gridversusvariable</string>
+	<key>rapidDropdownButton</key>
+	<string>materialmetrics</string>
+	<key>shouldpreparenotifier</key>
+	<string>mediocrePoint</string>
+	<key>usedinstruction</key>
+	<string>firstOperation</string>
+</dict>
+</plist>

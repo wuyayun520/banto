@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopSchema</key>
+	<string>respondCurve</string>
+	<key>gestureInteraction</key>
+	<string>missedScreen</string>
+	<key>inactivecontroller</key>
+	<string>canCacheSine</string>
+	<key>popgroup</key>
+	<string>behaviorAlignment</string>
+	<key>reactiveaspectratiotheme</key>
+	<string>singleGate</string>
+	<key>reusableFilter</key>
+	<string>easyContrast</string>
+	<key>shouldFormatAxis</key>
+	<string>thresholdFormat</string>
+	<key>tangentbrightness</key>
+	<string>cardResponse</string>
+	<key>techniquecount</key>
+	<string>performWidget</string>
+	<key>viewSkewX</key>
+	<string>dismissGrayscale</string>
+</dict>
+</plist>

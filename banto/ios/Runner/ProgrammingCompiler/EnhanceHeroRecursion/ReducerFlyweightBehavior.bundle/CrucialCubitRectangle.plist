@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSplitter</key>
+	<string>permutationmode</string>
+	<key>compositionalDelivery</key>
+	<string>alignmenttypespacing</string>
+	<key>dispatchsize</key>
+	<string>canSkipGradient</string>
+	<key>latencyOffset</key>
+	<string>interpolateProgressBar</string>
+	<key>rapidHash</key>
+	<string>composableprogressbar</string>
+</dict>
+</plist>

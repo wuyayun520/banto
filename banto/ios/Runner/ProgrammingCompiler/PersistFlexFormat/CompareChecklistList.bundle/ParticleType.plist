@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>benchmarkexponent</key>
+	<string>protectedbase</string>
+	<key>contractionHead</key>
+	<string>resourceInteraction</string>
+	<key>fusedUseCase</key>
+	<string>providernumbermargin</string>
+	<key>imagebridgebrightness</key>
+	<string>beginnerlayerdepth</string>
+	<key>indicatorStatus</key>
+	<string>resumePlayback</string>
+	<key>interactiveNotation</key>
+	<string>aspectratioContext</string>
+	<key>shouldreplacemaster</key>
+	<string>shouldYieldCycle</string>
+	<key>storeTail</key>
+	<string>canListenRoute</string>
+	<key>vertexscale</key>
+	<string>invisibleThreshold</string>
+</dict>
+</plist>

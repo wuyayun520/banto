@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableScope</key>
+	<string>completedContraction</string>
+	<key>impactmargin</key>
+	<string>orchestrateCubit</string>
+	<key>lazyBase</key>
+	<string>advancedBinder</string>
+	<key>mutableProfile</key>
+	<string>pointPressure</string>
+	<key>selectedSpot</key>
+	<string>spineParameter</string>
+	<key>sensorSkewX</key>
+	<string>overrideRequest</string>
+	<key>textfieldframeworkinset</key>
+	<string>numericalSkirt</string>
+</dict>
+</plist>

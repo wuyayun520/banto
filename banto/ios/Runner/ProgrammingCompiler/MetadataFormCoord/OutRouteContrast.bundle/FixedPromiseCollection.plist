@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousRouter</key>
+	<string>shouldpreparepositioned</string>
+	<key>capacitiesCount</key>
+	<string>rotatemedia</string>
+	<key>capsuleOrientation</key>
+	<string>replicateAwait</string>
+	<key>integercompositesaturation</key>
+	<string>euclideanGraph</string>
+	<key>oldUsage</key>
+	<string>shouldSaveContraction</string>
+	<key>rapidReference</key>
+	<string>shouldserializecycle</string>
+	<key>unscheduleskin</key>
+	<string>mountProfile</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorAlignment</key>
+	<string>explicitCapsule</string>
+	<key>comprehensiveLog</key>
+	<string>tabbarSkewY</string>
+	<key>interactiveAlert</key>
+	<string>dataSkewY</string>
+	<key>intermediateScreen</key>
+	<string>uniqueGift</string>
+	<key>pausesegment</key>
+	<string>hyperbolicBehavior</string>
+	<key>shouldPersistSegue</key>
+	<string>ephemeralButton</string>
+	<key>similarMediaQuery</key>
+	<string>arithmeticInterpolation</string>
+</dict>
+</plist>

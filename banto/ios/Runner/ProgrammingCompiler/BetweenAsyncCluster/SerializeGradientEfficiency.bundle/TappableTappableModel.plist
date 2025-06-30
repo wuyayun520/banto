@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwarddetector</key>
+	<string>progressbarmodetint</string>
+	<key>mapSpeed</key>
+	<string>findConfiguration</string>
+	<key>restrictionSkewX</key>
+	<string>mapperAcceleration</string>
+	<key>shouldFetchRemainder</key>
+	<string>touchMomentum</string>
+</dict>
+</plist>

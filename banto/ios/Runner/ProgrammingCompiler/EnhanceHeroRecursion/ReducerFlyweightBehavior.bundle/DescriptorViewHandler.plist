@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleEquivalent</key>
+	<string>storyboardflags</string>
+	<key>agileentropycoord</key>
+	<string>eagerData</string>
+	<key>asynchronouslistenerdepth</key>
+	<string>extensionAlignment</string>
+	<key>disabledRow</key>
+	<string>symmetricconstraintformat</string>
+	<key>liteModel</key>
+	<string>detachQueue</string>
+	<key>seekstoryboard</key>
+	<string>normalCapacity</string>
+	<key>shouldTransformDocument</key>
+	<string>unarymode</string>
+	<key>similarLifecycle</key>
+	<string>updateSemantics</string>
+	<key>tabviewbandwidth</key>
+	<string>createNib</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionStoryboard</key>
+	<string>primaryThreshold</string>
+	<key>ephemeralSkirt</key>
+	<string>shouldSerializeEquipment</string>
+	<key>normalcallback</key>
+	<string>respectiveTitle</string>
+	<key>recursionBrightness</key>
+	<string>createScale</string>
+	<key>scrollcoordinator</key>
+	<string>directReceiver</string>
+	<key>splitterSaturation</key>
+	<string>restoreWidget</string>
+	<key>statelessCatalyst</key>
+	<string>spriteforbridge</string>
+	<key>substantialinterface</key>
+	<string>gesturedetectorVariable</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalLinker</key>
+	<string>canSkipOption</string>
+	<key>crucialGem</key>
+	<string>processFragment</string>
+	<key>deferredBehavior</key>
+	<string>histogramcolor</string>
+	<key>gradientVelocity</key>
+	<string>reusableSegue</string>
+	<key>instructionSpeed</key>
+	<string>retainedRemainder</string>
+	<key>interactiveConvolution</key>
+	<string>pinchableAlpha</string>
+	<key>lazyInteger</key>
+	<string>symbolInset</string>
+	<key>methodinsideform</key>
+	<string>threadTransparency</string>
+	<key>presenterscopeleft</key>
+	<string>transformRow</string>
+	<key>robustColor</key>
+	<string>shouldDismissText</string>
+</dict>
+</plist>

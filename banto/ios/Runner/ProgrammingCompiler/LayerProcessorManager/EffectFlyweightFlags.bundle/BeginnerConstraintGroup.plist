@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionListView</key>
+	<string>shouldAttachAspect</string>
+	<key>audioCoord</key>
+	<string>cupertinoRepository</string>
+	<key>gateSize</key>
+	<string>popuppolygon</string>
+	<key>plateRight</key>
+	<string>imperativeSpecifier</string>
+	<key>sequentialanimation</key>
+	<string>hardPresenter</string>
+	<key>shouldCreateTheme</key>
+	<string>shouldRenderProjection</string>
+	<key>shouldDisposeBatch</key>
+	<string>shouldDisconnectKernel</string>
+	<key>taxonomyVisible</key>
+	<string>collectionstorage</string>
+	<key>workflowEdge</key>
+	<string>routeRight</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorskewy</key>
+	<string>symmetricCollection</string>
+	<key>intermediatequeuestatus</key>
+	<string>responderLocation</string>
+	<key>mobileTail</key>
+	<string>deliveryFormat</string>
+	<key>pinchablePicker</key>
+	<string>permanentRect</string>
+	<key>shouldSaveGate</key>
+	<string>handleInstruction</string>
+	<key>shouldpausetool</key>
+	<string>semanticsRight</string>
+	<key>uniformException</key>
+	<string>routerStrategy</string>
+</dict>
+</plist>

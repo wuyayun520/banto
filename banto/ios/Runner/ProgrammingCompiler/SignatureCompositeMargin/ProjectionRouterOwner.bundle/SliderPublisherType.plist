@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentTicker</key>
+	<string>isolatekindcenter</string>
+	<key>displayableFeature</key>
+	<string>positionVisible</string>
+	<key>enabledPlayback</key>
+	<string>greatAnimator</string>
+	<key>methodOpacity</key>
+	<string>fixedEvent</string>
+	<key>shouldDetachRichText</key>
+	<string>shouldFetchCharacter</string>
+	<key>shouldFormatStream</key>
+	<string>contrastAlignment</string>
+	<key>shouldupdatedimension</key>
+	<string>parseStorage</string>
+</dict>
+</plist>

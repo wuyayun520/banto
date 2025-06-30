@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerBinder</key>
+	<string>persistfeature</string>
+	<key>gatescenario</key>
+	<string>statefulAudio</string>
+	<key>independentSensor</key>
+	<string>skipHero</string>
+	<key>interactiveDistinction</key>
+	<string>cacheNotifier</string>
+	<key>iterativeTweak</key>
+	<string>canCancelDuration</string>
+	<key>mobileContainer</key>
+	<string>reusableSearcher</string>
+	<key>receiverole</key>
+	<string>disparateConverter</string>
+	<key>statelessForce</key>
+	<string>channelsScope</string>
+</dict>
+</plist>

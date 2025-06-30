@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasliketemple</key>
+	<string>dropdownbuttonTint</string>
+	<key>difficultChecklist</key>
+	<string>discardedConstant</string>
+	<key>disabledQueue</key>
+	<string>slidertweak</string>
+	<key>frameandlevel</key>
+	<string>queueParam</string>
+	<key>gramRotation</key>
+	<string>navigationcapacity</string>
+	<key>inkwellStatus</key>
+	<string>shouldRebuildCollection</string>
+	<key>shouldresumecolumn</key>
+	<string>multitask</string>
+	<key>threadtint</key>
+	<string>receiverDirection</string>
+	<key>usedEvent</key>
+	<string>radiusSpacing</string>
+</dict>
+</plist>

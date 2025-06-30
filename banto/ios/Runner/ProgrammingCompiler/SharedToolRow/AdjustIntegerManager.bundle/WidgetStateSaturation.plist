@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactionstate</key>
+	<string>finderType</string>
+	<key>oldWidget</key>
+	<string>continueController</string>
+	<key>seamlessStore</key>
+	<string>canNavigateSpot</string>
+</dict>
+</plist>

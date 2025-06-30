@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerRotation</key>
+	<string>overlaypatterntype</string>
+	<key>expandedFormat</key>
+	<string>standalonestampdensity</string>
+	<key>greatIntensity</key>
+	<string>primaryDescriptor</string>
+	<key>missionVelocity</key>
+	<string>collectionstatus</string>
+	<key>reusableSubscriber</key>
+	<string>removeoverlay</string>
+	<key>sliderVelocity</key>
+	<string>resilientCharacter</string>
+</dict>
+</plist>

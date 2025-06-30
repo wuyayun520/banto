@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledSlash</key>
+	<string>canPreparePadding</string>
+	<key>ignoredSize</key>
+	<string>efficiencyCount</string>
+	<key>numericalGraph</key>
+	<string>materializeticker</string>
+	<key>sequentialerrorposition</key>
+	<string>pointInterval</string>
+	<key>throughputFormat</key>
+	<string>intuitiveCompletion</string>
+	<key>transitionthanpattern</key>
+	<string>persistKernel</string>
+</dict>
+</plist>

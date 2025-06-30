@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorDepth</key>
+	<string>canLoadOption</string>
+	<key>gateoffset</key>
+	<string>permissiveNavigator</string>
+	<key>geometricProgressBar</key>
+	<string>receiveAction</string>
+	<key>hashLeft</key>
+	<string>shouldFetchBatch</string>
+	<key>listviewOrientation</key>
+	<string>visibleConfidentiality</string>
+	<key>statelessnearwork</key>
+	<string>activitybloc</string>
+	<key>titlewithoutstate</key>
+	<string>sophisticatedRow</string>
+</dict>
+</plist>

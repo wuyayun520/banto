@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerKind</key>
+	<string>registerSlider</string>
+	<key>hasCollection</key>
+	<string>displayableDispatcher</string>
+	<key>inactiveScroller</key>
+	<string>popException</string>
+	<key>shouldBuildSample</key>
+	<string>shouldDismissAspectRatio</string>
+	<key>tweenimage</key>
+	<string>positionedBrightness</string>
+</dict>
+</plist>

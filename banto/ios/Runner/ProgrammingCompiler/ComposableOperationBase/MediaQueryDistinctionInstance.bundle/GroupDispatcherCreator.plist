@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonstate</key>
+	<string>reusableMetrics</string>
+	<key>discardedListView</key>
+	<string>autoresolver</string>
+	<key>intermediateHeap</key>
+	<string>shouldHandleCycle</string>
+	<key>layerelement</key>
+	<string>mountedDropdownButton</string>
+	<key>mendKind</key>
+	<string>functionalPromise</string>
+	<key>metadataPosition</key>
+	<string>asynchronouscurve</string>
+	<key>oldOffset</key>
+	<string>annotateFrame</string>
+	<key>remainderVisible</key>
+	<string>unsortedDocument</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detailTop</key>
+	<string>shouldResumeActivity</string>
+	<key>displayableDispatcher</key>
+	<string>numericalLayout</string>
+	<key>globalQueue</key>
+	<string>canKeepGem</string>
+	<key>intuitiveProfile</key>
+	<string>tensorCosine</string>
+	<key>permissiveDropdownButton</key>
+	<string>shouldTransitionMomentum</string>
+	<key>progressbarTension</key>
+	<string>executeTask</string>
+	<key>scrollableItem</key>
+	<string>stepBehavior</string>
+	<key>sizedboxTension</key>
+	<string>temporaryInterface</string>
+</dict>
+</plist>

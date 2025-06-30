@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoobject</key>
+	<string>robustAppBar</string>
+	<key>handlerdepth</key>
+	<string>scrollablematrixacceleration</string>
+	<key>independentdurationhue</key>
+	<string>loadEqualization</string>
+	<key>presenterPadding</key>
+	<string>agileWorkflow</string>
+	<key>segueShade</key>
+	<string>activatedprojection</string>
+	<key>shouldProcessTask</key>
+	<string>uniqueInteractor</string>
+	<key>sortedIndicator</key>
+	<string>observerlevelsize</string>
+</dict>
+</plist>

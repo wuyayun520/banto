@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedrole</key>
+	<string>asynchronousConnector</string>
+	<key>ignoredStatus</key>
+	<string>canStopSignature</string>
+	<key>modelLeft</key>
+	<string>themedensity</string>
+	<key>oldlabel</key>
+	<string>elasticityAcceleration</string>
+	<key>sharedTween</key>
+	<string>updateNotifier</string>
+	<key>subsequentDrawer</key>
+	<string>relationalProcessor</string>
+	<key>subtleTangent</key>
+	<string>transformTable</string>
+	<key>tickerTint</key>
+	<string>shouldDetachButton</string>
+</dict>
+</plist>

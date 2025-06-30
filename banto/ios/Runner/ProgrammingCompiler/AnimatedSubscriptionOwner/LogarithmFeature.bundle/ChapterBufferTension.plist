@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activevector</key>
+	<string>integrityShade</string>
+	<key>gestureinjection</key>
+	<string>gridviewposition</string>
+	<key>protocolTint</key>
+	<string>appbarDecorator</string>
+	<key>usecaseAppearance</key>
+	<string>semanticsScale</string>
+</dict>
+</plist>

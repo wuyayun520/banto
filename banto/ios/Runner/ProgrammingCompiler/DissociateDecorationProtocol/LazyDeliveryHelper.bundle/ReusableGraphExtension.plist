@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationcontainform</key>
+	<string>lastCube</string>
+	<key>dynamicProfile</key>
+	<string>dimensionformat</string>
+	<key>metadatastagetail</key>
+	<string>autoBuilder</string>
+	<key>normalDimension</key>
+	<string>consumerCount</string>
+	<key>pointHead</key>
+	<string>showQueue</string>
+	<key>retainedCertificate</key>
+	<string>prepareChallenge</string>
+</dict>
+</plist>

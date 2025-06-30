@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateDistance</key>
+	<string>particleobserverflags</string>
+	<key>lastawaithue</key>
+	<string>intuitivestate</string>
+	<key>missedNib</key>
+	<string>resetoverlay</string>
+	<key>popprovider</key>
+	<string>subscribetexture</string>
+	<key>shouldListenLayout</key>
+	<string>canTransformCanvas</string>
+	<key>shouldPopMovement</key>
+	<string>ephemeralSymbol</string>
+	<key>sophisticatedDelivery</key>
+	<string>liteScroll</string>
+	<key>sortedBoxShadow</key>
+	<string>canDetachCapacities</string>
+	<key>tensordescription</key>
+	<string>shouldAnimateBase</string>
+</dict>
+</plist>

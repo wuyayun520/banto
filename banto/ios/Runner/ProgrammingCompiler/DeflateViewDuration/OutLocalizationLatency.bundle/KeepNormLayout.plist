@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerHue</key>
+	<string>agileEvent</string>
+	<key>aperturevisibility</key>
+	<string>visualizeFrame</string>
+	<key>basicbaselineflags</key>
+	<string>interactorVelocity</string>
+	<key>cacheOrigin</key>
+	<string>catalystorientation</string>
+	<key>cartesianHero</key>
+	<string>clearReducer</string>
+	<key>defaultnotifier</key>
+	<string>tabbartitle</string>
+	<key>diversifiedcollection</key>
+	<string>toolType</string>
+	<key>globalEvent</key>
+	<string>canSubscribeSizedBox</string>
+	<key>restartspine</key>
+	<string>comprehensiveSearcher</string>
+	<key>sizeHead</key>
+	<string>canInflateDropdownButton</string>
+</dict>
+</plist>

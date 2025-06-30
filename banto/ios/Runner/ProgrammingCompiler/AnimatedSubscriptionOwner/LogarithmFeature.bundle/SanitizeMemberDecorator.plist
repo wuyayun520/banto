@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachmaterial</key>
+	<string>tappableCompleter</string>
+	<key>discardedAnimation</key>
+	<string>exponentOrientation</string>
+	<key>easyResponder</key>
+	<string>symmetricvariant</string>
+	<key>groupMargin</key>
+	<string>serviceFunction</string>
+	<key>missedCurve</key>
+	<string>canAttachDuration</string>
+	<key>otherswiftvisibility</key>
+	<string>secondTimer</string>
+	<key>respectivePolyfill</key>
+	<string>materialqueue</string>
+	<key>shouldEmitProtocol</key>
+	<string>prismaticInterface</string>
+	<key>triggerShade</key>
+	<string>restrictionmargin</string>
+</dict>
+</plist>

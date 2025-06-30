@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicCaption</key>
+	<string>hasAspect</string>
+	<key>functionalInteractor</key>
+	<string>checkboxStatus</string>
+	<key>reducerKind</key>
+	<string>descriptioninterval</string>
+	<key>similargridpadding</key>
+	<string>floatController</string>
+	<key>uniformPosition</key>
+	<string>transitionTint</string>
+</dict>
+</plist>

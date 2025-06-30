@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>encapsulateskin</key>
+	<string>resilienceHead</string>
+	<key>hardImpact</key>
+	<string>evaluationFrequency</string>
+	<key>lazyBloc</key>
+	<string>scrollableEffect</string>
+	<key>tappableTernary</key>
+	<string>resizableslashstate</string>
+</dict>
+</plist>

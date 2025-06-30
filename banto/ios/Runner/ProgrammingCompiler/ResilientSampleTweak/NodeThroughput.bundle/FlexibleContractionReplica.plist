@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCurve</key>
+	<string>shouldListenSample</string>
+	<key>advancedModule</key>
+	<string>unbindlabel</string>
+	<key>overlaybridgebehavior</key>
+	<string>movementValidation</string>
+	<key>shouldShowStateless</key>
+	<string>constraintOrientation</string>
+	<key>tweencount</key>
+	<string>popModulus</string>
+</dict>
+</plist>

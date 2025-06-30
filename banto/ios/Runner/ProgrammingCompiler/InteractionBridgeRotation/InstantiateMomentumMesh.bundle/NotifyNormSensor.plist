@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedImage</key>
+	<string>canPauseMargin</string>
+	<key>cursorRate</key>
+	<string>protocolBound</string>
+	<key>elasticRect</key>
+	<string>enabledTable</string>
+	<key>granularMovement</key>
+	<string>shouldPrepareMovement</string>
+	<key>ignoredConfiguration</key>
+	<string>canSkipSegue</string>
+	<key>mediocreTaxonomy</key>
+	<string>consumerawaydecorator</string>
+	<key>staticAnchor</key>
+	<string>shouldstartextension</string>
+</dict>
+</plist>

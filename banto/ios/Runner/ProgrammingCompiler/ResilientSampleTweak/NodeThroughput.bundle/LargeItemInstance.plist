@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableImage</key>
+	<string>canEndWidget</string>
+	<key>functionalSegue</key>
+	<string>responsiveInkWell</string>
+	<key>greatDecoration</key>
+	<string>displayGrid</string>
+	<key>integrationRotation</key>
+	<string>commonAspect</string>
+	<key>multiSingleton</key>
+	<string>priorPlayback</string>
+	<key>reusableCreator</key>
+	<string>shouldPopStamp</string>
+	<key>shouldUnmountBatch</key>
+	<string>stackFrequency</string>
+</dict>
+</plist>

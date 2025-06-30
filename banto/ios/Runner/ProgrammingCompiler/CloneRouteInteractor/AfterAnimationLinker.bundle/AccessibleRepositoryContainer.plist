@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicCharacteristic</key>
+	<string>multiAction</string>
+	<key>modelpatternpadding</key>
+	<string>continueOverlay</string>
+	<key>multiEffect</key>
+	<string>movementCount</string>
+	<key>requiredRange</key>
+	<string>resizableZone</string>
+	<key>responsiveDuration</key>
+	<string>borderPadding</string>
+	<key>shouldCreateCursor</key>
+	<string>shouldCreateTabBar</string>
+	<key>shouldProcessComposition</key>
+	<string>sharedaspect</string>
+	<key>shouldUpdateCurve</key>
+	<string>imperativeSlash</string>
+	<key>subsequentParticle</key>
+	<string>behaviorDuration</string>
+</dict>
+</plist>

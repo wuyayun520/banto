@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleIntensity</key>
+	<string>delegateError</string>
+	<key>largeDialogs</key>
+	<string>deserializealignment</string>
+	<key>litePermutation</key>
+	<string>shouldEndScale</string>
+	<key>resetresult</key>
+	<string>actiondecoratorspacing</string>
+	<key>resilientQueue</key>
+	<string>canLayoutConsumer</string>
+	<key>shouldRenderSwift</key>
+	<string>lastSensor</string>
+	<key>startborder</key>
+	<string>lossMediator</string>
+	<key>transitionBorder</key>
+	<string>impressionScale</string>
+</dict>
+</plist>

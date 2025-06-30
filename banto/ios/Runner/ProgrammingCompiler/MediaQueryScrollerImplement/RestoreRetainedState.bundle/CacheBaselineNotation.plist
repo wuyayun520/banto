@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedblochue</key>
+	<string>normalLocalization</string>
+	<key>lostGem</key>
+	<string>primaryBullet</string>
+	<key>permissivestoryboard</key>
+	<string>nativeFrame</string>
+	<key>seguefrequency</key>
+	<string>pivotalpolygon</string>
+	<key>shouldTrainPainter</key>
+	<string>protectedChart</string>
+	<key>tangentContrast</key>
+	<string>listviewColor</string>
+</dict>
+</plist>

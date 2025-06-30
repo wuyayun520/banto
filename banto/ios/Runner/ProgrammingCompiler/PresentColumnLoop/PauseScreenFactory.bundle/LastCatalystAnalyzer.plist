@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerSkewY</key>
+	<string>canMountedShader</string>
+	<key>dedicatedPet</key>
+	<string>interactorContrast</string>
+	<key>gradientbehavior</key>
+	<string>flexibleLatency</string>
+	<key>ignoredDetail</key>
+	<string>invisibleCycle</string>
+	<key>persistgesturedetector</key>
+	<string>graphicSkewX</string>
+	<key>rapidElement</key>
+	<string>shouldreplacefuture</string>
+	<key>shouldRestartClipper</key>
+	<string>usecaseChain</string>
+	<key>unsortedSemantics</key>
+	<string>optimizeConstraint</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>copyconfiguration</key>
+	<string>accelerateSprite</string>
+	<key>elasticIntensity</key>
+	<string>mapreceiver</string>
+	<key>explicitSearcher</key>
+	<string>resilientSorter</string>
+	<key>persistentScope</key>
+	<string>integrityTint</string>
+	<key>shapeSpeed</key>
+	<string>emitterVisibility</string>
+	<key>shouldSetStateGesture</key>
+	<string>scrollableTimeline</string>
+</dict>
+</plist>

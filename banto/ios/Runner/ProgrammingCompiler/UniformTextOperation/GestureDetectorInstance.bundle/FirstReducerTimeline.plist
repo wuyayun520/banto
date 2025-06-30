@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxCenter</key>
+	<string>canShowSine</string>
+	<key>completionTint</key>
+	<string>canEmitContainer</string>
+	<key>discardedLatency</key>
+	<string>shouldFetchCaption</string>
+	<key>priorInteractor</key>
+	<string>renameAnimation</string>
+	<key>priorMaterializer</key>
+	<string>lazyCollection</string>
+	<key>signDirection</key>
+	<string>transformColumn</string>
+</dict>
+</plist>

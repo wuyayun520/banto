@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionEmitter</key>
+	<string>captionAcceleration</string>
+	<key>cubitOrigin</key>
+	<string>permissiveUnary</string>
+	<key>deferredChapter</key>
+	<string>singlemusic</string>
+	<key>permanentGestureDetector</key>
+	<string>keyDetector</string>
+	<key>prevPriority</key>
+	<string>canPauseCheckbox</string>
+	<key>primaryPrecision</key>
+	<string>checklistShape</string>
+	<key>rowtypedirection</key>
+	<string>significantslash</string>
+	<key>shouldListenExtension</key>
+	<string>disposeBloc</string>
+	<key>soundDuration</key>
+	<string>chartTail</string>
+</dict>
+</plist>

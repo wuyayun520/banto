@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionTop</key>
+	<string>cupertinoTop</string>
+	<key>cupertinograyscale</key>
+	<string>cleanlogarithm</string>
+	<key>logarithmMode</key>
+	<string>flexibleoptionright</string>
+	<key>materialtask</key>
+	<string>vectorbehavior</string>
+	<key>mediocreTicker</key>
+	<string>concurrentPresenter</string>
+	<key>shouldStopAxis</key>
+	<string>restartnavigator</string>
+	<key>significantDialogs</key>
+	<string>listviewDensity</string>
+	<key>tappableIsolate</key>
+	<string>numericalSink</string>
+	<key>unaryfunctionstatus</key>
+	<string>keyDialogs</string>
+	<key>unmountstream</key>
+	<string>resultCount</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>maintaininstruction</key>
+	<string>canStopDescriptor</string>
+	<key>optimizerAcceleration</key>
+	<string>requiredNavigator</string>
+	<key>secondAnimator</key>
+	<string>intermediateGestureDetector</string>
+	<key>sequentialTitle</key>
+	<string>maintainSubscription</string>
+	<key>significantprofileresponse</key>
+	<string>clipperValidation</string>
+	<key>statefulFrequency</key>
+	<string>parseView</string>
+	<key>throughputtop</key>
+	<string>screenChain</string>
+	<key>usecaseOrientation</key>
+	<string>mitigateTexture</string>
+</dict>
+</plist>

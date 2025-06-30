@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativestoragedirection</key>
+	<string>originalconsumer</string>
+	<key>handlerreducer</key>
+	<string>permissiveTransformer</string>
+	<key>inkwellInteraction</key>
+	<string>minGate</string>
+	<key>invisibleAscent</key>
+	<string>videoShape</string>
+	<key>nativeChapter</key>
+	<string>usageAction</string>
+	<key>permanentAnimator</key>
+	<string>integrityContrast</string>
+	<key>priorIndicator</key>
+	<string>hasDimension</string>
+	<key>uniformChapter</key>
+	<string>interactiveCompleter</string>
+	<key>variantRate</key>
+	<string>performalpha</string>
+</dict>
+</plist>

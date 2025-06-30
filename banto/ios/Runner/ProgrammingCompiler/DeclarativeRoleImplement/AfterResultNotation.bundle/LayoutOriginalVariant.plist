@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartpadding</key>
+	<string>disposesubpixel</string>
+	<key>criticalMapper</key>
+	<string>customizedComposition</string>
+	<key>delicateSingleton</key>
+	<string>hierarchicalsessioncoord</string>
+	<key>efficiencyAcceleration</key>
+	<string>interactorMargin</string>
+	<key>modelColor</key>
+	<string>calculateCubit</string>
+	<key>rapidLocalization</key>
+	<string>sizeAppearance</string>
+	<key>regulateaxis</key>
+	<string>nibProcess</string>
+	<key>serviceTop</key>
+	<string>modalValidation</string>
+</dict>
+</plist>

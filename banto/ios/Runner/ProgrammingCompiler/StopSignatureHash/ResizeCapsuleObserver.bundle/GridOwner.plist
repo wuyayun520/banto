@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equivalentTint</key>
+	<string>consultativeDetector</string>
+	<key>escalateresource</key>
+	<string>directlyTabBar</string>
+	<key>flexValidation</key>
+	<string>lastLoss</string>
+	<key>hasRoute</key>
+	<string>inactiveCharacter</string>
+	<key>loopVisible</key>
+	<string>skinPrototype</string>
+	<key>observerwithoutobserver</key>
+	<string>canRenderBullet</string>
+	<key>priorInfo</key>
+	<string>shouldContinueCollection</string>
+	<key>shouldSkipBitrate</key>
+	<string>directlyAspectRatio</string>
+	<key>shouldStreamDelegate</key>
+	<string>streamlinePresenter</string>
+	<key>uniquePoint</key>
+	<string>crudeInteraction</string>
+</dict>
+</plist>

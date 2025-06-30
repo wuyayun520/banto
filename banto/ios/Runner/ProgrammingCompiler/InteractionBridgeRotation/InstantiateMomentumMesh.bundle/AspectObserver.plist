@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exponentInterval</key>
+	<string>opaqueAction</string>
+	<key>gramcontrast</key>
+	<string>creatorScale</string>
+	<key>handlerTint</key>
+	<string>otherscenario</string>
+	<key>lazyTrigger</key>
+	<string>cancelGram</string>
+	<key>tickercontainmediator</key>
+	<string>shouldShowCell</string>
+	<key>webConstraint</key>
+	<string>signSpacing</string>
+</dict>
+</plist>

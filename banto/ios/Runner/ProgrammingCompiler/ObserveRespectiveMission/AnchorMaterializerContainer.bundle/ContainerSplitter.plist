@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopAwait</key>
+	<string>hastext</string>
+	<key>overlayPadding</key>
+	<string>numericalStorage</string>
+	<key>shouldUnmountedSlash</key>
+	<string>uniqueRadius</string>
+	<key>standaloneRenderer</key>
+	<string>providerlatency</string>
+</dict>
+</plist>

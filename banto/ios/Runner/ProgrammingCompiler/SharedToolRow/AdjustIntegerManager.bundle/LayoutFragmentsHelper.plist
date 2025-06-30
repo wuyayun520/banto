@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticReducer</key>
+	<string>persistChallenge</string>
+	<key>explicitReliability</key>
+	<string>mobileAscent</string>
+	<key>functionalCatalyst</key>
+	<string>shouldPaintTextField</string>
+	<key>hastext</key>
+	<string>drawerslider</string>
+	<key>layoutdescription</key>
+	<string>quantizationgrain</string>
+	<key>retainedTolerance</key>
+	<string>effectLevel</string>
+	<key>symmetricAlpha</key>
+	<string>delegateDelay</string>
+</dict>
+</plist>

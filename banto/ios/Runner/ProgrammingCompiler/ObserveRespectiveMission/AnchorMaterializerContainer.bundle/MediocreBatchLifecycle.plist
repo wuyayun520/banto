@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertagainststage</key>
+	<string>commonSlider</string>
+	<key>checkboxparamappearance</key>
+	<string>shouldlistencapsule</string>
+	<key>consumerStyle</key>
+	<string>canRestartNotifier</string>
+	<key>disabledobserverpadding</key>
+	<string>reducerForm</string>
+	<key>movementShape</key>
+	<string>timelineOrientation</string>
+	<key>originalIntensity</key>
+	<string>responseTransparency</string>
+	<key>requiredDescent</key>
+	<string>navigationLayer</string>
+	<key>shouldrebuildgesture</key>
+	<string>shouldPersistCapacities</string>
+</dict>
+</plist>

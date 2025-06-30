@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyPresenter</key>
+	<string>seamlessMetadata</string>
+	<key>invisibleItem</key>
+	<string>missedTimer</string>
+	<key>menuType</key>
+	<string>layoutNumber</string>
+	<key>parallelProfile</key>
+	<string>durationSkewX</string>
+	<key>textureDensity</key>
+	<string>shouldMountedNavigator</string>
+</dict>
+</plist>

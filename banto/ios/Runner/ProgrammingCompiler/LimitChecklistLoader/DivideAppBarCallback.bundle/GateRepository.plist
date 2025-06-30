@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customDuration</key>
+	<string>easyInfrastructure</string>
+	<key>disparateCallback</key>
+	<string>uniformSplitter</string>
+	<key>objectTail</key>
+	<string>renderconsumer</string>
+	<key>selectorSaturation</key>
+	<string>enabledColumn</string>
+	<key>unactivatedInjection</key>
+	<string>pauseCupertino</string>
+</dict>
+</plist>

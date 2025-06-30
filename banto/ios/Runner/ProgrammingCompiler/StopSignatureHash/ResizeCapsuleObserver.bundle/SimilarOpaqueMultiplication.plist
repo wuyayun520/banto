@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitlikeoperation</key>
+	<string>accelerateAllocator</string>
+	<key>buttondirection</key>
+	<string>pickerBound</string>
+	<key>buttonshape</key>
+	<string>defaultButton</string>
+	<key>labelDelay</key>
+	<string>orchestratebuffer</string>
+	<key>momentumVelocity</key>
+	<string>sinkpainter</string>
+	<key>resilientgridrotation</key>
+	<string>gateComposite</string>
+	<key>revisitsensor</key>
+	<string>marginfunctionbehavior</string>
+	<key>synchronousRecursion</key>
+	<string>gemAdapter</string>
+</dict>
+</plist>

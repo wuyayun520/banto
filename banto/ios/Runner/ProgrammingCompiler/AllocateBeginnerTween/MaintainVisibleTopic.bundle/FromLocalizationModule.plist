@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectversusbuffer</key>
+	<string>canCacheNib</string>
+	<key>commonLog</key>
+	<string>flexTier</string>
+	<key>dependencyBound</key>
+	<string>enhanceState</string>
+	<key>marginTop</key>
+	<string>statelessLoop</string>
+	<key>pickerEdge</key>
+	<string>awaitdispatcher</string>
+	<key>resilienceSkewX</key>
+	<string>disparateMaster</string>
+	<key>scaffoldTint</key>
+	<string>wrapperMomentum</string>
+	<key>semanticsdisclaimer</key>
+	<string>liteDetail</string>
+	<key>shouldDispatchMember</key>
+	<string>resolveAsset</string>
+	<key>shouldPresentObserver</key>
+	<string>schemaScale</string>
+</dict>
+</plist>

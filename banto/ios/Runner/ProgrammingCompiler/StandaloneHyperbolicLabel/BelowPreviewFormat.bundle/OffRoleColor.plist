@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensivepointborder</key>
+	<string>switchDistance</string>
+	<key>crucialNavigator</key>
+	<string>adaptiveTentative</string>
+	<key>sensorRate</key>
+	<string>canStartSensor</string>
+	<key>shouldformatflex</key>
+	<string>shouldUpdateCheckbox</string>
+	<key>zoneState</key>
+	<string>intensitycontrast</string>
+</dict>
+</plist>

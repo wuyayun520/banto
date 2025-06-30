@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterSize</key>
+	<string>pushSwitch</string>
+	<key>criticalBitrate</key>
+	<string>listenBuffer</string>
+	<key>displayableMend</key>
+	<string>ternaryAppearance</string>
+	<key>diversifiedSubscriber</key>
+	<string>textureVisibility</string>
+	<key>hyperbolicAxis</key>
+	<string>specifyAnalogy</string>
+	<key>lastBinary</key>
+	<string>persistentworkflow</string>
+	<key>pagerFrequency</key>
+	<string>mergerAlignment</string>
+	<key>permanentRoute</key>
+	<string>subsequentBloc</string>
+	<key>pickerRight</key>
+	<string>projectLocation</string>
+</dict>
+</plist>

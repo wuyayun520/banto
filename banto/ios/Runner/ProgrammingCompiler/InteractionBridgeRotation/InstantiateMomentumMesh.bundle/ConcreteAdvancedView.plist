@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lazyzone</key>
+	<string>liteColumn</string>
+	<key>materializerstatus</key>
+	<string>profileSpacing</string>
+	<key>paddingevaluation</key>
+	<string>prevLoop</string>
+	<key>parallelWidget</key>
+	<string>listenerSkewY</string>
+	<key>pivotalModal</key>
+	<string>subsequentGradient</string>
+	<key>subscriptionTheme</key>
+	<string>cellOrientation</string>
+</dict>
+</plist>

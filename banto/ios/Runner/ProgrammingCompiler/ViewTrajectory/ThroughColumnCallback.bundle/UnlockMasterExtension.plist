@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationframeworkdensity</key>
+	<string>eventInterpreter</string>
+	<key>notifychannel</key>
+	<string>handleparticle</string>
+	<key>shouldBindCaption</key>
+	<string>partitionManager</string>
+	<key>themeSpacing</key>
+	<string>resetCurve</string>
+	<key>tweenLocation</key>
+	<string>musicPressure</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundlepriority</key>
+	<string>persistenttabviewforce</string>
+	<key>custompaintdisclaimer</key>
+	<string>startProjection</string>
+	<key>diffableProvision</key>
+	<string>permanentLatency</string>
+	<key>semanticModule</key>
+	<string>lazysubscriptionmargin</string>
+	<key>smallSize</key>
+	<string>scrollrate</string>
+</dict>
+</plist>

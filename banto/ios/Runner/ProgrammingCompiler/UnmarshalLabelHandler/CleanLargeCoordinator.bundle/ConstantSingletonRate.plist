@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnTransparency</key>
+	<string>canEndCache</string>
+	<key>compositionalInjection</key>
+	<string>shouldTrainCupertino</string>
+	<key>geometricShape</key>
+	<string>globalScheduler</string>
+	<key>isolateSpacing</key>
+	<string>functionalVariant</string>
+	<key>previewLeft</key>
+	<string>crucialPopup</string>
+</dict>
+</plist>

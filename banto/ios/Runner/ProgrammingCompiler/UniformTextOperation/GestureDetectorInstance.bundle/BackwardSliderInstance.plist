@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumecallback</key>
+	<string>inflateSink</string>
+	<key>convolutionMargin</key>
+	<string>detachLocalization</string>
+	<key>custombulletindex</key>
+	<string>animatedcontainerPattern</string>
+	<key>eagerBitrate</key>
+	<string>explicitSearcher</string>
+	<key>iconDuration</key>
+	<string>canSkipLog</string>
+	<key>ignoredTransition</key>
+	<string>shouldMountedBullet</string>
+	<key>materialsplitter</key>
+	<string>dynamicTechnique</string>
+	<key>pivotalGraph</key>
+	<string>deserializeGrid</string>
+	<key>popupTag</key>
+	<string>flexibleNode</string>
+	<key>shouldUpdateCertificate</key>
+	<string>computeInterface</string>
+</dict>
+</plist>

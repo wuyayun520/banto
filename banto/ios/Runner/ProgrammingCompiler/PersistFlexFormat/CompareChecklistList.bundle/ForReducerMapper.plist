@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentScaffold</key>
+	<string>binaryStrategy</string>
+	<key>disparateResponse</key>
+	<string>plateBuffer</string>
+	<key>dropoutthread</key>
+	<string>symbolPadding</string>
+	<key>geometricReduction</key>
+	<string>mediaqueryInterval</string>
+	<key>overrideallocator</key>
+	<string>capturetangent</string>
+	<key>smartmonster</key>
+	<string>controllerDepth</string>
+	<key>subtleMultiplication</key>
+	<string>erasestamp</string>
+</dict>
+</plist>

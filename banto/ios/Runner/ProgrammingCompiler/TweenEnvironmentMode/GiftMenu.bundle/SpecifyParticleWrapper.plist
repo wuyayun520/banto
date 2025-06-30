@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionEvent</key>
+	<string>shouldCancelBrush</string>
+	<key>flexibleRow</key>
+	<string>positionedSaturation</string>
+	<key>granularreliability</key>
+	<string>errorCount</string>
+	<key>primaryProvision</key>
+	<string>sustainableBaseline</string>
+	<key>requiredAscent</key>
+	<string>scrollableequalization</string>
+	<key>shouldMountLogarithm</key>
+	<string>combineTimer</string>
+	<key>trianglesBehavior</key>
+	<string>nativeOffset</string>
+	<key>visiblePageView</key>
+	<string>profileAsset</string>
+</dict>
+</plist>

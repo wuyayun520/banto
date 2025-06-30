@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedModulus</key>
+	<string>asynchronoussubscriber</string>
+	<key>activeQueue</key>
+	<string>diffablePreview</string>
+	<key>agilemediaquery</key>
+	<string>resilientallocator</string>
+	<key>backwardElement</key>
+	<string>denseFuture</string>
+	<key>columnState</key>
+	<string>substantialSprite</string>
+	<key>elasticPopup</key>
+	<string>connectHash</string>
+	<key>mediumMap</key>
+	<string>registerstep</string>
+	<key>onpositionedtap</key>
+	<string>uniqueSchema</string>
+	<key>pushcontainer</key>
+	<string>minResource</string>
+</dict>
+</plist>

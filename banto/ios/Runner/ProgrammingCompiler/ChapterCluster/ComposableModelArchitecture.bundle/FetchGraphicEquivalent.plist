@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparatePosition</key>
+	<string>resizeAwait</string>
+	<key>independentConverter</key>
+	<string>mobileVariant</string>
+	<key>multiComponent</key>
+	<string>canPauseListView</string>
+	<key>optimizerhue</key>
+	<string>convolutionStyle</string>
+	<key>permissiveFormat</key>
+	<string>stampBuffer</string>
+	<key>rendererBehavior</key>
+	<string>largeResource</string>
+	<key>roleType</key>
+	<string>profileActivity</string>
+	<key>sharedAnchor</key>
+	<string>shouldStreamWorkflow</string>
+	<key>sustainableAwait</key>
+	<string>canResumeMobile</string>
+</dict>
+</plist>

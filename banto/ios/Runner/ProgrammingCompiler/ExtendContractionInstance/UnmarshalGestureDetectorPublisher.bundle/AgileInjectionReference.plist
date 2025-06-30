@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableShader</key>
+	<string>dialogsProxy</string>
+	<key>disconnectplayback</key>
+	<string>canYieldExtension</string>
+	<key>errorContrast</key>
+	<string>positionPosition</string>
+	<key>eventStyle</key>
+	<string>persistentNorm</string>
+	<key>navigatorprovider</key>
+	<string>temporaryAsync</string>
+	<key>shaderForce</key>
+	<string>navigationbeyondscope</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleUtil</key>
+	<string>tweenparamhue</string>
+	<key>beginnerDialogs</key>
+	<string>concurrentVector</string>
+	<key>reactiveWrapper</key>
+	<string>canNotifyAxis</string>
+	<key>screenbandwidth</key>
+	<string>shouldBindProfile</string>
+</dict>
+</plist>

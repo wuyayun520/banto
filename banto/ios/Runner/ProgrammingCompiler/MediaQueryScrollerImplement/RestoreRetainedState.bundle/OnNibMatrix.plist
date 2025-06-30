@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitopacity</key>
+	<string>sceneVelocity</string>
+	<key>crudeStorage</key>
+	<string>listenerFeedback</string>
+	<key>listenerStyle</key>
+	<string>momentumOperation</string>
+	<key>missedgestureappearance</key>
+	<string>ignoredException</string>
+	<key>shouldDisposeGate</key>
+	<string>shouldObserveDescriptor</string>
+</dict>
+</plist>

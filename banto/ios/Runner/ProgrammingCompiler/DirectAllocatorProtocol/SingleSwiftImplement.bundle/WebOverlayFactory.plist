@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopNotification</key>
+	<string>unactivatedprogressbar</string>
+	<key>fusedstateful</key>
+	<string>cupertinoListener</string>
+	<key>inactiveIntegrity</key>
+	<string>gramStyle</string>
+	<key>positionmargin</key>
+	<string>seamlessCapsule</string>
+	<key>requiredIsolate</key>
+	<string>equalizationdelay</string>
+	<key>scrollableIcon</key>
+	<string>activatedPainter</string>
+	<key>threadpresenter</key>
+	<string>handlertolerance</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledcluster</key>
+	<string>significantSemantics</string>
+	<key>hashadapterinset</key>
+	<string>shouldStreamAnchor</string>
+	<key>shouldFetchCheckbox</key>
+	<string>shouldKeepLogarithm</string>
+</dict>
+</plist>

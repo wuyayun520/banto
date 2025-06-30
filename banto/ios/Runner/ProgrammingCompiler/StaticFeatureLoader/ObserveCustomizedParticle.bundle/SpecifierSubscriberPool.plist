@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncresilience</key>
+	<string>restrictionAlignment</string>
+	<key>descriptorcoord</key>
+	<string>shouldFinishListView</string>
+	<key>discardedTheme</key>
+	<string>publicTrajectory</string>
+	<key>futureLeft</key>
+	<string>radiusOrigin</string>
+	<key>gridviewfeedback</key>
+	<string>descentTension</string>
+	<key>immutableTween</key>
+	<string>batchversusstage</string>
+	<key>liteasync</key>
+	<string>temporaryContainer</string>
+	<key>onsigntap</key>
+	<string>seamlessScenario</string>
+	<key>tappablePolyfill</key>
+	<string>unmarshalSubscription</string>
+	<key>variantawaycycle</key>
+	<string>keepExpanded</string>
+</dict>
+</plist>

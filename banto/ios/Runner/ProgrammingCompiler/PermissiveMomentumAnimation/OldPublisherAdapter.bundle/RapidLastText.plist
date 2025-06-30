@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesState</key>
+	<string>explicitDrawer</string>
+	<key>firstBrush</key>
+	<string>layoutCell</string>
+	<key>flexibleReducer</key>
+	<string>canPushSine</string>
+	<key>moduleOffset</key>
+	<string>enumerateInterface</string>
+	<key>monsterState</key>
+	<string>petBuffer</string>
+	<key>prismaticReceiver</key>
+	<string>popFactory</string>
+	<key>requiredresourceduration</key>
+	<string>fusedDecoration</string>
+	<key>shouldDisconnectSymbol</key>
+	<string>activatedPrecision</string>
+	<key>shouldnotifycollection</key>
+	<string>vectorWork</string>
+</dict>
+</plist>

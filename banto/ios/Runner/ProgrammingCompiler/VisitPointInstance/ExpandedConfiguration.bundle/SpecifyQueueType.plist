@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedStream</key>
+	<string>canPersistSensor</string>
+	<key>awaitascent</key>
+	<string>canEndTool</string>
+	<key>directCupertino</key>
+	<string>renderBase</string>
+	<key>navigationOrientation</key>
+	<string>loadInterpolation</string>
+	<key>prevScroller</key>
+	<string>touchRect</string>
+	<key>shouldpersiststateless</key>
+	<string>appbarOrigin</string>
+	<key>subtleSpecifier</key>
+	<string>unscheduleSlider</string>
+	<key>tabviewDuration</key>
+	<string>architectureVisible</string>
+	<key>widgetspacing</key>
+	<string>beginnerresolver</string>
+</dict>
+</plist>

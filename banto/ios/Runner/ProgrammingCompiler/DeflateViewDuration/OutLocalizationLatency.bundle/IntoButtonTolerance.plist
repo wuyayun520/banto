@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileReceiver</key>
+	<string>canLoadExpanded</string>
+	<key>lazyBloc</key>
+	<string>toleranceMode</string>
+	<key>opaqueBrush</key>
+	<string>parseposition</string>
+	<key>rectangleLocation</key>
+	<string>completedDelegate</string>
+	<key>responseTail</key>
+	<string>localizationopacity</string>
+	<key>shouldStartTouch</key>
+	<string>normKind</string>
+	<key>thresholdborder</key>
+	<string>activateSize</string>
+</dict>
+</plist>

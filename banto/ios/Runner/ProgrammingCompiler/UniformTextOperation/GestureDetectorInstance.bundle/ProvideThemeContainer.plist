@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorflags</key>
+	<string>singletonCoord</string>
+	<key>instructionEdge</key>
+	<string>objectBrightness</string>
+	<key>nodecommandtag</key>
+	<string>canPublishGestureDetector</string>
+	<key>obtaindelegate</key>
+	<string>easyElasticity</string>
+	<key>rotatetext</key>
+	<string>hardCapsule</string>
+	<key>tappableBoxShadow</key>
+	<string>imageType</string>
+</dict>
+</plist>

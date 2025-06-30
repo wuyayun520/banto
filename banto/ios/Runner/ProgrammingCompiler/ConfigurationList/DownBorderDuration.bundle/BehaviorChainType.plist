@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedpointindex</key>
+	<string>compositionsaturation</string>
+	<key>asynchronousSkirt</key>
+	<string>shouldPauseScaffold</string>
+	<key>dialogsBound</key>
+	<string>keepAxis</string>
+	<key>directlyFrame</key>
+	<string>resizableAnalogy</string>
+	<key>euclideanScene</key>
+	<string>accessiblecontainer</string>
+	<key>parallelVolume</key>
+	<string>significantBorder</string>
+	<key>regulateflex</key>
+	<string>dataResponse</string>
+	<key>resilienceSkewX</key>
+	<string>concreteAperture</string>
+</dict>
+</plist>

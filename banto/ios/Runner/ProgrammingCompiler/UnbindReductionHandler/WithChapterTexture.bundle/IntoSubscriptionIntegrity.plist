@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardRenderer</key>
+	<string>restartRoute</string>
+	<key>declarativehash</key>
+	<string>customizedGrayscale</string>
+	<key>initializesubscription</key>
+	<string>stepSpacing</string>
+	<key>materializershape</key>
+	<string>scrollerDepth</string>
+	<key>protectedSprite</key>
+	<string>largeSubpixel</string>
+	<key>rapidcustompaintcoord</key>
+	<string>mainTransformer</string>
+	<key>shouldConnectFragment</key>
+	<string>originalSubscriber</string>
+	<key>smartCube</key>
+	<string>storeMargin</string>
+	<key>traversalHead</key>
+	<string>independentHash</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elementtheme</key>
+	<string>inactiveMechanism</string>
+	<key>lastMetrics</key>
+	<string>canPaintCanvas</string>
+	<key>newestCapacities</key>
+	<string>dependencyVisitor</string>
+	<key>observerAlignment</key>
+	<string>createSwift</string>
+	<key>shouldEmitGate</key>
+	<string>singletonMediator</string>
+	<key>shouldListenTabBar</key>
+	<string>shouldCacheCursor</string>
+	<key>unregisternavigator</key>
+	<string>stateMediator</string>
+	<key>visibleInfrastructure</key>
+	<string>canPauseFragment</string>
+</dict>
+</plist>

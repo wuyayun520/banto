@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchoccasion</key>
+	<string>shouldStreamTransition</string>
+	<key>instructionBound</key>
+	<string>retainChapter</string>
+	<key>nibOpacity</key>
+	<string>filterscale</string>
+	<key>observerSpacing</key>
+	<string>onmusicchanged</string>
+	<key>shouldPresentStamp</key>
+	<string>semanticInteractor</string>
+	<key>shouldTransitionStateful</key>
+	<string>detailOpacity</string>
+	<key>streambound</key>
+	<string>formatvector</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>normalChecklist</key>
+	<string>mendposition</string>
+	<key>retainedVertex</key>
+	<string>showGraph</string>
+	<key>routefrequency</key>
+	<string>rebuildReference</string>
+	<key>shouldParseInteger</key>
+	<string>subsequentConvolution</string>
+	<key>smallBehavior</key>
+	<string>shouldConnectBuilder</string>
+	<key>upgradeappbar</key>
+	<string>parseMaterial</string>
+</dict>
+</plist>

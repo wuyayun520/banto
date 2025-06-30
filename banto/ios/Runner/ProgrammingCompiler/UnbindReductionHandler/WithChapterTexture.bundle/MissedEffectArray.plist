@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticPolyfill</key>
+	<string>canBindBox</string>
+	<key>nodeShade</key>
+	<string>soundDistance</string>
+	<key>resilientHandler</key>
+	<string>disposeSwitch</string>
+	<key>shouldDetachMedia</key>
+	<string>canDisposeEquipment</string>
+	<key>shouldReplaceClipper</key>
+	<string>eagerShader</string>
+	<key>shouldStreamCompletion</key>
+	<string>transitionbycycle</string>
+	<key>subsequentMusic</key>
+	<string>multiPosition</string>
+	<key>unactivatedTitle</key>
+	<string>contrastFlags</string>
+</dict>
+</plist>

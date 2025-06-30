@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveNavigation</key>
+	<string>renderRole</string>
+	<key>gradientDirection</key>
+	<string>synchronizeGrain</string>
+	<key>permissiveSpot</key>
+	<string>markTitle</string>
+	<key>remaindervalidation</key>
+	<string>canTransitionFragment</string>
+	<key>rowInterval</key>
+	<string>activatedOperation</string>
+	<key>shouldPersistPageView</key>
+	<string>shouldFetchAnchor</string>
+	<key>shouldSkipImage</key>
+	<string>firstTentative</string>
+	<key>subtleRemainder</key>
+	<string>allocatorconsumer</string>
+	<key>taskinset</key>
+	<string>canReplaceCollection</string>
+</dict>
+</plist>

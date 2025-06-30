@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardEvent</key>
+	<string>tickerDecorator</string>
+	<key>compositioncommandorientation</key>
+	<string>singleModal</string>
+	<key>delegatedespiteproxy</key>
+	<string>subsequentMediaQuery</string>
+	<key>labelanalyzer</key>
+	<string>skirtCycle</string>
+	<key>sharedSorter</key>
+	<string>scrollableTextField</string>
+	<key>shouldEncodeTabBar</key>
+	<string>oldCharacteristic</string>
+	<key>shouldPauseExtension</key>
+	<string>materializeCompleter</string>
+	<key>symmetricCache</key>
+	<string>musicRight</string>
+</dict>
+</plist>

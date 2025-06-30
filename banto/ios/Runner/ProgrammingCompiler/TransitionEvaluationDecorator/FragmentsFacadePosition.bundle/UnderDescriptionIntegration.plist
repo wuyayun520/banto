@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorsinceflyweight</key>
+	<string>independentLoader</string>
+	<key>crucialTexture</key>
+	<string>coordinatorcount</string>
+	<key>draggableInteractor</key>
+	<string>parseSymbol</string>
+	<key>elasticfactorystatus</key>
+	<string>staticData</string>
+	<key>schedulerName</key>
+	<string>fillTexture</string>
+	<key>shouldAttachSlash</key>
+	<string>responseanimator</string>
+	<key>shouldObserveWidget</key>
+	<string>shouldSerializeMultiplication</string>
+	<key>shouldPresentNotification</key>
+	<string>documentlikeaction</string>
+</dict>
+</plist>

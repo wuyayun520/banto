@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnercallback</key>
+	<string>deserializeanchor</string>
+	<key>expandedasphase</key>
+	<string>labelInterval</string>
+	<key>iterativeEvolution</key>
+	<string>cacheAnchor</string>
+	<key>lifecycleDensity</key>
+	<string>yieldresult</string>
+	<key>parallelOptimizer</key>
+	<string>oldMonster</string>
+	<key>seamlessconnector</key>
+	<string>nativeCreator</string>
+	<key>temporaryConstraint</key>
+	<string>mediaquerySkewX</string>
+	<key>utilBrightness</key>
+	<string>equipmentAction</string>
+	<key>volumeVisible</key>
+	<string>shouldKeepColumn</string>
+</dict>
+</plist>

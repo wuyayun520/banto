@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableRestriction</key>
+	<string>largepicker</string>
+	<key>entityCount</key>
+	<string>parallelMetadata</string>
+	<key>flexibleConvolution</key>
+	<string>comparetext</string>
+	<key>notifysubscription</key>
+	<string>saveCache</string>
+	<key>requiredMetrics</key>
+	<string>materialTime</string>
+	<key>shouldDeserializeCertificate</key>
+	<string>denseapertureforce</string>
+	<key>signatureforce</key>
+	<string>measureAsset</string>
+	<key>statelessImpression</key>
+	<string>handlecurve</string>
+</dict>
+</plist>

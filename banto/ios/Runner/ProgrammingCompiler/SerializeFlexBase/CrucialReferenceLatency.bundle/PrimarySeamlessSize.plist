@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentName</key>
+	<string>dynamicOverlay</string>
+	<key>granularZone</key>
+	<string>significantFuture</string>
+	<key>mediocreButton</key>
+	<string>saveDialogs</string>
+	<key>positionTension</key>
+	<string>completerDecorator</string>
+	<key>resilientMaster</key>
+	<string>widgetAction</string>
+	<key>reusablelayerdensity</key>
+	<string>factoryFeedback</string>
+	<key>scaletopic</key>
+	<string>delegateemitter</string>
+	<key>textobserver</key>
+	<string>remainderAction</string>
+</dict>
+</plist>

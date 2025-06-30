@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMusic</key>
+	<string>autoStrength</string>
+	<key>desktopentity</key>
+	<string>oncapsulechanged</string>
+	<key>enabledSkin</key>
+	<string>iscertificate</string>
+	<key>flexibleAnchor</key>
+	<string>continueScreen</string>
+	<key>mainfuture</key>
+	<string>operationKind</string>
+	<key>shouldContinueAxis</key>
+	<string>symmetricReducer</string>
+	<key>temporaryRemediation</key>
+	<string>notificationRate</string>
+</dict>
+</plist>

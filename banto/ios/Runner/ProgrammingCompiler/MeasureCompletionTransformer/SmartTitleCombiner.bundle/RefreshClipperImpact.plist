@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMesh</key>
+	<string>stepVelocity</string>
+	<key>constantdepth</key>
+	<string>smallsinecount</string>
+	<key>entropySkewY</key>
+	<string>pethue</string>
+	<key>ignoredarchitecture</key>
+	<string>cursorStructure</string>
+	<key>pagerTag</key>
+	<string>calculatePosition</string>
+	<key>temporaryTimer</key>
+	<string>statelessExpanded</string>
+</dict>
+</plist>

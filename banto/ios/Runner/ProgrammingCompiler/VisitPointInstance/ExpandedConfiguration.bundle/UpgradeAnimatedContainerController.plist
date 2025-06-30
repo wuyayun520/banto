@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartMomentum</key>
+	<string>sharedSink</string>
+	<key>firstConfiguration</key>
+	<string>shouldObserveCupertino</string>
+	<key>labelSkewY</key>
+	<string>difficultGram</string>
+	<key>shouldTrainAxis</key>
+	<string>keyModel</string>
+</dict>
+</plist>

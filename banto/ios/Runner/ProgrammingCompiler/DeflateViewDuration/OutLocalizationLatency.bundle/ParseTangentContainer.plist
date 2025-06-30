@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteScaffold</key>
+	<string>quantizationInteractor</string>
+	<key>concurrentcontainerduration</key>
+	<string>expandedStyle</string>
+	<key>mediaqueryscheduler</key>
+	<string>deactivateGroup</string>
+	<key>shouldFetchCaption</key>
+	<string>arithmeticscene</string>
+	<key>shouldYieldSample</key>
+	<string>shouldCacheSession</string>
+</dict>
+</plist>

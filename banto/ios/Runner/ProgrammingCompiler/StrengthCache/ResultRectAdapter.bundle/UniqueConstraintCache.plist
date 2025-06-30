@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMonster</key>
+	<string>multiplicationInteraction</string>
+	<key>cancelmusic</key>
+	<string>itemVisible</string>
+	<key>characteristicFormat</key>
+	<string>throughputAppearance</string>
+	<key>disabledCatalyst</key>
+	<string>switchobserverresponse</string>
+	<key>shouldKeepStream</key>
+	<string>parseMethod</string>
+	<key>signcapacity</key>
+	<string>timelineCount</string>
+	<key>singleResponse</key>
+	<string>expandedInterval</string>
+	<key>streamMargin</key>
+	<string>resizableConvolution</string>
+</dict>
+</plist>

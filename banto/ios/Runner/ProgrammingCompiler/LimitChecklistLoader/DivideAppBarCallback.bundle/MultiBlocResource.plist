@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionTheme</key>
+	<string>menuchainduration</string>
+	<key>arithmeticPopup</key>
+	<string>canDispatchCell</string>
+	<key>basicTimer</key>
+	<string>customOffset</string>
+	<key>bordertransition</key>
+	<string>litePromise</string>
+	<key>compositionalResolver</key>
+	<string>pinchableTheme</string>
+	<key>intermediateasynccolor</key>
+	<string>upgradestream</string>
+	<key>lazyData</key>
+	<string>formatTouch</string>
+	<key>routeDelay</key>
+	<string>substantialContainer</string>
+	<key>tensorFilter</key>
+	<string>modeldirection</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleschema</key>
+	<string>relationalGroup</string>
+	<key>dialogsDelay</key>
+	<string>saveNib</string>
+	<key>eagerCubit</key>
+	<string>canContinueBuilder</string>
+	<key>elementInterval</key>
+	<string>keepGridView</string>
+	<key>informationTransparency</key>
+	<string>nextprotocoldirection</string>
+	<key>methodbottom</key>
+	<string>yieldMaterial</string>
+	<key>shouldPublishGift</key>
+	<string>zonePadding</string>
+	<key>usedColor</key>
+	<string>behaviorState</string>
+</dict>
+</plist>

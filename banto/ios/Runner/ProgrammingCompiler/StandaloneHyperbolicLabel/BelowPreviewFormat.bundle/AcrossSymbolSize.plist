@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitindex</key>
+	<string>unbindGram</string>
+	<key>denseCubit</key>
+	<string>currentgriddirection</string>
+	<key>denseResource</key>
+	<string>selectedMember</string>
+	<key>discardedScalability</key>
+	<string>geometricSensor</string>
+	<key>fragmentsCenter</key>
+	<string>spinGrain</string>
+	<key>heroPosition</key>
+	<string>implementCompleter</string>
+	<key>immediatelistener</key>
+	<string>segmentStructure</string>
+	<key>prismaticComponent</key>
+	<string>visibleDescription</string>
+	<key>robustGate</key>
+	<string>denseException</string>
+	<key>usecaseLocation</key>
+	<string>shouldAnimateMargin</string>
+</dict>
+</plist>

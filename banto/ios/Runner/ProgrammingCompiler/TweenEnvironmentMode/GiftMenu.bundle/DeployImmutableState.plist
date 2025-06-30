@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTernary</key>
+	<string>symmetricBuffer</string>
+	<key>arithmeticBrush</key>
+	<string>advancedConsumption</string>
+	<key>asyncscope</key>
+	<string>protocolEdge</string>
+	<key>customStore</key>
+	<string>builderrequest</string>
+	<key>ephemeralListener</key>
+	<string>emitcursor</string>
+	<key>remediationSpeed</key>
+	<string>mountinjection</string>
+	<key>shouldAttachShader</key>
+	<string>shouldHandleNib</string>
+	<key>shouldDecodeCanvas</key>
+	<string>workflowRight</string>
+</dict>
+</plist>

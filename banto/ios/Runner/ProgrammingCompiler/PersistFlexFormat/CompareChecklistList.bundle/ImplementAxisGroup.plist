@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCombiner</key>
+	<string>shearStream</string>
+	<key>coordinatorcubit</key>
+	<string>canKeepProjection</string>
+	<key>inactiveRichText</key>
+	<string>menuRotation</string>
+	<key>isarithmetic</key>
+	<string>backwardOverlay</string>
+	<key>pinchablelistviewpadding</key>
+	<string>interfaceShade</string>
+	<key>protectedRequest</key>
+	<string>sequentialTabBar</string>
+	<key>sliderproxyfrequency</key>
+	<string>shouldSaveWidget</string>
+</dict>
+</plist>

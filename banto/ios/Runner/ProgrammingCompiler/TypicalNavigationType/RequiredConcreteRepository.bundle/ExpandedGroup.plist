@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleShade</key>
+	<string>seamlessVideo</string>
+	<key>inactiveResilience</key>
+	<string>featureFramework</string>
+	<key>managerVelocity</key>
+	<string>requiredScale</string>
+	<key>mediumfeaturebehavior</key>
+	<string>shouldUnmountFragment</string>
+	<key>opaqueresolverdistance</key>
+	<string>shouldDispatchSkin</string>
+	<key>permutationDirection</key>
+	<string>dedicatedlogarithmcontrast</string>
+	<key>primaryOffset</key>
+	<string>rectthroughtype</string>
+	<key>tangentcoord</key>
+	<string>shouldSetStateSample</string>
+	<key>transformnavigation</key>
+	<string>shoulddismissstateful</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionfinder</key>
+	<string>liteAnimatedContainer</string>
+	<key>displaychapter</key>
+	<string>aggregateDelegate</string>
+	<key>intensityTag</key>
+	<string>previewbottom</string>
+	<key>intuitivegrouppadding</key>
+	<string>timerStyle</string>
+	<key>largeSubscription</key>
+	<string>toolnumbercenter</string>
+	<key>shouldDismissBitrate</key>
+	<string>blocposition</string>
+	<key>synchronousContraction</key>
+	<string>sliderPadding</string>
+	<key>thresholdTheme</key>
+	<string>bindPoint</string>
+</dict>
+</plist>

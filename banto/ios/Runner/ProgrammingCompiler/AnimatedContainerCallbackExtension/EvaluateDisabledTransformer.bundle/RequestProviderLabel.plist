@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveError</key>
+	<string>observeMap</string>
+	<key>dedicatedHistogram</key>
+	<string>logRate</string>
+	<key>observerwithoutstage</key>
+	<string>discardedMedia</string>
+	<key>resizableScaffold</key>
+	<string>offsetadapterkind</string>
+	<key>shouldFormatCache</key>
+	<string>singleScroll</string>
+	<key>shouldPushWidget</key>
+	<string>commonexception</string>
+	<key>wrapperResponse</key>
+	<string>transposeConfiguration</string>
+</dict>
+</plist>

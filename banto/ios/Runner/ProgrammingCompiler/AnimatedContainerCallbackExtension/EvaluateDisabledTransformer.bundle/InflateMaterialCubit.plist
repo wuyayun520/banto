@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>filterSkewY</key>
+	<string>staticRouter</string>
+	<key>shouldCacheBorder</key>
+	<string>canMountChannels</string>
+	<key>topicframeworkdelay</key>
+	<string>canObserveCatalyst</string>
+	<key>traversalLocation</key>
+	<string>linkerAcceleration</string>
+</dict>
+</plist>

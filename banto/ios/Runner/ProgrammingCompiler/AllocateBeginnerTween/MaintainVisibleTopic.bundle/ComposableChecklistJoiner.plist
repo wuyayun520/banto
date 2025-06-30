@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axislistener</key>
+	<string>intermediateSelector</string>
+	<key>descentDuration</key>
+	<string>rowbinder</string>
+	<key>imperativeSkin</key>
+	<string>utilinset</string>
+	<key>largeTool</key>
+	<string>canCancelTask</string>
+	<key>loaderIndex</key>
+	<string>inflateresolver</string>
+	<key>processaction</key>
+	<string>imageProxy</string>
+	<key>shouldLayoutWidget</key>
+	<string>popuppainter</string>
+	<key>shouldRebuildModulus</key>
+	<string>presentbloc</string>
+	<key>topicColor</key>
+	<string>shouldShowRichText</string>
+</dict>
+</plist>

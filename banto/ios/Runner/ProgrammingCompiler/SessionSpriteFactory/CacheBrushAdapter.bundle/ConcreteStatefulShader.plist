@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateAllocator</key>
+	<string>retainedConnector</string>
+	<key>graindirection</key>
+	<string>rebuildchapter</string>
+	<key>marginstagespeed</key>
+	<string>listenRadio</string>
+	<key>mediocreSelector</key>
+	<string>interceptobserver</string>
+	<key>newestCapacities</key>
+	<string>observerSingleton</string>
+	<key>shouldCachePet</key>
+	<string>rowContext</string>
+</dict>
+</plist>

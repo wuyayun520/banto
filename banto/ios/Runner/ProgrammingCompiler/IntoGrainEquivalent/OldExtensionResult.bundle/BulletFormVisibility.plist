@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblevectorcoord</key>
+	<string>appendindicator</string>
+	<key>chartSaturation</key>
+	<string>formatHistogram</string>
+	<key>largeInteractor</key>
+	<string>radioHead</string>
+	<key>nibDistance</key>
+	<string>canBuildConstraint</string>
+	<key>prismaticMetadata</key>
+	<string>shouldValidateModulus</string>
+	<key>secondInfrastructure</key>
+	<string>priorListener</string>
+</dict>
+</plist>

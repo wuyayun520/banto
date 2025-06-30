@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedReliability</key>
+	<string>presentermodel</string>
+	<key>dynamicRow</key>
+	<string>lostStatus</string>
+	<key>entityvisible</key>
+	<string>skinPhase</string>
+	<key>firststoresaturation</key>
+	<string>viewviawork</string>
+	<key>responsiveLoader</key>
+	<string>shouldLayoutAlert</string>
+	<key>seamlessMovement</key>
+	<string>textureBrightness</string>
+	<key>semanticswitch</key>
+	<string>brushContext</string>
+	<key>shouldInflateLogarithm</key>
+	<string>pickerRotation</string>
+	<key>shouldRouteModulus</key>
+	<string>canDismissAppBar</string>
+</dict>
+</plist>

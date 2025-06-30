@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledPermutation</key>
+	<string>columnEnvironment</string>
+	<key>enabledRadius</key>
+	<string>shouldInflateFuture</string>
+	<key>ephemeralfinder</key>
+	<string>listenRow</string>
+	<key>intermediateConstant</key>
+	<string>numericalAnalogy</string>
+	<key>methodFeedback</key>
+	<string>textfieldpainter</string>
+	<key>quaternionValidation</key>
+	<string>canContinueDimension</string>
+	<key>rapidSensor</key>
+	<string>provideResource</string>
+	<key>semanticsPosition</key>
+	<string>canFinishOptimizer</string>
+	<key>sliderstatus</key>
+	<string>shoulddisconnectaspectratio</string>
+</dict>
+</plist>

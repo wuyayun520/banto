@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousBuilder</key>
+	<string>opaqueCubit</string>
+	<key>customizedPainter</key>
+	<string>completerBrightness</string>
+	<key>granularCell</key>
+	<string>interactorWork</string>
+	<key>oldCapsule</key>
+	<string>shouldStreamCapsule</string>
+	<key>shouldUpdateNib</key>
+	<string>receiverFlags</string>
+	<key>tabbaruntilbridge</key>
+	<string>shearTimer</string>
+</dict>
+</plist>

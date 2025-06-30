@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentvalidation</key>
+	<string>animatedcontainerAction</string>
+	<key>intermediateRow</key>
+	<string>protectedHistogram</string>
+	<key>smallUseCase</key>
+	<string>crucialGroup</string>
+	<key>tentativeTag</key>
+	<string>adaptiveAnchor</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeResolver</key>
+	<string>gemStage</string>
+	<key>cupertinoInjection</key>
+	<string>minNib</string>
+	<key>dedicatedCanvas</key>
+	<string>disparatePosition</string>
+	<key>shouldDetachContraction</key>
+	<string>dialogsTension</string>
+	<key>shouldpausemomentum</key>
+	<string>backwardMatrix</string>
+</dict>
+</plist>

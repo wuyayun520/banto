@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleConvolution</key>
+	<string>pageviewJob</string>
+	<key>activecontainer</key>
+	<string>tensorImage</string>
+	<key>consumerTint</key>
+	<string>localShader</string>
+	<key>dedicatedExponent</key>
+	<string>gatescale</string>
+	<key>matrixSpeed</key>
+	<string>shouldPrepareSegment</string>
+	<key>prevException</key>
+	<string>commonShape</string>
+	<key>resizablePolyfill</key>
+	<string>shouldMountDimension</string>
+	<key>shouldPublishPainter</key>
+	<string>disparateProvision</string>
+	<key>statelessSaturation</key>
+	<string>responsiveResult</string>
+</dict>
+</plist>

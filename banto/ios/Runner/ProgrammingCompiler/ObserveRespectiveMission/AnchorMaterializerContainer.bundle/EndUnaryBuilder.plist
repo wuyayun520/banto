@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoSubscription</key>
+	<string>canStartMission</string>
+	<key>extensionSkewY</key>
+	<string>canStreamGate</string>
+	<key>localDropdownButton</key>
+	<string>deferredtween</string>
+	<key>modalBehavior</key>
+	<string>scrollablestore</string>
+	<key>persistentSemantics</key>
+	<string>reactiveactivityindex</string>
+</dict>
+</plist>

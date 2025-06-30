@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveImpression</key>
+	<string>fixedScheduler</string>
+	<key>desktopTween</key>
+	<string>compositionalGrid</string>
+	<key>euclideanSymbol</key>
+	<string>imperativePager</string>
+	<key>logarithmandprocess</key>
+	<string>disabledGraphic</string>
+	<key>lostAsset</key>
+	<string>unsortedSelector</string>
+	<key>retainedAperture</key>
+	<string>extensionStrategy</string>
+	<key>sceneCoord</key>
+	<string>sustainableCurve</string>
+	<key>scrollDepth</key>
+	<string>borderduration</string>
+	<key>secondDropdownButton</key>
+	<string>accessoryMethod</string>
+	<key>shouldRenderLoss</key>
+	<string>sineFlyweight</string>
+</dict>
+</plist>

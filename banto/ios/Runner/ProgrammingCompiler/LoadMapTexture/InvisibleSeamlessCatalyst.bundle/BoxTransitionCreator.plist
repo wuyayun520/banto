@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorresource</key>
+	<string>adjustChart</string>
+	<key>elasticMargin</key>
+	<string>agileoffset</string>
+	<key>heapnearplatform</key>
+	<string>positionType</string>
+	<key>reactivegraphcontrast</key>
+	<string>drawerScope</string>
+	<key>scrollableSubscriber</key>
+	<string>sequentialProvider</string>
+	<key>sophisticatedDependency</key>
+	<string>sequentialTabBar</string>
+	<key>storagevisible</key>
+	<string>emitRadius</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSearcher</key>
+	<string>decorationmethoddepth</string>
+	<key>borderoutsideshape</key>
+	<string>cupertinoVar</string>
+	<key>cancelgraph</key>
+	<string>transitionCommand</string>
+	<key>cupertinoTimeline</key>
+	<string>functionalEvent</string>
+	<key>ignoredExpanded</key>
+	<string>emitAlert</string>
+	<key>providerIndex</key>
+	<string>deactivatetitle</string>
+	<key>relationalEvolution</key>
+	<string>gridviewuntilpattern</string>
+	<key>statefulTag</key>
+	<string>concreteisolatevisible</string>
+	<key>synchronousnavigatortension</key>
+	<string>insteadFeature</string>
+</dict>
+</plist>

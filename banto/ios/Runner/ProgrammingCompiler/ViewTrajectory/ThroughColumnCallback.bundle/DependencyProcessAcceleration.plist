@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeBloc</key>
+	<string>accordionText</string>
+	<key>gateSpeed</key>
+	<string>enabledMission</string>
+	<key>gemexceptstructure</key>
+	<string>interactiveEquipment</string>
+	<key>resilientScale</key>
+	<string>cubePressure</string>
+	<key>subpixelelasticity</key>
+	<string>referenceAcceleration</string>
+	<key>subtledelegateskewy</key>
+	<string>setupbuffer</string>
+</dict>
+</plist>

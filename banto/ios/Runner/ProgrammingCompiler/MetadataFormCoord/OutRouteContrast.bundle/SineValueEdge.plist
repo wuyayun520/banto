@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concretePositioned</key>
+	<string>routeandtask</string>
+	<key>fixedSwitch</key>
+	<string>textasprototype</string>
+	<key>permissivemethod</key>
+	<string>shouldDeserializeMaterial</string>
+	<key>positionedDensity</key>
+	<string>shouldPersistBuilder</string>
+	<key>scalabilityType</key>
+	<string>logarithmVar</string>
+	<key>tweenkindrotation</key>
+	<string>createMomentum</string>
+</dict>
+</plist>

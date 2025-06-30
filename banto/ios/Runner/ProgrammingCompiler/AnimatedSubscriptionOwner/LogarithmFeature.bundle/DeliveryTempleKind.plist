@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoKernel</key>
+	<string>canHandleUnary</string>
+	<key>ignoredGram</key>
+	<string>geometricMovement</string>
+	<key>lostCombiner</key>
+	<string>canShowReference</string>
+	<key>nextAsset</key>
+	<string>statelessDisclaimer</string>
+	<key>numericalModulus</key>
+	<string>priorMaterial</string>
+	<key>symmetricseguepressure</key>
+	<string>lostOccasion</string>
+	<key>syncexpanded</key>
+	<string>nativeLinker</string>
+</dict>
+</plist>

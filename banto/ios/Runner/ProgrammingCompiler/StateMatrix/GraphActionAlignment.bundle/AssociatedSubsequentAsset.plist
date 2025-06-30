@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregatedropdownbutton</key>
+	<string>prevCharacteristic</string>
+	<key>modulusOpacity</key>
+	<string>gesturestageorigin</string>
+	<key>shouldValidateMember</key>
+	<string>canInflateBrush</string>
+	<key>smartSplitter</key>
+	<string>analyzeGrain</string>
+	<key>subpixelRotation</key>
+	<string>mitigateText</string>
+	<key>synchronousRange</key>
+	<string>nativeCharacter</string>
+	<key>temporarylistviewstyle</key>
+	<string>cacheRotation</string>
+	<key>trajectoryState</key>
+	<string>immediateAnalogy</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>encodecollection</key>
+	<string>uniformSkin</string>
+	<key>featureparamcenter</key>
+	<string>shouldReplaceStack</string>
+	<key>firstoperation</key>
+	<string>elasticitySize</string>
+	<key>gesturedetectorSkewY</key>
+	<string>hyperbolicAsset</string>
+	<key>hierarchicalSpot</key>
+	<string>canCancelHero</string>
+	<key>shouldPauseCupertino</key>
+	<string>dialogsaroundtype</string>
+	<key>shouldProcessMomentum</key>
+	<string>toolorform</string>
+	<key>temporaryScroll</key>
+	<string>animatedModule</string>
+	<key>thresholdspeed</key>
+	<string>latencySkewX</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionPicker</key>
+	<string>agileTriangles</string>
+	<key>binaryDistance</key>
+	<string>materialCaption</string>
+	<key>crucialCaption</key>
+	<string>lastMerger</string>
+	<key>diffableStroke</key>
+	<string>shouldprocessicon</string>
+	<key>statefulBound</key>
+	<string>intermediateallocator</string>
+	<key>symmetricBase</key>
+	<string>explicitRepository</string>
+	<key>zonecontextfeedback</key>
+	<string>canCreateAxis</string>
+</dict>
+</plist>

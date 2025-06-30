@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationtail</key>
+	<string>immutableGrid</string>
+	<key>buttonSkewX</key>
+	<string>menuDecorator</string>
+	<key>isRoute</key>
+	<string>subtlequaternion</string>
+	<key>nativeProtocol</key>
+	<string>shouldEndView</string>
+	<key>persistentColor</key>
+	<string>trainSpecifier</string>
+	<key>synchronizeservice</key>
+	<string>animatedAlpha</string>
+</dict>
+</plist>

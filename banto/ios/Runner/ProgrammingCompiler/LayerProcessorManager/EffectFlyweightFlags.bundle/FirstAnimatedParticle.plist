@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoChapter</key>
+	<string>interceptChapter</string>
+	<key>disparateResilience</key>
+	<string>yieldLabel</string>
+	<key>permanentCollection</key>
+	<string>splittercoord</string>
+	<key>shouldContinueScroll</key>
+	<string>currentIntegrity</string>
+	<key>shouldObserveTernary</key>
+	<string>basicTask</string>
+</dict>
+</plist>

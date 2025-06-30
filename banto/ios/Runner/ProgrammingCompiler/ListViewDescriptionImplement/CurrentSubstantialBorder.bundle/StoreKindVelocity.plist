@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonEvolution</key>
+	<string>drawerInterval</string>
+	<key>overlaytype</key>
+	<string>euclideanDelegate</string>
+	<key>shouldReplaceText</key>
+	<string>canDismissReduction</string>
+	<key>shouldResumeModal</key>
+	<string>unbindDimension</string>
+</dict>
+</plist>

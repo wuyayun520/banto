@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalassetspeed</key>
+	<string>executeService</string>
+	<key>permissiveTrajectory</key>
+	<string>sharedKernel</string>
+	<key>positionedBrightness</key>
+	<string>bandwidthTint</string>
+	<key>sortedProjection</key>
+	<string>particlePosition</string>
+	<key>statelessitem</key>
+	<string>mediumSplitter</string>
+	<key>storyboardLocation</key>
+	<string>spineFrequency</string>
+	<key>tappableChecklist</key>
+	<string>shouldPublishAlpha</string>
+	<key>thresholdvelocity</key>
+	<string>skinRate</string>
+	<key>unactivatedTangent</key>
+	<string>scrollableAsset</string>
+</dict>
+</plist>

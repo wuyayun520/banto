@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedLayout</key>
+	<string>dedicatedpainter</string>
+	<key>eagerSwitch</key>
+	<string>canAnimateSine</string>
+	<key>immutableScroller</key>
+	<string>handleOperation</string>
+	<key>kerneloffset</key>
+	<string>animatedcontainerBehavior</string>
+	<key>mainRestriction</key>
+	<string>invisibleAxis</string>
+	<key>materializemethod</key>
+	<string>canRenderBase</string>
+	<key>opaqueLoop</key>
+	<string>priorWrapper</string>
+	<key>reactivetriangles</key>
+	<string>easyObserver</string>
+</dict>
+</plist>

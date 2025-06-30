@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customResource</key>
+	<string>directlyAnimator</string>
+	<key>futureBrightness</key>
+	<string>tensorPreview</string>
+	<key>missionBrightness</key>
+	<string>marginAppearance</string>
+	<key>newestColor</key>
+	<string>previewtype</string>
+	<key>shouldNotifyGraphic</key>
+	<string>unregisterLocalization</string>
+	<key>tensorConfiguration</key>
+	<string>rectangleDepth</string>
+	<key>transformerTheme</key>
+	<string>dimensionTag</string>
+	<key>writecoordinator</key>
+	<string>compositionalCell</string>
+</dict>
+</plist>

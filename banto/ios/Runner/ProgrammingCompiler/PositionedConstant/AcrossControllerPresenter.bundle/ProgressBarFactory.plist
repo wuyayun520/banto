@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicMedia</key>
+	<string>canSerializeGrayscale</string>
+	<key>mechanismOrientation</key>
+	<string>canStartStack</string>
+	<key>newestsound</key>
+	<string>elasticDuration</string>
+	<key>normalStream</key>
+	<string>ignoredEvaluation</string>
+	<key>paintersaturation</key>
+	<string>curveTemple</string>
+	<key>retainedTitle</key>
+	<string>unmarshalResponse</string>
+	<key>shouldPushNotifier</key>
+	<string>shouldPublishCertificate</string>
+	<key>shouldRouteVariant</key>
+	<string>shouldShowContainer</string>
+	<key>triggerTop</key>
+	<string>updatePopup</string>
+	<key>unsortedAppBar</key>
+	<string>sineOffset</string>
+</dict>
+</plist>

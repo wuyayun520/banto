@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autocubit</key>
+	<string>shouldStopSizedBox</string>
+	<key>infoShade</key>
+	<string>bitrateCycle</string>
+	<key>intuitiveCycle</key>
+	<string>canEndNotifier</string>
+	<key>nextAspectRatio</key>
+	<string>shouldDispatchCupertino</string>
+	<key>specifierawait</key>
+	<string>reliabilityInteraction</string>
+	<key>statefulDispatcher</key>
+	<string>gesturedetectorCycle</string>
+	<key>unsortedTitle</key>
+	<string>disconnectindicator</string>
+	<key>widgetjobmode</key>
+	<string>pinchableTransition</string>
+</dict>
+</plist>

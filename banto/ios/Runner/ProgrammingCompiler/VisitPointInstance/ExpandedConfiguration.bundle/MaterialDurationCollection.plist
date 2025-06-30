@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectdelegate</key>
+	<string>fillScene</string>
+	<key>awaitaspect</key>
+	<string>canDispatchEffect</string>
+	<key>consultativeChooser</key>
+	<string>canPresentExpanded</string>
+	<key>crudeIcon</key>
+	<string>configureDecoration</string>
+	<key>disabledEffect</key>
+	<string>intuitiveMobile</string>
+	<key>pivotalContraction</key>
+	<string>sizeexceptstate</string>
+	<key>rapidProfile</key>
+	<string>shouldUnbindCache</string>
+	<key>shouldSaveReduction</key>
+	<string>easyStateless</string>
+</dict>
+</plist>

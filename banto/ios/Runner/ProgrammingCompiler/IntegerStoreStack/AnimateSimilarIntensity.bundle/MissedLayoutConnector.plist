@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeSkin</key>
+	<string>scrollablesubscriber</string>
+	<key>cupertinoTheme</key>
+	<string>sortedModule</string>
+	<key>deserializeobserver</key>
+	<string>scopeOffset</string>
+	<key>inheritedswiftbehavior</key>
+	<string>captioninfo</string>
+	<key>missedTextField</key>
+	<string>greatLogarithm</string>
+	<key>oldLogarithm</key>
+	<string>disconnectNorm</string>
+	<key>permissiveArithmetic</key>
+	<string>canLoadWorkflow</string>
+	<key>sequentialinstructioncontrast</key>
+	<string>completedSign</string>
+	<key>shouldStartModulus</key>
+	<string>publicPopup</string>
+	<key>temporarydocument</key>
+	<string>canMountDropdownButton</string>
+</dict>
+</plist>

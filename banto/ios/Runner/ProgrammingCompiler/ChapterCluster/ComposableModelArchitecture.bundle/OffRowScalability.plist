@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedPicker</key>
+	<string>canUnmountSpine</string>
+	<key>clipperquaternion</key>
+	<string>localmarginright</string>
+	<key>combinerShade</key>
+	<string>notificationState</string>
+	<key>curvebridgealignment</key>
+	<string>notifyCharacter</string>
+	<key>gesturedetectorType</key>
+	<string>themeIndex</string>
+	<key>keySession</key>
+	<string>responderkind</string>
+	<key>monsterValidation</key>
+	<string>limitChapter</string>
+	<key>statefulSubscriber</key>
+	<string>selectedTheme</string>
+	<key>tappableAnalogy</key>
+	<string>uniqueRole</string>
+</dict>
+</plist>

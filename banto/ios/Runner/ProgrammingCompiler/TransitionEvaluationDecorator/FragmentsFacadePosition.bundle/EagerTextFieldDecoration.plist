@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerEfficiency</key>
+	<string>temporarylifecycle</string>
+	<key>geometricRange</key>
+	<string>framevisitormode</string>
+	<key>gridviewIndex</key>
+	<string>activateInterface</string>
+	<key>permissiveConstant</key>
+	<string>loadinteger</string>
+	<key>singleExpanded</key>
+	<string>subsequentVolume</string>
+	<key>uniqueCallback</key>
+	<string>assetdispatcher</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopScaffold</key>
+	<string>binderMargin</string>
+	<key>shouldAttachTheme</key>
+	<string>semanticModal</string>
+	<key>shouldCacheResource</key>
+	<string>shouldRestartBloc</string>
+	<key>shouldRestartNavigator</key>
+	<string>subsequentSlash</string>
+	<key>statefulPainter</key>
+	<string>alertDecorator</string>
+	<key>tweenviastage</key>
+	<string>mainInteractor</string>
+</dict>
+</plist>

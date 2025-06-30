@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateDirection</key>
+	<string>usedLoader</string>
+	<key>enhancealert</key>
+	<string>hyperbolicAllocator</string>
+	<key>granularRecursion</key>
+	<string>graphChain</string>
+	<key>graphOpacity</key>
+	<string>shouldPaintCurve</string>
+	<key>lastwidget</key>
+	<string>shouldCancelScreen</string>
+	<key>lostCache</key>
+	<string>scaleCoord</string>
+	<key>modalsingletonvelocity</key>
+	<string>canEndProtocol</string>
+	<key>shouldSerializePainter</key>
+	<string>canCancelGrayscale</string>
+	<key>spriteimpression</key>
+	<string>vertexBound</string>
+	<key>unmarshalcontainer</key>
+	<string>defaultSample</string>
+</dict>
+</plist>

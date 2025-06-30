@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorusecase</key>
+	<string>ephemeralModulus</string>
+	<key>customBandwidth</key>
+	<string>transformGem</string>
+	<key>customHandler</key>
+	<string>vectorizeMenu</string>
+	<key>gempreview</key>
+	<string>statelessAcceleration</string>
+	<key>instructionCount</key>
+	<string>elasticChooser</string>
+	<key>mainAperture</key>
+	<string>constructView</string>
+	<key>pinchableException</key>
+	<string>euclideanTentative</string>
+	<key>sensorFrequency</key>
+	<string>shouldUnbindBuilder</string>
+	<key>shouldObserveNotification</key>
+	<string>behaviorSpacing</string>
+</dict>
+</plist>

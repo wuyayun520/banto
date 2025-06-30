@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>filterMomentum</key>
+	<string>localScroll</string>
+	<key>intermediatePreview</key>
+	<string>associatedResource</string>
+	<key>labelzone</key>
+	<string>scheduleFeature</string>
+	<key>primaryPoint</key>
+	<string>hierarchicalProvider</string>
+	<key>serializegridview</key>
+	<string>shouldTransformExponent</string>
+</dict>
+</plist>

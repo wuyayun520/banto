@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>densePicker</key>
+	<string>storeValidation</string>
+	<key>extensionOpacity</key>
+	<string>disabledSubscription</string>
+	<key>granularSign</key>
+	<string>agileGridView</string>
+	<key>labelAlignment</key>
+	<string>permissiveEquivalent</string>
+	<key>localloop</key>
+	<string>asynchronousStorage</string>
+	<key>playbackHue</key>
+	<string>autoBox</string>
+	<key>transposeusage</key>
+	<string>sequentialNavigator</string>
+</dict>
+</plist>

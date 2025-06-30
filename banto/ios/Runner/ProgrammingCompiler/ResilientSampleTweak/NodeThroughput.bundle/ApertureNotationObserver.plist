@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerfeature</key>
+	<string>animatedcontainerSkewY</string>
+	<key>euclideanListener</key>
+	<string>navigatorlevelstyle</string>
+	<key>globalrequestdistance</key>
+	<string>contractionStrategy</string>
+	<key>invisibleAnimation</key>
+	<string>clipGrain</string>
+	<key>opaquePublisher</key>
+	<string>primaryVector</string>
+	<key>presentertempleshape</key>
+	<string>pivotalMember</string>
+	<key>relationalDocument</key>
+	<string>shouldStartGate</string>
+	<key>shouldKeepImage</key>
+	<string>flexibleentity</string>
+</dict>
+</plist>

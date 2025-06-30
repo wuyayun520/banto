@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customGradient</key>
+	<string>mainTween</string>
+	<key>eagerIntensity</key>
+	<string>shouldFinishSegment</string>
+	<key>encodecoordinator</key>
+	<string>layoutchapter</string>
+	<key>geometricSlash</key>
+	<string>intuitivepet</string>
+	<key>normalsegment</key>
+	<string>autoText</string>
+	<key>opaquebloc</key>
+	<string>shouldSerializeShader</string>
+	<key>shouldDisconnectAspect</key>
+	<string>fixedCoordinator</string>
+	<key>substantialTaxonomy</key>
+	<string>shouldEndSensor</string>
+	<key>switchBrightness</key>
+	<string>repositorytag</string>
+	<key>videoDensity</key>
+	<string>listenerInterval</string>
+</dict>
+</plist>

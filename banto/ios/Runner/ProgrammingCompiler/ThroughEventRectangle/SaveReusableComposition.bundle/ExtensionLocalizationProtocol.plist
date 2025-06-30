@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentListener</key>
+	<string>semanticswidget</string>
+	<key>customSwitch</key>
+	<string>rapidDelivery</string>
+	<key>drawerdelay</key>
+	<string>discardedStamp</string>
+	<key>granularManager</key>
+	<string>eagerPicker</string>
+	<key>granularTriangles</key>
+	<string>mainNotifier</string>
+	<key>marktopic</key>
+	<string>diversifiedThread</string>
+	<key>reusableText</key>
+	<string>futureVisitor</string>
+</dict>
+</plist>

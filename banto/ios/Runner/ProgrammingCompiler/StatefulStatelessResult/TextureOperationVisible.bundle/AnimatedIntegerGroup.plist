@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTangent</key>
+	<string>shouldrebuildnotifier</string>
+	<key>asyncRate</key>
+	<string>shouldKeepMomentum</string>
+	<key>durationcommandskewx</key>
+	<string>isolateormode</string>
+	<key>measureactivity</key>
+	<string>canDetachNorm</string>
+	<key>numericalPosition</key>
+	<string>shouldMountSubpixel</string>
+	<key>publicBaseline</key>
+	<string>channelBorder</string>
+</dict>
+</plist>

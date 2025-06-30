@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveSingleton</key>
+	<string>configuretool</string>
+	<key>segueright</key>
+	<string>queueRight</string>
+	<key>sustainablecolor</key>
+	<string>shouldRenderGestureDetector</string>
+	<key>synchronousStatus</key>
+	<string>isolateIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerAction</key>
+	<string>custompaintParameter</string>
+	<key>evaluationBound</key>
+	<string>processExpanded</string>
+	<key>largeModel</key>
+	<string>reusableTheme</string>
+	<key>layoutrect</key>
+	<string>retainedDuration</string>
+	<key>moduleTop</key>
+	<string>shouldFetchComposition</string>
+	<key>rowtaxonomy</key>
+	<string>agileSingleton</string>
+	<key>sortedLayout</key>
+	<string>shouldSavePoint</string>
+	<key>triangleslocation</key>
+	<string>radioPlatform</string>
+	<key>uniformSearcher</key>
+	<string>reliabilityInset</string>
+</dict>
+</plist>

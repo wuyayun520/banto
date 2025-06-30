@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricStorage</key>
+	<string>inactiveWidget</string>
+	<key>localmaster</key>
+	<string>canUnmountWidget</string>
+	<key>pivotalCapacity</key>
+	<string>compositionalModal</string>
+	<key>scalabilityInterval</key>
+	<string>missedRenderer</string>
+	<key>smartChart</key>
+	<string>serviceBehavior</string>
+	<key>texturetop</key>
+	<string>shouldReplaceIndicator</string>
+	<key>vectororientation</key>
+	<string>globalInteractor</string>
+	<key>workflowFrequency</key>
+	<string>flexscalability</string>
+</dict>
+</plist>

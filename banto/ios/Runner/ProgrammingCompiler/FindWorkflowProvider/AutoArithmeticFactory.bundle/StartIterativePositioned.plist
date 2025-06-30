@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivetexturebehavior</key>
+	<string>canAttachCapacities</string>
+	<key>chapterLeft</key>
+	<string>resizableBorder</string>
+	<key>intensityBorder</key>
+	<string>concreteOffset</string>
+	<key>permanentEmitter</key>
+	<string>callbackSpacing</string>
+	<key>rectkind</key>
+	<string>semanticCallback</string>
+	<key>spineDuration</key>
+	<string>routerFunction</string>
+	<key>spotScale</key>
+	<string>activeDisclaimer</string>
+	<key>tensorRoute</key>
+	<string>disposeUnary</string>
+</dict>
+</plist>

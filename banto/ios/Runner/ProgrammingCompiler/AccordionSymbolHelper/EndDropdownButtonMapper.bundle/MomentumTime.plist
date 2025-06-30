@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePlayback</key>
+	<string>nodechooser</string>
+	<key>binddialogs</key>
+	<string>detailTop</string>
+	<key>declarativematrixbottom</key>
+	<string>mediumTweak</string>
+	<key>encapsulatemap</key>
+	<string>setupDecoration</string>
+	<key>hyperbolicScalability</key>
+	<string>aspectratioatcontext</string>
+	<key>lastnotifierformat</key>
+	<string>canParseMediaQuery</string>
+	<key>shouldCreateInstruction</key>
+	<string>showService</string>
+	<key>tensorLocalization</key>
+	<string>layoutScroll</string>
+</dict>
+</plist>

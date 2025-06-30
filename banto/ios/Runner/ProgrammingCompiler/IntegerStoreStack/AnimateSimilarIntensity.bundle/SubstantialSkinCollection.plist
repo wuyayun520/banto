@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerskewx</key>
+	<string>canCancelBoxShadow</string>
+	<key>cuberequest</key>
+	<string>sizeMargin</string>
+	<key>declarativeEquivalent</key>
+	<string>fixedPermutation</string>
+	<key>elasticityState</key>
+	<string>gradientSpacing</string>
+	<key>labelexceptnumber</key>
+	<string>statelessBox</string>
+	<key>lossSpacing</key>
+	<string>descriptiondirection</string>
+	<key>persistentIcon</key>
+	<string>otherEntity</string>
+	<key>shouldAnimateStack</key>
+	<string>wrapResult</string>
+	<key>tappableScroller</key>
+	<string>shouldendmultiplication</string>
+</dict>
+</plist>

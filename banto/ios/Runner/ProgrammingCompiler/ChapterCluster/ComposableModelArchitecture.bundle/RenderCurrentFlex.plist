@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesexceptobserver</key>
+	<string>parallelRepository</string>
+	<key>constraintschema</key>
+	<string>shouldUnbindMonster</string>
+	<key>difficultInstruction</key>
+	<string>descentDepth</string>
+	<key>finishhash</key>
+	<string>metadataAdapter</string>
+	<key>marshalwidget</key>
+	<string>canNavigateSpecifier</string>
+	<key>navigatealert</key>
+	<string>shouldEncodeSignature</string>
+	<key>progressbarright</key>
+	<string>polyfillrotation</string>
+</dict>
+</plist>

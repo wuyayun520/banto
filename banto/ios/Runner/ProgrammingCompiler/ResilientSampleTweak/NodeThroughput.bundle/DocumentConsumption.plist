@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateGift</key>
+	<string>greatCallback</string>
+	<key>independentAllocator</key>
+	<string>shouldPresentTheme</string>
+	<key>opaqueShader</key>
+	<string>interceptInteractor</string>
+	<key>publicsensor</key>
+	<string>routeevent</string>
+	<key>shouldDetachMomentum</key>
+	<string>dedicatedShape</string>
+	<key>statelessSchema</key>
+	<string>listviewBehavior</string>
+</dict>
+</plist>

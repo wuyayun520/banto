@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticType</key>
+	<string>symmetricMember</string>
+	<key>geometricDescent</key>
+	<string>canNavigateLoss</string>
+	<key>intermediateInterpolation</key>
+	<string>buildInkWell</string>
+	<key>relationalEquivalent</key>
+	<string>variantzone</string>
+	<key>routerselector</key>
+	<string>playbackinset</string>
+	<key>shouldDeserializeMargin</key>
+	<string>bindNorm</string>
+	<key>skirtOrigin</key>
+	<string>newestSplitter</string>
+</dict>
+</plist>

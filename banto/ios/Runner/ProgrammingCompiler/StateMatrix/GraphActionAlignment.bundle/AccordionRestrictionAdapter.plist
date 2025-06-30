@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contrastOffset</key>
+	<string>usedradiustransparency</string>
+	<key>diversifiedFormat</key>
+	<string>beginnerStoryboard</string>
+	<key>liteFeature</key>
+	<string>minShader</string>
+	<key>mobileanimationsaturation</key>
+	<string>shouldSaveSignature</string>
+	<key>precisionamongvariable</key>
+	<string>metadataandpattern</string>
+	<key>shouldDispatchOverlay</key>
+	<string>commonThreshold</string>
+	<key>shouldPersistRow</key>
+	<string>denseProfile</string>
+	<key>shouldProcessBoxShadow</key>
+	<string>roletaskvalidation</string>
+	<key>trainmomentum</key>
+	<string>permissiveExponent</string>
+	<key>typicalIndicator</key>
+	<string>canUnmountTransition</string>
+</dict>
+</plist>

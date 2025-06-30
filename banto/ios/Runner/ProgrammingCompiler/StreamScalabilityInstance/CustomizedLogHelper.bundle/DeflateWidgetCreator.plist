@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentskewx</key>
+	<string>layoutInkWell</string>
+	<key>diffableTrajectory</key>
+	<string>storespeed</string>
+	<key>largeTentative</key>
+	<string>tweenorientation</string>
+	<key>materialContrast</key>
+	<string>shouldObserveLogarithm</string>
+	<key>mediaquerySkewX</key>
+	<string>canLoadChannels</string>
+	<key>observerparambound</key>
+	<string>shaderStyle</string>
+	<key>sinkcoord</key>
+	<string>presentsubscription</string>
+	<key>statelessnibspacing</key>
+	<string>singleBloc</string>
+</dict>
+</plist>

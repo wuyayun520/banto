@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanPageView</key>
+	<string>loopVisitor</string>
+	<key>liteSound</key>
+	<string>composableAnalogy</string>
+	<key>playradius</key>
+	<string>reactiveSemantics</string>
+	<key>reactiveScroller</key>
+	<string>trainNotification</string>
+	<key>reductionappearance</key>
+	<string>curveStrategy</string>
+	<key>zoneRotation</key>
+	<string>meshdistance</string>
+</dict>
+</plist>

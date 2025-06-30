@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistBehavior</key>
+	<string>occasionSaturation</string>
+	<key>firstChannel</key>
+	<string>basicScroll</string>
+	<key>globalArithmetic</key>
+	<string>analogyVisible</string>
+	<key>loaderColor</key>
+	<string>rendererBrightness</string>
+	<key>normalGate</key>
+	<string>shouldPersistBuilder</string>
+	<key>primaryRemediation</key>
+	<string>statelessInstruction</string>
+	<key>shouldBuildLayout</key>
+	<string>significantHandler</string>
+	<key>significantNotification</key>
+	<string>streamlineAwait</string>
+	<key>threadinfrastructure</key>
+	<string>limitresult</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelslabel</key>
+	<string>materialformat</string>
+	<key>constantStyle</key>
+	<string>bulletTag</string>
+	<key>frameInteraction</key>
+	<string>serializeTangent</string>
+	<key>immediateHero</key>
+	<string>canBindBaseline</string>
+	<key>largestorageduration</key>
+	<string>canRouteStep</string>
+	<key>normalanimation</key>
+	<string>shouldProcessNavigator</string>
+	<key>shouldFinishCapsule</key>
+	<string>shouldMountSemantics</string>
+	<key>shouldSerializeSkin</key>
+	<string>completedStream</string>
+	<key>variantdispatcher</key>
+	<string>ignoredReliability</string>
+</dict>
+</plist>

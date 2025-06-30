@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorspacing</key>
+	<string>unbindSensor</string>
+	<key>checkboxlocation</key>
+	<string>multiAnimator</string>
+	<key>criticalProfile</key>
+	<string>invisibleScroll</string>
+	<key>expandedScale</key>
+	<string>canConnectFuture</string>
+	<key>singletonatnumber</key>
+	<string>propagateGrid</string>
+	<key>statefulEquivalent</key>
+	<string>inkwellAcceleration</string>
+	<key>storageRight</key>
+	<string>diversifiedTween</string>
+</dict>
+</plist>

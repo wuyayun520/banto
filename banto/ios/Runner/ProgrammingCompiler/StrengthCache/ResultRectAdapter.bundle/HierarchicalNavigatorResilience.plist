@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteTrajectory</key>
+	<string>chapterOpacity</string>
+	<key>concurrentMediaQuery</key>
+	<string>streamlineWidget</string>
+	<key>consumptionIndex</key>
+	<string>resumePriority</string>
+	<key>cupertinoInkWell</key>
+	<string>liteTaxonomy</string>
+	<key>customizedInterpolation</key>
+	<string>differentiateReducer</string>
+	<key>firstTaxonomy</key>
+	<string>moveDecoration</string>
+	<key>mediumGroup</key>
+	<string>dismissCheckbox</string>
+	<key>opaqueRemainder</key>
+	<string>drawerfromvisitor</string>
+	<key>shouldattachresource</key>
+	<string>coordinatorAdapter</string>
+	<key>thresholdFormat</key>
+	<string>publishgrayscale</string>
+</dict>
+</plist>

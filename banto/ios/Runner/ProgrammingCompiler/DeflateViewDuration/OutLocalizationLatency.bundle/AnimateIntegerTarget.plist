@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionversusparam</key>
+	<string>declarativechecklist</string>
+	<key>allocatorRate</key>
+	<string>featureanimation</string>
+	<key>builderstructuretension</key>
+	<string>floatMethod</string>
+	<key>gatemodespacing</key>
+	<string>requiredSlider</string>
+	<key>rapidConverter</key>
+	<string>queuethreshold</string>
+	<key>robustTextField</key>
+	<string>elasticAlignment</string>
+	<key>statefulGradient</key>
+	<string>radiusbyform</string>
+</dict>
+</plist>

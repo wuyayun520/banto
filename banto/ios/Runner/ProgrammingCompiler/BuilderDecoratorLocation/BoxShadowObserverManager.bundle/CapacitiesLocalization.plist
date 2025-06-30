@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedcardbrightness</key>
+	<string>elasticService</string>
+	<key>bandwidthOffset</key>
+	<string>opaqueCharacteristic</string>
+	<key>buildgesturedetector</key>
+	<string>reducerimage</string>
+	<key>directlySize</key>
+	<string>newestSemantics</string>
+	<key>explicitPositioned</key>
+	<string>presenterframe</string>
+	<key>fragmentstheme</key>
+	<string>kernelAppearance</string>
+	<key>notificationName</key>
+	<string>limitController</string>
+	<key>parallelStep</key>
+	<string>gridVariable</string>
+	<key>shouldPresentCupertino</key>
+	<string>subscribeBox</string>
+</dict>
+</plist>

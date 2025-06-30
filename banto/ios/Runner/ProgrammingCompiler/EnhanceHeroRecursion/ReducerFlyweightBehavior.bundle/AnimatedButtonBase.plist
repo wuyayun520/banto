@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeMenu</key>
+	<string>cubeandaction</string>
+	<key>firstLoss</key>
+	<string>layerinset</string>
+	<key>imperativeJoiner</key>
+	<string>canResumeSpot</string>
+	<key>operationtint</key>
+	<string>canRestartView</string>
+	<key>optimizertension</key>
+	<string>cardcoord</string>
+	<key>receiverSkewY</key>
+	<string>canSaveContraction</string>
+	<key>scrollableQueue</key>
+	<string>canKeepLogarithm</string>
+	<key>shouldAttachBrush</key>
+	<string>keepDocument</string>
+	<key>specifycontraction</key>
+	<string>gridviewshape</string>
+</dict>
+</plist>

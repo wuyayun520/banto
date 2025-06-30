@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisInteraction</key>
+	<string>aggregateRequest</string>
+	<key>descentSkewY</key>
+	<string>invisibleRect</string>
+	<key>desktopGraph</key>
+	<string>euclideanState</string>
+	<key>mediocreCursor</key>
+	<string>canCancelGift</string>
+	<key>protectedAnimator</key>
+	<string>spotState</string>
+	<key>shouldEndGradient</key>
+	<string>disposeTable</string>
+</dict>
+</plist>

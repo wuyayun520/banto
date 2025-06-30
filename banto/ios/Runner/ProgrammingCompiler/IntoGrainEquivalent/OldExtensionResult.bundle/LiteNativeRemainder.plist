@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elementSize</key>
+	<string>transitionInterpreter</string>
+	<key>interpolationview</key>
+	<string>reactiveMember</string>
+	<key>lossRight</key>
+	<string>reactivemarginacceleration</string>
+	<key>shouldResumeIcon</key>
+	<string>fetchIcon</string>
+	<key>synchronousDependency</key>
+	<string>shouldMountTable</string>
+	<key>temporaryProfile</key>
+	<string>canInflateSpecifier</string>
+	<key>timelineBound</key>
+	<string>fragmentInteraction</string>
+	<key>visibleFragments</key>
+	<string>interactiveEvolution</string>
+</dict>
+</plist>

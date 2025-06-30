@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocalignment</key>
+	<string>endutil</string>
+	<key>crucialdependencycount</key>
+	<string>providerreducer</string>
+	<key>disabledEntropy</key>
+	<string>capsulebottom</string>
+	<key>dynamicGram</key>
+	<string>transformbuilder</string>
+	<key>hasspine</key>
+	<string>listenNavigator</string>
+	<key>marginInset</key>
+	<string>dropoutZone</string>
+	<key>multigesturealignment</key>
+	<string>inactiveMapper</string>
+	<key>shouldkeepeffect</key>
+	<string>interpolationformat</string>
+</dict>
+</plist>

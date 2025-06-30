@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMonster</key>
+	<string>nextProvision</string>
+	<key>buttonValidation</key>
+	<string>resourcesingletonlocation</string>
+	<key>cardKind</key>
+	<string>canRebuildCapacities</string>
+	<key>modulusAppearance</key>
+	<string>aggregateMetadata</string>
+	<key>nextEntropy</key>
+	<string>imperativeTexture</string>
+	<key>shouldBindInterpolation</key>
+	<string>scenerate</string>
+	<key>showsprite</key>
+	<string>immutableoffset</string>
+	<key>subpixelInterval</key>
+	<string>consultativeCapacity</string>
+</dict>
+</plist>

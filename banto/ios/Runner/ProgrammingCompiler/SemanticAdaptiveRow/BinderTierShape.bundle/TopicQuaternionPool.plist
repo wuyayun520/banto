@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardGraph</key>
+	<string>streamAnimation</string>
+	<key>consultativeReplica</key>
+	<string>aspectratioSkewX</string>
+	<key>crudeCharacter</key>
+	<string>decoupleprovider</string>
+	<key>dynamicequipment</key>
+	<string>modalflags</string>
+	<key>flexibleStack</key>
+	<string>meshCount</string>
+	<key>inactiveVolume</key>
+	<string>canFormatCatalyst</string>
+	<key>interactiveStoryboard</key>
+	<string>localizationdistance</string>
+	<key>substantialImage</key>
+	<string>deactivatereference</string>
+	<key>titleinterpreterindex</key>
+	<string>shouldBuildTabBar</string>
+	<key>utilbufferinteraction</key>
+	<string>canPresentDialogs</string>
+</dict>
+</plist>

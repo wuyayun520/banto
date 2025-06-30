@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardVector</key>
+	<string>processNavigator</string>
+	<key>cacheprecision</key>
+	<string>skipCycle</string>
+	<key>elasticconvolutionright</key>
+	<string>requestjobtail</string>
+	<key>functionalSwitch</key>
+	<string>shouldMountUsage</string>
+</dict>
+</plist>

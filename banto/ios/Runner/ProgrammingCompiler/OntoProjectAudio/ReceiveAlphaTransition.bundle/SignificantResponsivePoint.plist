@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyAudio</key>
+	<string>graphicPadding</string>
+	<key>fixedobserverduration</key>
+	<string>interfaceTransparency</string>
+	<key>labelBound</key>
+	<string>lastDisclaimer</string>
+	<key>newestInterpolation</key>
+	<string>canEncodeProtocol</string>
+	<key>prevReducer</key>
+	<string>dismissManager</string>
+	<key>sensorDepth</key>
+	<string>dedicatedCycle</string>
+	<key>transitiontimeline</key>
+	<string>concurrentmetadata</string>
+	<key>uniformRemediation</key>
+	<string>playbackFacade</string>
+</dict>
+</plist>

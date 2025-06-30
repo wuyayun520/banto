@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletduration</key>
+	<string>nativeStore</string>
+	<key>commonInstruction</key>
+	<string>unmarshalSingleton</string>
+	<key>eagerModal</key>
+	<string>pageviewinset</string>
+	<key>immutableInteger</key>
+	<string>backwardRestriction</string>
+	<key>layoutactivity</key>
+	<string>concurrentDuration</string>
+	<key>sampleRotation</key>
+	<string>shouldCreateModulus</string>
+	<key>shouldTrainChecklist</key>
+	<string>protectedAscent</string>
+	<key>shouldnotifyhero</key>
+	<string>imperativeLifecycle</string>
+	<key>smallSplitter</key>
+	<string>measurestoryboard</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousInformation</key>
+	<string>transitionNotifier</string>
+	<key>decorationRate</key>
+	<string>basicGrain</string>
+	<key>disabledPermutation</key>
+	<string>mountSensor</string>
+	<key>freesubscription</key>
+	<string>statefulTail</string>
+	<key>functionalLogarithm</key>
+	<string>textstagetension</string>
+	<key>hyperbolicSelector</key>
+	<string>globalLog</string>
+	<key>nativeEvent</key>
+	<string>completiondirection</string>
+	<key>shouldunmountcurve</key>
+	<string>inheritedextension</string>
+	<key>streamlinealpha</key>
+	<string>converterCoord</string>
+	<key>touchcenter</key>
+	<string>normalAspectRatio</string>
+</dict>
+</plist>

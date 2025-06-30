@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTable</key>
+	<string>tangentChain</string>
+	<key>blocBehavior</key>
+	<string>localizationContext</string>
+	<key>buildtouch</key>
+	<string>nativeCompleter</string>
+	<key>currentswitch</key>
+	<string>appendanimation</string>
+	<key>easyCard</key>
+	<string>iconorientation</string>
+	<key>effectstructurerate</key>
+	<string>trianglesMargin</string>
+	<key>gramDuration</key>
+	<string>responsePressure</string>
+	<key>providerSkewX</key>
+	<string>discoverMenu</string>
+</dict>
+</plist>

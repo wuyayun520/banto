@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicListView</key>
+	<string>canSetStateBinary</string>
+	<key>builderOrientation</key>
+	<string>unbindmethod</string>
+	<key>currentflex</key>
+	<string>smartTimer</string>
+	<key>routefromstate</key>
+	<string>canEmitRoute</string>
+</dict>
+</plist>

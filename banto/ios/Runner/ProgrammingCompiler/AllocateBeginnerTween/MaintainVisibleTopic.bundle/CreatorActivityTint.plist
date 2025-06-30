@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedAnimatedContainer</key>
+	<string>eventBrightness</string>
+	<key>advancedpainterleft</key>
+	<string>buildCursor</string>
+	<key>nativeIcon</key>
+	<string>reflecteffect</string>
+	<key>opaquePopup</key>
+	<string>boxRight</string>
+	<key>permanentEntropy</key>
+	<string>sortedPresenter</string>
+	<key>protectedRequest</key>
+	<string>mountedLabel</string>
+	<key>shouldLayoutLayout</key>
+	<string>mediumConstraint</string>
+	<key>shouldRenderTransition</key>
+	<string>shouldPrepareStack</string>
+	<key>sorterType</key>
+	<string>timeCenter</string>
+</dict>
+</plist>

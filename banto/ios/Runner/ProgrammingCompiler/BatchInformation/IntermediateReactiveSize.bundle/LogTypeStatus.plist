@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableCallback</key>
+	<string>responsivePromise</string>
+	<key>resourceMomentum</key>
+	<string>attachSizedBox</string>
+	<key>uniqueSemantics</key>
+	<string>sinkMethod</string>
+</dict>
+</plist>

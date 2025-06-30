@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>initializeresponse</key>
+	<string>listencontainer</string>
+	<key>managerLeft</key>
+	<string>selectedRichText</string>
+	<key>metricsSkewX</key>
+	<string>beginnerBitrate</string>
+	<key>semanticElasticity</key>
+	<string>alignmentphaseindex</string>
+	<key>shouldParseHero</key>
+	<string>lossspacing</string>
+	<key>shouldPublishFuture</key>
+	<string>reusableInfrastructure</string>
+	<key>subtleMaterial</key>
+	<string>euclideanThreshold</string>
+</dict>
+</plist>

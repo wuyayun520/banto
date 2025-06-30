@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentBorder</key>
+	<string>loadLog</string>
+	<key>clipperFlags</key>
+	<string>ignoredReliability</string>
+	<key>crudeGridView</key>
+	<string>usedRect</string>
+	<key>indicatorRotation</key>
+	<string>similarCanvas</string>
+	<key>mediumAperture</key>
+	<string>pickerFrequency</string>
+	<key>mediumDimension</key>
+	<string>transitionEffect</string>
+	<key>oldAsync</key>
+	<string>tappableEfficiency</string>
+	<key>retainedColumn</key>
+	<string>missedAnchor</string>
+	<key>shouldResumeEntropy</key>
+	<string>firstCreator</string>
+	<key>sortedinterfacespacing</key>
+	<string>pivotalError</string>
+</dict>
+</plist>

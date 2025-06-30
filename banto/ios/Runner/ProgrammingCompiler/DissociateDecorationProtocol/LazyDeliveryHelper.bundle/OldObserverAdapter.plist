@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledImpact</key>
+	<string>basicScalability</string>
+	<key>ephemeralSubpixel</key>
+	<string>observeView</string>
+	<key>globalIsolate</key>
+	<string>visualizeTexture</string>
+	<key>inheritedOffset</key>
+	<string>geometrictentative</string>
+	<key>otherPlate</key>
+	<string>inactiveAccessory</string>
+	<key>respectiveEvolution</key>
+	<string>lostCharacter</string>
+	<key>sharedDescription</key>
+	<string>canPauseCharacter</string>
+	<key>shouldRenderCharacter</key>
+	<string>canUnmountedMomentum</string>
+</dict>
+</plist>

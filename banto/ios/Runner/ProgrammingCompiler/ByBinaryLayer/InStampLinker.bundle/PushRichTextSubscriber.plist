@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTween</key>
+	<string>gesturePhase</string>
+	<key>disabledOccasion</key>
+	<string>presenterPadding</string>
+	<key>enabledAnchor</key>
+	<string>accordionBloc</string>
+	<key>geometricTechnique</key>
+	<string>interpolationAdapter</string>
+	<key>shouldBuildMatrix</key>
+	<string>granularMaterializer</string>
+	<key>shouldDisposeTernary</key>
+	<string>transitionStructure</string>
+	<key>shouldStopOverlay</key>
+	<string>tappableFactory</string>
+	<key>usageOrigin</key>
+	<string>minStateless</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredTransformer</key>
+	<string>diversifiedutiltransparency</string>
+	<key>precisionAlignment</key>
+	<string>tabbarEdge</string>
+	<key>protectedBullet</key>
+	<string>aperturetypespacing</string>
+	<key>shouldAttachMultiplication</key>
+	<string>generateEntity</string>
+	<key>similarListener</key>
+	<string>respectiveTaxonomy</string>
+	<key>statelessaccessoryfeedback</key>
+	<string>statelessVariant</string>
+	<key>transformerincludeflyweight</key>
+	<string>buildMember</string>
+</dict>
+</plist>

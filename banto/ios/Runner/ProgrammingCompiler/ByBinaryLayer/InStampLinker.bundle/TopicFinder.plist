@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineselector</key>
+	<string>requiredModel</string>
+	<key>optimizerinterval</key>
+	<string>preparepainter</string>
+	<key>pointAcceleration</key>
+	<string>beginnertrajectory</string>
+	<key>shouldRouteBrush</key>
+	<string>ignoredprovision</string>
+</dict>
+</plist>

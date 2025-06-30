@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocaroundlayer</key>
+	<string>sensorPattern</string>
+	<key>completionstyle</key>
+	<string>builderSingleton</string>
+	<key>eagerConsumer</key>
+	<string>dropdownbuttonVisitor</string>
+	<key>normTransparency</key>
+	<string>transformSemantics</string>
+	<key>persistentqueuetheme</key>
+	<string>timerStage</string>
+	<key>rapidInterface</key>
+	<string>iterativeConsumption</string>
+	<key>shouldpushreduction</key>
+	<string>processAxis</string>
+	<key>temporaryGesture</key>
+	<string>pushLoop</string>
+</dict>
+</plist>

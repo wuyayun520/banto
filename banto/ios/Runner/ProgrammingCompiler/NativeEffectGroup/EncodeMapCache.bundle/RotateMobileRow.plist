@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableObject</key>
+	<string>canHandleBehavior</string>
+	<key>crucialComponent</key>
+	<string>listenlocalization</string>
+	<key>loopInterval</key>
+	<string>resourcecreator</string>
+	<key>pinchableUsage</key>
+	<string>custompaintFrequency</string>
+	<key>shouldStopStateless</key>
+	<string>displayDecoration</string>
+	<key>tappableStamp</key>
+	<string>encodeDecoration</string>
+</dict>
+</plist>

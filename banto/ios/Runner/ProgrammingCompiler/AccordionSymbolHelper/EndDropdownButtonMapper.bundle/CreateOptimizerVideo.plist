@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticAnimation</key>
+	<string>touchRight</string>
+	<key>framedistance</key>
+	<string>presenterRotation</string>
+	<key>keeppoint</key>
+	<string>invisibleUsage</string>
+	<key>opaquePageView</key>
+	<string>commonMethod</string>
+	<key>subscriptionmementotail</key>
+	<string>shouldAttachTransition</string>
+</dict>
+</plist>

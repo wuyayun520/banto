@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionInteraction</key>
+	<string>canUnmountInstruction</string>
+	<key>customRepository</key>
+	<string>standaloneConstant</string>
+	<key>featurePosition</key>
+	<string>momentumActivity</string>
+	<key>immediatemediaquerytop</key>
+	<string>topicVariable</string>
+	<key>liteScreen</key>
+	<string>interceptQueue</string>
+	<key>providerrange</key>
+	<string>asyncTemple</string>
+	<key>singletonmodedelay</key>
+	<string>constraintscheduler</string>
+</dict>
+</plist>

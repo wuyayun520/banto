@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSplitter</key>
+	<string>sizedboxFeedback</string>
+	<key>advancedAxis</key>
+	<string>eagerresponse</string>
+	<key>bundlebullet</key>
+	<string>sortedProject</string>
+	<key>constraintinsidechain</key>
+	<string>lazySemantics</string>
+	<key>invisibleCard</key>
+	<string>rapidBloc</string>
+	<key>modelanalyzer</key>
+	<string>imageForce</string>
+	<key>opaqueShape</key>
+	<string>webOccasion</string>
+	<key>shouldsavethread</key>
+	<string>shouldpopswift</string>
+	<key>statelessMultiplication</key>
+	<string>factoryvisible</string>
+	<key>tickerskewy</key>
+	<string>storageexceptnumber</string>
+</dict>
+</plist>

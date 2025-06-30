@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinetext</key>
+	<string>checkboxmode</string>
+	<key>configurationInterval</key>
+	<string>selectedChannels</string>
+	<key>desktopListener</key>
+	<string>paddingPlatform</string>
+	<key>findgrid</key>
+	<string>materialTransition</string>
+	<key>futureoperation</key>
+	<string>pageviewalignment</string>
+	<key>globalroute</key>
+	<string>borderFeedback</string>
+	<key>prevTime</key>
+	<string>resolverProxy</string>
+	<key>shouldHandleTabBar</key>
+	<string>activeRemediation</string>
+	<key>stopexpanded</key>
+	<string>navigateStep</string>
+	<key>swiftCoord</key>
+	<string>topichue</string>
+</dict>
+</plist>

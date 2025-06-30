@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedManager</key>
+	<string>gridBorder</string>
+	<key>hasnavigator</key>
+	<string>renderCell</string>
+	<key>notifiertiercolor</key>
+	<string>presentercount</string>
+	<key>serviceValidation</key>
+	<string>enhanceResource</string>
+	<key>statefulEvaluation</key>
+	<string>difficultSkirt</string>
+	<key>subtleTimeline</key>
+	<string>informationspeed</string>
+	<key>tensorReplica</key>
+	<string>shouldContinueEntropy</string>
+	<key>timerBorder</key>
+	<string>handleBitrate</string>
+</dict>
+</plist>

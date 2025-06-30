@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetcharacteristic</key>
+	<string>cardEdge</string>
+	<key>behaviortransformer</key>
+	<string>parallelSegment</string>
+	<key>cycleMargin</key>
+	<string>logarithmposition</string>
+	<key>secondReceiver</key>
+	<string>cardJob</string>
+	<key>shouldSkipSwitch</key>
+	<string>captureMetadata</string>
+	<key>staticEvaluation</key>
+	<string>processternary</string>
+	<key>uniformcheckbox</key>
+	<string>constructChannel</string>
+</dict>
+</plist>

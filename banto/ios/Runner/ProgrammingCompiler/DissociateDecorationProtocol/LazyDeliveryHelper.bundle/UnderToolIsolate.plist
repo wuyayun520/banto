@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticFinder</key>
+	<string>positionright</string>
+	<key>infrastructurecount</key>
+	<string>sharedDisclaimer</string>
+	<key>staticError</key>
+	<string>rowHue</string>
+	<key>symmetricMovement</key>
+	<string>queueopacity</string>
+	<key>topicDuration</key>
+	<string>materializerMode</string>
+</dict>
+</plist>

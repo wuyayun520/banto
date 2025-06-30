@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicReceiver</key>
+	<string>uniqueLinker</string>
+	<key>delicatecheckboxstyle</key>
+	<string>popCaption</string>
+	<key>dynamicDisclaimer</key>
+	<string>shouldPauseModulus</string>
+	<key>fragmentsAppearance</key>
+	<string>dimensionRight</string>
+	<key>marshalview</key>
+	<string>dedicatedController</string>
+	<key>resilienceDirection</key>
+	<string>canLoadAspectRatio</string>
+	<key>richtextAppearance</key>
+	<string>stringifyUtil</string>
+	<key>scrollableTimer</key>
+	<string>allocatorperstyle</string>
+	<key>selectedextension</key>
+	<string>dedicatedPreview</string>
+	<key>typicalLayout</key>
+	<string>relationalsubscription</string>
+</dict>
+</plist>

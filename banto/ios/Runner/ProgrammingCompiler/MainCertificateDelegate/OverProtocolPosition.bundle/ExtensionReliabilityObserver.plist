@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerBottom</key>
+	<string>persistisolate</string>
+	<key>segmentgraph</key>
+	<string>evaluateFeature</string>
+	<key>serviceBrightness</key>
+	<string>buildThread</string>
+	<key>shouldcachecapacities</key>
+	<string>timelineShape</string>
+	<key>unactivatedSize</key>
+	<string>shouldResumeMatrix</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationindex</key>
+	<string>publicReceiver</string>
+	<key>gesturethreshold</key>
+	<string>appbarSize</string>
+	<key>hashName</key>
+	<string>shouldTransitionStamp</string>
+	<key>isolateforce</key>
+	<string>subscriberRotation</string>
+	<key>methodFrequency</key>
+	<string>flexTask</string>
+	<key>replicaVisibility</key>
+	<string>canUnbindMovement</string>
+	<key>subsequentsink</key>
+	<string>functionalShader</string>
+	<key>synchronousZone</key>
+	<string>publishIcon</string>
+</dict>
+</plist>

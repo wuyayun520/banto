@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeQueue</key>
+	<string>serializeCapsule</string>
+	<key>mutableElasticity</key>
+	<string>referenceDistance</string>
+	<key>navigatordescription</key>
+	<string>spinVector</string>
+	<key>normalDialogs</key>
+	<string>unlockObserver</string>
+	<key>singleStoryboard</key>
+	<string>shouldListenContainer</string>
+	<key>subtleGem</key>
+	<string>eventCommand</string>
+	<key>vertexacceleration</key>
+	<string>lazyVertex</string>
+</dict>
+</plist>

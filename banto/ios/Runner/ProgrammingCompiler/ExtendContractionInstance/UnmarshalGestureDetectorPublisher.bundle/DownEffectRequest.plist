@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureColor</key>
+	<string>immutableChooser</string>
+	<key>ephemeralprovider</key>
+	<string>liteDelegate</string>
+	<key>frameDuration</key>
+	<string>shouldmountrichtext</string>
+	<key>grainbound</key>
+	<string>axisgroup</string>
+	<key>inkwellscenario</key>
+	<string>canStopInterpolation</string>
+	<key>keyCharacter</key>
+	<string>restartlabel</string>
+	<key>permissiveEvolution</key>
+	<string>paintShader</string>
+	<key>pickerTheme</key>
+	<string>timerFlyweight</string>
+	<key>shouldHandlePlayback</key>
+	<string>shouldDisposeContraction</string>
+	<key>singleanimation</key>
+	<string>hascursor</string>
+</dict>
+</plist>

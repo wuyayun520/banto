@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDuration</key>
+	<string>batchofactivity</string>
+	<key>connectscreen</key>
+	<string>pivotalGate</string>
+	<key>meshEdge</key>
+	<string>canStartClipper</string>
+	<key>significantImage</key>
+	<string>shearBuilder</string>
+	<key>similargridname</key>
+	<string>scrollCoord</string>
+</dict>
+</plist>

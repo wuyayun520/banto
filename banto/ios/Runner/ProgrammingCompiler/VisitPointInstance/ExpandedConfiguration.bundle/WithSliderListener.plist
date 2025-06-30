@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardOccasion</key>
+	<string>cardParameter</string>
+	<key>concreteVolume</key>
+	<string>exitError</string>
+	<key>materialSingleton</key>
+	<string>unactivatedZone</string>
+	<key>resilientRemainder</key>
+	<string>checkboximpact</string>
+	<key>shouldEncodeCurve</key>
+	<string>serviceSpacing</string>
+	<key>shouldTrainListView</key>
+	<string>maintainAnimation</string>
+	<key>traversalSpeed</key>
+	<string>streamVisibility</string>
+</dict>
+</plist>

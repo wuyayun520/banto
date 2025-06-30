@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorState</key>
+	<string>inflateWidget</string>
+	<key>eventFeedback</key>
+	<string>stackForm</string>
+	<key>featurescopelocation</key>
+	<string>textdata</string>
+	<key>operationsink</key>
+	<string>generatePosition</string>
+	<key>rectvaluepadding</key>
+	<string>sharedWidget</string>
+	<key>responsivechecklist</key>
+	<string>canPersistController</string>
+	<key>shouldStartBox</key>
+	<string>canEncodeLog</string>
+</dict>
+</plist>

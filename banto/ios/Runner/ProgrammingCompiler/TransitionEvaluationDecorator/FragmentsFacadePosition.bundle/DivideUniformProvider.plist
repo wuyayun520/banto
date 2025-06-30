@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectcycle</key>
+	<string>canSerializeTouch</string>
+	<key>displayablerouterdepth</key>
+	<string>enabledColor</string>
+	<key>pinchableResource</key>
+	<string>completioncomponent</string>
+</dict>
+</plist>

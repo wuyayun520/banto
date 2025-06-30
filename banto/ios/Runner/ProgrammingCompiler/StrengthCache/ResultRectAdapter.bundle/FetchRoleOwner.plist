@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSpot</key>
+	<string>shouldNotifyAnimation</string>
+	<key>compositionalDimension</key>
+	<string>loaderDirection</string>
+	<key>convolutionName</key>
+	<string>scalabilityalignment</string>
+	<key>deferredAnimatedContainer</key>
+	<string>canListenSign</string>
+</dict>
+</plist>

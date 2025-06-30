@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directRect</key>
+	<string>endTextField</string>
+	<key>draggableState</key>
+	<string>richtextOperation</string>
+	<key>exceptionshape</key>
+	<string>deferredStroke</string>
+	<key>keynavigatorvalidation</key>
+	<string>insteadCallback</string>
+	<key>offsetdensity</key>
+	<string>draggableScaffold</string>
+	<key>rectchainedge</key>
+	<string>shouldDisconnectStoryboard</string>
+	<key>semanticComposition</key>
+	<string>heaptext</string>
+	<key>shouldContinueGradient</key>
+	<string>webRequest</string>
+	<key>shouldPersistOptimizer</key>
+	<string>aspectOpacity</string>
+</dict>
+</plist>

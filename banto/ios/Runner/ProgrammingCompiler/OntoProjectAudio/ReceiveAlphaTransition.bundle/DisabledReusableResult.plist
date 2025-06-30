@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseFormat</key>
+	<string>shouldInflateSpot</string>
+	<key>immutableMovement</key>
+	<string>semanticSearcher</string>
+	<key>prevEquivalent</key>
+	<string>imageInset</string>
+	<key>sequentialCatalyst</key>
+	<string>batchTransparency</string>
+	<key>sharedLoader</key>
+	<string>shouldStopTangent</string>
+	<key>shouldDecodeConsumer</key>
+	<string>canDisposeRole</string>
+	<key>startequipment</key>
+	<string>canStartDescriptor</string>
+</dict>
+</plist>

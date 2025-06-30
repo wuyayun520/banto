@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonresilience</key>
+	<string>canCancelSample</string>
+	<key>captionPressure</key>
+	<string>syncTask</string>
+	<key>subscriberVisibility</key>
+	<string>shouldStreamGridView</string>
+	<key>titlereliability</key>
+	<string>decorationofplatform</string>
+	<key>transformmonster</key>
+	<string>concurrentGraph</string>
+</dict>
+</plist>

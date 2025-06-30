@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxbytask</key>
+	<string>registerTween</string>
+	<key>debugstate</key>
+	<string>removeCurve</string>
+	<key>detectorDuration</key>
+	<string>autoImage</string>
+	<key>effectworkvisibility</key>
+	<string>interactorinterval</string>
+	<key>priorCallback</key>
+	<string>findOffset</string>
+	<key>requestRate</key>
+	<string>subsequentVector</string>
+	<key>shouldMountedTabBar</key>
+	<string>buildasync</string>
+	<key>textScale</key>
+	<string>detectorOrigin</string>
+	<key>visiblesearcher</key>
+	<string>animatedProfile</string>
+</dict>
+</plist>

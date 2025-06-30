@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableallocatortint</key>
+	<string>shouldCreateProject</string>
+	<key>liteGestureDetector</key>
+	<string>retainAlignment</string>
+	<key>notationMode</key>
+	<string>currentequipment</string>
+	<key>notificationagainststyle</key>
+	<string>desktopRadio</string>
+	<key>remainderSpacing</key>
+	<string>responsiveMatrix</string>
+	<key>singletonSpacing</key>
+	<string>collectionDuration</string>
+	<key>statusPosition</key>
+	<string>respectiveJoiner</string>
+</dict>
+</plist>

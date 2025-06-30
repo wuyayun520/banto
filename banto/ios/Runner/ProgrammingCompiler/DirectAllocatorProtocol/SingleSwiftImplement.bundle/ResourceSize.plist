@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerStateful</key>
+	<string>shouldSerializeTask</string>
+	<key>labelAlignment</key>
+	<string>canSaveGrayscale</string>
+	<key>persistentBitrate</key>
+	<string>denseDelegate</string>
+	<key>pivotalModulus</key>
+	<string>elasticitySpeed</string>
+	<key>semanticPresenter</key>
+	<string>resizableTraversal</string>
+	<key>shouldBindWorkflow</key>
+	<string>canConnectButton</string>
+	<key>shouldSaveStep</key>
+	<string>cellParam</string>
+	<key>symbolTag</key>
+	<string>injectModel</string>
+	<key>trainsink</key>
+	<string>operationBridge</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocType</key>
+	<string>disabledDialogs</string>
+	<key>compositionmargin</key>
+	<string>priorityLayer</string>
+	<key>creatorSpacing</key>
+	<string>cupertinoCollection</string>
+	<key>disconnectchannels</key>
+	<string>optimizerrecursion</string>
+	<key>geometricRemainder</key>
+	<string>visitpresenter</string>
+	<key>indicatorCenter</key>
+	<string>certificateMargin</string>
+	<key>listenerTop</key>
+	<string>subscribeStamp</string>
+	<key>mergerCount</key>
+	<string>meshColor</string>
+	<key>reusableWorkflow</key>
+	<string>stampPrototype</string>
+	<key>subscribecubit</key>
+	<string>displayableNavigation</string>
+</dict>
+</plist>

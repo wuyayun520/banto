@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerOperation</key>
+	<string>greatIndicator</string>
+	<key>columnflags</key>
+	<string>encodekernel</string>
+	<key>meshRight</key>
+	<string>largeEquipment</string>
+	<key>ondurationchanged</key>
+	<string>resolverDecorator</string>
+	<key>prevnavigationhue</key>
+	<string>adjustTitle</string>
+	<key>provisionType</key>
+	<string>pinchableTabView</string>
+	<key>segueoutsidework</key>
+	<string>robustMechanism</string>
+</dict>
+</plist>

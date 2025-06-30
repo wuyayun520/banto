@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedConfiguration</key>
+	<string>sequentialPager</string>
+	<key>cardparamindex</key>
+	<string>singletonpicker</string>
+	<key>cubeFormat</key>
+	<string>optimizeTask</string>
+	<key>fixedInstruction</key>
+	<string>formatprotocol</string>
+	<key>ignoredBullet</key>
+	<string>efficiencyBrightness</string>
+	<key>requiredoperation</key>
+	<string>defaultGate</string>
+	<key>shouldstartbinary</key>
+	<string>descriptionHead</string>
+</dict>
+</plist>

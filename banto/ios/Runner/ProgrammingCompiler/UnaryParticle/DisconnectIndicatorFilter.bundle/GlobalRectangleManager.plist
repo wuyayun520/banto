@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedCharacteristic</key>
+	<string>canContinueAnimatedContainer</string>
+	<key>seamlessStep</key>
+	<string>initializeLabel</string>
+	<key>shouldCacheRole</key>
+	<string>typicalmediaquery</string>
+	<key>temporaryClipper</key>
+	<string>immutableThreshold</string>
+	<key>throughputtail</key>
+	<string>currenthandlersize</string>
+</dict>
+</plist>

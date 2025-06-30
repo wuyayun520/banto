@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listenlogarithm</key>
+	<string>activeScheduler</string>
+	<key>localMesh</key>
+	<string>flexibleVideo</string>
+	<key>parallelAccessory</key>
+	<string>effecthue</string>
+	<key>shouldProcessDialogs</key>
+	<string>stepTop</string>
+	<key>skirtOrientation</key>
+	<string>flexHead</string>
+</dict>
+</plist>

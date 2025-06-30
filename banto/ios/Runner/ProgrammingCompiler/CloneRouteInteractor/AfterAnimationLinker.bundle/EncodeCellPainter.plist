@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedWorkflow</key>
+	<string>immutableExpanded</string>
+	<key>draggableSprite</key>
+	<string>shouldDeserializeConstraint</string>
+	<key>embedsignature</key>
+	<string>encapsulatedependency</string>
+	<key>formatScale</key>
+	<string>shouldCacheBloc</string>
+	<key>impactSkewX</key>
+	<string>delicateSpine</string>
+	<key>nextBuilder</key>
+	<string>sortedLog</string>
+	<key>persistentmapmomentum</key>
+	<string>nextlinker</string>
+	<key>publishscreen</key>
+	<string>activateBuffer</string>
+	<key>shouldBuildBitrate</key>
+	<string>isheap</string>
+</dict>
+</plist>

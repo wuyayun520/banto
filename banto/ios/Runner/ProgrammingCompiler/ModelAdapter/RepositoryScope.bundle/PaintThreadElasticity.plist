@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushappearance</key>
+	<string>cellSingleton</string>
+	<key>elasticityspacing</key>
+	<string>processgridview</string>
+	<key>flexiblePoint</key>
+	<string>enabledRoute</string>
+	<key>granularDelivery</key>
+	<string>offsetbox</string>
+	<key>offsetindex</key>
+	<string>detectorVisible</string>
+	<key>respectiveExtension</key>
+	<string>multiplyScene</string>
+	<key>shouldMountedSpine</key>
+	<string>generateException</string>
+	<key>shouldencodesemantics</key>
+	<string>disparateAction</string>
+	<key>webresource</key>
+	<string>canFinishInkWell</string>
+</dict>
+</plist>

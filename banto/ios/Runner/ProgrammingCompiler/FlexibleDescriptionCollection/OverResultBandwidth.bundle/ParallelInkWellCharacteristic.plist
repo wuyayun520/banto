@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMaterial</key>
+	<string>shouldPauseOptimizer</string>
+	<key>allocatorSpeed</key>
+	<string>directController</string>
+	<key>bulletvisible</key>
+	<string>draggableChooser</string>
+	<key>disabledCubit</key>
+	<string>poprow</string>
+	<key>elementVisibility</key>
+	<string>shouldConnectBinary</string>
+	<key>inactiveElement</key>
+	<string>mediocreheroname</string>
+	<key>shouldDetachScroll</key>
+	<string>discardedTransition</string>
+	<key>specifierBrightness</key>
+	<string>dialogsContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatornearkind</key>
+	<string>singleColor</string>
+	<key>decodeextension</key>
+	<string>marginOrientation</string>
+	<key>deferredStateful</key>
+	<string>rectInset</string>
+	<key>persistscene</key>
+	<string>sharedProtocol</string>
+	<key>pivotalAnalyzer</key>
+	<string>tappableMobile</string>
+	<key>shouldstopternary</key>
+	<string>shouldHandleCanvas</string>
+	<key>textfieldName</key>
+	<string>graphVariable</string>
+	<key>topicwithkind</key>
+	<string>delegatetension</string>
+	<key>traversaldistance</key>
+	<string>uniformStack</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeNorm</key>
+	<string>shouldEmitSegue</string>
+	<key>detachalignment</key>
+	<string>requestPadding</string>
+	<key>filterIndex</key>
+	<string>shaderCoord</string>
+	<key>resilienceFeedback</key>
+	<string>shouldNotifySkirt</string>
+	<key>reusableMechanism</key>
+	<string>sensorAppearance</string>
+	<key>shouldDeserializeRow</key>
+	<string>undertakeTask</string>
+	<key>shouldEndWorkflow</key>
+	<string>elasticMesh</string>
+	<key>shouldFinishObserver</key>
+	<string>selecteddropdownbutton</string>
+	<key>transitionCount</key>
+	<string>canvasColor</string>
+	<key>vertexShape</key>
+	<string>diffableConverter</string>
+</dict>
+</plist>

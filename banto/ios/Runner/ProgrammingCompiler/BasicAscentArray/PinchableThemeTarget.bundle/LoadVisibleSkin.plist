@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorOffset</key>
+	<string>canUpdateCursor</string>
+	<key>concreteReduction</key>
+	<string>mutableResult</string>
+	<key>cursorsystemname</key>
+	<string>assetfeedback</string>
+	<key>dispatchwidget</key>
+	<string>standaloneVideo</string>
+	<key>secondDecoration</key>
+	<string>updateCell</string>
+	<key>shouldNotifyText</key>
+	<string>originalMetrics</string>
+	<key>shouldYieldCosine</key>
+	<string>statelessComposite</string>
+	<key>statefulButton</key>
+	<string>pausePlayback</string>
+	<key>stringifyexponent</key>
+	<string>dispatchcurve</string>
+	<key>titleright</key>
+	<string>mobileTrigger</string>
+</dict>
+</plist>

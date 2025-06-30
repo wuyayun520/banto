@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleProjection</key>
+	<string>canUnmountBox</string>
+	<key>adaptiveConvolution</key>
+	<string>quitMethod</string>
+	<key>deferredMaterializer</key>
+	<string>secondTechnique</string>
+	<key>localgrain</key>
+	<string>reliabilityColor</string>
+	<key>shouldAttachReference</key>
+	<string>advancedChart</string>
+	<key>statefulTable</key>
+	<string>routenode</string>
+	<key>uniformScroll</key>
+	<string>shouldStreamController</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customBrush</key>
+	<string>logarithmBridge</string>
+	<key>featureamongtemple</key>
+	<string>canStreamHero</string>
+	<key>priorNode</key>
+	<string>dynamicRange</string>
+	<key>shouldFinishKernel</key>
+	<string>partitionReducer</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableSign</key>
+	<string>rebuildradius</string>
+	<key>formatzone</key>
+	<string>nextunaryhead</string>
+	<key>immediateSession</key>
+	<string>canRestartPet</string>
+	<key>intensityHead</key>
+	<string>canCreateNotification</string>
+	<key>interactiveLoss</key>
+	<string>erasemodulus</string>
+	<key>shouldUnmountDialogs</key>
+	<string>graphagainstcommand</string>
+	<key>subsequententitytension</key>
+	<string>persistcallback</string>
+	<key>substantialSplitter</key>
+	<string>keepCapsule</string>
+</dict>
+</plist>

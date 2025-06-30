@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedModule</key>
+	<string>tensorreceiver</string>
+	<key>intensitytexture</key>
+	<string>drawDependency</string>
+	<key>shouldTrainListView</key>
+	<string>directitem</string>
+	<key>shouldYieldSemantics</key>
+	<string>visibleSubscriber</string>
+	<key>sizetop</key>
+	<string>equalchannel</string>
+	<key>sizevelocity</key>
+	<string>fetchCosine</string>
+	<key>tabbarValidation</key>
+	<string>contrastFrequency</string>
+</dict>
+</plist>

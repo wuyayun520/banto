@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerCycle</key>
+	<string>refactorMetadata</string>
+	<key>previewduringdecorator</key>
+	<string>usedCaption</string>
+	<key>relationalSubscription</key>
+	<string>constraintmargin</string>
+	<key>schedulerName</key>
+	<string>notifyCard</string>
+	<key>shouldEndThread</key>
+	<string>materialOccasion</string>
+	<key>shouldUpdateCurve</key>
+	<string>createLabel</string>
+	<key>viewintegration</key>
+	<string>metricsVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertVisibility</key>
+	<string>updateParticle</string>
+	<key>globalspritedelay</key>
+	<string>shouldrestartskirt</string>
+	<key>normalGrid</key>
+	<string>mountedNib</string>
+	<key>reactiveResource</key>
+	<string>coordinatorFlyweight</string>
+	<key>shouldFetchDuration</key>
+	<string>shouldEmitSkin</string>
+	<key>subscriptionTail</key>
+	<string>seekSink</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hyperbolicSpot</key>
+	<string>activatedbaseacceleration</string>
+	<key>mountgrayscale</key>
+	<string>routeAlpha</string>
+	<key>primaryRenderer</key>
+	<string>resilienceState</string>
+	<key>rectspeed</key>
+	<string>secondElasticity</string>
+	<key>requiredInteractor</key>
+	<string>canPersistProjection</string>
+	<key>reusablesubscriber</key>
+	<string>parallelTransition</string>
+	<key>shouldLoadButton</key>
+	<string>unregisterListener</string>
+	<key>swiftEdge</key>
+	<string>shouldSerializePoint</string>
+	<key>typicalPolygon</key>
+	<string>shouldmountedcustompaint</string>
+</dict>
+</plist>

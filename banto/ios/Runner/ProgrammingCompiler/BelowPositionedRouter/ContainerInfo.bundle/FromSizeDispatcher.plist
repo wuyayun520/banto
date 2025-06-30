@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionResponse</key>
+	<string>grainBrightness</string>
+	<key>dynamicInteraction</key>
+	<string>infrastructureLocation</string>
+	<key>hierarchicalSpine</key>
+	<string>canAnimateMobile</string>
+	<key>shouldPushRole</key>
+	<string>intuitiveSink</string>
+</dict>
+</plist>

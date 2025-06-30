@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticEquivalent</key>
+	<string>enhanceCubit</string>
+	<key>directlyPicker</key>
+	<string>interpolationVariable</string>
+	<key>inactiveMenu</key>
+	<string>enhanceResolver</string>
+	<key>nextgrainspeed</key>
+	<string>thresholdInset</string>
+	<key>originalanimation</key>
+	<string>lastCluster</string>
+	<key>shouldPauseGraphic</key>
+	<string>efficiencyValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianSwitch</key>
+	<string>mitigateproject</string>
+	<key>directlySensor</key>
+	<string>numericalSignature</string>
+	<key>immediateShader</key>
+	<string>sharedMatrix</string>
+	<key>invisibleRect</key>
+	<string>drawerTemple</string>
+	<key>joinerDelay</key>
+	<string>gramEnvironment</string>
+	<key>kernelBorder</key>
+	<string>actionTemple</string>
+	<key>uniqueManager</key>
+	<string>shouldResumeTask</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columncommandstate</key>
+	<string>shouldLayoutNavigator</string>
+	<key>compositionalLayer</key>
+	<string>resilienceOffset</string>
+	<key>desktoptweenskewy</key>
+	<string>canListenGradient</string>
+	<key>petRate</key>
+	<string>directlyMatrix</string>
+	<key>presenterTop</key>
+	<string>canUnmountedBox</string>
+	<key>priorLifecycle</key>
+	<string>skinValidation</string>
+</dict>
+</plist>

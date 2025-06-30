@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateScope</key>
+	<string>chapterActivity</string>
+	<key>lossInteraction</key>
+	<string>constraintInterval</string>
+	<key>multiStatus</key>
+	<string>permanentNode</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveTrigger</key>
+	<string>semanticTheme</string>
+	<key>dependencyLocation</key>
+	<string>optionSingleton</string>
+	<key>elasticStrength</key>
+	<string>standaloneMetadata</string>
+	<key>flexKind</key>
+	<string>momentumSingleton</string>
+	<key>formatisolate</key>
+	<string>disclaimerLocation</string>
+	<key>iterativeCharacter</key>
+	<string>skipScreen</string>
+	<key>permanentManager</key>
+	<string>unsortedPreview</string>
+	<key>permissiveTernary</key>
+	<string>canPopSign</string>
+	<key>segmentDensity</key>
+	<string>formatcoord</string>
+	<key>shouldValidateSensor</key>
+	<string>challengeofscope</string>
+</dict>
+</plist>

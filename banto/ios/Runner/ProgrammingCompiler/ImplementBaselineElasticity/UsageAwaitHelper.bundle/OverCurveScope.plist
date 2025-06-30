@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAlignment</key>
+	<string>fragmentForm</string>
+	<key>cubitstate</key>
+	<string>discardedPreview</string>
+	<key>currentcurve</key>
+	<string>compositionalSizedBox</string>
+	<key>immediateTool</key>
+	<string>webbox</string>
+	<key>iterativeGestureDetector</key>
+	<string>exponentpadding</string>
+	<key>priorbuilderopacity</key>
+	<string>matrixTier</string>
+	<key>scalabilityAlignment</key>
+	<string>canSaveTangent</string>
+	<key>seamlessSorter</key>
+	<string>subsequentinfrastructure</string>
+	<key>shouldMountedSwift</key>
+	<string>scheduleCompleter</string>
+	<key>tangentBrightness</key>
+	<string>curveprocesslocation</string>
+</dict>
+</plist>

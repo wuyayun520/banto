@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localizationDensity</key>
+	<string>handleTitle</string>
+	<key>meshright</key>
+	<string>secondview</string>
+	<key>prismaticElasticity</key>
+	<string>delicateHandler</string>
+	<key>retainedRectangle</key>
+	<string>canDisposeStateful</string>
+	<key>shouldDeserializeInkWell</key>
+	<string>functionalTolerance</string>
+	<key>shouldDisposeResource</key>
+	<string>granularPopup</string>
+	<key>statefulMesh</key>
+	<string>rebuildNotifier</string>
+</dict>
+</plist>

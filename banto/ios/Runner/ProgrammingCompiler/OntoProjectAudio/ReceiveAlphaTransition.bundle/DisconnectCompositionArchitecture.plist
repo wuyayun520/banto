@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelstransformer</key>
+	<string>navigateGestureDetector</string>
+	<key>decodebaseline</key>
+	<string>transitionFeedback</string>
+	<key>disabledAccessory</key>
+	<string>revisitRoute</string>
+	<key>normalcreator</key>
+	<string>semanticWidget</string>
+	<key>swiftcontainplatform</key>
+	<string>greatFlex</string>
+	<key>ternaryproxydensity</key>
+	<string>shouldUpdateTangent</string>
+</dict>
+</plist>

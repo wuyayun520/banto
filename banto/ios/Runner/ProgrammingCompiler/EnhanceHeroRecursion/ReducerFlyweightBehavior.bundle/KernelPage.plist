@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSpot</key>
+	<string>chapterInterpreter</string>
+	<key>clipperValidation</key>
+	<string>topicStrategy</string>
+	<key>controllerRight</key>
+	<string>smartRange</string>
+	<key>globalFormat</key>
+	<string>distinctionDepth</string>
+	<key>injectionmodetop</key>
+	<string>canCreateSwift</string>
+	<key>litedropdownbutton</key>
+	<string>diffableTweak</string>
+	<key>lostInstruction</key>
+	<string>globalMaterializer</string>
+	<key>observerVisible</key>
+	<string>grainLevel</string>
+	<key>viewpager</key>
+	<string>numericalOccasion</string>
+</dict>
+</plist>

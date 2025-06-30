@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finderTag</key>
+	<string>mapperSaturation</string>
+	<key>hardColumn</key>
+	<string>keepDropdownButton</string>
+	<key>multiDependency</key>
+	<string>protectedSignature</string>
+	<key>pivotalTaxonomy</key>
+	<string>gramsystemcolor</string>
+	<key>priorityFlags</key>
+	<string>canRebuildBorder</string>
+</dict>
+</plist>

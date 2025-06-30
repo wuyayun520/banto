@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>choosershade</key>
+	<string>ontangentchanged</string>
+	<key>criticalTransition</key>
+	<string>matrixDuration</string>
+	<key>hierarchicalappbar</key>
+	<string>transformModal</string>
+	<key>invisibleCycle</key>
+	<string>declarativeInstruction</string>
+	<key>layoutwithoutshape</key>
+	<string>visibleThread</string>
+	<key>popupBrightness</key>
+	<string>nativeException</string>
+	<key>shouldencodebitrate</key>
+	<string>channelsActivity</string>
+	<key>singleGroup</key>
+	<string>handlerSystem</string>
+	<key>sliderlevelsize</key>
+	<string>priorFormat</string>
+</dict>
+</plist>

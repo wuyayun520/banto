@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedInterface</key>
+	<string>crudeVideo</string>
+	<key>delicateConstraint</key>
+	<string>canPaintBrush</string>
+	<key>isTouch</key>
+	<string>flexBuffer</string>
+	<key>shoulddisposedrawer</key>
+	<string>largeMobile</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletlatency</key>
+	<string>techniqueOrigin</string>
+	<key>currentBox</key>
+	<string>robustResource</string>
+	<key>oldObserver</key>
+	<string>imageorientation</string>
+	<key>shouldPopBullet</key>
+	<string>keepMargin</string>
+	<key>specifyAnalyzer</key>
+	<string>shouldUnbindSensor</string>
+</dict>
+</plist>

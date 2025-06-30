@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableInterface</key>
+	<string>signTension</string>
+	<key>enabledReceiver</key>
+	<string>dispatcherPosition</string>
+	<key>keyDisclaimer</key>
+	<string>resizableFactory</string>
+	<key>localArchitecture</key>
+	<string>allocateListener</string>
+	<key>trianglesState</key>
+	<string>checkboxdelivery</string>
+</dict>
+</plist>

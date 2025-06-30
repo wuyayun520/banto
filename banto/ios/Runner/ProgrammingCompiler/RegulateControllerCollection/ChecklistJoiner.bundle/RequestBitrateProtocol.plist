@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetMode</key>
+	<string>mediaBridge</string>
+	<key>cubitMode</key>
+	<string>sensorDuration</string>
+	<key>defaultRemainder</key>
+	<string>canStreamGate</string>
+	<key>easyDescent</key>
+	<string>canUnmountAperture</string>
+	<key>factorysensor</key>
+	<string>refactorzone</string>
+	<key>interfaceskewx</key>
+	<string>indicatormementoorigin</string>
+	<key>newestSize</key>
+	<string>indicatorquaternion</string>
+	<key>robustCompletion</key>
+	<string>sorteddependency</string>
+	<key>shaderSize</key>
+	<string>sophisticatedGesture</string>
+</dict>
+</plist>

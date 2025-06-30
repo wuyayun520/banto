@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertprocessbottom</key>
+	<string>signmenu</string>
+	<key>analogyForce</key>
+	<string>shouldPersistNavigation</string>
+	<key>assetinterval</key>
+	<string>protocolbridgebehavior</string>
+	<key>elasticCosine</key>
+	<string>fetchBrush</string>
+	<key>lostDuration</key>
+	<string>tabviewBrightness</string>
+	<key>opaquemetadatascale</key>
+	<string>publicTolerance</string>
+	<key>seamlessExpanded</key>
+	<string>canPauseTextField</string>
+	<key>vectorvalidation</key>
+	<string>inactiveCollection</string>
+</dict>
+</plist>

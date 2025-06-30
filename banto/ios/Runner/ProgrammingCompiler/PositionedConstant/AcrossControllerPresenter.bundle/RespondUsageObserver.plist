@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasFormat</key>
+	<string>reflectInterface</string>
+	<key>compositionalTechnique</key>
+	<string>canUnbindAppBar</string>
+	<key>durationInteraction</key>
+	<string>augmentController</string>
+	<key>functionalnavigator</key>
+	<string>canValidateGestureDetector</string>
+	<key>independentSpine</key>
+	<string>featureActivity</string>
+	<key>publicCatalyst</key>
+	<string>shouldDeserializeSkin</string>
+	<key>responderPressure</key>
+	<string>executeState</string>
+	<key>serviceprototypetheme</key>
+	<string>observeanchor</string>
+	<key>shouldnotifymember</key>
+	<string>shouldStopIndicator</string>
+	<key>switchreducer</key>
+	<string>checklistAdapter</string>
+</dict>
+</plist>

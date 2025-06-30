@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentService</key>
+	<string>associatedThread</string>
+	<key>flexibletopic</key>
+	<string>inactiveSwift</string>
+	<key>kernelShade</key>
+	<string>seamlessScalability</string>
+	<key>lazyPosition</key>
+	<string>canSetStateSlash</string>
+	<key>listviewopacity</key>
+	<string>fetchmargin</string>
+	<key>originalSkin</key>
+	<string>subtleSizedBox</string>
+	<key>pageviewfromcycle</key>
+	<string>arithmeticSample</string>
+	<key>persistprovider</key>
+	<string>shouldPersistMission</string>
+	<key>spritenumberborder</key>
+	<string>createRemainder</string>
+</dict>
+</plist>

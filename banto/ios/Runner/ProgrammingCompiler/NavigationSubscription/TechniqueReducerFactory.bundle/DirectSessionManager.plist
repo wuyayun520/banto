@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMedia</key>
+	<string>listviewRate</string>
+	<key>capacityValidation</key>
+	<string>validatenavigation</string>
+	<key>commonLocalization</key>
+	<string>euclideanGraph</string>
+	<key>fixedPublisher</key>
+	<string>overrideinjection</string>
+	<key>methodOpacity</key>
+	<string>vertexMode</string>
+	<key>optimizestorage</key>
+	<string>vectorTension</string>
+	<key>subtleGate</key>
+	<string>readRoute</string>
+</dict>
+</plist>

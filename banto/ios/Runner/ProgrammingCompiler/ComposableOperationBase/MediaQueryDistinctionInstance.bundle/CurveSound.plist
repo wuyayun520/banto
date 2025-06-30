@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateloop</key>
+	<string>entropyscene</string>
+	<key>capacitiesrequest</key>
+	<string>largeRow</string>
+	<key>composableDispatcher</key>
+	<string>shouldUnmountCustomPaint</string>
+	<key>converterSpeed</key>
+	<string>shareddrawer</string>
+	<key>heapTag</key>
+	<string>addResource</string>
+	<key>materialWrapper</key>
+	<string>diffableReducer</string>
+	<key>sinkTransparency</key>
+	<string>factorytexture</string>
+	<key>standaloneMaterial</key>
+	<string>concurrentObject</string>
+	<key>textfieldOrigin</key>
+	<string>defaultConsumer</string>
+</dict>
+</plist>

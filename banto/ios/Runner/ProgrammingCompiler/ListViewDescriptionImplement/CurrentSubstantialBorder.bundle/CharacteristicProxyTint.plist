@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineconsumer</key>
+	<string>webResponder</string>
+	<key>checklistPosition</key>
+	<string>cartesianParticle</string>
+	<key>equalizationSpeed</key>
+	<string>retainedManager</string>
+	<key>explicitPainter</key>
+	<string>maxBoxShadow</string>
+	<key>persistentNotifier</key>
+	<string>canObserveShader</string>
+	<key>prevPicker</key>
+	<string>replaceAwait</string>
+</dict>
+</plist>

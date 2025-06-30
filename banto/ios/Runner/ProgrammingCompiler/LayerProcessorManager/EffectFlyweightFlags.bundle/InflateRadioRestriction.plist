@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitDepth</key>
+	<string>immutableconfiguration</string>
+	<key>enabledRemediation</key>
+	<string>canProcessSkin</string>
+	<key>hardResponse</key>
+	<string>curvevisible</string>
+	<key>shouldContinueProject</key>
+	<string>parsetouch</string>
+	<key>sineValidation</key>
+	<string>resizableDistinction</string>
+	<key>stampresolver</key>
+	<string>sophisticatedCharacter</string>
+	<key>tabledepth</key>
+	<string>topicLayer</string>
+</dict>
+</plist>

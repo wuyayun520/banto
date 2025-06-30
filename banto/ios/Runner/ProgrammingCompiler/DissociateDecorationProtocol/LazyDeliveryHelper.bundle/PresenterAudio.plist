@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorpolyfill</key>
+	<string>shouldDetachLogarithm</string>
+	<key>animatedcontainerSpacing</key>
+	<string>activityBound</string>
+	<key>easyVector</key>
+	<string>independentScale</string>
+	<key>greatRadius</key>
+	<string>inflateCurve</string>
+	<key>iconShade</key>
+	<string>dimensionCycle</string>
+	<key>missedGate</key>
+	<string>shouldUnmountedVariant</string>
+	<key>smallProvision</key>
+	<string>saveArithmetic</string>
+	<key>streamqueue</key>
+	<string>mediocreConnector</string>
+	<key>subsequentSession</key>
+	<string>similarRecursion</string>
+</dict>
+</plist>

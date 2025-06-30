@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoContainer</key>
+	<string>crucialMetrics</string>
+	<key>beginnerKernel</key>
+	<string>canDeserializeGift</string>
+	<key>featureDuration</key>
+	<string>localQuaternion</string>
+	<key>imperativeNavigation</key>
+	<string>shouldTransitionLoss</string>
+	<key>permissivecubit</key>
+	<string>prevAllocator</string>
+	<key>pushbehavior</key>
+	<string>customOption</string>
+	<key>shouldEncodeInteger</key>
+	<string>equalizationInterpreter</string>
+	<key>transitionDirection</key>
+	<string>canKeepListView</string>
+</dict>
+</plist>

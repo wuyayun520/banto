@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinetheme</key>
+	<string>menuPattern</string>
+	<key>benchmarkbase</key>
+	<string>unmountedImage</string>
+	<key>concretecolumn</key>
+	<string>shouldNavigateTransition</string>
+	<key>consultativeNotation</key>
+	<string>adjustUtil</string>
+	<key>sorterIndex</key>
+	<string>declarativeListView</string>
+	<key>subsequentGraphic</key>
+	<string>mixinStream</string>
+</dict>
+</plist>

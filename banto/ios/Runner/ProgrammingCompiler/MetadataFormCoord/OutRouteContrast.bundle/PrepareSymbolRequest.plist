@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileShape</key>
+	<string>activatedTopic</string>
+	<key>assetvalidation</key>
+	<string>typicalTransformer</string>
+	<key>graphspeed</key>
+	<string>hierarchicalRouter</string>
+	<key>independentProgressBar</key>
+	<string>protocolName</string>
+	<key>profilemanager</key>
+	<string>significantTool</string>
+	<key>sharedAction</key>
+	<string>matrixProxy</string>
+	<key>sharedDuration</key>
+	<string>currentlog</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoWorkflow</key>
+	<string>encapsulateBuilder</string>
+	<key>globalStoryboard</key>
+	<string>momentumAdapter</string>
+	<key>reducerTop</key>
+	<string>autoReplica</string>
+	<key>reducerelement</key>
+	<string>declarativeProfile</string>
+	<key>respectiveCatalyst</key>
+	<string>mobileerrorcolor</string>
+	<key>routeKind</key>
+	<string>extendIsolate</string>
+	<key>scenarioHue</key>
+	<string>canAttachEffect</string>
+	<key>sophisticatedCanvas</key>
+	<string>resolveraudio</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileRepository</key>
+	<string>difficultRouter</string>
+	<key>autoMethod</key>
+	<string>elementtype</string>
+	<key>cursorBehavior</key>
+	<string>shouldDismissCustomPaint</string>
+	<key>difficultIntegration</key>
+	<string>aspectLeft</string>
+	<key>immutableListener</key>
+	<string>pageviewScope</string>
+	<key>shouldDisposeGraphic</key>
+	<string>cancelanimation</string>
+</dict>
+</plist>

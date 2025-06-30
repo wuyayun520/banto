@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gematcycle</key>
+	<string>hardAsync</string>
+	<key>nativeChecklist</key>
+	<string>smartRow</string>
+	<key>rapidRequest</key>
+	<string>dispatchPageView</string>
+	<key>schedulerType</key>
+	<string>storageelement</string>
+	<key>shouldPopUnary</key>
+	<string>constrainttaskappearance</string>
+	<key>shouldbindaperture</key>
+	<string>crudeGraphic</string>
+	<key>subsequentLayer</key>
+	<string>frameDuration</string>
+	<key>usedEffect</key>
+	<string>canObserveAnimation</string>
+	<key>yieldexpanded</key>
+	<string>handlePresenter</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderTop</key>
+	<string>currentnib</string>
+	<key>disabledTransformer</key>
+	<string>flexibleAllocator</string>
+	<key>disparateBuilder</key>
+	<string>shouldUnmountedEffect</string>
+	<key>permissiveStateless</key>
+	<string>scrollStage</string>
+	<key>seamlessCompletion</key>
+	<string>spotFlyweight</string>
+	<key>shouldStopCapacities</key>
+	<string>crudeCard</string>
+	<key>visibleHero</key>
+	<string>buildCupertino</string>
+</dict>
+</plist>

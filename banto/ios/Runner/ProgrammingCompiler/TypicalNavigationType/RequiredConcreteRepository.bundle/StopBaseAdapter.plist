@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorAcceleration</key>
+	<string>parallelMedia</string>
+	<key>buffercyclebehavior</key>
+	<string>basicScenario</string>
+	<key>customaperture</key>
+	<string>shouldDisposeBuilder</string>
+	<key>customizedDelivery</key>
+	<string>staticintegerresponse</string>
+	<key>platepager</key>
+	<string>canStopFlex</string>
+	<key>reducerOrientation</key>
+	<string>movementSize</string>
+	<key>robustNavigator</key>
+	<string>delicateitem</string>
+	<key>shouldCancelLoss</key>
+	<string>subsequentDetector</string>
+	<key>skinfeedback</key>
+	<string>streamText</string>
+	<key>unaryState</key>
+	<string>advancedAlert</string>
+</dict>
+</plist>

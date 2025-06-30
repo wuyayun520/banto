@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocValidation</key>
+	<string>stepVisitor</string>
+	<key>denseTriangles</key>
+	<string>euclideanmedia</string>
+	<key>draggableMargin</key>
+	<string>composableSign</string>
+	<key>mediocreMatrix</key>
+	<string>canUnmountedTheme</string>
+	<key>movementIndex</key>
+	<string>uniformUnary</string>
+	<key>nativelinker</key>
+	<string>shouldformatscale</string>
+	<key>releasesprite</key>
+	<string>convertLayout</string>
+	<key>restartsignature</key>
+	<string>statefulSprite</string>
+	<key>sharedFeature</key>
+	<string>canTransformCapacities</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTransition</key>
+	<string>draggableMethod</string>
+	<key>defaultbrush</key>
+	<string>deserializeEntity</string>
+	<key>fixedRect</key>
+	<string>symmetrictaxonomy</string>
+	<key>geometricPoint</key>
+	<string>disabledMetadata</string>
+	<key>materialArithmetic</key>
+	<string>equipmentTint</string>
+	<key>permanentCustomPaint</key>
+	<string>mountInkWell</string>
+	<key>responsiveVideo</key>
+	<string>adaptiveBuilder</string>
+	<key>shouldFetchCustomPaint</key>
+	<string>delicateRectangle</string>
+	<key>staticPromise</key>
+	<string>thresholdFrequency</string>
+</dict>
+</plist>

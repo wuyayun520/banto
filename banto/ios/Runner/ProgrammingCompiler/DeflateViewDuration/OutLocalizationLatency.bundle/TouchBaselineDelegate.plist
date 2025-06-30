@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableTween</key>
+	<string>ascentFrequency</string>
+	<key>eagerConfiguration</key>
+	<string>nextScheduler</string>
+	<key>ephemeralStroke</key>
+	<string>fillmodel</string>
+	<key>exceptionOrigin</key>
+	<string>signatureCount</string>
+	<key>labelandtask</key>
+	<string>subsequentConsumer</string>
+	<key>resizableAllocator</key>
+	<string>restrictionDirection</string>
+	<key>sophisticatedTweak</key>
+	<string>responselistener</string>
+</dict>
+</plist>

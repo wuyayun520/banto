@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionForce</key>
+	<string>shouldYieldTool</string>
+	<key>processorOrigin</key>
+	<string>parsegrain</string>
+	<key>shouldAttachBaseline</key>
+	<string>shouldSaveResource</string>
+	<key>shouldFormatScreen</key>
+	<string>trianglesStatus</string>
+	<key>shouldLoadBase</key>
+	<string>catalystSingleton</string>
+</dict>
+</plist>

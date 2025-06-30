@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pinchablePlayback</key>
+	<string>substantialStream</string>
+	<key>pivotalmaterial</key>
+	<string>alphaDecorator</string>
+	<key>pushscene</key>
+	<string>saveAppBar</string>
+	<key>queuetemplealignment</key>
+	<string>dependencyscale</string>
+	<key>repositoryColor</key>
+	<string>shouldStopSlider</string>
+</dict>
+</plist>

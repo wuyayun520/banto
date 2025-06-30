@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedpainter</key>
+	<string>analogycolor</string>
+	<key>listviewTransparency</key>
+	<string>seamlessGestureDetector</string>
+	<key>onherotap</key>
+	<string>discardedTechnique</string>
+	<key>shouldMountCheckbox</key>
+	<string>inactiveMonster</string>
+	<key>shouldValidateReduction</key>
+	<string>statefulStructure</string>
+	<key>subsequentEvaluation</key>
+	<string>uniformAnimatedContainer</string>
+</dict>
+</plist>

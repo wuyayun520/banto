@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedCluster</key>
+	<string>pushPositioned</string>
+	<key>equivalentInset</key>
+	<string>shouldYieldBoxShadow</string>
+	<key>functionalreference</key>
+	<string>frameparamcenter</string>
+	<key>granularCompletion</key>
+	<string>lostLifecycle</string>
+	<key>hashdispatcher</key>
+	<string>storageTransparency</string>
+	<key>shoulddisposebase</key>
+	<string>polygonStyle</string>
+	<key>workflowasset</key>
+	<string>particleOpacity</string>
+</dict>
+</plist>

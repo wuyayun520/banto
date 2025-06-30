@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticFrame</key>
+	<string>euclideanHero</string>
+	<key>basicGrayscale</key>
+	<string>callbackMemento</string>
+	<key>explicitequivalent</key>
+	<string>canUpdateMatrix</string>
+	<key>globalShader</key>
+	<string>canFetchSlider</string>
+	<key>handlercontainvar</key>
+	<string>canDisposeCell</string>
+	<key>positionedForce</key>
+	<string>unmountedDelegate</string>
+	<key>projectionPadding</key>
+	<string>canDismissBuilder</string>
+	<key>symmetricInjection</key>
+	<string>canValidateInstruction</string>
+</dict>
+</plist>

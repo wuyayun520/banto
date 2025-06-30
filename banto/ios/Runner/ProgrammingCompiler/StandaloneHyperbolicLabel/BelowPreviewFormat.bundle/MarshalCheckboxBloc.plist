@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentmode</key>
+	<string>animatedMovement</string>
+	<key>detacherror</key>
+	<string>spotmodebottom</string>
+	<key>factoryalignment</key>
+	<string>unregisterConfiguration</string>
+	<key>meshOffset</key>
+	<string>moveAsync</string>
+	<key>opaqueContainer</key>
+	<string>inactiveBinary</string>
+	<key>optionSkewX</key>
+	<string>subtleMerger</string>
+	<key>originalAsync</key>
+	<string>dedicatedDisclaimer</string>
+	<key>segmentTension</key>
+	<string>dedicatedData</string>
+	<key>shouldProcessScroll</key>
+	<string>touchTop</string>
+	<key>themeamortization</key>
+	<string>convolutionprototypebound</string>
+</dict>
+</plist>

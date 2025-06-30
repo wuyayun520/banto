@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeInterpolation</key>
+	<string>bulletObserver</string>
+	<key>associatedConfiguration</key>
+	<string>restartLog</string>
+	<key>cupertinoResource</key>
+	<string>displayDuration</string>
+	<key>detailTop</key>
+	<string>characteristicBottom</string>
+	<key>directlySprite</key>
+	<string>channelsstructuredepth</string>
+	<key>normalLifecycle</key>
+	<string>shouldDismissFuture</string>
+	<key>occasionTheme</key>
+	<string>splitterTail</string>
+	<key>prevDetail</key>
+	<string>delicateslider</string>
+	<key>vectorShape</key>
+	<string>onnibchanged</string>
+</dict>
+</plist>

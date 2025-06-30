@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardReduction</key>
+	<string>binarylevelindex</string>
+	<key>futureaspect</key>
+	<string>canMountedConstraint</string>
+	<key>graphaboutsingleton</key>
+	<string>shouldUpdateMap</string>
+	<key>impressionDensity</key>
+	<string>deserializeTexture</string>
+	<key>layoutparameterdepth</key>
+	<string>animateConstraint</string>
+	<key>mobileConstraint</key>
+	<string>canDispatchChallenge</string>
+	<key>recursionRotation</key>
+	<string>multiplicationFlags</string>
+	<key>reliabilityMode</key>
+	<string>alphalinker</string>
+	<key>sophisticatedContraction</key>
+	<string>globalLoader</string>
+	<key>spotappearance</key>
+	<string>wrapperindex</string>
+</dict>
+</plist>

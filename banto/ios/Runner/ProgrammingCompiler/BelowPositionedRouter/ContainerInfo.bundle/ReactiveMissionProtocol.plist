@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertState</key>
+	<string>animatedOperation</string>
+	<key>gestureFormat</key>
+	<string>prevMesh</string>
+	<key>nativeTable</key>
+	<string>notifyMovement</string>
+	<key>semanticElasticity</key>
+	<string>standalonecontainer</string>
+	<key>shouldEndOperation</key>
+	<string>canConnectAnchor</string>
+</dict>
+</plist>

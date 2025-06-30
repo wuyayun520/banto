@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousevent</key>
+	<string>compositionDuration</string>
+	<key>baseStyle</key>
+	<string>decoupleAlignment</string>
+	<key>beginnerProjection</key>
+	<string>requestAllocator</string>
+	<key>brushMomentum</key>
+	<string>sineSkewY</string>
+	<key>cubitshape</key>
+	<string>numericalContrast</string>
+	<key>disparateprogressbarbehavior</key>
+	<string>measureRepository</string>
+	<key>sorterskewy</key>
+	<string>alphaLocation</string>
+	<key>webPolyfill</key>
+	<string>staticPicker</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveBrush</key>
+	<string>parallelThread</string>
+	<key>largeasync</key>
+	<string>normFlyweight</string>
+	<key>mapborder</key>
+	<string>channelsAppearance</string>
+	<key>materializerposition</key>
+	<string>compareCallback</string>
+	<key>shouldpushcursor</key>
+	<string>remediationMode</string>
+</dict>
+</plist>

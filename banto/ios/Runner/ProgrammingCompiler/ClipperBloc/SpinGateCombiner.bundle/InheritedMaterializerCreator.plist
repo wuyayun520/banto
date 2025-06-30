@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialbatchspacing</key>
+	<string>canValidateGestureDetector</string>
+	<key>infoCount</key>
+	<string>shouldNotifyBatch</string>
+	<key>scrollerbrightness</key>
+	<string>sinearoundsingleton</string>
+	<key>shouldLayoutChannels</key>
+	<string>sliderHead</string>
+	<key>shouldStreamSample</key>
+	<string>disabledRect</string>
+	<key>shouldbindlistview</key>
+	<string>petSize</string>
+	<key>sizedboxthroughbuffer</key>
+	<string>graphMemento</string>
+	<key>usecaseLeft</key>
+	<string>canProcessMusic</string>
+</dict>
+</plist>

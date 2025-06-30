@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileticker</key>
+	<string>quantizerSlider</string>
+	<key>equipmentFlags</key>
+	<string>baselineShape</string>
+	<key>firstAwait</key>
+	<string>shouldStartMatrix</string>
+	<key>liteStatus</key>
+	<string>shouldcanceldecoration</string>
+	<key>mediocreparticledensity</key>
+	<string>reactiveGate</string>
+	<key>robustProject</key>
+	<string>shouldStreamModulus</string>
+	<key>schemaSpacing</key>
+	<string>cupertinoPrecision</string>
+</dict>
+</plist>

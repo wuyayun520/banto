@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionResource</key>
+	<string>offsetfordecorator</string>
+	<key>associatedCupertino</key>
+	<string>dispatchOverlay</string>
+	<key>composableAnalogy</key>
+	<string>shouldAttachStep</string>
+	<key>directProcessor</key>
+	<string>pushCompletion</string>
+	<key>dynamicInterface</key>
+	<string>chartinterval</string>
+	<key>numericalNode</key>
+	<string>techniqueindex</string>
+	<key>relationalPrecision</key>
+	<string>histogramfeedback</string>
+	<key>requiredTween</key>
+	<string>visualizeCurve</string>
+</dict>
+</plist>

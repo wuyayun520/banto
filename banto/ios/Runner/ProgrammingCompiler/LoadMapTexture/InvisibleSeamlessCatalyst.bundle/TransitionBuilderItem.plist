@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeroute</key>
+	<string>smartHash</string>
+	<key>beginnerProvision</key>
+	<string>canDisconnectTransition</string>
+	<key>moduleAppearance</key>
+	<string>shouldinflateshader</string>
+	<key>shouldObserveKernel</key>
+	<string>deserializeModulus</string>
+	<key>similarItem</key>
+	<string>instantiateProvider</string>
+	<key>smallMenu</key>
+	<string>graphProxy</string>
+</dict>
+</plist>

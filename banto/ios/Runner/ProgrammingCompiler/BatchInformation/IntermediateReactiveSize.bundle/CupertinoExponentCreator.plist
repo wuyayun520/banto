@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbacklikevalue</key>
+	<string>canReplaceSlash</string>
+	<key>commonRichText</key>
+	<string>zonestrength</string>
+	<key>explicitLogarithm</key>
+	<string>canShowGesture</string>
+	<key>hardPromise</key>
+	<string>taskmerger</string>
+	<key>particlehandler</key>
+	<string>presentResource</string>
+	<key>polyfillCenter</key>
+	<string>searchResult</string>
+	<key>priorMediaQuery</key>
+	<string>bitratestrategycolor</string>
+	<key>reactiveBase</key>
+	<string>addAction</string>
+	<key>remaindername</key>
+	<string>timelineLeft</string>
+</dict>
+</plist>

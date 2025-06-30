@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticFlags</key>
+	<string>canObserveSpecifier</string>
+	<key>backwardTheme</key>
+	<string>publicColor</string>
+	<key>fragmentactionfrequency</key>
+	<string>handleCustomPaint</string>
+	<key>grainrect</key>
+	<string>globalRect</string>
+	<key>imperativeRect</key>
+	<string>shouldRestartRow</string>
+	<key>isconvolution</key>
+	<string>rendergrain</string>
+	<key>shouldPreparePriority</key>
+	<string>statefulCommand</string>
+	<key>threadofnumber</key>
+	<string>invisibleRenderer</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratebound</key>
+	<string>ternaryRotation</string>
+	<key>intensityInterval</key>
+	<string>shouldSaveHistogram</string>
+	<key>shouldPublishGestureDetector</key>
+	<string>stopchannels</string>
+	<key>textfieldstatetheme</key>
+	<string>transformerComposite</string>
+</dict>
+</plist>

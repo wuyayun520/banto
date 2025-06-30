@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableAnimation</key>
+	<string>textureDepth</string>
+	<key>fixedShape</key>
+	<string>nativeFrame</string>
+	<key>shouldPushRoute</key>
+	<string>materialRectangle</string>
+	<key>transitionlayout</key>
+	<string>layoutSymbol</string>
+</dict>
+</plist>

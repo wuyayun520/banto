@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxFormat</key>
+	<string>defaultlistview</string>
+	<key>compilemodel</key>
+	<string>disabledInfo</string>
+	<key>denseKernel</key>
+	<string>subsequentstepdensity</string>
+	<key>numericalRange</key>
+	<string>segueintegrity</string>
+	<key>restartstamp</key>
+	<string>canSerializeMobile</string>
+</dict>
+</plist>

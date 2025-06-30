@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowtheme</key>
+	<string>contractiontweak</string>
+	<key>deferredCubit</key>
+	<string>dependencySpacing</string>
+	<key>diversifiedModal</key>
+	<string>iconCoord</string>
+	<key>easyMend</key>
+	<string>registerState</string>
+	<key>geometriccallbackskewy</key>
+	<string>evaluateEntity</string>
+	<key>impressionTint</key>
+	<string>nextScalability</string>
+	<key>methodDistance</key>
+	<string>disparateClipper</string>
+	<key>shouldConnectTabBar</key>
+	<string>hardDropdownButton</string>
+	<key>shouldLayoutDelegate</key>
+	<string>shouldStopColumn</string>
+</dict>
+</plist>

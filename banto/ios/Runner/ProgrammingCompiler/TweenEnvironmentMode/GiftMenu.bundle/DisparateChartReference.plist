@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axislikeprototype</key>
+	<string>profileStage</string>
+	<key>keyShader</key>
+	<string>shouldcancelcaption</string>
+	<key>missedInkWell</key>
+	<string>imperativeItem</string>
+	<key>resilientCallback</key>
+	<string>gateFacade</string>
+	<key>restartgridview</key>
+	<string>capacityAlignment</string>
+	<key>shouldResumeMaterial</key>
+	<string>cupertinoGrayscale</string>
+	<key>shouldUnmountTabView</key>
+	<string>menuPrototype</string>
+	<key>tabviewHue</key>
+	<string>disabledqueue</string>
+	<key>tangentOrigin</key>
+	<string>shouldSkipSpot</string>
+</dict>
+</plist>

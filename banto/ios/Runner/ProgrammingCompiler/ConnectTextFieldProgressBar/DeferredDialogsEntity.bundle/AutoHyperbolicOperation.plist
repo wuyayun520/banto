@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equivalentTag</key>
+	<string>alignmentphaseacceleration</string>
+	<key>informationFlags</key>
+	<string>canLoadAccessory</string>
+	<key>lazyPriority</key>
+	<string>ephemeralNib</string>
+	<key>matrixInterval</key>
+	<string>newestStep</string>
+	<key>petrate</key>
+	<string>overrideStorage</string>
+	<key>singleTool</key>
+	<string>relationalGrid</string>
+</dict>
+</plist>

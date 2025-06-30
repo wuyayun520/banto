@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTangent</key>
+	<string>disabledNode</string>
+	<key>calculateclipper</key>
+	<string>currentGesture</string>
+	<key>euclideanTopic</key>
+	<string>deferredRouter</string>
+	<key>localChannels</key>
+	<string>cycleInteraction</string>
+	<key>shouldFormatSizedBox</key>
+	<string>substantialScroll</string>
+	<key>updatehistogram</key>
+	<string>spriteSaturation</string>
+	<key>vectorprototypestate</key>
+	<string>trianglesTheme</string>
+</dict>
+</plist>

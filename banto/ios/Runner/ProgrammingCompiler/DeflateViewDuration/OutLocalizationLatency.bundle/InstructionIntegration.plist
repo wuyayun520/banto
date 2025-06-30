@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentRow</key>
+	<string>resultNumber</string>
+	<key>dependencytransparency</key>
+	<string>seguedespitefunction</string>
+	<key>notifiertempleborder</key>
+	<string>offsetinfo</string>
+	<key>replicaRate</key>
+	<string>tickerOpacity</string>
+	<key>restrictionLocation</key>
+	<string>popConstraint</string>
+	<key>streamInset</key>
+	<string>sliderVariable</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableAxis</key>
+	<string>secondReduction</string>
+	<key>histogramOrigin</key>
+	<string>autoInformation</string>
+	<key>inactivePlate</key>
+	<string>requiredradiuscontrast</string>
+	<key>injectionBehavior</key>
+	<string>crucialDimension</string>
+	<key>rangeType</key>
+	<string>sensorVar</string>
+	<key>scrolltype</key>
+	<string>iterativePageView</string>
+	<key>signResponse</key>
+	<string>capacitiesInset</string>
+	<key>specifySkirt</key>
+	<string>observerLeft</string>
+</dict>
+</plist>

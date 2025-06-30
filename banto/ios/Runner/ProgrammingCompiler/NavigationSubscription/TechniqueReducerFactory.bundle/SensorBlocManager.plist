@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardSegue</key>
+	<string>navigateClipper</string>
+	<key>iconSpacing</key>
+	<string>mapVisibility</string>
+	<key>pivotalVariant</key>
+	<string>shouldStreamWidget</string>
+	<key>priorIndicator</key>
+	<string>eventawayvar</string>
+	<key>sequentialanalogy</key>
+	<string>robustDropdownButton</string>
+	<key>shouldDecodeArithmetic</key>
+	<string>usecaseLocation</string>
+	<key>specifysplitter</key>
+	<string>disposecallback</string>
+	<key>trajectoryPressure</key>
+	<string>intuitiveWorkflow</string>
+</dict>
+</plist>

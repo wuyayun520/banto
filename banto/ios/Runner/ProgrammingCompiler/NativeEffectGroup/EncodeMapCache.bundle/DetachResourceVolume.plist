@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>executeresponse</key>
+	<string>canSetStateCatalyst</string>
+	<key>lastTransition</key>
+	<string>baselineAlignment</string>
+	<key>originalScreen</key>
+	<string>momentumMethod</string>
+	<key>selectorHead</key>
+	<string>attachCycle</string>
+</dict>
+</plist>

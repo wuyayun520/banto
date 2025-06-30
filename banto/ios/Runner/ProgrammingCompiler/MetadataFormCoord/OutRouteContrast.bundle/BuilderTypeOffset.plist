@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>benchmarkalert</key>
+	<string>shouldParseBorder</string>
+	<key>capsuleBehavior</key>
+	<string>secondAction</string>
+	<key>currentSink</key>
+	<string>difficultSkin</string>
+	<key>diffablePainter</key>
+	<string>aperturelinker</string>
+	<key>mobileSignature</key>
+	<string>rapidAxis</string>
+	<key>reactiveAllocator</key>
+	<string>robustLoader</string>
+	<key>reusableCycle</key>
+	<string>toolkindcenter</string>
+	<key>specifyBehavior</key>
+	<string>eagerVector</string>
+	<key>storageFeedback</key>
+	<string>discardedfeatureorientation</string>
+</dict>
+</plist>

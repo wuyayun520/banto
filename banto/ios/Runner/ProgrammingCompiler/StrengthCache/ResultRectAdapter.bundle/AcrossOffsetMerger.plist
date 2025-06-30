@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityvalidation</key>
+	<string>signOperation</string>
+	<key>immutableAxis</key>
+	<string>controllerInset</string>
+	<key>offsetsplitter</key>
+	<string>difficultRole</string>
+	<key>paddingnearsingleton</key>
+	<string>newestIsolate</string>
+	<key>shouldNotifyEffect</key>
+	<string>advancedSubscription</string>
+	<key>statefuldecoration</key>
+	<string>progressbarScale</string>
+</dict>
+</plist>

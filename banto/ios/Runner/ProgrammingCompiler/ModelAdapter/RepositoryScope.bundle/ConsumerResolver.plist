@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedgraphic</key>
+	<string>titletheme</string>
+	<key>binaryparameterkind</key>
+	<string>canDetachOverlay</string>
+	<key>constraintproxytheme</key>
+	<string>canCancelCycle</string>
+	<key>consultativetextfield</key>
+	<string>robustTicker</string>
+	<key>criticalcosine</key>
+	<string>quaternionDensity</string>
+	<key>discoversegue</key>
+	<string>shouldConnectBatch</string>
+	<key>otherflex</key>
+	<string>basicbuffer</string>
+	<key>shouldSaveSpine</key>
+	<string>promiseStrategy</string>
+	<key>visibleAnalogy</key>
+	<string>indicatorFormat</string>
+</dict>
+</plist>

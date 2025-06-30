@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilethread</key>
+	<string>unactivatedMediaQuery</string>
+	<key>analyzeactivity</key>
+	<string>profileFactory</string>
+	<key>cancelconstraint</key>
+	<string>platecluster</string>
+	<key>imperativeconstraintshade</key>
+	<string>topicSize</string>
+	<key>modulusbystrategy</key>
+	<string>numericalClipper</string>
+	<key>onpaddingchanged</key>
+	<string>disparateLocalization</string>
+	<key>shouldPaintHeap</key>
+	<string>radiusVisible</string>
+	<key>stepMomentum</key>
+	<string>cycleComposite</string>
+</dict>
+</plist>

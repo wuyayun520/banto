@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedDrawer</key>
+	<string>navigatorevolution</string>
+	<key>displayableFactory</key>
+	<string>explicitResilience</string>
+	<key>hierarchicalcubestyle</key>
+	<string>shouldpersistmission</string>
+	<key>missionscale</key>
+	<string>subscriberFeedback</string>
+	<key>relationalRadius</key>
+	<string>shouldYieldBloc</string>
+	<key>responsivePrecision</key>
+	<string>draggableBatch</string>
+	<key>touchvariableinset</key>
+	<string>shouldObserveImage</string>
+</dict>
+</plist>

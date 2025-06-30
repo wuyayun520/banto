@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicascent</key>
+	<string>stringifyCallback</string>
+	<key>invisibleDescriptor</key>
+	<string>draggablemesh</string>
+	<key>liteAppBar</key>
+	<string>animatedcontaineractionshade</string>
+	<key>seamlessNavigation</key>
+	<string>disconnectVariant</string>
+	<key>shouldAttachBullet</key>
+	<string>columnProcess</string>
+</dict>
+</plist>

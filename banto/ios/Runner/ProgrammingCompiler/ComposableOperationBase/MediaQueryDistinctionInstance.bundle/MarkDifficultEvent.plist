@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseinset</key>
+	<string>spritereliability</string>
+	<key>discardedDrawer</key>
+	<string>skinSize</string>
+	<key>draggableVariant</key>
+	<string>minChannels</string>
+	<key>finderRight</key>
+	<string>nodeDensity</string>
+	<key>newestexponentpadding</key>
+	<string>encodeAlpha</string>
+	<key>originalEquipment</key>
+	<string>canResumeEqualization</string>
+	<key>permutationPadding</key>
+	<string>canCancelMatrix</string>
+	<key>shouldDecodeProtocol</key>
+	<string>filterEdge</string>
+	<key>shouldMountedCupertino</key>
+	<string>playbackutil</string>
+	<key>temporaryTimer</key>
+	<string>handleBatch</string>
+</dict>
+</plist>

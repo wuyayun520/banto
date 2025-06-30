@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iconpicker</key>
+	<string>immediatenib</string>
+	<key>interactiveTimeline</key>
+	<string>setstatecheckbox</string>
+	<key>linkerAcceleration</key>
+	<string>imperativeMetadata</string>
+	<key>painterdepth</key>
+	<string>eagerEmitter</string>
+	<key>shouldContinueOverlay</key>
+	<string>pivotalRole</string>
+	<key>shouldSaveFuture</key>
+	<string>parallelGroup</string>
+	<key>sortedFlex</key>
+	<string>setstateconstraint</string>
+	<key>statefulNib</key>
+	<string>resilientdescent</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderInset</key>
+	<string>crudebuilderpadding</string>
+	<key>coordinatorHead</key>
+	<string>loopDensity</string>
+	<key>liteFormat</key>
+	<string>cartesianCertificate</string>
+	<key>permissiveLayer</key>
+	<string>interactorOpacity</string>
+	<key>profileShade</key>
+	<string>canDecodeTangent</string>
+	<key>shouldBuildWidget</key>
+	<string>shouldUnbindNib</string>
+	<key>sophisticatedSingleton</key>
+	<string>sharedchannelsstyle</string>
+	<key>typicalAction</key>
+	<string>rectStatus</string>
+</dict>
+</plist>

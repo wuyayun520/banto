@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedInteraction</key>
+	<string>selectedRoute</string>
+	<key>aggregatemediaquery</key>
+	<string>consumeSlider</string>
+	<key>associatedListener</key>
+	<string>resultVelocity</string>
+	<key>constraintForce</key>
+	<string>inactiveBullet</string>
+	<key>deliveryInterval</key>
+	<string>brushPosition</string>
+	<key>elasticityAppearance</key>
+	<string>unlockAwait</string>
+	<key>skirtprocessrate</key>
+	<string>roleInteraction</string>
+	<key>soundDistance</key>
+	<string>fetchFragment</string>
+	<key>unsortedTolerance</key>
+	<string>routerecursion</string>
+</dict>
+</plist>

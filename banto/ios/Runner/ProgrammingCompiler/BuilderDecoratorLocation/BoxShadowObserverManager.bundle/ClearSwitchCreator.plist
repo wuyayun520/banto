@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderOffset</key>
+	<string>touchInterval</string>
+	<key>channelSkewX</key>
+	<string>finishplayback</string>
+	<key>deferredSensor</key>
+	<string>grainProxy</string>
+	<key>mediumtaskmomentum</key>
+	<string>shouldListenThread</string>
+	<key>numericalStateless</key>
+	<string>diversifiedScale</string>
+	<key>oldsink</key>
+	<string>emitCatalyst</string>
+	<key>persistentRange</key>
+	<string>shouldRestartHeap</string>
+	<key>streamRight</key>
+	<string>alignmentValue</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackparamposition</key>
+	<string>cacheBrush</string>
+	<key>inactiveSearcher</key>
+	<string>discoverHash</string>
+	<key>looporigin</key>
+	<string>storeTier</string>
+	<key>nexttooldensity</key>
+	<string>positionforphase</string>
+	<key>prevModel</key>
+	<string>shouldFinishMovement</string>
+	<key>smartPlayback</key>
+	<string>detailFormat</string>
+	<key>visibleCustomPaint</key>
+	<string>connectCell</string>
+</dict>
+</plist>

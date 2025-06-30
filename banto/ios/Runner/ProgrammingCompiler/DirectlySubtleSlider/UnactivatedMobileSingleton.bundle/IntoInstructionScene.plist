@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvestagevalidation</key>
+	<string>permissiveStream</string>
+	<key>factoryactionlocation</key>
+	<string>ignoredLogarithm</string>
+	<key>hasStack</key>
+	<string>shouldSerializeButton</string>
+	<key>labelinterval</key>
+	<string>activeButton</string>
+	<key>lossTheme</key>
+	<string>shouldPresentExponent</string>
+	<key>prismaticcompleterbrightness</key>
+	<string>eventdirection</string>
+	<key>shouldConnectNotifier</key>
+	<string>modalduration</string>
+	<key>shouldReplaceAperture</key>
+	<string>benchmarkbehavior</string>
+	<key>symmetricPainter</key>
+	<string>mediocreColor</string>
+	<key>throughputTail</key>
+	<string>buildConvolution</string>
+</dict>
+</plist>

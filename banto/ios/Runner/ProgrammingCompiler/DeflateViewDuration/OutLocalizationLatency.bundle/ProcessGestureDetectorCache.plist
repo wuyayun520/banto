@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customTolerance</key>
+	<string>groupSpeed</string>
+	<key>difficultDialogs</key>
+	<string>localFeature</string>
+	<key>findershape</key>
+	<string>embraceexception</string>
+	<key>sophisticateddescriptoroffset</key>
+	<string>slashCoord</string>
+	<key>swiftdelegate</key>
+	<string>stateandcycle</string>
+	<key>yieldanchor</key>
+	<string>metadataVisitor</string>
+</dict>
+</plist>

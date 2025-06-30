@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildconfiguration</key>
+	<string>substantialFinder</string>
+	<key>diffableSegue</key>
+	<string>signaturePrototype</string>
+	<key>globalRestriction</key>
+	<string>greatMatrix</string>
+	<key>histogramDensity</key>
+	<string>mutableSplitter</string>
+	<key>itemVisible</key>
+	<string>floatListener</string>
+	<key>shouldLoadInstruction</key>
+	<string>hardcatalystforce</string>
+	<key>shouldMountTouch</key>
+	<string>newestIsolate</string>
+</dict>
+</plist>

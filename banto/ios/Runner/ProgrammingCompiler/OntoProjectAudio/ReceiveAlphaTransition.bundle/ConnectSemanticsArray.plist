@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubetype</key>
+	<string>completedButton</string>
+	<key>firstFrame</key>
+	<string>contractionKind</string>
+	<key>gateOpacity</key>
+	<string>arithmeticCluster</string>
+	<key>hyperbolicthreshold</key>
+	<string>dynamicmetadata</string>
+	<key>logarithminjection</key>
+	<string>upgradeResponse</string>
+	<key>missedChapter</key>
+	<string>canPopCard</string>
+	<key>offsetMode</key>
+	<string>clipperResponse</string>
+	<key>pagerFlags</key>
+	<string>dimensionEdge</string>
+	<key>shouldSkipInterpolation</key>
+	<string>canDispatchResource</string>
+	<key>subtleChapter</key>
+	<string>pendingStep</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonOffset</key>
+	<string>bundlePopup</string>
+	<key>crudeinfrastructure</key>
+	<string>lostMovement</string>
+	<key>flexibleConfidentiality</key>
+	<string>presenterVisitor</string>
+	<key>instructionOrientation</key>
+	<string>accessibleReliability</string>
+	<key>interactoractionflags</key>
+	<string>strokeDistance</string>
+	<key>pivotalwidget</key>
+	<string>significantLocalization</string>
+	<key>popupvaluecoord</key>
+	<string>maindropdownbutton</string>
+	<key>statefulMobile</key>
+	<string>shapePosition</string>
+</dict>
+</plist>

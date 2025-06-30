@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseFeedback</key>
+	<string>rapidKernel</string>
+	<key>declarativeprovider</key>
+	<string>functionalListener</string>
+	<key>euclideanPolygon</key>
+	<string>mediumSlider</string>
+	<key>factoryMomentum</key>
+	<string>canSkipOption</string>
+	<key>lossbuilder</key>
+	<string>smallMap</string>
+	<key>multiplicationValidation</key>
+	<string>statelessEvolution</string>
+	<key>shouldPersistDialogs</key>
+	<string>seamlessBandwidth</string>
+	<key>shouldStartDrawer</key>
+	<string>decorationMargin</string>
+</dict>
+</plist>

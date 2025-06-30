@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSegue</key>
+	<string>similarInteractor</string>
+	<key>defaultsymbol</key>
+	<string>graphFormat</string>
+	<key>flexibleGrayscale</key>
+	<string>usagedirection</string>
+	<key>multiManager</key>
+	<string>largeSorter</string>
+	<key>reactiveUsage</key>
+	<string>eagerTweak</string>
+	<key>streamtextfield</key>
+	<string>gridFacade</string>
+</dict>
+</plist>

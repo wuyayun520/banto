@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopTriangles</key>
+	<string>canDeserializeBrush</string>
+	<key>greatRect</key>
+	<string>similarProjection</string>
+	<key>persistentLifecycle</key>
+	<string>persistentPolygon</string>
+	<key>resilientInteraction</key>
+	<string>shouldSubscribeDelegate</string>
+	<key>screencomponent</key>
+	<string>skipDelegate</string>
+</dict>
+</plist>

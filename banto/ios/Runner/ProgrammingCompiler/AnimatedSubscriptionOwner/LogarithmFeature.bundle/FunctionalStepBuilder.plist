@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineStyle</key>
+	<string>aspecttint</string>
+	<key>handlerMode</key>
+	<string>rectInteraction</string>
+	<key>nativeUseCase</key>
+	<string>shouldSubscribeFlex</string>
+	<key>normalText</key>
+	<string>scalabilityInteraction</string>
+	<key>serviceCount</key>
+	<string>canPauseShader</string>
+	<key>shouldRouteInterpolation</key>
+	<string>pinchableInkWell</string>
+	<key>shouldcancelalert</key>
+	<string>freecache</string>
+	<key>unarySkewY</key>
+	<string>maxAlert</string>
+	<key>uniqueDropdownButton</key>
+	<string>parseSizedBox</string>
+	<key>workflowVisibility</key>
+	<string>poolStorage</string>
+</dict>
+</plist>

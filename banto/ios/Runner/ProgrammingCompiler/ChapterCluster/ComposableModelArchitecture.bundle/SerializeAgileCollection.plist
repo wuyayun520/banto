@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardChannels</key>
+	<string>shouldUnmountProtocol</string>
+	<key>iterativeInkWell</key>
+	<string>shouldPrepareAnimatedContainer</string>
+	<key>mediocreProvider</key>
+	<string>cyclePressure</string>
+	<key>nextgrayscalename</key>
+	<string>containerLeft</string>
+	<key>samplecontainer</key>
+	<string>unmountedCapsule</string>
+	<key>shouldUnbindDrawer</key>
+	<string>declarativeProfile</string>
+	<key>sinetaskspacing</key>
+	<string>shouldConnectBatch</string>
+</dict>
+</plist>

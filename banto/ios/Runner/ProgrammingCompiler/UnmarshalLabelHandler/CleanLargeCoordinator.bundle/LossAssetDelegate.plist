@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionandfunction</key>
+	<string>animationHue</string>
+	<key>directProcessor</key>
+	<string>shouldUnmountIcon</string>
+	<key>listviewinterpreterinterval</key>
+	<string>shapeVelocity</string>
+	<key>observeruntilform</key>
+	<string>shouldSaveCursor</string>
+	<key>persistentFinder</key>
+	<string>holdTitle</string>
+	<key>sessionvalidation</key>
+	<string>respondDescription</string>
+</dict>
+</plist>

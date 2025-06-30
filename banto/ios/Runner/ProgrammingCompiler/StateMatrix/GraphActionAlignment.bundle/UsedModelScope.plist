@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderDuration</key>
+	<string>aspectDepth</string>
+	<key>brushFlags</key>
+	<string>notifyMusic</string>
+	<key>customlatency</key>
+	<string>subpixelSize</string>
+	<key>promiseTop</key>
+	<string>substantialSizedBox</string>
+	<key>replicatevariant</key>
+	<string>draggableTexture</string>
+</dict>
+</plist>

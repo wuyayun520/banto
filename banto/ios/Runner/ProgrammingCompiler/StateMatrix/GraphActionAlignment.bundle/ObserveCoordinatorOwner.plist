@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyFeedback</key>
+	<string>shouldEndFuture</string>
+	<key>masterStatus</key>
+	<string>pivotalMesh</string>
+	<key>polyfillBorder</key>
+	<string>effectFrequency</string>
+	<key>priorityPressure</key>
+	<string>immediateFeature</string>
+	<key>shouldDecodeAccessory</key>
+	<string>positionedBehavior</string>
+	<key>textactionalignment</key>
+	<string>hierarchicalcharacterdensity</string>
+	<key>themetop</key>
+	<string>layoutImage</string>
+	<key>unsortedFragments</key>
+	<string>canSkipInteger</string>
+	<key>usedAnimation</key>
+	<string>materialVisibility</string>
+</dict>
+</plist>

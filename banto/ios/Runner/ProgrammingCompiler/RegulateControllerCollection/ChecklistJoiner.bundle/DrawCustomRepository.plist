@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasStatus</key>
+	<string>shouldYieldTheme</string>
+	<key>compositionalreducer</key>
+	<string>shouldLoadAnimation</string>
+	<key>dependencyCount</key>
+	<string>cupertinoTint</string>
+	<key>lazyListView</key>
+	<string>euclideanLayer</string>
+	<key>mapperinteraction</key>
+	<string>promiseSkewY</string>
+	<key>resourcepolyfill</key>
+	<string>slashTemple</string>
+	<key>trajectoryCount</key>
+	<string>drawTransformer</string>
+	<key>unaryformat</key>
+	<string>descriptionTheme</string>
+</dict>
+</plist>

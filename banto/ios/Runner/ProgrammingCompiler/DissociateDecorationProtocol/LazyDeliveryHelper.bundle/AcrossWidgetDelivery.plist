@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>numericalMethod</key>
+	<string>priorBitrate</string>
+	<key>overlayForce</key>
+	<string>deactivateTopic</string>
+	<key>recursionIndex</key>
+	<string>destroyLayout</string>
+	<key>shouldResumeTechnique</key>
+	<string>shouldRenderEqualization</string>
+	<key>shouldUpdateModulus</key>
+	<string>canFinishObserver</string>
+	<key>smartRectangle</key>
+	<string>canBindConvolution</string>
+	<key>taskconfidentiality</key>
+	<string>greatResolver</string>
+</dict>
+</plist>

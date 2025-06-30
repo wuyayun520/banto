@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengevisible</key>
+	<string>substantialIntegrity</string>
+	<key>combinervisible</key>
+	<string>selectorTint</string>
+	<key>functionalMediaQuery</key>
+	<string>diffableQuaternion</string>
+	<key>rectvaluetheme</key>
+	<string>creatorstate</string>
+	<key>resizableWorkflow</key>
+	<string>sineLeft</string>
+	<key>shouldShowScaffold</key>
+	<string>relationalAnalyzer</string>
+	<key>shouldcontinuestack</key>
+	<string>formatStamp</string>
+	<key>sortedInfo</key>
+	<string>shouldInflateBuilder</string>
+</dict>
+</plist>

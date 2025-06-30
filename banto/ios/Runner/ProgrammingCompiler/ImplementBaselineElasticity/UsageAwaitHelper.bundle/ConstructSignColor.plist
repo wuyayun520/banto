@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisFormat</key>
+	<string>viewthroughcommand</string>
+	<key>beginnerConsumption</key>
+	<string>sanitizeConfiguration</string>
+	<key>cancelresponse</key>
+	<string>groupalongvar</string>
+	<key>durationdespiteframework</key>
+	<string>interceptaction</string>
+	<key>fusedAnalogy</key>
+	<string>beginnerReplica</string>
+	<key>gradientFeedback</key>
+	<string>cancelcomposition</string>
+	<key>richtextResponse</key>
+	<string>positionedProcess</string>
+	<key>shouldCreatePainter</key>
+	<string>listenChecklist</string>
+	<key>usecasedensity</key>
+	<string>responseProcess</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialDelegate</key>
+	<string>initializeTask</string>
+	<key>interpolationVelocity</key>
+	<string>displayablerecursion</string>
+	<key>lastSubpixel</key>
+	<string>customizedNotifier</string>
+	<key>localHandler</key>
+	<string>hardStep</string>
+	<key>normTop</key>
+	<string>notifierPattern</string>
+	<key>popanimation</key>
+	<string>continueCube</string>
+	<key>reductionRate</key>
+	<string>convertmobile</string>
+	<key>shouldValidateGrayscale</key>
+	<string>firstUtil</string>
+</dict>
+</plist>

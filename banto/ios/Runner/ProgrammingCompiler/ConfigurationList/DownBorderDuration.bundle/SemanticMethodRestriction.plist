@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedVideo</key>
+	<string>canNotifyDecoration</string>
+	<key>defaultgridview</key>
+	<string>deserializeCoordinator</string>
+	<key>draggableGridView</key>
+	<string>shouldKeepFragment</string>
+	<key>easyFragment</key>
+	<string>stopGradient</string>
+	<key>exitimage</key>
+	<string>crudeVariant</string>
+	<key>unactivatedCapacity</key>
+	<string>statefulStrength</string>
+	<key>utilInterval</key>
+	<string>delegatetexture</string>
+</dict>
+</plist>

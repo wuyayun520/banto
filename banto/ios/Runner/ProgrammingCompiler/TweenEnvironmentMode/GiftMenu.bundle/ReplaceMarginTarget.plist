@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildertasksize</key>
+	<string>layoutVisible</string>
+	<key>certificateDelay</key>
+	<string>mobileIndicator</string>
+	<key>divideview</key>
+	<string>delegateMemento</string>
+	<key>equipmentDistance</key>
+	<string>initializeUseCase</string>
+	<key>providerjobtint</key>
+	<string>quantizationTicker</string>
+	<key>slashsaturation</key>
+	<string>asynchronousChannels</string>
+</dict>
+</plist>

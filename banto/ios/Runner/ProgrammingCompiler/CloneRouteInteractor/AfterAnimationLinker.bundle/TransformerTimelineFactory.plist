@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedTimer</key>
+	<string>logPattern</string>
+	<key>draggableSubscription</key>
+	<string>finishSample</string>
+	<key>granularSorter</key>
+	<string>canUpdateProfile</string>
+	<key>kernelrect</key>
+	<string>replicatebutton</string>
+	<key>observerAcceleration</key>
+	<string>canRebuildCanvas</string>
+	<key>reliabilityContrast</key>
+	<string>providemap</string>
+	<key>shouldPublishMatrix</key>
+	<string>priormomentum</string>
+	<key>staticModal</key>
+	<string>segmentComposite</string>
+	<key>streambeyondsystem</key>
+	<string>diffableSignature</string>
+</dict>
+</plist>

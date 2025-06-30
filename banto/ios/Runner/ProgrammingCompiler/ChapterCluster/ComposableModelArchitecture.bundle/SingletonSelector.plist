@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMerger</key>
+	<string>holdLabel</string>
+	<key>activatedBullet</key>
+	<string>prevContrast</string>
+	<key>mechanismOffset</key>
+	<string>obtainentity</string>
+	<key>restrictionstate</key>
+	<string>shouldObserveIndicator</string>
+	<key>seamlessSensor</key>
+	<string>shouldSerializeKernel</string>
+	<key>selectedUnary</key>
+	<string>shouldDispatchAxis</string>
+	<key>unaryName</key>
+	<string>rolePrototype</string>
+	<key>usedAllocator</key>
+	<string>keepCell</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chaptermaterializer</key>
+	<string>shouldMountAperture</string>
+	<key>discardedAspect</key>
+	<string>setstatehash</string>
+	<key>discardedLabel</key>
+	<string>canYieldSine</string>
+	<key>enabledDuration</key>
+	<string>fetchcallback</string>
+	<key>flexibleCard</key>
+	<string>delegateStyle</string>
+	<key>symbolTheme</key>
+	<string>configurationpressure</string>
+</dict>
+</plist>

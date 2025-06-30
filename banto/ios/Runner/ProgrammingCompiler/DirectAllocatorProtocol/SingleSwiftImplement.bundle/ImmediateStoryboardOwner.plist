@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicinteractordirection</key>
+	<string>independentTask</string>
+	<key>capsulesystemcoord</key>
+	<string>masterForce</string>
+	<key>createsingleton</key>
+	<string>oldProtocol</string>
+	<key>crucialCache</key>
+	<string>oldConsumption</string>
+	<key>elasticLatency</key>
+	<string>multiMatrix</string>
+	<key>equipmentshapevelocity</key>
+	<string>capacityFrequency</string>
+	<key>lastMultiplication</key>
+	<string>canStopNotifier</string>
+	<key>parallelstampvisibility</key>
+	<string>sequentialAlpha</string>
+	<key>resourcevisible</key>
+	<string>backwardIntensity</string>
+	<key>shoulddispatchmember</key>
+	<string>evolutionTransparency</string>
+</dict>
+</plist>

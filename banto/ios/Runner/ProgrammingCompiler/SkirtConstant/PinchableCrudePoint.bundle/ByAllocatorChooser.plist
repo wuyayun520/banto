@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateSplitter</key>
+	<string>basicSensor</string>
+	<key>disabledNode</key>
+	<string>clusterOffset</string>
+	<key>extensionRotation</key>
+	<string>usedSample</string>
+	<key>hierarchicalIntegrity</key>
+	<string>geometricbinarycontrast</string>
+	<key>lazyPublisher</key>
+	<string>shouldDetachCapacities</string>
+	<key>permissiveBase</key>
+	<string>shouldAttachNib</string>
+	<key>shouldSkipScale</key>
+	<string>intuitiveLogarithm</string>
+</dict>
+</plist>

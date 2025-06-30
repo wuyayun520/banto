@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCubit</key>
+	<string>rendererStyle</string>
+	<key>cachecharacteristic</key>
+	<string>canUnmountNotifier</string>
+	<key>integrationAlignment</key>
+	<string>drawInteractor</string>
+	<key>responseTint</key>
+	<string>parsenotifier</string>
+	<key>richtextRotation</key>
+	<string>multiOccasion</string>
+	<key>symmetricMap</key>
+	<string>concurrentcanvas</string>
+	<key>tensorBase</key>
+	<string>architecturestyle</string>
+</dict>
+</plist>

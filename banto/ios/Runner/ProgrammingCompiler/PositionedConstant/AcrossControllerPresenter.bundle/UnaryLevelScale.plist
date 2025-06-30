@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonflags</key>
+	<string>eagerexceptiontag</string>
+	<key>loopShape</key>
+	<string>beginnerInfo</string>
+	<key>mutableProtocol</key>
+	<string>monsterresponse</string>
+	<key>numericalIsolate</key>
+	<string>upgradeSingleton</string>
+	<key>orchestrateroute</key>
+	<string>optionspacing</string>
+	<key>richtextcoord</key>
+	<string>directCompletion</string>
+	<key>shouldBindBloc</key>
+	<string>semanticEfficiency</string>
+</dict>
+</plist>

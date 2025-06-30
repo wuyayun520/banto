@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitenvironmentfeedback</key>
+	<string>missedTask</string>
+	<key>nextStamp</key>
+	<string>assetActivity</string>
+	<key>persistentCharacteristic</key>
+	<string>finishRow</string>
+	<key>presenterTail</key>
+	<string>shouldtransformmodal</string>
+	<key>resultprocessstyle</key>
+	<string>canCancelScaffold</string>
+	<key>selectedAxis</key>
+	<string>stopConstraint</string>
+	<key>shouldContinueMaster</key>
+	<string>currentGraph</string>
+	<key>sophisticatedrequestposition</key>
+	<string>persistentHandler</string>
+	<key>tabbarbesidetier</key>
+	<string>canStreamCoordinator</string>
+	<key>videoDuration</key>
+	<string>nativeStamp</string>
+</dict>
+</plist>

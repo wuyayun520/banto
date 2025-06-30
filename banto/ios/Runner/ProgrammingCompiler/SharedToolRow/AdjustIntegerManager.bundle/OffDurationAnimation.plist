@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianCompletion</key>
+	<string>staticBoxShadow</string>
+	<key>connecttransition</key>
+	<string>canRenderSwitch</string>
+	<key>mutableController</key>
+	<string>parseGem</string>
+	<key>shouldHandleProtocol</key>
+	<string>onconvolutiontap</string>
+	<key>shouldObserveScale</key>
+	<string>canSkipTernary</string>
+	<key>sliderPressure</key>
+	<string>relationalReceiver</string>
+	<key>typicalScale</key>
+	<string>singleZone</string>
+</dict>
+</plist>

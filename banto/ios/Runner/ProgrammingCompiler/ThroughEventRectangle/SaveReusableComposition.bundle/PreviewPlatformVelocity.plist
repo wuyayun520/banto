@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerConsumption</key>
+	<string>intermediateSpine</string>
+	<key>ephemeralListView</key>
+	<string>exitObserver</string>
+	<key>iterativeAnimation</key>
+	<string>ephemeralTechnique</string>
+	<key>shouldListenScale</key>
+	<string>shouldPresentProtocol</string>
+	<key>shouldSubscribeButton</key>
+	<string>directScale</string>
+	<key>shouldattachtable</key>
+	<string>asynchronousProtocol</string>
+	<key>sustainableSensor</key>
+	<string>shouldYieldUnary</string>
+	<key>taskDelay</key>
+	<string>optimizerbuilder</string>
+	<key>threadtransformer</key>
+	<string>normalTernary</string>
+</dict>
+</plist>

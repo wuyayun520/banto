@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectdensity</key>
+	<string>skipStream</string>
+	<key>constraintincludestage</key>
+	<string>sessionTag</string>
+	<key>consumersincetype</key>
+	<string>animatedcontainersingletonvisible</string>
+	<key>delicateUnary</key>
+	<string>imagePhase</string>
+	<key>mobileAsync</key>
+	<string>unarydistance</string>
+	<key>originalMultiplication</key>
+	<string>unmarshalDuration</string>
+	<key>retainedConverter</key>
+	<string>callbackperpattern</string>
+	<key>schedulerCount</key>
+	<string>canTrainCollection</string>
+	<key>shouldNavigateSkirt</key>
+	<string>materialReducer</string>
+	<key>titleKind</key>
+	<string>wrapResolver</string>
+</dict>
+</plist>

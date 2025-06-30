@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedCatalyst</key>
+	<string>channelsCoord</string>
+	<key>fusedtentative</key>
+	<string>newestsprite</string>
+	<key>otherBinary</key>
+	<string>permissiveConstraint</string>
+	<key>reactivecellmargin</key>
+	<string>invisibleWidget</string>
+	<key>seamlessListView</key>
+	<string>hardEntity</string>
+	<key>semanticLayer</key>
+	<string>swiftIndex</string>
+	<key>shouldConnectAxis</key>
+	<string>canShowCard</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationbehavior</key>
+	<string>shouldcanceltabview</string>
+	<key>backwardPromise</key>
+	<string>shouldPresentEffect</string>
+	<key>customizedPlayback</key>
+	<string>composableAction</string>
+	<key>kernelTransparency</key>
+	<string>shouldskipchallenge</string>
+	<key>shaderframeworkbound</key>
+	<string>immutableAspect</string>
+	<key>statefulTension</key>
+	<string>annotateTitle</string>
+	<key>statelessBase</key>
+	<string>sorterTint</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channeldirection</key>
+	<string>customizedfuture</string>
+	<key>characterDepth</key>
+	<string>adaptiveGrain</string>
+	<key>fillresponse</key>
+	<string>partitionFrame</string>
+	<key>flexiblestoryboardsaturation</key>
+	<string>transitionCupertino</string>
+	<key>impactbottom</key>
+	<string>grainSaturation</string>
+	<key>invisibleLoss</key>
+	<string>shouldCreateOperation</string>
+	<key>localAsset</key>
+	<string>newestChooser</string>
+	<key>shouldReplaceAspect</key>
+	<string>nativeDelivery</string>
+	<key>statelessComponent</key>
+	<string>fusedVertex</string>
+</dict>
+</plist>

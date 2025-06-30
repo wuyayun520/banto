@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardpageviewcount</key>
+	<string>modelForm</string>
+	<key>mobileBatch</key>
+	<string>canFetchFragment</string>
+	<key>musicformat</key>
+	<string>shouldPersistCard</string>
+	<key>oldContrast</key>
+	<string>removeLoop</string>
+	<key>prismaticItem</key>
+	<string>shouldRouteCoordinator</string>
+	<key>replicaVisibility</key>
+	<string>seamlessMargin</string>
+	<key>shouldListenInstruction</key>
+	<string>positionBottom</string>
+	<key>shouldPauseAnimation</key>
+	<string>retrieveMethod</string>
+</dict>
+</plist>

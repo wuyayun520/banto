@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyModal</key>
+	<string>fetchgram</string>
+	<key>hasAnchor</key>
+	<string>shouldConnectUnary</string>
+	<key>tappablesliderright</key>
+	<string>keyNavigator</string>
+	<key>triangleshue</key>
+	<string>eagerLoss</string>
+	<key>vertexFeedback</key>
+	<string>inkwellHead</string>
+</dict>
+</plist>

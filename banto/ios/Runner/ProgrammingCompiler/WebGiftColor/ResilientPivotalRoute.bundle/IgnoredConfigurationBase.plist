@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBinder</key>
+	<string>parallelOffset</string>
+	<key>buildtextfield</key>
+	<string>desktopdecorationdensity</string>
+	<key>enabledisolatetension</key>
+	<string>replicateUtil</string>
+	<key>layerTint</key>
+	<string>equivalentPadding</string>
+	<key>refactorsample</key>
+	<string>variantamongmemento</string>
+	<key>responsiveSlider</key>
+	<string>responsePattern</string>
+	<key>shouldCacheCapacities</key>
+	<string>resetresponse</string>
+</dict>
+</plist>

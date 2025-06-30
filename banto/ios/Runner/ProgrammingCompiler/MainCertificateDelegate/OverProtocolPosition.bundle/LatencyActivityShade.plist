@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousAscent</key>
+	<string>compositionalNotifier</string>
+	<key>convertercenter</key>
+	<string>wrapChart</string>
+	<key>discardedWrapper</key>
+	<string>onbloctap</string>
+	<key>dynamicSubscriber</key>
+	<string>unsortedSpecifier</string>
+	<key>provisionMode</key>
+	<string>wrapperForce</string>
+</dict>
+</plist>

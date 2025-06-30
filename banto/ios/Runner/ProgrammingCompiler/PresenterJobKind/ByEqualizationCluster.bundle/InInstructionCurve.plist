@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedScene</key>
+	<string>operationScope</string>
+	<key>particleOffset</key>
+	<string>canPrepareMedia</string>
+	<key>seekstream</key>
+	<string>rendererOrigin</string>
+	<key>selectedOverlay</key>
+	<string>momentumSkewX</string>
+	<key>storetension</key>
+	<string>aspectexception</string>
+	<key>techniquePosition</key>
+	<string>interpolationBehavior</string>
+</dict>
+</plist>

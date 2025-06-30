@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogypadding</key>
+	<string>staticMetrics</string>
+	<key>dimensionfromparameter</key>
+	<string>mitigatemap</string>
+	<key>entropyCoord</key>
+	<string>characterStyle</string>
+	<key>intermediateElement</key>
+	<string>shouldObserveAppBar</string>
+	<key>mobilePresenter</key>
+	<string>loadEqualization</string>
+	<key>painterMode</key>
+	<string>publicChannel</string>
+	<key>provideragainsttask</key>
+	<string>ignoredDuration</string>
+	<key>serviceincludeinterpreter</key>
+	<string>greatposition</string>
+	<key>storagepager</key>
+	<string>iterativeClipper</string>
+	<key>themewithoutvisitor</key>
+	<string>navigateEntropy</string>
+</dict>
+</plist>

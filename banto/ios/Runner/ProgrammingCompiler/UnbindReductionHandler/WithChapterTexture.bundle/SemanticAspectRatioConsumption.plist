@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableConsumption</key>
+	<string>combineDescription</string>
+	<key>dialogsVisibility</key>
+	<string>deactivateListener</string>
+	<key>displayableSprite</key>
+	<string>latencyMargin</string>
+	<key>missioncoordinator</key>
+	<string>optimizerRotation</string>
+	<key>retainedError</key>
+	<string>fragmentBound</string>
+	<key>tappablezonecenter</key>
+	<string>bulletTint</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthduration</key>
+	<string>shouldDispatchCollection</string>
+	<key>blocPressure</key>
+	<string>shouldPushCollection</string>
+	<key>containerawaycomposite</key>
+	<string>reusableCupertino</string>
+	<key>difficultComponent</key>
+	<string>reactiveCheckbox</string>
+	<key>lastUsage</key>
+	<string>gesturedetectorWork</string>
+	<key>newestContraction</key>
+	<string>adjustSingleton</string>
+	<key>permissiveMetadata</key>
+	<string>radiusPattern</string>
+	<key>promisesink</key>
+	<string>selectedTheme</string>
+	<key>shouldListenCustomPaint</key>
+	<string>showcell</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionBehavior</key>
+	<string>limitEntity</string>
+	<key>hierarchicalScale</key>
+	<string>resumeContraction</string>
+	<key>marginEdge</key>
+	<string>primaryFilter</string>
+	<key>originalDropdownButton</key>
+	<string>shouldPopSensor</string>
+	<key>shouldSerializeAnchor</key>
+	<string>tweenTask</string>
+	<key>shouldtransformbullet</key>
+	<string>activePet</string>
+	<key>similarRemainder</key>
+	<string>immediatetitle</string>
+	<key>synchronousAlignment</key>
+	<string>resilientMetadata</string>
+	<key>unaryvisibility</key>
+	<string>subtleStamp</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSlash</key>
+	<string>canRenderBinary</string>
+	<key>capsulescroller</key>
+	<string>shearSingleton</string>
+	<key>checkboxName</key>
+	<string>protectedLinker</string>
+	<key>decorationduringlayer</key>
+	<string>convertEntity</string>
+	<key>hashofstrategy</key>
+	<string>aspectratioOrientation</string>
+	<key>localvertex</key>
+	<string>instructionComposite</string>
+	<key>mountsample</key>
+	<string>compositionalEvent</string>
+	<key>shouldPaintSubpixel</key>
+	<string>shouldStartNotifier</string>
+	<key>shouldPopPriority</key>
+	<string>notifyRadius</string>
+	<key>tweakResponse</key>
+	<string>observeDependency</string>
+</dict>
+</plist>

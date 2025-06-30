@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackdrawer</key>
+	<string>equalizationsorter</string>
+	<key>cellSpacing</key>
+	<string>showRemainder</string>
+	<key>shouldPaintStamp</key>
+	<string>provideraroundstyle</string>
+	<key>stateLocation</key>
+	<string>canvasBehavior</string>
+	<key>taskSaturation</key>
+	<string>renderCube</string>
+	<key>updatelog</key>
+	<string>storyboardortemple</string>
+</dict>
+</plist>

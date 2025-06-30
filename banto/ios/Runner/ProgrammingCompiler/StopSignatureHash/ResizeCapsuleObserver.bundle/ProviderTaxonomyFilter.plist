@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioDensity</key>
+	<string>chooserSkewY</string>
+	<key>intermediateScene</key>
+	<string>selectorCenter</string>
+	<key>protectedZone</key>
+	<string>unsortedConfidentiality</string>
+	<key>shouldEndCupertino</key>
+	<string>checkboxSingleton</string>
+	<key>slidertypealignment</key>
+	<string>viewResponse</string>
+	<key>threadaboutoperation</key>
+	<string>localMargin</string>
+	<key>tickerjoiner</key>
+	<string>encodeGraphic</string>
+</dict>
+</plist>

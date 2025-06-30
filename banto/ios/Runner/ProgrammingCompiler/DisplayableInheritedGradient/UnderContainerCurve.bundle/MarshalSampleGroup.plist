@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoWidget</key>
+	<string>handlerkind</string>
+	<key>controllertint</key>
+	<string>easyfactory</string>
+	<key>dissociatedocument</key>
+	<string>gridduration</string>
+	<key>requiredTransformer</key>
+	<string>defaultcycle</string>
+	<key>shouldCacheSegue</key>
+	<string>fusedMovement</string>
+	<key>tensorChecklist</key>
+	<string>seekInjection</string>
+	<key>timeOffset</key>
+	<string>consumeTransition</string>
+	<key>touchTag</key>
+	<string>resilientSample</string>
+	<key>typicalprecision</key>
+	<string>mobileNumber</string>
+	<key>updatebitrate</key>
+	<string>segmentflyweightposition</string>
+</dict>
+</plist>

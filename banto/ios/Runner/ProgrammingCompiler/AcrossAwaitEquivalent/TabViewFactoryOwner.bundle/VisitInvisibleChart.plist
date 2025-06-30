@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridbesideparam</key>
+	<string>backwardImage</string>
+	<key>gridviewevaluation</key>
+	<string>singleSingleton</string>
+	<key>inheritedOverlay</key>
+	<string>rangeSkewX</string>
+	<key>kernelmerger</key>
+	<string>canCacheMaster</string>
+	<key>mediocresprite</key>
+	<string>restartaspect</string>
+	<key>numericalRadius</key>
+	<string>usedError</string>
+	<key>resultLeft</key>
+	<string>liteduration</string>
+	<key>symbolvisitordistance</key>
+	<string>shouldValidateCupertino</string>
+</dict>
+</plist>

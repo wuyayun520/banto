@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserBorder</key>
+	<string>errorState</string>
+	<key>equalizationindex</key>
+	<string>shouldFetchSizedBox</string>
+	<key>firstMultiplication</key>
+	<string>canLoadBrush</string>
+	<key>newestImage</key>
+	<string>consultativeprovider</string>
+	<key>requestContrast</key>
+	<string>stateTail</string>
+	<key>shouldPersistBehavior</key>
+	<string>permissiveCanvas</string>
+	<key>shouldPresentConsumer</key>
+	<string>compositionInterval</string>
+	<key>zoneMargin</key>
+	<string>requestopacity</string>
+</dict>
+</plist>

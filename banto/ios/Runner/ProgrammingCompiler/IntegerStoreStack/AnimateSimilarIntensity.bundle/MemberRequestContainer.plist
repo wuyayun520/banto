@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentStyle</key>
+	<string>quantizationasync</string>
+	<key>crudeArithmetic</key>
+	<string>activeInterpolation</string>
+	<key>dependencyworkbound</key>
+	<string>readDescription</string>
+	<key>directresilience</key>
+	<string>publisherScale</string>
+	<key>metricsCenter</key>
+	<string>newestFinder</string>
+	<key>referenceOffset</key>
+	<string>iterativeentropy</string>
+	<key>shouldRestartNotification</key>
+	<string>pinchableNotation</string>
+	<key>stampTop</key>
+	<string>disconnectVariant</string>
+</dict>
+</plist>

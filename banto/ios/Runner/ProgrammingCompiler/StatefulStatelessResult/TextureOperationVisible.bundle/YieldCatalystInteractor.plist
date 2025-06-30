@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeCoordinator</key>
+	<string>shouldFetchCompletion</string>
+	<key>paintstack</key>
+	<string>notifierShape</string>
+	<key>roleShade</key>
+	<string>gradientDirection</string>
+	<key>shouldCancelTouch</key>
+	<string>reducerStyle</string>
+	<key>shouldLoadTransition</key>
+	<string>shouldRenderAnchor</string>
+	<key>shouldPersistObserver</key>
+	<string>soundIndex</string>
+	<key>substantialChannel</key>
+	<string>hierarchicalStroke</string>
+	<key>sustainableBorder</key>
+	<string>unsortedError</string>
+</dict>
+</plist>

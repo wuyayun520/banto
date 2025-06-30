@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityproxyfeedback</key>
+	<string>pivotaleventflags</string>
+	<key>allocatorFlags</key>
+	<string>shouldAttachSignature</string>
+	<key>beginnertopic</key>
+	<string>canPauseSpine</string>
+	<key>elasticseguepressure</key>
+	<string>statefulPrototype</string>
+	<key>geometricProvider</key>
+	<string>agileDispatcher</string>
+	<key>keyWorkflow</key>
+	<string>reusableNavigation</string>
+	<key>lastCoordinator</key>
+	<string>difficultImpression</string>
+	<key>notificationviavariable</key>
+	<string>intermediateTextField</string>
+	<key>petInteraction</key>
+	<string>displayableLatency</string>
+	<key>titlePosition</key>
+	<string>concreteMission</string>
+</dict>
+</plist>

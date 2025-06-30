@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>creatorIndex</key>
+	<string>interactiveFactory</string>
+	<key>cubitResponse</key>
+	<string>dispatchername</string>
+	<key>inflatetable</key>
+	<string>startlayout</string>
+	<key>shouldEndHero</key>
+	<string>evaluateVector</string>
+	<key>slashEdge</key>
+	<string>denseBorder</string>
+</dict>
+</plist>

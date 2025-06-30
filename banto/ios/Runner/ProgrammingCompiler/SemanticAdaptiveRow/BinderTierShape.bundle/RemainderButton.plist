@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionaspectvalidation</key>
+	<string>brushNumber</string>
+	<key>certificateframe</key>
+	<string>trajectoryValidation</string>
+	<key>presenterCount</key>
+	<string>resizeDependency</string>
+	<key>providerrouter</key>
+	<string>deliverydelay</string>
+	<key>shouldMountedSubpixel</key>
+	<string>temporarylayoutinterval</string>
+	<key>storagesorter</key>
+	<string>relationalPositioned</string>
+</dict>
+</plist>

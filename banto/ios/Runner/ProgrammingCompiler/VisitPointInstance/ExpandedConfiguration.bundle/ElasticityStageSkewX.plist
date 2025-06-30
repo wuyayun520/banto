@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesquaternion</key>
+	<string>apertureSkewY</string>
+	<key>cartesianTechnique</key>
+	<string>deserializeFragment</string>
+	<key>itemAlignment</key>
+	<string>oldWrapper</string>
+	<key>servicealongfunction</key>
+	<string>colorIndex</string>
+	<key>shouldHandleEffect</key>
+	<string>unmarshalRouter</string>
+</dict>
+</plist>

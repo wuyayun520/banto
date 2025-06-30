@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>freelistener</key>
+	<string>canDisposeTernary</string>
+	<key>priorRouter</key>
+	<string>shouldSetStateBrush</string>
+	<key>receiverResponse</key>
+	<string>syncResult</string>
+	<key>shouldMountedColumn</key>
+	<string>stateTransparency</string>
+	<key>sizeinteraction</key>
+	<string>advancedScroller</string>
+</dict>
+</plist>

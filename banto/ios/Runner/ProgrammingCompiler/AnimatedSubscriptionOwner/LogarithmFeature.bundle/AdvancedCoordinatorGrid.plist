@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveResponder</key>
+	<string>resumePrecision</string>
+	<key>commonUtil</key>
+	<string>bindThread</string>
+	<key>completerphaseorientation</key>
+	<string>disposePositioned</string>
+	<key>hardDetail</key>
+	<string>mapProxy</string>
+	<key>instructionname</key>
+	<string>subscriptionaroundstate</string>
+	<key>observeinterface</key>
+	<string>temporarynavigator</string>
+	<key>shouldMountBloc</key>
+	<string>deferredGroup</string>
+	<key>sinkFormat</key>
+	<string>audioBorder</string>
+</dict>
+</plist>

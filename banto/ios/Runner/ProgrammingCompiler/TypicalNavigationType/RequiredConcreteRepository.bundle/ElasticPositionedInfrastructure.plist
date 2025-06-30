@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorreplica</key>
+	<string>completerversusbuffer</string>
+	<key>composableAspectRatio</key>
+	<string>durationParam</string>
+	<key>descriptionRate</key>
+	<string>deferredOffset</string>
+	<key>dimensionstagedensity</key>
+	<string>tappableCallback</string>
+	<key>originaleventresponse</key>
+	<string>dedicatedinteger</string>
+	<key>priorPosition</key>
+	<string>navigatorstrength</string>
+	<key>shouldInflateScaffold</key>
+	<string>invokeAnimation</string>
+	<key>shouldPauseSpot</key>
+	<string>canPopMobile</string>
+	<key>shouldStartFlex</key>
+	<string>pickerFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentAspect</key>
+	<string>tickerTask</string>
+	<key>customProtocol</key>
+	<string>ignoredStep</string>
+	<key>delegatedelay</key>
+	<string>replicaDensity</string>
+	<key>rectlayerorientation</key>
+	<string>iterativeSingleton</string>
+	<key>shaderrect</key>
+	<string>inactiveView</string>
+	<key>shouldHandleOption</key>
+	<string>objectOffset</string>
+</dict>
+</plist>

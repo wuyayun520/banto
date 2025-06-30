@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTernary</key>
+	<string>canUpdateInterpolation</string>
+	<key>publicdelegatebehavior</key>
+	<string>renameResponse</string>
+	<key>similartweendensity</key>
+	<string>toolSaturation</string>
+	<key>techniqueDuration</key>
+	<string>coordinatordetector</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customAccessory</key>
+	<string>clearSprite</string>
+	<key>offsetVisibility</key>
+	<string>symmetricDropdownButton</string>
+	<key>persistentcomponent</key>
+	<string>localSwift</string>
+	<key>publicOccasion</key>
+	<string>canFinishSizedBox</string>
+	<key>setstateinterface</key>
+	<string>attachnavigator</string>
+	<key>subscriberfrequency</key>
+	<string>futurestate</string>
+</dict>
+</plist>

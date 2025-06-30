@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperleveltransparency</key>
+	<string>alphaSkewY</string>
+	<key>comprehensiveAnimation</key>
+	<string>reductiontheme</string>
+	<key>coordinatorCenter</key>
+	<string>asynchronousAction</string>
+	<key>cupertinoLayout</key>
+	<string>analyzeCurve</string>
+	<key>logarithmjobmargin</key>
+	<string>persistentVector</string>
+	<key>logflyweightedge</key>
+	<string>associateSlider</string>
+</dict>
+</plist>

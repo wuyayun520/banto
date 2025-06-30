@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsresponse</key>
+	<string>groupskewx</string>
+	<key>enabledEmitter</key>
+	<string>hyperbolicpainterpadding</string>
+	<key>mobileIndex</key>
+	<string>numericalButton</string>
+	<key>nativeStroke</key>
+	<string>titleMargin</string>
+	<key>prismaticSine</key>
+	<string>desktopLoader</string>
+	<key>selectorBottom</key>
+	<string>shouldObservePositioned</string>
+	<key>shouldLoadActivity</key>
+	<string>shouldCacheRole</string>
+	<key>shouldMountedInkWell</key>
+	<string>shouldSkipScale</string>
+	<key>synchronousScenario</key>
+	<string>subsequentGrain</string>
+</dict>
+</plist>

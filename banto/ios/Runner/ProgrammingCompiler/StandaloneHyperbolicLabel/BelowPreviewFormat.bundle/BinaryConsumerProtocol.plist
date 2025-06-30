@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstInstruction</key>
+	<string>showCertificate</string>
+	<key>intermediateOption</key>
+	<string>graphicObserver</string>
+	<key>largeBoxShadow</key>
+	<string>discardedIndicator</string>
+	<key>liteEfficiency</key>
+	<string>continueTextField</string>
+	<key>materializerAcceleration</key>
+	<string>descriptionindex</string>
+	<key>modulusVisible</key>
+	<string>textureresponse</string>
+	<key>newestInteraction</key>
+	<string>associatedObject</string>
+	<key>polyfillTag</key>
+	<string>criticalMovement</string>
+	<key>titleactionalignment</key>
+	<string>statefulcharthue</string>
+</dict>
+</plist>

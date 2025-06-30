@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentbehavior</key>
+	<string>shouldNavigateBoxShadow</string>
+	<key>asynchronousAppBar</key>
+	<string>providerContrast</string>
+	<key>bandwidthSaturation</key>
+	<string>saveInstruction</string>
+	<key>beginnerVector</key>
+	<string>nodeMethod</string>
+	<key>iterativeAppBar</key>
+	<string>difficultComponent</string>
+	<key>iterativeComponent</key>
+	<string>popuptrajectory</string>
+	<key>missedDescription</key>
+	<string>readReducer</string>
+	<key>responseworkindex</key>
+	<string>visitGraph</string>
+	<key>shouldPauseMap</key>
+	<string>tableBehavior</string>
+	<key>updatecache</key>
+	<string>draggableRecursion</string>
+</dict>
+</plist>

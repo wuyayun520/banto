@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonExpanded</key>
+	<string>diffableWidget</string>
+	<key>desktopResult</key>
+	<string>grayscaleForm</string>
+	<key>hardScroll</key>
+	<string>minListView</string>
+	<key>intermediateModule</key>
+	<string>responseMethod</string>
+	<key>responsiveCapsule</key>
+	<string>shouldmountbullet</string>
+	<key>shouldSaveStream</key>
+	<string>flexperfunction</string>
+</dict>
+</plist>

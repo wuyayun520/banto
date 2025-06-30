@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryLocation</key>
+	<string>shouldStartSkin</string>
+	<key>concurrentStrength</key>
+	<string>occasionMode</string>
+	<key>shouldLoadCompletion</key>
+	<string>shouldStreamFuture</string>
+	<key>statefulAction</key>
+	<string>canPaintClipper</string>
+	<key>titlequaternion</key>
+	<string>metadataSingleton</string>
+	<key>toolName</key>
+	<string>gridCommand</string>
+</dict>
+</plist>

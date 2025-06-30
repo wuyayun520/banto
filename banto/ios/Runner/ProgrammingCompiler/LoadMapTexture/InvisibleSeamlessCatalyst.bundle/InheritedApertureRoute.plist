@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileInfrastructure</key>
+	<string>sliderSystem</string>
+	<key>beginnerPlayback</key>
+	<string>combinerVelocity</string>
+	<key>defaultCatalyst</key>
+	<string>shouldPaintSign</string>
+	<key>easyMaterializer</key>
+	<string>descriptionComposite</string>
+	<key>interactormargin</key>
+	<string>mediaqueryActivity</string>
+	<key>linkertransparency</key>
+	<string>polyfillInteraction</string>
+	<key>reusableActivity</key>
+	<string>inactiveLinker</string>
+</dict>
+</plist>

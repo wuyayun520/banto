@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackCount</key>
+	<string>canCacheChallenge</string>
+	<key>integerpatternbottom</key>
+	<string>removeChart</string>
+	<key>measuremodulus</key>
+	<string>primarytabbarshape</string>
+	<key>shouldRebuildArithmetic</key>
+	<string>pauseTheme</string>
+</dict>
+</plist>

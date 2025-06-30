@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocprogressbar</key>
+	<string>completedDialogs</string>
+	<key>denseService</key>
+	<string>shaderVisibility</string>
+	<key>emitterInterval</key>
+	<string>canPushImage</string>
+	<key>euclideanConsumption</key>
+	<string>smallDescent</string>
+	<key>mediaqueryflags</key>
+	<string>resolverRotation</string>
+	<key>notationPressure</key>
+	<string>attachSize</string>
+	<key>oldTool</key>
+	<string>similaraction</string>
+	<key>shouldReplaceGrayscale</key>
+	<string>granularComposition</string>
+	<key>shouldSaveMaterial</key>
+	<string>numericalGate</string>
+</dict>
+</plist>

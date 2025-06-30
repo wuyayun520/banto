@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawermomentum</key>
+	<string>shouldValidateNavigation</string>
+	<key>matrixloader</key>
+	<string>listenMonster</string>
+	<key>navigationDistance</key>
+	<string>analogyCenter</string>
+	<key>shouldEmitListView</key>
+	<string>discardedResource</string>
+</dict>
+</plist>

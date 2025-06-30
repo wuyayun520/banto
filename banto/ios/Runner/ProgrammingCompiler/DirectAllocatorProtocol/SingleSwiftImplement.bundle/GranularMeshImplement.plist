@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorscale</key>
+	<string>draggableView</string>
+	<key>curveexception</key>
+	<string>typicalDocument</string>
+	<key>delegateshader</key>
+	<string>syncInjection</string>
+	<key>grainFeedback</key>
+	<string>dedicatedRichText</string>
+	<key>intuitivePopup</key>
+	<string>canCreateDescriptor</string>
+	<key>movementMargin</key>
+	<string>heapRate</string>
+	<key>sessiontasktail</key>
+	<string>providecoordinator</string>
+	<key>sophisticatedLoop</key>
+	<string>prepareCheckbox</string>
+</dict>
+</plist>

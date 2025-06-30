@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRemainder</key>
+	<string>subsequentMusic</string>
+	<key>kernelresponse</key>
+	<string>visibleShape</string>
+	<key>keymediaquery</key>
+	<string>rendersensor</string>
+	<key>mobileMaterial</key>
+	<string>agileTrajectory</string>
+	<key>nativetext</key>
+	<string>continueOverlay</string>
+	<key>shouldProcessDuration</key>
+	<string>shouldResumeImage</string>
+</dict>
+</plist>

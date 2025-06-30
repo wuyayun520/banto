@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inkwellbottom</key>
+	<string>disabledRemediation</string>
+	<key>layerInteraction</key>
+	<string>greatSpine</string>
+	<key>onprofiletap</key>
+	<string>shouldUnbindSkirt</string>
+	<key>robustInjection</key>
+	<string>channelMargin</string>
+	<key>shouldEmitMedia</key>
+	<string>canPopBehavior</string>
+	<key>statusShape</key>
+	<string>impressionInteraction</string>
+</dict>
+</plist>

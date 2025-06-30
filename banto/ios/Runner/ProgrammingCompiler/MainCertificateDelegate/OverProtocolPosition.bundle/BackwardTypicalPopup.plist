@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureSaturation</key>
+	<string>permissiveintensity</string>
+	<key>explicitMission</key>
+	<string>dynamicRectangle</string>
+	<key>lazyLoader</key>
+	<string>anchorconstraint</string>
+	<key>shouldShowProfile</key>
+	<string>staticTransformer</string>
+	<key>shouldTransitionExtension</key>
+	<string>annotateAlignment</string>
+	<key>viewbuffer</key>
+	<string>paintCosine</string>
+</dict>
+</plist>

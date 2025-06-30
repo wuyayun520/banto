@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedEvent</key>
+	<string>workflowOffset</string>
+	<key>elasticDocument</key>
+	<string>boxshadowFlags</string>
+	<key>eventPressure</key>
+	<string>visibleElasticity</string>
+	<key>observercontextvelocity</key>
+	<string>shouldFetchTable</string>
+	<key>offsetAcceleration</key>
+	<string>accessibleModal</string>
+	<key>retainedMenu</key>
+	<string>specifyAppBar</string>
+	<key>roleLeft</key>
+	<string>shouldNavigateFlex</string>
+	<key>shouldBuildAxis</key>
+	<string>sceneCoord</string>
+</dict>
+</plist>

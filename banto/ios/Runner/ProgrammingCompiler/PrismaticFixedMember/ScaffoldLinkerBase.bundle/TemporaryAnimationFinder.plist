@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowName</key>
+	<string>persistentWidget</string>
+	<key>euclideanSprite</key>
+	<string>iterativeCharacter</string>
+	<key>filterContrast</key>
+	<string>cleanError</string>
+	<key>gridviewscopeskewx</key>
+	<string>shouldRouteProvider</string>
+	<key>latencyvalidation</key>
+	<string>greatController</string>
+	<key>mediocreTime</key>
+	<string>unaryalongmethod</string>
+</dict>
+</plist>

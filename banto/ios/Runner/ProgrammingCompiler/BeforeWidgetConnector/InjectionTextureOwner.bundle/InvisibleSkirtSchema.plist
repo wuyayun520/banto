@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderEdge</key>
+	<string>exceptiontail</string>
+	<key>inheritedNavigator</key>
+	<string>groupappearance</string>
+	<key>nativeError</key>
+	<string>serializeStep</string>
+	<key>nodeHue</key>
+	<string>deployDependency</string>
+	<key>semanticsconstraint</key>
+	<string>shouldFetchOperation</string>
+	<key>specifyborder</key>
+	<string>normcoord</string>
+	<key>symmetricaction</key>
+	<string>shouldPrepareSignature</string>
+	<key>timelineSize</key>
+	<string>responsestatus</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializemobile</key>
+	<string>shouldEndModulus</string>
+	<key>latencyTop</key>
+	<string>nodeEnvironment</string>
+	<key>nativeMesh</key>
+	<string>startMaster</string>
+	<key>permanentSize</key>
+	<string>easyLinker</string>
+	<key>precisionnumberspeed</key>
+	<string>streamCollection</string>
+	<key>reducerBottom</key>
+	<string>rectangleSize</string>
+	<key>visibleModule</key>
+	<string>elasticInterface</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintandinterpreter</key>
+	<string>shouldMountMultiplication</string>
+	<key>diffableSize</key>
+	<string>buildnode</string>
+	<key>ephemeralExponent</key>
+	<string>shouldunbindanimation</string>
+	<key>grainForce</key>
+	<string>multiTool</string>
+	<key>holdmanager</key>
+	<string>bundleRequest</string>
+	<key>ignoredimpact</key>
+	<string>liteTask</string>
+	<key>managerspacing</key>
+	<string>dismissResource</string>
+	<key>protectedItem</key>
+	<string>prevScheduler</string>
+	<key>scrollableProjection</key>
+	<string>certificateAppearance</string>
+</dict>
+</plist>

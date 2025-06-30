@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSegment</key>
+	<string>dedicatedcallback</string>
+	<key>calculatenavigator</key>
+	<string>documentSkewY</string>
+	<key>shouldStreamSample</key>
+	<string>interactiveRect</string>
+	<key>spinpriority</key>
+	<string>progressbarStatus</string>
+	<key>tentativeRate</key>
+	<string>cubitFlags</string>
+	<key>textureHue</key>
+	<string>reductionmethod</string>
+	<key>timerframeworkstatus</key>
+	<string>shouldCreateUsage</string>
+</dict>
+</plist>

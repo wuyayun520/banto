@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeImpact</key>
+	<string>promiseType</string>
+	<key>directAnimator</key>
+	<string>nextTitle</string>
+	<key>memberdecoratorshape</key>
+	<string>canTransitionAnimatedContainer</string>
+	<key>painterHead</key>
+	<string>injectionBound</string>
+	<key>prismaticsemantics</key>
+	<string>mitigateCallback</string>
+	<key>searcherAppearance</key>
+	<string>cursortheme</string>
+	<key>shouldPersistAperture</key>
+	<string>synchronousDrawer</string>
+	<key>shouldSerializeInterpolation</key>
+	<string>shouldBuildAnimation</string>
+</dict>
+</plist>

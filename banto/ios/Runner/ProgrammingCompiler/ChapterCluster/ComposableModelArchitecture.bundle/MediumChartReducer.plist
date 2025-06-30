@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionscroller</key>
+	<string>specifyEffect</string>
+	<key>agileHash</key>
+	<string>draggableRecursion</string>
+	<key>compositionalAmortization</key>
+	<string>appbarContrast</string>
+	<key>exponentflyweightindex</key>
+	<string>shouldLoadProtocol</string>
+	<key>fetchpainter</key>
+	<string>shouldEndLayout</string>
+	<key>rangeTransparency</key>
+	<string>zoneOrientation</string>
+	<key>requiredFrame</key>
+	<string>shouldTransitionMultiplication</string>
+</dict>
+</plist>

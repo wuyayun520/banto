@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionexception</key>
+	<string>buttontail</string>
+	<key>disabledHistogram</key>
+	<string>missedtransformer</string>
+	<key>easyFinder</key>
+	<string>equipmentCenter</string>
+	<key>hardDocument</key>
+	<string>shouldPrepareIndicator</string>
+	<key>hardStatus</key>
+	<string>activatedGrain</string>
+	<key>publicCycle</key>
+	<string>shouldBindGrayscale</string>
+	<key>robustTabView</key>
+	<string>handleNotification</string>
+	<key>sanitizecurve</key>
+	<string>notifyNotifier</string>
+</dict>
+</plist>

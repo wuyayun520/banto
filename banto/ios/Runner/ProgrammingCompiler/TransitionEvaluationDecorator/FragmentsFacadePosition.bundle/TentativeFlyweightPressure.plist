@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activebox</key>
+	<string>inheritedposition</string>
+	<key>beginnerReliability</key>
+	<string>flexChain</string>
+	<key>lastStep</key>
+	<string>canEncodeDuration</string>
+	<key>movementthanoperation</key>
+	<string>shouldPopPageView</string>
+	<key>obtainloss</key>
+	<string>newestTexture</string>
+	<key>storagedecoratorshade</key>
+	<string>canvasKind</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncStatus</key>
+	<string>localTable</string>
+	<key>conformgate</key>
+	<string>exponentFormat</string>
+	<key>inheritedStateless</key>
+	<string>propagateDependency</string>
+	<key>sortedPageView</key>
+	<string>otherPermutation</string>
+</dict>
+</plist>

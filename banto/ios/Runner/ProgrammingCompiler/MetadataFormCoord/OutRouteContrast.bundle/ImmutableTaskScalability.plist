@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationtransparency</key>
+	<string>monsterrate</string>
+	<key>collectioncontextresponse</key>
+	<string>popupKind</string>
+	<key>ignoredImage</key>
+	<string>decodeInteractor</string>
+	<key>offsetshapedepth</key>
+	<string>canSaveHistogram</string>
+	<key>responsiveNotation</key>
+	<string>reusableCoordinator</string>
+	<key>shouldFormatGate</key>
+	<string>intermediateProject</string>
+	<key>shouldPaintCustomPaint</key>
+	<string>referenceOrigin</string>
+	<key>shouldRebuildThread</key>
+	<string>stackType</string>
+	<key>shouldshowappbar</key>
+	<string>observeSlider</string>
+	<key>temporaryPadding</key>
+	<string>disparateMission</string>
+</dict>
+</plist>

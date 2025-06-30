@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionKernel</key>
+	<string>dismissinstruction</string>
+	<key>beginnerBloc</key>
+	<string>canNavigateBox</string>
+	<key>capacitySkewX</key>
+	<string>euclideanconsumption</string>
+	<key>connectpriority</key>
+	<string>fusedOverlay</string>
+	<key>gesturedetectorrect</key>
+	<string>logarithmTier</string>
+	<key>measureprovider</key>
+	<string>chaptersorter</string>
+	<key>normDirection</key>
+	<string>subsequentTernary</string>
+	<key>slashdecoratormode</key>
+	<string>rectifyLabel</string>
+</dict>
+</plist>

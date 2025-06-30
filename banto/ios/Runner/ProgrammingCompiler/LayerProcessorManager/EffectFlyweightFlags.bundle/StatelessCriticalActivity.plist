@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>optimizerAppearance</key>
+	<string>radiusDepth</string>
+	<key>quaternionInteraction</key>
+	<string>canYieldChecklist</string>
+	<key>resizableEvent</key>
+	<string>customSizedBox</string>
+	<key>splitterBottom</key>
+	<string>resilientPadding</string>
+	<key>webBuilder</key>
+	<string>relationalResource</string>
+</dict>
+</plist>

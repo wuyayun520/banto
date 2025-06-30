@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredPlayback</key>
+	<string>respectiveCell</string>
+	<key>greatNavigation</key>
+	<string>dialogsVelocity</string>
+	<key>popupmode</key>
+	<string>interfaceForce</string>
+	<key>secondGate</key>
+	<string>pinchableMenu</string>
+	<key>shouldDismissProject</key>
+	<string>oldRole</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheShape</key>
+	<string>normalinteraction</string>
+	<key>materialTime</key>
+	<string>mountMap</string>
+	<key>oldImpact</key>
+	<string>scalestatus</string>
+	<key>otherBase</key>
+	<string>temporaryawait</string>
+	<key>shouldCreateCapacities</key>
+	<string>cancelCosine</string>
+	<key>tabviewname</key>
+	<string>intermediateInjection</string>
+</dict>
+</plist>

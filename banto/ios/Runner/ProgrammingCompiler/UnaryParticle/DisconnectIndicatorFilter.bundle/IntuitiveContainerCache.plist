@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedEfficiency</key>
+	<string>consultativePolyfill</string>
+	<key>loopenvironmentopacity</key>
+	<string>bindPainter</string>
+	<key>popupatstrategy</key>
+	<string>canDismissScroll</string>
+	<key>publisherValidation</key>
+	<string>shouldTransformButton</string>
+	<key>rowBrightness</key>
+	<string>resizablePublisher</string>
+	<key>shouldAnimateLogarithm</key>
+	<string>directlyJoiner</string>
+	<key>shouldSkipBullet</key>
+	<string>resizableImage</string>
+</dict>
+</plist>

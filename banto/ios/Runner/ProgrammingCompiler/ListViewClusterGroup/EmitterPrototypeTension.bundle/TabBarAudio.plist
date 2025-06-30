@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonModule</key>
+	<string>rapidResponse</string>
+	<key>dedicatedPosition</key>
+	<string>canTrainGram</string>
+	<key>gradientColor</key>
+	<string>mobiledelivery</string>
+	<key>pivotalBorder</key>
+	<string>shouldPersistDescriptor</string>
+	<key>shouldEmitLayout</key>
+	<string>platevarposition</string>
+</dict>
+</plist>

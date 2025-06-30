@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocFeedback</key>
+	<string>presentextension</string>
+	<key>imperativeBase</key>
+	<string>rectAction</string>
+	<key>imperativeMenu</key>
+	<string>mediumEfficiency</string>
+	<key>screenBehavior</key>
+	<string>shouldSerializeMap</string>
+	<key>shouldMountCell</key>
+	<string>backwardDropdownButton</string>
+	<key>shouldPushGestureDetector</key>
+	<string>receiveresource</string>
+	<key>uniformLog</key>
+	<string>channelsScale</string>
+</dict>
+</plist>

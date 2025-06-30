@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSearcher</key>
+	<string>semanticsInterpreter</string>
+	<key>colorDuration</key>
+	<string>histogramTint</string>
+	<key>dispatcherFrequency</key>
+	<string>unlockLocalization</string>
+	<key>heapspeed</key>
+	<string>promiseProxy</string>
+	<key>invisibleProject</key>
+	<string>shouldDismissRow</string>
+	<key>mergercolor</key>
+	<string>synchronousmethod</string>
+	<key>shouldDispatchBase</key>
+	<string>workflowIndex</string>
+	<key>vectorVisible</key>
+	<string>shouldUnbindVariant</string>
+	<key>wrapperDuration</key>
+	<string>inflatePet</string>
+</dict>
+</plist>

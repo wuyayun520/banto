@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptormode</key>
+	<string>mobileMap</string>
+	<key>dismisstransformer</key>
+	<string>delegateBuffer</string>
+	<key>lostcursor</key>
+	<string>completedSkin</string>
+	<key>reactiveAppBar</key>
+	<string>persistResource</string>
+	<key>reactiveLabel</key>
+	<string>inflateSample</string>
+</dict>
+</plist>

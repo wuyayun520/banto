@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensivemapper</key>
+	<string>itemInset</string>
+	<key>durationtentative</key>
+	<string>temporaryOccasion</string>
+	<key>modelobservername</key>
+	<string>tabviewProxy</string>
+	<key>parseclipper</key>
+	<string>hashsorter</string>
+	<key>resumerouter</key>
+	<string>fragmentsRate</string>
+	<key>resumetechnique</key>
+	<string>shouldRouteObserver</string>
+	<key>shouldParseSlash</key>
+	<string>synchronizeInterface</string>
+	<key>shouldrebuildalert</key>
+	<string>nativeRichText</string>
+</dict>
+</plist>

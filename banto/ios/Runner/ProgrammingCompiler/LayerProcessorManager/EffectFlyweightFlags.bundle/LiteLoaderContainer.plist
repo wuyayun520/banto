@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerStatus</key>
+	<string>inactiveContraction</string>
+	<key>disabledBaseline</key>
+	<string>commonChapter</string>
+	<key>disparateMapper</key>
+	<string>replaceListView</string>
+	<key>elasticTabBar</key>
+	<string>ephemeralplaybackedge</string>
+	<key>onbulletchanged</key>
+	<string>musicForm</string>
+	<key>seamlessSingleton</key>
+	<string>primaryMonster</string>
+	<key>stateAppearance</key>
+	<string>disabledBorder</string>
+</dict>
+</plist>

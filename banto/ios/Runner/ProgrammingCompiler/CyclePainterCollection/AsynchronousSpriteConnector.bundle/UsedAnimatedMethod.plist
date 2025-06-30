@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeSensor</key>
+	<string>vertexHue</string>
+	<key>mediumequalization</key>
+	<string>unregisterBloc</string>
+	<key>reductionsaturation</key>
+	<string>canLayoutMatrix</string>
+	<key>shouldPauseSizedBox</key>
+	<string>euclideanReducer</string>
+</dict>
+</plist>

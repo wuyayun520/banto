@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectFlags</key>
+	<string>pushStore</string>
+	<key>diversifiedTexture</key>
+	<string>polygonBottom</string>
+	<key>elasticgridviewdirection</key>
+	<string>comprehensivevariant</string>
+	<key>signaturevisible</key>
+	<string>skinSystem</string>
+	<key>symmetricProgressBar</key>
+	<string>completerDuration</string>
+</dict>
+</plist>

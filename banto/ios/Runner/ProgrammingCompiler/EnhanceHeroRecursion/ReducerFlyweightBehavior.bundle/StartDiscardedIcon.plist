@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateoffsetspacing</key>
+	<string>islabel</string>
+	<key>functionalPainter</key>
+	<string>shouldFormatSizedBox</string>
+	<key>mediumAllocator</key>
+	<string>popInkWell</string>
+	<key>referenceMargin</key>
+	<string>shouldCancelMargin</string>
+	<key>shouldEmitSignature</key>
+	<string>explicitDisclaimer</string>
+	<key>shouldLayoutGesture</key>
+	<string>unsortedDependency</string>
+	<key>topicappearance</key>
+	<string>dimensionVar</string>
+	<key>unaryMode</key>
+	<string>canUnmountRow</string>
+</dict>
+</plist>

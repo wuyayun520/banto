@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonMargin</key>
+	<string>wrapperDensity</string>
+	<key>discardedParticle</key>
+	<string>hierarchicalSchema</string>
+	<key>enabledNorm</key>
+	<string>aggregateaxis</string>
+	<key>functionalInformation</key>
+	<string>creatorTag</string>
+	<key>oldCapacities</key>
+	<string>presentmodulus</string>
+	<key>permanentTitle</key>
+	<string>widgetTag</string>
+	<key>scrollablePublisher</key>
+	<string>responsiveAnchor</string>
+	<key>shouldPushCheckbox</key>
+	<string>sortedDimension</string>
+	<key>tangentresponse</key>
+	<string>integritySkewX</string>
+</dict>
+</plist>

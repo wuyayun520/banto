@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderTail</key>
+	<string>optimizeSize</string>
+	<key>bufferbesideparameter</key>
+	<string>shouldreplaceequalization</string>
+	<key>marginFlags</key>
+	<string>partitionUseCase</string>
+	<key>scrollDistance</key>
+	<string>smartSingleton</string>
+	<key>stampprototypeborder</key>
+	<string>independentArchitecture</string>
+	<key>tappableOverlay</key>
+	<string>observeRadio</string>
+</dict>
+</plist>

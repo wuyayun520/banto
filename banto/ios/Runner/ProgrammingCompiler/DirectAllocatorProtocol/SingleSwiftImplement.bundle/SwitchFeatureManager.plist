@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetoftemple</key>
+	<string>bindoverlay</string>
+	<key>asynchronousPopup</key>
+	<string>independentSchema</string>
+	<key>cycleshape</key>
+	<string>gramstorage</string>
+	<key>flexibleGroup</key>
+	<string>emitSwift</string>
+	<key>independentplayback</key>
+	<string>rapidDetector</string>
+	<key>mobileFeature</key>
+	<string>dismissWorkflow</string>
+	<key>reducerwrapper</key>
+	<string>canRebuildScreen</string>
+</dict>
+</plist>

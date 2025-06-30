@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureAcceleration</key>
+	<string>explicitNotation</string>
+	<key>basicsemantics</key>
+	<string>shouldCacheScale</string>
+	<key>greatUnary</key>
+	<string>connectRow</string>
+	<key>localSink</key>
+	<string>multiMaterializer</string>
+	<key>permanentOverlay</key>
+	<string>layoutopacity</string>
+</dict>
+</plist>

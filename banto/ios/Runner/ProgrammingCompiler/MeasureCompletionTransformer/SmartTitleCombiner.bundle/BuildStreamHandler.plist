@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorTag</key>
+	<string>titleforce</string>
+	<key>diffableImpression</key>
+	<string>capturecoordinator</string>
+	<key>firstChooser</key>
+	<string>shouldConnectPainter</string>
+	<key>formatoffset</key>
+	<string>shoulddisposearithmetic</string>
+	<key>gradientradius</key>
+	<string>scrollbandwidth</string>
+	<key>modelresponse</key>
+	<string>respectiveSizedBox</string>
+	<key>shouldContinueObserver</key>
+	<string>shouldobserveaxis</string>
+	<key>shouldRenderOptimizer</key>
+	<string>shouldCreateDocument</string>
+</dict>
+</plist>

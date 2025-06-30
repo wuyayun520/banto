@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionMode</key>
+	<string>dependencyperphase</string>
+	<key>currentlatency</key>
+	<string>statestrength</string>
+	<key>denseCatalyst</key>
+	<string>renderAlpha</string>
+	<key>intermediateScreen</key>
+	<string>requiredMediaQuery</string>
+	<key>iterativeQuaternion</key>
+	<string>lastResponse</string>
+	<key>paddingPressure</key>
+	<string>routeSkewY</string>
+	<key>shouldloadstamp</key>
+	<string>deprecateNode</string>
+</dict>
+</plist>

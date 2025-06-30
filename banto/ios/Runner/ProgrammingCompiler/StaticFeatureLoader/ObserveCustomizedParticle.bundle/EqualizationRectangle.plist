@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocspacing</key>
+	<string>accessibleDescription</string>
+	<key>factoryscenario</key>
+	<string>immutableAnimation</string>
+	<key>histogramtail</key>
+	<string>geometricReduction</string>
+	<key>oldClipper</key>
+	<string>trainMediaQuery</string>
+	<key>parallelTime</key>
+	<string>tickerdepth</string>
+	<key>shouldHandleText</key>
+	<string>ephemeralTimer</string>
+</dict>
+</plist>

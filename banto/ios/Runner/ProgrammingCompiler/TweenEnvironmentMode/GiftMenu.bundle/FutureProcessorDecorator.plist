@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedMusic</key>
+	<string>rowspeed</string>
+	<key>fusedprofiledepth</key>
+	<string>sortedSink</string>
+	<key>nativeWrapper</key>
+	<string>numericalProjection</string>
+	<key>rectforce</key>
+	<string>significantSpot</string>
+	<key>routesplitter</key>
+	<string>tensorAnalogy</string>
+	<key>shouldUpdateDocument</key>
+	<string>canResumeBuilder</string>
+	<key>visibleAudio</key>
+	<string>shouldTrainBox</string>
+</dict>
+</plist>

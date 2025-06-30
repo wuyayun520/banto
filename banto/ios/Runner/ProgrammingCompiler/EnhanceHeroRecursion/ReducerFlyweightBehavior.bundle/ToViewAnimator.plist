@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveScene</key>
+	<string>showAccessory</string>
+	<key>descriptionorientation</key>
+	<string>uniformoffsetvelocity</string>
+	<key>directlyternary</key>
+	<string>canFinishRadio</string>
+	<key>fixedloss</key>
+	<string>sizedboxBottom</string>
+	<key>interactorinflyweight</key>
+	<string>shouldPublishSlash</string>
+	<key>pivotalsegmentrotation</key>
+	<string>temporaryThroughput</string>
+	<key>secondButton</key>
+	<string>presentInteger</string>
+	<key>shouldencodebuilder</key>
+	<string>equalizationFrequency</string>
+	<key>themeviamethod</key>
+	<string>infrastructureDistance</string>
+</dict>
+</plist>

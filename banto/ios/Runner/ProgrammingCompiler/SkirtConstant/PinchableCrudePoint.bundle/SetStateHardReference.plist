@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintandobserver</key>
+	<string>cancelmenu</string>
+	<key>descriptionStatus</key>
+	<string>enabledStrength</string>
+	<key>elementDirection</key>
+	<string>canStartDocument</string>
+	<key>lazyText</key>
+	<string>canDeserializeRoute</string>
+	<key>prevmemberduration</key>
+	<string>directlyVideo</string>
+	<key>shouldDisposeAppBar</key>
+	<string>defaultCoordinator</string>
+	<key>shouldmountgradient</key>
+	<string>diffableRoute</string>
+	<key>statelessDelegate</key>
+	<string>mainBinary</string>
+</dict>
+</plist>

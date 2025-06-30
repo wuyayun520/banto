@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createcoordinator</key>
+	<string>delegateDirection</string>
+	<key>gramEdge</key>
+	<string>musicright</string>
+	<key>interpolationduringshape</key>
+	<string>usedEqualization</string>
+	<key>tickerVisible</key>
+	<string>decoupleZone</string>
+</dict>
+</plist>

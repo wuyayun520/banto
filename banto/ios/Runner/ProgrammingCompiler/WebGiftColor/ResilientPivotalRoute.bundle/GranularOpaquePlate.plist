@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalChannel</key>
+	<string>rowformat</string>
+	<key>displayableResponder</key>
+	<string>capacitiesOrientation</string>
+	<key>imperativeDescent</key>
+	<string>sophisticatedOption</string>
+	<key>largeImpact</key>
+	<string>scenarioOrigin</string>
+	<key>normalItem</key>
+	<string>diffableRow</string>
+	<key>profileMargin</key>
+	<string>mountedMatrix</string>
+	<key>shouldObserveAppBar</key>
+	<string>viewshape</string>
+	<key>staticItem</key>
+	<string>canRenderMedia</string>
+</dict>
+</plist>

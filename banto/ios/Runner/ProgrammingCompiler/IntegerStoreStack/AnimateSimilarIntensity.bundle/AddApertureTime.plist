@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificatevaluerotation</key>
+	<string>shouldDisconnectInteger</string>
+	<key>enabledReduction</key>
+	<string>stopSkirt</string>
+	<key>ephemeralButton</key>
+	<string>canKeepInstruction</string>
+	<key>mutableresultvisible</key>
+	<string>tangentstatus</string>
+	<key>responsevalidation</key>
+	<string>captureDuration</string>
+	<key>singletonBound</key>
+	<string>shouldPresentCapsule</string>
+</dict>
+</plist>

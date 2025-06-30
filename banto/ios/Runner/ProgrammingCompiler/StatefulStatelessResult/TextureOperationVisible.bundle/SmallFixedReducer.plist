@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardCharacteristic</key>
+	<string>canDetachBorder</string>
+	<key>linkerMargin</key>
+	<string>spineDecorator</string>
+	<key>listenertolerance</key>
+	<string>quantizationContainer</string>
+	<key>otherEvent</key>
+	<string>smartMobile</string>
+	<key>shouldAnimateProject</key>
+	<string>equipmentState</string>
+	<key>tensorTentative</key>
+	<string>requestPadding</string>
+</dict>
+</plist>

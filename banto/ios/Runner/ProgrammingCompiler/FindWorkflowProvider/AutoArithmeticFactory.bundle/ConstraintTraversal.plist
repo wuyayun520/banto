@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedcachebound</key>
+	<string>momentumProxy</string>
+	<key>inheritedTrajectory</key>
+	<string>optimizerOffset</string>
+	<key>lastFragment</key>
+	<string>dynamicTouch</string>
+	<key>localizationState</key>
+	<string>declarativebehavior</string>
+	<key>resilienceTransparency</key>
+	<string>detailMomentum</string>
+	<key>semanticPlayback</key>
+	<string>canMountSpine</string>
+	<key>shouldDispatchInkWell</key>
+	<string>unbindController</string>
+	<key>tappableHandler</key>
+	<string>asynchronousOptimizer</string>
+	<key>threadBorder</key>
+	<string>specifyBehavior</string>
+</dict>
+</plist>

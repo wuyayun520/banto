@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistRate</key>
+	<string>drawResponse</string>
+	<key>evolutionBehavior</key>
+	<string>meshShade</string>
+	<key>inkwellTheme</key>
+	<string>lossopacity</string>
+	<key>removelocalization</key>
+	<string>replicaLocation</string>
+	<key>shouldUnmountStack</key>
+	<string>tooltheme</string>
+	<key>visitview</key>
+	<string>remediationRight</string>
+</dict>
+</plist>

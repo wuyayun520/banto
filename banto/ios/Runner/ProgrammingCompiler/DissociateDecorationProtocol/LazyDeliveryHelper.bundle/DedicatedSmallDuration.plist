@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePicker</key>
+	<string>canDismissReduction</string>
+	<key>containerframe</key>
+	<string>numericalMesh</string>
+	<key>elasticEqualization</key>
+	<string>endNotification</string>
+	<key>gesturedetectorInset</key>
+	<string>defaulttechnique</string>
+	<key>polygonhead</key>
+	<string>requestConfiguration</string>
+	<key>positionedobserver</key>
+	<string>hasCustomPaint</string>
+	<key>shouldSerializeDescriptor</key>
+	<string>opaquereliability</string>
+	<key>sinktriangles</key>
+	<string>showModal</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialDimension</key>
+	<string>seamlessPadding</string>
+	<key>detachmodulus</key>
+	<string>shouldUnmountedTouch</string>
+	<key>heapbottom</key>
+	<string>searcherInteraction</string>
+	<key>movementDensity</key>
+	<string>streamDensity</string>
+	<key>specifyPadding</key>
+	<string>creatorDirection</string>
+	<key>tangentPressure</key>
+	<string>scaffoldTint</string>
+</dict>
+</plist>

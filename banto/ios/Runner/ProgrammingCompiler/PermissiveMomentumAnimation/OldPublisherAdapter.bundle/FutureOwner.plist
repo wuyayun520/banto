@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableBatch</key>
+	<string>aggregateUtil</string>
+	<key>liteIsolate</key>
+	<string>capacityInset</string>
+	<key>priorityLocation</key>
+	<string>agileMaster</string>
+	<key>recursionInset</key>
+	<string>indicatorTheme</string>
+	<key>routethread</key>
+	<string>constraintMemento</string>
+	<key>sanitizezone</key>
+	<string>retainedRectangle</string>
+	<key>uniqueImage</key>
+	<string>semanticinteractoracceleration</string>
+	<key>uniqueSink</key>
+	<string>deployTask</string>
+</dict>
+</plist>

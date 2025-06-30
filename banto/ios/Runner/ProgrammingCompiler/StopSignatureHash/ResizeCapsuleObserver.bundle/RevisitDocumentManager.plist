@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianSingleton</key>
+	<string>canParseFragment</string>
+	<key>fixedslidervisible</key>
+	<string>alphaStyle</string>
+	<key>semanticCustomPaint</key>
+	<string>robustMap</string>
+	<key>synchronousrequestbound</key>
+	<string>shouldDetachSample</string>
+</dict>
+</plist>

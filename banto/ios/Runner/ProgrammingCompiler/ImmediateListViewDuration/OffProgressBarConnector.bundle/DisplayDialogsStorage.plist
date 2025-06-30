@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configureresolver</key>
+	<string>denseeffectfrequency</string>
+	<key>nativeBehavior</key>
+	<string>backwardConfidentiality</string>
+	<key>optioncompositebehavior</key>
+	<string>routeswitch</string>
+	<key>tentativeCoord</key>
+	<string>holdResult</string>
+	<key>textureType</key>
+	<string>encodegraph</string>
+</dict>
+</plist>

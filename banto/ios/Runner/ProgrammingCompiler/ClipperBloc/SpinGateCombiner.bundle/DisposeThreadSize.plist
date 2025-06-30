@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureFlags</key>
+	<string>publishCell</string>
+	<key>augmentprogressbar</key>
+	<string>prevMedia</string>
+	<key>composableController</key>
+	<string>heapInset</string>
+	<key>pageviewOrientation</key>
+	<string>primaryindicatormargin</string>
+	<key>responsiveCreator</key>
+	<string>subscriptionscale</string>
+	<key>shouldPersistSignature</key>
+	<string>oldCombiner</string>
+	<key>shouldYieldConsumer</key>
+	<string>substantialManager</string>
+	<key>vectorName</key>
+	<string>reduceModel</string>
+</dict>
+</plist>

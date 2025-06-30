@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeSink</key>
+	<string>widgetchooser</string>
+	<key>dynamicThreshold</key>
+	<string>quantizationContainer</string>
+	<key>matrixdrawer</key>
+	<string>disabledradiusinteraction</string>
+</dict>
+</plist>

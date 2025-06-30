@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphFrequency</key>
+	<string>fusedView</string>
+	<key>layoutCenter</key>
+	<string>staticCollection</string>
+	<key>nativeNavigation</key>
+	<string>intermediatePadding</string>
+	<key>projectionpadding</key>
+	<string>endNotification</string>
+	<key>tickermaterial</key>
+	<string>canStopRoute</string>
+	<key>unactivatedManager</key>
+	<string>canMountedGesture</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleOccasion</key>
+	<string>layerSize</string>
+	<key>controllerOpacity</key>
+	<string>hasdialogs</string>
+	<key>giftcycleopacity</key>
+	<string>subsequentGroup</string>
+	<key>logkindstyle</key>
+	<string>concurrentMobile</string>
+	<key>rowTail</key>
+	<string>resilientCallback</string>
+	<key>scaffoldprovider</key>
+	<string>asynchronousscaffold</string>
+	<key>shouldCreateNotification</key>
+	<string>publicAnalogy</string>
+	<key>shouldEncodeReduction</key>
+	<string>customWrapper</string>
+	<key>shouldRenderPriority</key>
+	<string>notifyallocator</string>
+</dict>
+</plist>

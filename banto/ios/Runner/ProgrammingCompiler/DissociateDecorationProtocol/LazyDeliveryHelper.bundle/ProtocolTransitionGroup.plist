@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsbound</key>
+	<string>sequentialreceiver</string>
+	<key>selectorRight</key>
+	<string>cosineversuscomposite</string>
+	<key>semanticSpecifier</key>
+	<string>retrieveReducer</string>
+	<key>shouldtrainstream</key>
+	<string>subscribeEquipment</string>
+</dict>
+</plist>

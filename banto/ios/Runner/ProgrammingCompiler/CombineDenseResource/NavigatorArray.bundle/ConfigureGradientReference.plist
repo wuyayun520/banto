@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonChannel</key>
+	<string>saveSpot</string>
+	<key>geometricObject</key>
+	<string>inheritedStamp</string>
+	<key>ignoredTrigger</key>
+	<string>firstUseCase</string>
+	<key>sortedAnalyzer</key>
+	<string>gramStructure</string>
+	<key>tappableWorkflow</key>
+	<string>protectedJoiner</string>
+</dict>
+</plist>

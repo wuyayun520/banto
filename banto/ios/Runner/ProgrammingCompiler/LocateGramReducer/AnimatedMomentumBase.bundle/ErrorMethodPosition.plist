@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleAppearance</key>
+	<string>resilientManager</string>
+	<key>crudeAxis</key>
+	<string>richtextHue</string>
+	<key>memberMargin</key>
+	<string>subtleEvaluation</string>
+	<key>monstertransparency</key>
+	<string>movementVar</string>
+	<key>shouldRestartGesture</key>
+	<string>hardCubit</string>
+</dict>
+</plist>

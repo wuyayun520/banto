@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicButton</key>
+	<string>interactiveQuaternion</string>
+	<key>cupertinoAlignment</key>
+	<string>aspectMode</string>
+	<key>limitimage</key>
+	<string>shouldFormatStateful</string>
+	<key>prevTask</key>
+	<string>canPushDelegate</string>
+	<key>usedCertificate</key>
+	<string>lazyPromise</string>
+</dict>
+</plist>

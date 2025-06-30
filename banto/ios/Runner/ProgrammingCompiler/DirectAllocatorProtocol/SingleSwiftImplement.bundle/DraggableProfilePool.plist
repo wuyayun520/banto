@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediaqueryBehavior</key>
+	<string>symmetricskirtfeedback</string>
+	<key>seamlessQueue</key>
+	<string>accordionrowflags</string>
+	<key>shouldPresentSubpixel</key>
+	<string>sceneTheme</string>
+	<key>shouldPublishBaseline</key>
+	<string>sophisticatedParticle</string>
+	<key>subscriptionstate</key>
+	<string>skipradius</string>
+	<key>variantlocation</key>
+	<string>shouldPushCanvas</string>
+</dict>
+</plist>

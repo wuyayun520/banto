@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graintaxonomy</key>
+	<string>cacheBox</string>
+	<key>previewTag</key>
+	<string>serializebuilder</string>
+	<key>shouldObserveBox</key>
+	<string>routeLabel</string>
+	<key>shouldValidateDropdownButton</key>
+	<string>missionScope</string>
+	<key>similarMaster</key>
+	<string>dimensionVelocity</string>
+	<key>symmetricPopup</key>
+	<string>heronavigator</string>
+	<key>zoneVisible</key>
+	<string>canUpdatePet</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSpot</key>
+	<string>shouldBuildTransition</string>
+	<key>directdependencymode</key>
+	<string>listenCube</string>
+	<key>discardedResult</key>
+	<string>canEmitProvider</string>
+	<key>shouldMountBatch</key>
+	<string>contractionformat</string>
+	<key>shouldReplaceMatrix</key>
+	<string>bufferOpacity</string>
+	<key>shouldResumeBorder</key>
+	<string>annotatearithmetic</string>
+	<key>temporarySpine</key>
+	<string>rowsingletonvisible</string>
+</dict>
+</plist>

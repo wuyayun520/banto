@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisFormat</key>
+	<string>exponentAcceleration</string>
+	<key>displayableScenario</key>
+	<string>bindBitrate</string>
+	<key>easyHeap</key>
+	<string>canFinishAperture</string>
+	<key>exceptionShape</key>
+	<string>curveDensity</string>
+	<key>immediateInteger</key>
+	<string>shouldlistenkernel</string>
+	<key>repositoryOrigin</key>
+	<string>singletonNumber</string>
+	<key>serializeunary</key>
+	<string>materializeTask</string>
+	<key>shouldKeepSlider</key>
+	<string>transformLoop</string>
+	<key>shouldrebuildscreen</key>
+	<string>alertFlags</string>
+	<key>taskLeft</key>
+	<string>concretePageView</string>
+</dict>
+</plist>

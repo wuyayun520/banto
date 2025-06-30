@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudetransitiontype</key>
+	<string>shouldParseReference</string>
+	<key>dataPosition</key>
+	<string>canLayoutKernel</string>
+	<key>lastExpanded</key>
+	<string>interpolationconfidentiality</string>
+	<key>respectivemediaresponse</key>
+	<string>canMountCycle</string>
+	<key>selectedscreen</key>
+	<string>propagateResponse</string>
+	<key>shouldCreateStateless</key>
+	<string>canSerializeWorkflow</string>
+	<key>shouldupdatecursor</key>
+	<string>animationObserver</string>
+	<key>statefulData</key>
+	<string>interfaceAction</string>
+	<key>temporarySpine</key>
+	<string>setstatevector</string>
+</dict>
+</plist>

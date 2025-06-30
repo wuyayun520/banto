@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaFeedback</key>
+	<string>standaloneChecklist</string>
+	<key>disabledComponent</key>
+	<string>integerCoord</string>
+	<key>featureadapterformat</key>
+	<string>endCapacities</string>
+	<key>hashparamfeedback</key>
+	<string>metadataPrototype</string>
+	<key>imperativeUtil</key>
+	<string>canAttachTool</string>
+	<key>independentFragments</key>
+	<string>smallTitle</string>
+	<key>shouldStopContainer</key>
+	<string>statefulTask</string>
+	<key>signatureSpacing</key>
+	<string>refreshGroup</string>
+	<key>webimpact</key>
+	<string>explicitFuture</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularTool</key>
+	<string>canDismissCapsule</string>
+	<key>interactiveBitrate</key>
+	<string>shouldPaintPrecision</string>
+	<key>lazyticker</key>
+	<string>handleralignment</string>
+	<key>provisionHue</key>
+	<string>mapInterval</string>
+	<key>publicpainter</key>
+	<string>subscribebox</string>
+</dict>
+</plist>

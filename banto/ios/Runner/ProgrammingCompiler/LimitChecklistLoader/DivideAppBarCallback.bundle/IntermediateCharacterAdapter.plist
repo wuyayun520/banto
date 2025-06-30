@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetnotation</key>
+	<string>shouldDisposeOperation</string>
+	<key>awaitMode</key>
+	<string>shouldPushTernary</string>
+	<key>binderFlags</key>
+	<string>crudeSwitch</string>
+	<key>disabledChooser</key>
+	<string>agileVolume</string>
+	<key>nativeNavigation</key>
+	<string>inflateTabView</string>
+	<key>newestMomentum</key>
+	<string>serializeProjection</string>
+	<key>paintanimation</key>
+	<string>transitionBinary</string>
+	<key>positionType</key>
+	<string>movementresilience</string>
+	<key>shouldShowMultiplication</key>
+	<string>nextAsset</string>
+	<key>uniqueBandwidth</key>
+	<string>firstDialogs</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRepository</key>
+	<string>pauseNotification</string>
+	<key>adaptivematerial</key>
+	<string>sliderMode</string>
+	<key>sequentialNotation</key>
+	<string>canFinishGift</string>
+	<key>sessionAcceleration</key>
+	<string>flexibleBinder</string>
+</dict>
+</plist>

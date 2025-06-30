@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesiancontaineracceleration</key>
+	<string>resolverShade</string>
+	<key>composableCursor</key>
+	<string>disconnectDescriptor</string>
+	<key>norminfo</key>
+	<string>markRoute</string>
+	<key>onstacktap</key>
+	<string>flexibleLoop</string>
+	<key>pinchableObject</key>
+	<string>offsetmodule</string>
+	<key>selectedProfile</key>
+	<string>entropybufferindex</string>
+	<key>shouldEncodeEquipment</key>
+	<string>shouldUnmountTransition</string>
+	<key>shouldpopequipment</key>
+	<string>originalQueue</string>
+	<key>unsortedEquipment</key>
+	<string>shouldShowDescriptor</string>
+	<key>unsortedThread</key>
+	<string>mediumVector</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMap</key>
+	<string>prismaticScroll</string>
+	<key>intuitiveComponent</key>
+	<string>elementFormat</string>
+	<key>sharedproviderinterval</key>
+	<string>entityFormat</string>
+	<key>staticreduction</key>
+	<string>fixedMediaQuery</string>
+</dict>
+</plist>

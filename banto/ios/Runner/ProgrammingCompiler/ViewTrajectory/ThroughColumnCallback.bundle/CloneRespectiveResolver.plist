@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedCursor</key>
+	<string>fillAwait</string>
+	<key>decorationtail</key>
+	<string>shouldFinishComposition</string>
+	<key>enabledStoryboard</key>
+	<string>consultativeProvider</string>
+	<key>ignoredScroll</key>
+	<string>appendMethod</string>
+	<key>iterativeKernel</key>
+	<string>otherPrecision</string>
+	<key>materialContainer</key>
+	<string>scalabilityFlags</string>
+	<key>sessionTransparency</key>
+	<string>consumerTag</string>
+	<key>subtleMusic</key>
+	<string>reactiveSwitch</string>
+</dict>
+</plist>

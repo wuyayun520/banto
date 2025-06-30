@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customRange</key>
+	<string>shouldLoadTable</string>
+	<key>integeraroundactivity</key>
+	<string>concurrentCoordinator</string>
+	<key>shouldCacheSine</key>
+	<string>shouldDisconnectView</string>
+	<key>shouldNotifyStateful</key>
+	<string>routeFuture</string>
+	<key>storyboardprototypetransparency</key>
+	<string>mediocreDetail</string>
+	<key>textfieldLeft</key>
+	<string>canUnmountDuration</string>
+</dict>
+</plist>

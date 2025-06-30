@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbartension</key>
+	<string>robustGroup</string>
+	<key>backwardIcon</key>
+	<string>cachePageView</string>
+	<key>concreteScroller</key>
+	<string>multiBitrate</string>
+	<key>primaryShader</key>
+	<string>dropoutentity</string>
+	<key>rowspeed</key>
+	<string>shouldFetchMatrix</string>
+	<key>scrollableGradient</key>
+	<string>gradientValidation</string>
+	<key>sophisticatedResolver</key>
+	<string>vectorContrast</string>
+	<key>unschedulequeue</key>
+	<string>iscursor</string>
+	<key>usedRectangle</key>
+	<string>shouldHandleExpanded</string>
+</dict>
+</plist>

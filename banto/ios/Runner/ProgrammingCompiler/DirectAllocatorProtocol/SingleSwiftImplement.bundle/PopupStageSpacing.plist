@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeInkWell</key>
+	<string>observerincomposite</string>
+	<key>disparateSlash</key>
+	<string>staticlogdepth</string>
+	<key>shouldBindOperation</key>
+	<string>emitFeature</string>
+	<key>shouldDispatchComposition</key>
+	<string>standaloneslider</string>
+	<key>shouldDisposeIndicator</key>
+	<string>activatedService</string>
+	<key>shouldPublishLabel</key>
+	<string>unlockdrawer</string>
+	<key>slashTail</key>
+	<string>transformBinary</string>
+	<key>temporaryTimer</key>
+	<string>shouldMountLoss</string>
+	<key>usecasecontextspacing</key>
+	<string>canStopMovement</string>
+</dict>
+</plist>

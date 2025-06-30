@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveInteraction</key>
+	<string>canUnbindScaffold</string>
+	<key>custompaintworkshape</key>
+	<string>createCanvas</string>
+	<key>lastBitrate</key>
+	<string>viewgrid</string>
+	<key>prismaticDisclaimer</key>
+	<string>invisibleTopic</string>
+	<key>progressbarlevelhead</key>
+	<string>scrollerAppearance</string>
+	<key>projectCount</key>
+	<string>notifyConfiguration</string>
+</dict>
+</plist>

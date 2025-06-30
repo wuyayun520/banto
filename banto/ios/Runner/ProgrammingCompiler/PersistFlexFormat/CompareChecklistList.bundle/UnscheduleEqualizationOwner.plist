@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationIndex</key>
+	<string>associatedTitle</string>
+	<key>configurationResponse</key>
+	<string>scrollbehavior</string>
+	<key>monsterInteraction</key>
+	<string>dropoutProvider</string>
+	<key>partitionoption</key>
+	<string>embedLoop</string>
+	<key>polyfillFlags</key>
+	<string>mountlog</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperbutton</key>
+	<string>trainaxis</string>
+	<key>compilesegment</key>
+	<string>sustainableStep</string>
+	<key>flexiblerouterbottom</key>
+	<string>effectimpact</string>
+	<key>mediumprogressbarbrightness</key>
+	<string>interactiveevent</string>
+	<key>normType</key>
+	<string>capacitiesBound</string>
+	<key>projectionvisible</key>
+	<string>animatedCreator</string>
+	<key>shouldUpdateCoordinator</key>
+	<string>canYieldBaseline</string>
+</dict>
+</plist>

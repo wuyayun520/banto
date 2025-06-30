@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardAppearance</key>
+	<string>notifierkind</string>
+	<key>denseGraph</key>
+	<string>dropoutTopic</string>
+	<key>detectorbound</key>
+	<string>writegrain</string>
+	<key>inflatetopic</key>
+	<string>convolutionVelocity</string>
+	<key>injectionintegrity</key>
+	<string>streamaboutscope</string>
+	<key>iterativeCanvas</key>
+	<string>threadFacade</string>
+	<key>shouldbuildgate</key>
+	<string>imperativeContrast</string>
+	<key>skinsinceparameter</key>
+	<string>inkwellFlyweight</string>
+	<key>unactivatedEvaluation</key>
+	<string>shouldValidateCollection</string>
+</dict>
+</plist>

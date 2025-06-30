@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedInjection</key>
+	<string>deferredCombiner</string>
+	<key>asyncPadding</key>
+	<string>shouldEncodeBloc</string>
+	<key>relationalPresenter</key>
+	<string>canDecodeLog</string>
+	<key>seamlessButton</key>
+	<string>mediocrecharacter</string>
+	<key>triggerLocation</key>
+	<string>defaultSample</string>
+	<key>usecaseSaturation</key>
+	<string>independentaudio</string>
+</dict>
+</plist>

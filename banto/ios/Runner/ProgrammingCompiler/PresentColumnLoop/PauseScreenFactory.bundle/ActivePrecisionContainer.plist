@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferformat</key>
+	<string>lossPressure</string>
+	<key>completionoutsidestage</key>
+	<string>semanticintegertype</string>
+	<key>consultativeSpecifier</key>
+	<string>offsetedge</string>
+	<key>mainlatency</key>
+	<string>animationadapteralignment</string>
+	<key>resizablestorage</key>
+	<string>lostConstraint</string>
+	<key>resumegrain</key>
+	<string>locateUtil</string>
+	<key>shouldTransformMaterial</key>
+	<string>impactFeedback</string>
+	<key>skipcaption</key>
+	<string>consumeSink</string>
+	<key>standaloneTrajectory</key>
+	<string>activateLabel</string>
+	<key>tappableTechnique</key>
+	<string>euclideanDispatcher</string>
+</dict>
+</plist>

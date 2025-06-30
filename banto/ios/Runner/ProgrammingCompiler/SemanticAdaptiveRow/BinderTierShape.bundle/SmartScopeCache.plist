@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentmodal</key>
+	<string>validateCheckbox</string>
+	<key>dedicatedBase</key>
+	<string>hardZone</string>
+	<key>methodSpacing</key>
+	<string>expandedTag</string>
+	<key>projectatobserver</key>
+	<string>compositionIndex</string>
+	<key>reactiveObject</key>
+	<string>diffableFeature</string>
+	<key>specifyproject</key>
+	<string>canDeserializeResource</string>
+</dict>
+</plist>

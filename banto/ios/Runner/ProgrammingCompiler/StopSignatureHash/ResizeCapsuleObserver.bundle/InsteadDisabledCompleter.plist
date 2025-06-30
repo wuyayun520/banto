@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturebeyondprocess</key>
+	<string>shouldUnbindPadding</string>
+	<key>binaryCoord</key>
+	<string>memberValue</string>
+	<key>fixedConverter</key>
+	<string>multiBloc</string>
+	<key>sceneTop</key>
+	<string>checklistMode</string>
+	<key>shouldDeserializeAspectRatio</key>
+	<string>attachConvolution</string>
+	<key>unactivatedStep</key>
+	<string>shouldEmitCoordinator</string>
+</dict>
+</plist>

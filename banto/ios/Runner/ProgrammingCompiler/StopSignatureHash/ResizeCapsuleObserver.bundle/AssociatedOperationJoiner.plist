@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imagedespitemediator</key>
+	<string>autolabelcolor</string>
+	<key>keyFeature</key>
+	<string>grayscaleShade</string>
+	<key>nibInteraction</key>
+	<string>behaviorInteraction</string>
+	<key>pivotalAppBar</key>
+	<string>heroVisitor</string>
+	<key>robustDetector</key>
+	<string>pinchablecompleter</string>
+	<key>shouldNavigateComposition</key>
+	<string>advancedOverlay</string>
+	<key>shouldpushmodal</key>
+	<string>currentTable</string>
+</dict>
+</plist>

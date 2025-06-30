@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatecard</key>
+	<string>canRestartBase</string>
+	<key>assetTension</key>
+	<string>keyCubit</string>
+	<key>axisRate</key>
+	<string>endProjection</string>
+	<key>backwardAsync</key>
+	<string>deserializeAlignment</string>
+	<key>copyequalization</key>
+	<string>canCancelBehavior</string>
+	<key>creatorTint</key>
+	<string>decorationduration</string>
+	<key>eventResponse</key>
+	<string>intermediatePet</string>
+	<key>subtleanimatedcontainer</key>
+	<string>activeChannel</string>
+</dict>
+</plist>

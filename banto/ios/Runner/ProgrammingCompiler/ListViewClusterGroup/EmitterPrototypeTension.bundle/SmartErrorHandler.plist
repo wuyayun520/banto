@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeTheme</key>
+	<string>deserializeAnchor</string>
+	<key>lazyExpanded</key>
+	<string>criticalTechnique</string>
+	<key>modulusShade</key>
+	<string>bundleInjection</string>
+	<key>shouldMountedEffect</key>
+	<string>painterFormat</string>
+	<key>shouldShowCoordinator</key>
+	<string>interfaceInterval</string>
+	<key>uniqueviewdirection</key>
+	<string>listenHash</string>
+	<key>vectorinfo</key>
+	<string>shouldSaveNavigator</string>
+</dict>
+</plist>

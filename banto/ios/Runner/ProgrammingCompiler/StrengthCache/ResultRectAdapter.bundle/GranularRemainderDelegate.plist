@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationworkrotation</key>
+	<string>throughputTheme</string>
+	<key>desktopBatch</key>
+	<string>selectedStack</string>
+	<key>inkwellShape</key>
+	<string>adjustHash</string>
+	<key>overridechecklist</key>
+	<string>seekGrain</string>
+	<key>sessionstorage</key>
+	<string>immutableTernary</string>
+	<key>texturevaluedepth</key>
+	<string>radiusbottom</string>
+	<key>typicalThroughput</key>
+	<string>difficulttoolsize</string>
+</dict>
+</plist>

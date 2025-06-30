@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationTag</key>
+	<string>sortedStack</string>
+	<key>hardCanvas</key>
+	<string>triggerMargin</string>
+	<key>intuitiveSwift</key>
+	<string>embedError</string>
+	<key>missedRemediation</key>
+	<string>normContext</string>
+	<key>opaqueScroll</key>
+	<string>scalabilityMargin</string>
+	<key>profileDepth</key>
+	<string>synchronousExpanded</string>
+	<key>projectdirection</key>
+	<string>rebuildrow</string>
+	<key>provideruntilinterpreter</key>
+	<string>subtleMechanism</string>
+	<key>shouldPresentSpecifier</key>
+	<string>skinParam</string>
+	<key>standaloneDescription</key>
+	<string>particlelatency</string>
+</dict>
+</plist>

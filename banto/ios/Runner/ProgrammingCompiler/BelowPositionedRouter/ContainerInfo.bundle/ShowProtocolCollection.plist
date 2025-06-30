@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeChannels</key>
+	<string>fetchCollection</string>
+	<key>fixedProtocol</key>
+	<string>addGrain</string>
+	<key>functionalText</key>
+	<string>pushGridView</string>
+	<key>pinchableStateful</key>
+	<string>functionalConstraint</string>
+	<key>signatureCoord</key>
+	<string>ephemeralInformation</string>
+</dict>
+</plist>

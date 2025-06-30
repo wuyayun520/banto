@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicFrame</key>
+	<string>encodeReference</string>
+	<key>behaviorbloc</key>
+	<string>animatedcontainerplatformhue</string>
+	<key>clipperSpacing</key>
+	<string>requiredRemainder</string>
+	<key>enabledcanvas</key>
+	<string>mainDescriptor</string>
+	<key>mediaqueryMode</key>
+	<string>informationRight</string>
+	<key>mobileShade</key>
+	<string>canDetachStream</string>
+	<key>renderremainder</key>
+	<string>disparateStream</string>
+	<key>respondercolor</key>
+	<string>shouldRebuildMission</string>
+</dict>
+</plist>

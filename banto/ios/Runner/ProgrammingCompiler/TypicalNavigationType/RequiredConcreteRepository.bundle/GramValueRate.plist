@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedBuffer</key>
+	<string>updateShader</string>
+	<key>labelscale</key>
+	<string>signatureMomentum</string>
+	<key>retainedLog</key>
+	<string>spritevelocity</string>
+	<key>shouldUnbindSwitch</key>
+	<string>layoutSwitch</string>
+</dict>
+</plist>

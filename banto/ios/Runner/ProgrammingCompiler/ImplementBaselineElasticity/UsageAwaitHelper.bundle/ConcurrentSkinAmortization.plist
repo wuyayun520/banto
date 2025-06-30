@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heroValidation</key>
+	<string>hasSpecifier</string>
+	<key>inheritedtweak</key>
+	<string>resolverName</string>
+	<key>keyNavigation</key>
+	<string>lazyRectangle</string>
+	<key>largelistenerleft</key>
+	<string>converterPosition</string>
+	<key>mediumTouch</key>
+	<string>shouldUpdateTransition</string>
+	<key>permutationrotation</key>
+	<string>displayableEntropy</string>
+	<key>priorequivalent</key>
+	<string>statelessLoop</string>
+	<key>shouldCacheSpot</key>
+	<string>hierarchicalSwift</string>
+	<key>spinevelocity</key>
+	<string>canPaintSymbol</string>
+</dict>
+</plist>

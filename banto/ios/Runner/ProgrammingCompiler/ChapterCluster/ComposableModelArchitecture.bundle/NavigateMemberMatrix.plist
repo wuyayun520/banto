@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalbutton</key>
+	<string>delegateSlider</string>
+	<key>localtoollocation</key>
+	<string>shouldEndMediaQuery</string>
+	<key>reusableProvider</key>
+	<string>adaptiveProjection</string>
+	<key>sequentialDimension</key>
+	<string>shouldFormatPromise</string>
+	<key>shouldDismissHero</key>
+	<string>sizedboxDelay</string>
+	<key>ternaryconverter</key>
+	<string>basicThread</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianAccessory</key>
+	<string>optionAdapter</string>
+	<key>concurrentScreen</key>
+	<string>utilmaterializer</string>
+	<key>draggableThreshold</key>
+	<string>statefulNotifier</string>
+	<key>positionedHead</key>
+	<string>immutableAlignment</string>
+	<key>retainedlistenerskewy</key>
+	<string>fixedDistinction</string>
+	<key>shouldRestartCube</key>
+	<string>remediationCoord</string>
+	<key>tappableTabBar</key>
+	<string>stopReference</string>
+</dict>
+</plist>

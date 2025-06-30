@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerPopup</key>
+	<string>plateObserver</string>
+	<key>configurationfinder</key>
+	<string>criticalPopup</string>
+	<key>easyMapper</key>
+	<string>activatedCertificate</string>
+	<key>globalScroller</key>
+	<string>independentReplica</string>
+	<key>localNavigation</key>
+	<string>notifyNib</string>
+	<key>resizableChallenge</key>
+	<string>substantialqueue</string>
+	<key>robustGrayscale</key>
+	<string>heapLayer</string>
+	<key>shouldunmountaspectratio</key>
+	<string>restartLoss</string>
+	<key>sortervisible</key>
+	<string>radiusHead</string>
+	<key>substantialPicker</key>
+	<string>requestshade</string>
+</dict>
+</plist>

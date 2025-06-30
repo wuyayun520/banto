@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetDensity</key>
+	<string>textureMediator</string>
+	<key>brushtop</key>
+	<string>accessoryStyle</string>
+	<key>bulletvisible</key>
+	<string>listenAwait</string>
+	<key>semantictask</key>
+	<string>associateservice</string>
+	<key>shoulddisposedelegate</key>
+	<string>normalPager</string>
+	<key>staticInfrastructure</key>
+	<string>constraintFeedback</string>
+	<key>switchOffset</key>
+	<string>sustainableScaffold</string>
+	<key>widgetdescription</key>
+	<string>popupFlags</string>
+</dict>
+</plist>

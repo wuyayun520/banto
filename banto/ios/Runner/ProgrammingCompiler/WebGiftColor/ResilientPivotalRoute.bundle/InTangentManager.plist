@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionLocation</key>
+	<string>visiblechooser</string>
+	<key>cubitDepth</key>
+	<string>currentmap</string>
+	<key>eventtime</key>
+	<string>shouldContinueScreen</string>
+	<key>normalchapterbound</key>
+	<string>indicatoredge</string>
+	<key>saveevent</key>
+	<string>nodebufferright</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSegue</key>
+	<string>unregisterGraph</string>
+	<key>customizedCatalyst</key>
+	<string>removeUseCase</string>
+	<key>finishcallback</key>
+	<string>canValidateBloc</string>
+	<key>intuitiveAsync</key>
+	<string>displayablePopup</string>
+</dict>
+</plist>

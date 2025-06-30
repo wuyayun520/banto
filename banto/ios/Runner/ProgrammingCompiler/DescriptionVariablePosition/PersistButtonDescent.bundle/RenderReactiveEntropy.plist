@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveSegue</key>
+	<string>remediationVisible</string>
+	<key>effectscale</key>
+	<string>imagehead</string>
+	<key>nextTask</key>
+	<string>activatesymbol</string>
+	<key>offsetBehavior</key>
+	<string>interpolateInjection</string>
+	<key>originalSpot</key>
+	<string>composableConstant</string>
+	<key>shouldCancelExpanded</key>
+	<string>shoulddisconnectdimension</string>
+	<key>significantConstant</key>
+	<string>painterpopup</string>
+	<key>viewStyle</key>
+	<string>orchestrateTimer</string>
+</dict>
+</plist>

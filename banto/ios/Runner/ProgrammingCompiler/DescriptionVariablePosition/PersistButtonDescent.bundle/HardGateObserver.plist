@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeVisible</key>
+	<string>endArithmetic</string>
+	<key>crucialTime</key>
+	<string>sensorVisitor</string>
+	<key>ignoredArchitecture</key>
+	<string>gridSkewX</string>
+	<key>matrixDirection</key>
+	<string>logarithmBottom</string>
+	<key>selectedPrecision</key>
+	<string>mountEqualization</string>
+</dict>
+</plist>

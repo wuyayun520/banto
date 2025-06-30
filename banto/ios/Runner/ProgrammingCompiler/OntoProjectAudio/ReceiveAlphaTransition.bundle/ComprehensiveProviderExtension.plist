@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAnimator</key>
+	<string>staticInjection</string>
+	<key>appbaracceleration</key>
+	<string>backwardwidget</string>
+	<key>intensityamortization</key>
+	<string>debugRoute</string>
+	<key>permissivePositioned</key>
+	<string>constantOrigin</string>
+	<key>synchronousTriangles</key>
+	<string>granularMovement</string>
+	<key>temporarymember</key>
+	<string>thresholdValidation</string>
+</dict>
+</plist>

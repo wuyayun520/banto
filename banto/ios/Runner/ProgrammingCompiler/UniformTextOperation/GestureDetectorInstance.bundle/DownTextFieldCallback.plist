@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bullettimeline</key>
+	<string>onpromisetap</string>
+	<key>cartesianPreview</key>
+	<string>shouldRenderSine</string>
+	<key>dialogsTail</key>
+	<string>instantiatecontainer</string>
+	<key>polyfillAppearance</key>
+	<string>disparateConstraint</string>
+	<key>resilientTransformer</key>
+	<string>appendRect</string>
+	<key>symbolleveldirection</key>
+	<string>streamController</string>
+	<key>taskSpeed</key>
+	<string>webGrain</string>
+	<key>tweenstyle</key>
+	<string>canRenderExponent</string>
+	<key>uniformInkWell</key>
+	<string>fixedThroughput</string>
+	<key>usedRequest</key>
+	<string>iterativeheap</string>
+</dict>
+</plist>

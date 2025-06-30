@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bordersize</key>
+	<string>independentStoryboard</string>
+	<key>mediaqueryevent</key>
+	<string>stringifyConfiguration</string>
+	<key>nextEffect</key>
+	<string>originalProtocol</string>
+	<key>oldInkWell</key>
+	<string>diversifiedMonster</string>
+	<key>shouldDispatchConstraint</key>
+	<string>robustFragment</string>
+	<key>shouldTransitionIcon</key>
+	<string>prepareDimension</string>
+</dict>
+</plist>

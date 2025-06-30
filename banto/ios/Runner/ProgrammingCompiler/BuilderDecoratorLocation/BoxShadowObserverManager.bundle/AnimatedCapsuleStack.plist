@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectDistance</key>
+	<string>capturetechnique</string>
+	<key>deferredSubscriber</key>
+	<string>canReplaceCycle</string>
+	<key>eagerIsolate</key>
+	<string>canConnectDelegate</string>
+	<key>easyTopic</key>
+	<string>segmentMode</string>
+	<key>interactiveBuffer</key>
+	<string>interfaceDistance</string>
+	<key>isolateFormat</key>
+	<string>distinctionHead</string>
+	<key>prevOption</key>
+	<string>anchorAppearance</string>
+	<key>smallconsumermargin</key>
+	<string>desktopHero</string>
+	<key>sophisticatedPainter</key>
+	<string>distinctionVisibility</string>
+	<key>staticrenderer</key>
+	<string>canSaveSkin</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorchainborder</key>
+	<string>richtexthue</string>
+	<key>giftTransparency</key>
+	<string>pinchablePicker</string>
+	<key>ignoredassetdistance</key>
+	<string>sinkFlags</string>
+	<key>navigatorSize</key>
+	<string>skinflags</string>
+	<key>notifierFrequency</key>
+	<string>timelineSpeed</string>
+	<key>numericalModel</key>
+	<string>logarithmMargin</string>
+	<key>prismaticData</key>
+	<string>cosineFlags</string>
+	<key>resizableCard</key>
+	<string>canDetachMaterial</string>
+</dict>
+</plist>

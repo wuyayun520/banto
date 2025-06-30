@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAnimator</key>
+	<string>boxversusmemento</string>
+	<key>localStrength</key>
+	<string>usecasebrightness</string>
+	<key>shouldSerializeBatch</key>
+	<string>shouldDisposeEntropy</string>
+</dict>
+</plist>

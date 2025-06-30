@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlycubeflags</key>
+	<string>observeMediaQuery</string>
+	<key>firstVector</key>
+	<string>mobileItem</string>
+	<key>immutableGridView</key>
+	<string>endstate</string>
+	<key>respectiveOverlay</key>
+	<string>taskprovider</string>
+	<key>reusableScheduler</key>
+	<string>prioritySpeed</string>
+	<key>robustcharacteristic</key>
+	<string>yieldSizedBox</string>
+	<key>spinescale</key>
+	<string>certificateandbridge</string>
+</dict>
+</plist>

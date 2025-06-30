@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasSkewX</key>
+	<string>encodeHeap</string>
+	<key>handlerthansystem</key>
+	<string>synchronousTabBar</string>
+	<key>itemBottom</key>
+	<string>shouldDisposeSkirt</string>
+	<key>nativeTouch</key>
+	<string>basicSpot</string>
+	<key>protectedchartindex</key>
+	<string>smallCharacter</string>
+	<key>queueOffset</key>
+	<string>momentumOffset</string>
+	<key>reductionAppearance</key>
+	<string>searchfeature</string>
+	<key>sensorSpeed</key>
+	<string>canEncodeTransition</string>
+	<key>shouldEmitFragment</key>
+	<string>removeManager</string>
+</dict>
+</plist>

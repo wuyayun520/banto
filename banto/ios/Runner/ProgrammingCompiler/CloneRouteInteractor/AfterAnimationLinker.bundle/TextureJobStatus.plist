@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstactioninset</key>
+	<string>autoStorage</string>
+	<key>mediumAperture</key>
+	<string>serializeVector</string>
+	<key>menuskewx</key>
+	<string>shouldContinueStateless</string>
+	<key>shouldInflateComposition</key>
+	<string>retrieveasset</string>
+	<key>shouldrenderplate</key>
+	<string>matrixVisibility</string>
+	<key>tappableasset</key>
+	<string>diffableGroup</string>
+</dict>
+</plist>

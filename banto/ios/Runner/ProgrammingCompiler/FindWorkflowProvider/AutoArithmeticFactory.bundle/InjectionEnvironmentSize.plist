@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoLatency</key>
+	<string>iconutil</string>
+	<key>cartesiandescriptor</key>
+	<string>stackDecorator</string>
+	<key>equalizationSkewY</key>
+	<string>missionStage</string>
+	<key>executebatch</key>
+	<string>densePermutation</string>
+	<key>nativeStroke</key>
+	<string>showShader</string>
+	<key>respectivelayer</key>
+	<string>localRow</string>
+	<key>robustcurvestatus</key>
+	<string>explicitMetrics</string>
+	<key>scalebyprototype</key>
+	<string>canEncodeScreen</string>
+	<key>statefulThroughput</key>
+	<string>instantiatePresenter</string>
+</dict>
+</plist>

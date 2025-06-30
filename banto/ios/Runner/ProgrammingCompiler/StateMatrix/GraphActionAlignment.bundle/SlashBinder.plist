@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectioninterface</key>
+	<string>maintainFuture</string>
+	<key>inflatecompletion</key>
+	<string>labelFlags</string>
+	<key>processbloc</key>
+	<string>releasescene</string>
+	<key>responsedistance</key>
+	<string>playbackSystem</string>
+	<key>resultSize</key>
+	<string>sizeVariable</string>
+	<key>selectorTint</key>
+	<string>standalonecoordinator</string>
+	<key>shouldTrainContainer</key>
+	<string>traversalSpeed</string>
+	<key>shoulddetachmediaquery</key>
+	<string>shouldYieldUnary</string>
+	<key>ternaryName</key>
+	<string>shouldPopProject</string>
+</dict>
+</plist>

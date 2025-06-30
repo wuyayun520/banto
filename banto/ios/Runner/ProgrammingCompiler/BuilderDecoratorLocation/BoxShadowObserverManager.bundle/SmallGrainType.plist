@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowconverter</key>
+	<string>transposeParticle</string>
+	<key>deserializeoptimizer</key>
+	<string>initializeswift</string>
+	<key>gridviewvelocity</key>
+	<string>crudeoperation</string>
+	<key>instantiatedecoration</key>
+	<string>accordionClipper</string>
+	<key>oldgrayscale</key>
+	<string>decodePageView</string>
+	<key>popupFrequency</key>
+	<string>polyfillVelocity</string>
+	<key>shouldSubscribeBase</key>
+	<string>unmountGesture</string>
+	<key>shouldUnmountedKernel</key>
+	<string>restrictioninset</string>
+	<key>usedQuaternion</key>
+	<string>arithmeticCursor</string>
+</dict>
+</plist>

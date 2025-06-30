@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorCenter</key>
+	<string>advancedPopup</string>
+	<key>modelthreshold</key>
+	<string>customMediaQuery</string>
+	<key>resultinterpreterfrequency</key>
+	<string>directstate</string>
+	<key>shouldSkipRichText</key>
+	<string>cycleHead</string>
+</dict>
+</plist>

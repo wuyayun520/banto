@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gestureSaturation</key>
+	<string>replicateParticle</string>
+	<key>grayscaleFlags</key>
+	<string>smartSchema</string>
+	<key>hasCupertino</key>
+	<string>matrixValidation</string>
+	<key>isInterpolation</key>
+	<string>servicevalidation</string>
+	<key>nativeScalability</key>
+	<string>enabledMatrix</string>
+	<key>numericalScroller</key>
+	<string>canvasSaturation</string>
+	<key>priorSubscription</key>
+	<string>slideragainstcontext</string>
+	<key>shouldYieldAperture</key>
+	<string>shouldUnmountedSegue</string>
+</dict>
+</plist>

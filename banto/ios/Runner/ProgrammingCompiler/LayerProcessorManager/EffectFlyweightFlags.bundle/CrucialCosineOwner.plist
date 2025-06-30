@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviortension</key>
+	<string>isolateComposite</string>
+	<key>concurrentPolyfill</key>
+	<string>skipRoute</string>
+	<key>dynamicInterface</key>
+	<string>integrityFormat</string>
+	<key>intermediateDispatcher</key>
+	<string>diversifiedCheckbox</string>
+	<key>overlayshape</key>
+	<string>decoupleInteractor</string>
+	<key>petDelay</key>
+	<string>errorpolyfill</string>
+	<key>shouldYieldComposition</key>
+	<string>gramStatus</string>
+	<key>tappableSubscriber</key>
+	<string>triggerBottom</string>
+	<key>trianglesSkewY</key>
+	<string>equipmentversusinterpreter</string>
+</dict>
+</plist>

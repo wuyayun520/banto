@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveStateless</key>
+	<string>shouldSetStateDrawer</string>
+	<key>ephemeralReference</key>
+	<string>ignoredAnimatedContainer</string>
+	<key>shouldUnbindConstraint</key>
+	<string>spotLayer</string>
+</dict>
+</plist>

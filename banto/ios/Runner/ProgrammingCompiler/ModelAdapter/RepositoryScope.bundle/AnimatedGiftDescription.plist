@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitstrategydensity</key>
+	<string>canBindInkWell</string>
+	<key>cupertinodescriptiontype</key>
+	<string>parallelgraph</string>
+	<key>infoAcceleration</key>
+	<string>shouldNavigateOptimizer</string>
+	<key>instructionstagebottom</key>
+	<string>webGraphic</string>
+	<key>responsiveGraphic</key>
+	<string>immediateSymbol</string>
+	<key>responsiveProjection</key>
+	<string>mutableChooser</string>
+	<key>shouldFetchCheckbox</key>
+	<string>baselinethroughlevel</string>
+	<key>temporaryGesture</key>
+	<string>regulateNode</string>
+</dict>
+</plist>

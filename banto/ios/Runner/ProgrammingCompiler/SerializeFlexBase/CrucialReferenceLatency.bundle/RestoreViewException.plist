@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedScreen</key>
+	<string>canHandleMusic</string>
+	<key>collectionAlignment</key>
+	<string>canStreamObserver</string>
+	<key>crudeTopic</key>
+	<string>equalUseCase</string>
+	<key>denseGroup</key>
+	<string>paintCapsule</string>
+	<key>fragmentnearjob</key>
+	<string>cacheMobile</string>
+	<key>granularAnalyzer</key>
+	<string>resizableGram</string>
+	<key>normalinterface</key>
+	<string>respectiveBehavior</string>
+	<key>painterSkewX</key>
+	<string>vectorCycle</string>
+	<key>pinchableError</key>
+	<string>specifyText</string>
+	<key>shouldDispatchGradient</key>
+	<string>detachGate</string>
+</dict>
+</plist>

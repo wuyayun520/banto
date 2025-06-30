@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicCombiner</key>
+	<string>refactorPosition</string>
+	<key>beginnerCanvas</key>
+	<string>skintaxonomy</string>
+	<key>deactivateprogressbar</key>
+	<string>transposeMetadata</string>
+	<key>diversifiedBandwidth</key>
+	<string>gradientValue</string>
+	<key>explicitsemanticsscale</key>
+	<string>prismaticDistinction</string>
+	<key>shouldNotifySlash</key>
+	<string>shouldYieldChallenge</string>
+	<key>standaloneBullet</key>
+	<string>interfaceTier</string>
+	<key>widgetBrightness</key>
+	<string>shouldMountText</string>
+</dict>
+</plist>

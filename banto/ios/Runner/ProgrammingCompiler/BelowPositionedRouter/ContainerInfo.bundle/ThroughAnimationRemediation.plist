@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionaldescription</key>
+	<string>missedSample</string>
+	<key>deferredMovement</key>
+	<string>similarEquipment</string>
+	<key>deferredPolyfill</key>
+	<string>animateSegue</string>
+	<key>geometriclocalizationlocation</key>
+	<string>resultinteraction</string>
+	<key>inheritedSign</key>
+	<string>directlyAudio</string>
+	<key>seamlessTimer</key>
+	<string>finishMediaQuery</string>
+	<key>statelessadapterdensity</key>
+	<string>positionedVelocity</string>
+	<key>stepStatus</key>
+	<string>isMatrix</string>
+	<key>transformerTransparency</key>
+	<string>integersaturation</string>
+	<key>viewPosition</key>
+	<string>shouldPresentVariant</string>
+</dict>
+</plist>

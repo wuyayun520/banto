@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectbutton</key>
+	<string>shouldFetchMedia</string>
+	<key>contractionbuffer</key>
+	<string>crucialHistogram</string>
+	<key>customizedinstruction</key>
+	<string>popPopup</string>
+	<key>easyMonster</key>
+	<string>disconnectLayer</string>
+	<key>equipmentScale</key>
+	<string>shouldLoadListView</string>
+	<key>intuitiveMaterializer</key>
+	<string>subpixelBrightness</string>
+	<key>resilienceMargin</key>
+	<string>animatetexture</string>
+	<key>shouldContinueGesture</key>
+	<string>destroyPresenter</string>
+	<key>shouldPrepareGate</key>
+	<string>nodeBound</string>
+	<key>similarinjectionvelocity</key>
+	<string>multiSine</string>
+</dict>
+</plist>

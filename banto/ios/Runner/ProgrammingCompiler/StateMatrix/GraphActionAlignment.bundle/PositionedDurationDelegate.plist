@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthtransparency</key>
+	<string>resetobserver</string>
+	<key>fixedbuffer</key>
+	<string>provideRouter</string>
+	<key>ignoredcolumnvisibility</key>
+	<string>canRouteScroll</string>
+	<key>intuitiveGift</key>
+	<string>crucialTimeline</string>
+	<key>prismaticGestureDetector</key>
+	<string>shouldkeepkernel</string>
+	<key>processzone</key>
+	<string>debugManager</string>
+	<key>reactiveDialogs</key>
+	<string>subsequentImage</string>
+</dict>
+</plist>

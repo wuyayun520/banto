@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryperbuffer</key>
+	<string>shouldFetchCube</string>
+	<key>cellShape</key>
+	<string>similarVector</string>
+	<key>dedicatedComponent</key>
+	<string>wrapperRight</string>
+	<key>easyResponse</key>
+	<string>typicalElement</string>
+	<key>functionalAccessory</key>
+	<string>fetchcontroller</string>
+	<key>imageTheme</key>
+	<string>imageTask</string>
+	<key>permissiveListener</key>
+	<string>documentStrategy</string>
+	<key>robustInterface</key>
+	<string>dialogsPadding</string>
+</dict>
+</plist>

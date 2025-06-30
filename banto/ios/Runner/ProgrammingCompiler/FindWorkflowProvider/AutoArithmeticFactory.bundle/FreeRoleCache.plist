@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredBase</key>
+	<string>decoupleSubscription</string>
+	<key>elasticityFrequency</key>
+	<string>uniformBatch</string>
+	<key>intuitiveFormat</key>
+	<string>statefulAppBar</string>
+	<key>masterofscope</key>
+	<string>margintype</string>
+	<key>mediumSize</key>
+	<string>disparatePublisher</string>
+	<key>requiredBorder</key>
+	<string>transitionFramework</string>
+	<key>seamlessModule</key>
+	<string>updateNotifier</string>
+	<key>shouldTransitionMap</key>
+	<string>sequentialResource</string>
+	<key>sizedboxrect</key>
+	<string>minBuilder</string>
+	<key>smartmediaquerytheme</key>
+	<string>draggableDescriptor</string>
+</dict>
+</plist>

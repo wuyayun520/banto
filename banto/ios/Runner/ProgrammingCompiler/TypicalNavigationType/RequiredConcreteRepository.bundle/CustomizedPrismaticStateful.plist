@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAsync</key>
+	<string>expandedFrequency</string>
+	<key>dedicatedprogressbarinset</key>
+	<string>protectedStep</string>
+	<key>enabledMomentum</key>
+	<string>heroKind</string>
+	<key>globalWorkflow</key>
+	<string>shouldFetchChecklist</string>
+	<key>imageadapteredge</key>
+	<string>attachdescription</string>
+	<key>respectivebuilderbound</key>
+	<string>replaceModal</string>
+</dict>
+</plist>

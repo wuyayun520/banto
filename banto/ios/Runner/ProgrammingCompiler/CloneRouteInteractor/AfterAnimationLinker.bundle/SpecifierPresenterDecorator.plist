@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramdespiteprototype</key>
+	<string>reusableFlex</string>
+	<key>ignoredBaseline</key>
+	<string>projectionContext</string>
+	<key>lostreferencetail</key>
+	<string>denseIntegration</string>
+	<key>prevAnimatedContainer</key>
+	<string>granularReduction</string>
+	<key>relationalSegment</key>
+	<string>canPublishResource</string>
+	<key>statefulStrength</key>
+	<string>formatCoordinator</string>
+	<key>usecaseparameterbehavior</key>
+	<string>canPauseReference</string>
+</dict>
+</plist>

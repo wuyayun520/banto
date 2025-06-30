@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationwithoutaction</key>
+	<string>checkboxMethod</string>
+	<key>removestoryboard</key>
+	<string>configurationcontroller</string>
+	<key>shouldparseinteger</key>
+	<string>particleResponse</string>
+	<key>spinePadding</key>
+	<string>handlerVar</string>
+</dict>
+</plist>

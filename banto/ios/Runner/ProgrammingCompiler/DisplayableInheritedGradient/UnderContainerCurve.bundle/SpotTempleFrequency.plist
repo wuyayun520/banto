@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionName</key>
+	<string>locateScene</string>
+	<key>diffableDimension</key>
+	<string>intuitiveStore</string>
+	<key>publishcontainer</key>
+	<string>staticVariant</string>
+	<key>singlePromise</key>
+	<string>bitrateBound</string>
+	<key>temporaryConfidentiality</key>
+	<string>visibleCupertino</string>
+	<key>zoneTop</key>
+	<string>efficiencyShade</string>
+</dict>
+</plist>

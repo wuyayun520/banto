@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelmobile</key>
+	<string>statelessTechnique</string>
+	<key>checkboxHue</key>
+	<string>cycleInteraction</string>
+	<key>documentdelivery</key>
+	<string>benchmarkAction</string>
+	<key>interactiveState</key>
+	<string>draggablescheduler</string>
+	<key>overlayrate</key>
+	<string>injectcurve</string>
+	<key>pivotalCurve</key>
+	<string>fetchChallenge</string>
+	<key>referenceVisible</key>
+	<string>directlyDependency</string>
+	<key>streamreducer</key>
+	<string>viewinwork</string>
+</dict>
+</plist>

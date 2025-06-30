@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistnode</key>
+	<string>canRebuildCoordinator</string>
+	<key>loopTint</key>
+	<string>rotateloop</string>
+	<key>notificationstatus</key>
+	<string>cleanAllocator</string>
+	<key>performgrain</key>
+	<string>movementcubit</string>
+	<key>storyboardbottom</key>
+	<string>pagerPadding</string>
+</dict>
+</plist>

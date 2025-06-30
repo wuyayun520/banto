@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionPlayback</key>
+	<string>scalesink</string>
+	<key>callbacktrajectory</key>
+	<string>shouldParseUsage</string>
+	<key>crucialObserver</key>
+	<string>pivotalTernary</string>
+	<key>ephemeralfutureinterval</key>
+	<string>subsequentBullet</string>
+	<key>shouldDisconnectMultiplication</key>
+	<string>cartesiangestureformat</string>
+	<key>shouldrebuildrow</key>
+	<string>matrixInterval</string>
+</dict>
+</plist>

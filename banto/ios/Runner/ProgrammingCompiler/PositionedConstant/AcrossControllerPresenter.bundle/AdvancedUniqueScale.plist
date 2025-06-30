@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledFlex</key>
+	<string>canPrepareRichText</string>
+	<key>gridsincetask</key>
+	<string>scrollableDetail</string>
+	<key>labelindex</key>
+	<string>canYieldCheckbox</string>
+	<key>partitionfeature</key>
+	<string>textfieldFeedback</string>
+	<key>radiusbehavior</key>
+	<string>characterName</string>
+	<key>semanticprogressbar</key>
+	<string>defaultNib</string>
+	<key>sortedFrame</key>
+	<string>sensorskewx</string>
+	<key>topicdepth</key>
+	<string>roleTask</string>
+</dict>
+</plist>

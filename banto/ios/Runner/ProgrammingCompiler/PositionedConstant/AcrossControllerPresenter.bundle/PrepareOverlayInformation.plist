@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisMomentum</key>
+	<string>hierarchicalTable</string>
+	<key>catalystColor</key>
+	<string>retainedbaseline</string>
+	<key>dynamicChecklist</key>
+	<string>largeTabBar</string>
+	<key>shouldTransformTable</key>
+	<string>screenalignment</string>
+	<key>spotType</key>
+	<string>stackWork</string>
+	<key>timerofjob</key>
+	<string>bufferpolyfill</string>
+</dict>
+</plist>

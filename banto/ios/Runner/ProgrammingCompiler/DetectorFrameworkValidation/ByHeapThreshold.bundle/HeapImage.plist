@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencySpacing</key>
+	<string>elasticCursor</string>
+	<key>elementName</key>
+	<string>adaptiveTransition</string>
+	<key>iterativesymbol</key>
+	<string>continueClipper</string>
+	<key>priorProject</key>
+	<string>deserializeConfiguration</string>
+	<key>reusableIsolate</key>
+	<string>enumerateListener</string>
+	<key>reusableModel</key>
+	<string>mergerRate</string>
+	<key>sharedExtension</key>
+	<string>elasticSingleton</string>
+	<key>visibleLocalization</key>
+	<string>sharedThreshold</string>
+</dict>
+</plist>

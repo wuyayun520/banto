@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>originalOperation</key>
+	<string>clipperRight</string>
+	<key>replaceprogressbar</key>
+	<string>shouldDecodeCustomPaint</string>
+	<key>schedulerPosition</key>
+	<string>endalignment</string>
+	<key>serializemission</key>
+	<string>immutableLatency</string>
+	<key>shouldValidateMovement</key>
+	<string>sortedAccessory</string>
+	<key>shouldcontinuegram</key>
+	<string>uniformKernel</string>
+	<key>shouldrebuildchannels</key>
+	<string>mobileCycle</string>
+	<key>tensorQuaternion</key>
+	<string>shouldPopSubpixel</string>
+</dict>
+</plist>

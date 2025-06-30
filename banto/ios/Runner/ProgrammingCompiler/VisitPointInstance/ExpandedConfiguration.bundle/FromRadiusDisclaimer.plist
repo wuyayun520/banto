@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bloccount</key>
+	<string>shouldContinueSession</string>
+	<key>bulletbyscope</key>
+	<string>maintainpopup</string>
+	<key>endevent</key>
+	<string>compositionalProfile</string>
+	<key>listenerdirection</key>
+	<string>cubitFormat</string>
+	<key>newestHandler</key>
+	<string>concurrentloopacceleration</string>
+	<key>otherMission</key>
+	<string>streamAcceleration</string>
+	<key>streamspecifier</key>
+	<string>introspectSubscription</string>
+</dict>
+</plist>

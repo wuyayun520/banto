@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedRecursion</key>
+	<string>easyaspect</string>
+	<key>elasticGridView</key>
+	<string>canParseInkWell</string>
+	<key>lossrow</key>
+	<string>bindSpecifier</string>
+	<key>mediocreCursor</key>
+	<string>statelessPlayback</string>
+	<key>shouldCancelDialogs</key>
+	<string>canSkipNavigation</string>
+	<key>shouldResumeCupertino</key>
+	<string>workflowVisibility</string>
+	<key>tappableBuilder</key>
+	<string>compositionalHeap</string>
+	<key>tensorisolate</key>
+	<string>scalabilityInset</string>
+</dict>
+</plist>

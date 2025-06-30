@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvastentative</key>
+	<string>nextlayoutsaturation</string>
+	<key>diversifiedTrigger</key>
+	<string>canPopExponent</string>
+	<key>notificationAcceleration</key>
+	<string>shouldRouteBorder</string>
+	<key>observerDensity</key>
+	<string>primaryBuffer</string>
+	<key>reductionwithmethod</key>
+	<string>effectScope</string>
+	<key>retainedGesture</key>
+	<string>persistentity</string>
+	<key>shouldAttachMediaQuery</key>
+	<string>activatedAlpha</string>
+</dict>
+</plist>

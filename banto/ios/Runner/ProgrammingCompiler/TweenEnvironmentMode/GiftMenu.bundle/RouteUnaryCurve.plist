@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvastint</key>
+	<string>stampduration</string>
+	<key>captionparameterinset</key>
+	<string>quantizationError</string>
+	<key>ephemeralResource</key>
+	<string>declarativeEmitter</string>
+	<key>mediumInfrastructure</key>
+	<string>enabledColor</string>
+	<key>mutableGradient</key>
+	<string>fusedAmortization</string>
+	<key>shouldKeepTechnique</key>
+	<string>standaloneresilience</string>
+	<key>tolerancetheme</key>
+	<string>durationFunction</string>
+</dict>
+</plist>

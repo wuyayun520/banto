@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatormediatoracceleration</key>
+	<string>integerlayerbehavior</string>
+	<key>interactionBorder</key>
+	<string>containercontainvar</string>
+	<key>specifyfilter</key>
+	<string>latencyTheme</string>
+	<key>strengthacceleration</key>
+	<string>uniformSelector</string>
+</dict>
+</plist>

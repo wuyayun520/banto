@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchState</key>
+	<string>consultativeSorter</string>
+	<key>delicatelocalizationtop</key>
+	<string>smartCache</string>
+	<key>directAnalogy</key>
+	<string>dispatcherSize</string>
+	<key>lazystore</key>
+	<string>accessibleGesture</string>
+	<key>localMend</key>
+	<string>flexHead</string>
+	<key>resilientBullet</key>
+	<string>threadTop</string>
+	<key>shouldStreamDecoration</key>
+	<string>promiseRotation</string>
+	<key>visibleasync</key>
+	<string>granularProtocol</string>
+</dict>
+</plist>

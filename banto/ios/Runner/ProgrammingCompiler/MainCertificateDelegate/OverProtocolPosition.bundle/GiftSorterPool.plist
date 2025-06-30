@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllernearcommand</key>
+	<string>singletonFacade</string>
+	<key>informationBehavior</key>
+	<string>observerBrightness</string>
+	<key>mobileInteractor</key>
+	<string>usedRange</string>
+	<key>shouldProcessCursor</key>
+	<string>renameSlider</string>
+	<key>shouldencodeslash</key>
+	<string>binaryBuffer</string>
+	<key>transformcollection</key>
+	<string>crudeLayout</string>
+	<key>unsortedPadding</key>
+	<string>completeraroundvar</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablePlayback</key>
+	<string>parallelContainer</string>
+	<key>eagerSingleton</key>
+	<string>utilforce</string>
+	<key>enabledefficiency</key>
+	<string>immutableHandler</string>
+	<key>firstModal</key>
+	<string>combinerInteraction</string>
+	<key>shouldBuildPriority</key>
+	<string>prevGram</string>
+	<key>shouldinflatetool</key>
+	<string>ignoredTabView</string>
+	<key>smallTask</key>
+	<string>flexbuffertheme</string>
+	<key>switchandmediator</key>
+	<string>intuitivecontainerleft</string>
+</dict>
+</plist>

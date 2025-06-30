@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTag</key>
+	<string>storecontainoperation</string>
+	<key>autoLatency</key>
+	<string>restartBinary</string>
+	<key>entropyalongwork</key>
+	<string>specifyCompletion</string>
+	<key>inactiveStore</key>
+	<string>brushmargin</string>
+	<key>modelviavalue</key>
+	<string>canPopBrush</string>
+	<key>rectlikefunction</key>
+	<string>quitListener</string>
+	<key>respectiveAnimatedContainer</key>
+	<string>animatedcontainerVar</string>
+	<key>sceneandphase</key>
+	<string>composableMember</string>
+	<key>shouldResumeTabBar</key>
+	<string>tappableCapacities</string>
+	<key>tabbarOffset</key>
+	<string>sophisticatedMaterializer</string>
+</dict>
+</plist>

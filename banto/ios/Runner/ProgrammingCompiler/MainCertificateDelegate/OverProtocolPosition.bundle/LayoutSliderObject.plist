@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSkin</key>
+	<string>chapterRate</string>
+	<key>desktopScene</key>
+	<string>canPublishCard</string>
+	<key>evaluatesign</key>
+	<string>usecaseBorder</string>
+	<key>fillstream</key>
+	<string>mainOptimizer</string>
+	<key>hierarchicalEvaluation</key>
+	<string>nextShader</string>
+	<key>lossDensity</key>
+	<string>diversifiedRouter</string>
+	<key>oldMerger</key>
+	<string>canRouteBatch</string>
+	<key>shouldPushReference</key>
+	<string>permissiveTaxonomy</string>
+	<key>taxonomyRight</key>
+	<string>accordionCombiner</string>
+</dict>
+</plist>

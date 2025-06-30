@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentCount</key>
+	<string>cupertinoBottom</string>
+	<key>capacityValidation</key>
+	<string>logMargin</string>
+	<key>challengeposition</key>
+	<string>canProcessPlayback</string>
+	<key>compositionalReliability</key>
+	<string>requiredHeap</string>
+	<key>consumptionlocation</key>
+	<string>associatedlifecycle</string>
+	<key>curveRight</key>
+	<string>connectdrawer</string>
+	<key>eagersubpixelinset</key>
+	<string>minFuture</string>
+	<key>processrole</key>
+	<string>consumeResponse</string>
+	<key>pushparticle</key>
+	<string>addRequest</string>
+	<key>streamhandler</key>
+	<string>tickerPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateaction</key>
+	<string>ischaracter</string>
+	<key>customState</key>
+	<string>storyboardProcess</string>
+	<key>dynamicequipment</key>
+	<string>dedicatedboxshadowbottom</string>
+	<key>shouldContinueSegment</key>
+	<string>robustGradient</string>
+	<key>smalldisclaimer</key>
+	<string>interpolationProxy</string>
+</dict>
+</plist>

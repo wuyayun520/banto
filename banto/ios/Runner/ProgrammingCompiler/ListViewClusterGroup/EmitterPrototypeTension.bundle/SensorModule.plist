@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>debugmusic</key>
+	<string>initializeText</string>
+	<key>extensionSkewY</key>
+	<string>nativeGrayscale</string>
+	<key>granularTangent</key>
+	<string>relationalTween</string>
+	<key>hashlifecycle</key>
+	<string>detachutil</string>
+	<key>pushinterface</key>
+	<string>subscriberAlignment</string>
+	<key>pushinterpolation</key>
+	<string>rebuildProjection</string>
+	<key>renderlistener</key>
+	<string>usedBuilder</string>
+	<key>sliderchooser</key>
+	<string>shouldNavigateKernel</string>
+	<key>splitterresponse</key>
+	<string>invisibleScheduler</string>
+	<key>standalonePositioned</key>
+	<string>kerneltension</string>
+</dict>
+</plist>

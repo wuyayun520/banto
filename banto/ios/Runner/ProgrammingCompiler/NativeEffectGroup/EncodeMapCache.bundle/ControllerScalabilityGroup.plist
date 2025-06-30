@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeKernel</key>
+	<string>generateProgressBar</string>
+	<key>mainNavigator</key>
+	<string>capsuleconfiguration</string>
+	<key>numericalDropdownButton</key>
+	<string>canNavigateOverlay</string>
+	<key>referenceSkewX</key>
+	<string>keeprow</string>
+	<key>reusableEntropy</key>
+	<string>serviceduringobserver</string>
+	<key>widgetbylevel</key>
+	<string>canPauseInterpolation</string>
+</dict>
+</plist>

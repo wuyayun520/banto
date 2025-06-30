@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionspot</key>
+	<string>shouldSerializeInstruction</string>
+	<key>advancedRenderer</key>
+	<string>intuitiveLabel</string>
+	<key>brushbound</key>
+	<string>customizedListView</string>
+	<key>certificatetolerance</key>
+	<string>crucialIcon</string>
+	<key>composableElement</key>
+	<string>oldButton</string>
+	<key>cupertinoResource</key>
+	<string>cosinePattern</string>
+	<key>shouldFetchBehavior</key>
+	<string>criticalConfiguration</string>
+	<key>shouldFormatConstraint</key>
+	<string>originalMusic</string>
+</dict>
+</plist>

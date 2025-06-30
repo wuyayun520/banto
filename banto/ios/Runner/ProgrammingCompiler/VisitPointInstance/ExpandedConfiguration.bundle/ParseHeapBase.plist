@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedItem</key>
+	<string>easycapacity</string>
+	<key>immediateFuture</key>
+	<string>holdGroup</string>
+	<key>layoutShape</key>
+	<string>desktopscroller</string>
+	<key>managerintegration</key>
+	<string>priorAnalyzer</string>
+	<key>reductionMargin</key>
+	<string>framesound</string>
+	<key>shouldSetStateCursor</key>
+	<string>interfaceAppearance</string>
+	<key>shouldobservestoryboard</key>
+	<string>canSubscribeBase</string>
+	<key>sizeSaturation</key>
+	<string>subsequentExponent</string>
+	<key>symmetricGate</key>
+	<string>grainDirection</string>
+	<key>timelineTag</key>
+	<string>pauseUsage</string>
+</dict>
+</plist>

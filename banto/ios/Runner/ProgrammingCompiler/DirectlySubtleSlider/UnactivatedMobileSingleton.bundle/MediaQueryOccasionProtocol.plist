@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorshade</key>
+	<string>minCurve</string>
+	<key>referenceTheme</key>
+	<string>canUnmountGem</string>
+	<key>requiredScaffold</key>
+	<string>canRebuildBitrate</string>
+	<key>shouldUnmountProjection</key>
+	<string>originalGram</string>
+	<key>showstamp</key>
+	<string>shouldRebuildKernel</string>
+</dict>
+</plist>

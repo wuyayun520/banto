@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveWorkflow</key>
+	<string>canPopSpot</string>
+	<key>declarativeAction</key>
+	<string>toolFlyweight</string>
+	<key>denseEquipment</key>
+	<string>optimizerScale</string>
+	<key>interactorelasticity</key>
+	<string>shouldAttachWidget</string>
+	<key>modalInteraction</key>
+	<string>canLoadStateful</string>
+	<key>newestError</key>
+	<string>gridbound</string>
+	<key>remainderForce</key>
+	<string>promisetint</string>
+	<key>scrollerOrientation</key>
+	<string>filterMargin</string>
+	<key>shouldloadsegment</key>
+	<string>setstatestore</string>
+</dict>
+</plist>

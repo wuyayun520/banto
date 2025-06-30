@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultSizedBox</key>
+	<string>momentumEdge</string>
+	<key>defaultSkirt</key>
+	<string>consumerTag</string>
+	<key>immutableCache</key>
+	<string>validateGem</string>
+	<key>progressbartint</key>
+	<string>deflateSlider</string>
+	<key>shouldListenPainter</key>
+	<string>transformGem</string>
+	<key>shouldTrainOption</key>
+	<string>detachBaseline</string>
+</dict>
+</plist>

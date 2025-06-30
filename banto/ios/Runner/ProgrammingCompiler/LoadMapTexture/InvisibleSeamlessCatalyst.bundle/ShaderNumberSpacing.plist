@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableMerger</key>
+	<string>gridFrequency</string>
+	<key>integrationBehavior</key>
+	<string>behaviorMomentum</string>
+	<key>mediocretangent</key>
+	<string>accelerateSlider</string>
+	<key>priorDrawer</key>
+	<string>disconnectClipper</string>
+</dict>
+</plist>

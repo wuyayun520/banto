@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationHead</key>
+	<string>removeGrid</string>
+	<key>intuitiveCaption</key>
+	<string>entropyMediator</string>
+	<key>seamlessShader</key>
+	<string>factoryBorder</string>
+	<key>shouldSubscribeEqualization</key>
+	<string>deactivateLabel</string>
+	<key>tabbarmodel</key>
+	<string>immediateButton</string>
+</dict>
+</plist>

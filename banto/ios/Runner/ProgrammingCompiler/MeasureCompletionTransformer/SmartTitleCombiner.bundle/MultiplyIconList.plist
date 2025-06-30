@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedPet</key>
+	<string>canPublishMission</string>
+	<key>materializerSaturation</key>
+	<string>petconfidentiality</string>
+	<key>parallelstate</key>
+	<string>defaultGesture</string>
+	<key>segmentlocalization</key>
+	<string>concurrentVolume</string>
+</dict>
+</plist>

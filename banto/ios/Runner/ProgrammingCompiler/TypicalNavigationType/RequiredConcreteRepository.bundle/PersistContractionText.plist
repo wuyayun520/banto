@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>originalSkin</key>
+	<string>memberOrigin</string>
+	<key>protectedChooser</key>
+	<string>offsetScale</string>
+	<key>shouldStartScroll</key>
+	<string>rapidReplica</string>
+	<key>statelessSign</key>
+	<string>tappableStep</string>
+	<key>subscriptionForce</key>
+	<string>reducenib</string>
+</dict>
+</plist>

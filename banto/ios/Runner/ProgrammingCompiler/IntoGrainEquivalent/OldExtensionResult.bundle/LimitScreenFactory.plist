@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleaction</key>
+	<string>materialStyle</string>
+	<key>confidentialitySpeed</key>
+	<string>aspectratiothroughfunction</string>
+	<key>customizedBatch</key>
+	<string>createView</string>
+	<key>mapContrast</key>
+	<string>canDispatchStateful</string>
+	<key>serviceplatformtheme</key>
+	<string>mountMatrix</string>
+	<key>statefulspineacceleration</key>
+	<string>canSkipAccessory</string>
+</dict>
+</plist>

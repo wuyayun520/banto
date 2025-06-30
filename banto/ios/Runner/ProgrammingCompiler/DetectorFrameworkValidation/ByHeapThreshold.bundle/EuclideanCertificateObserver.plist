@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDistance</key>
+	<string>featurePadding</string>
+	<key>dialogsStatus</key>
+	<string>cartesiantextvisible</string>
+	<key>futureInterval</key>
+	<string>shouldStopOverlay</string>
+	<key>pinchableAsync</key>
+	<string>rotateChapter</string>
+	<key>relationalTimer</key>
+	<string>autoTentative</string>
+	<key>retainedInstruction</key>
+	<string>amortizationCenter</string>
+	<key>shouldEmitTabView</key>
+	<string>composableTrigger</string>
+	<key>shouldLayoutChecklist</key>
+	<string>shouldprocesstask</string>
+	<key>sineMargin</key>
+	<string>pendingRole</string>
+</dict>
+</plist>

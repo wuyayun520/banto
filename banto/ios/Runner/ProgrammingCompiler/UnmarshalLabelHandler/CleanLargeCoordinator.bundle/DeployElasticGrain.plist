@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisLeft</key>
+	<string>setstateClipper</string>
+	<key>directWidget</key>
+	<string>popupuntilstage</string>
+	<key>elasticOffset</key>
+	<string>smallStroke</string>
+	<key>geometricCursor</key>
+	<string>canEndMediaQuery</string>
+	<key>immediateLogarithm</key>
+	<string>orchestrateUseCase</string>
+	<key>numericalSubpixel</key>
+	<string>canAnimateSkin</string>
+	<key>startlabel</key>
+	<string>granularMap</string>
+</dict>
+</plist>

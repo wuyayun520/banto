@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityForce</key>
+	<string>pinchableNode</string>
+	<key>beginnerMaster</key>
+	<string>usedSymbol</string>
+	<key>handletransition</key>
+	<string>animatedPet</string>
+	<key>shouldCancelSwift</key>
+	<string>masterOffset</string>
+	<key>standalonegroup</key>
+	<string>reactiveprocessor</string>
+	<key>touchvalidation</key>
+	<string>interactiveHeap</string>
+</dict>
+</plist>

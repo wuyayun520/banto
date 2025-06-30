@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedAsync</key>
+	<string>handleOperation</string>
+	<key>apertureVisibility</key>
+	<string>contractionSkewX</string>
+	<key>basicSwift</key>
+	<string>replicateCurve</string>
+	<key>cartesianLocalization</key>
+	<string>unsortedRequest</string>
+	<key>intuitivemediaquerytransparency</key>
+	<string>shouldPopWidget</string>
+	<key>rapidAlignment</key>
+	<string>draggableMethod</string>
+	<key>respondduration</key>
+	<string>subscriptionDensity</string>
+	<key>shouldNotifyGridView</key>
+	<string>shouldBuildHistogram</string>
+	<key>singleCollection</key>
+	<string>sophisticatedDocument</string>
+	<key>sizedboxTransparency</key>
+	<string>shouldDisposeTool</string>
+</dict>
+</plist>

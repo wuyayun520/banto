@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>debugsignature</key>
+	<string>formatInteraction</string>
+	<key>drawermomentum</key>
+	<string>boxActivity</string>
+	<key>graphevent</key>
+	<string>euclideanSpecifier</string>
+	<key>rebuildpainter</key>
+	<string>streamreference</string>
+	<key>shouldDismissBullet</key>
+	<string>shouldStreamMedia</string>
+	<key>shouldPresentUnary</key>
+	<string>canStopMember</string>
+	<key>shouldRouteSpine</key>
+	<string>interpolationType</string>
+	<key>shouldUnmountCollection</key>
+	<string>shouldDispatchTable</string>
+</dict>
+</plist>

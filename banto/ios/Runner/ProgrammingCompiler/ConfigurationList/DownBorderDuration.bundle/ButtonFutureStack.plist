@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentAnimatedContainer</key>
+	<string>optimizeDecoration</string>
+	<key>holdfuture</key>
+	<string>awaitPhase</string>
+	<key>listenloop</key>
+	<string>diffableVolume</string>
+	<key>orchestratemovement</key>
+	<string>imperativeConstraint</string>
+	<key>prevAlignment</key>
+	<string>standaloneStream</string>
+	<key>progressbarFrequency</key>
+	<string>agileRouter</string>
+	<key>routeDuration</key>
+	<string>lazyScroller</string>
+</dict>
+</plist>

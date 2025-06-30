@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDescent</key>
+	<string>secondInterface</string>
+	<key>interactionTop</key>
+	<string>searchNode</string>
+	<key>introspectsign</key>
+	<string>multiplicationTag</string>
+	<key>mountedtabview</key>
+	<string>stampScope</string>
+	<key>opaqueColor</key>
+	<string>materialAlpha</string>
+	<key>rectVisible</key>
+	<string>resizableSegment</string>
+	<key>shouldInflateAxis</key>
+	<string>crudeGroup</string>
+</dict>
+</plist>

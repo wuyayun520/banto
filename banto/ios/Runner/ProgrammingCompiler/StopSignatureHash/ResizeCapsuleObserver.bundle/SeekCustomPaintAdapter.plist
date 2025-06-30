@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelssize</key>
+	<string>scopeMomentum</string>
+	<key>customChannels</key>
+	<string>beginnermobile</string>
+	<key>ignoredActivity</key>
+	<string>lastGrayscale</string>
+	<key>immediateArithmetic</key>
+	<string>shouldTrainCoordinator</string>
+	<key>secondPosition</key>
+	<string>provideSubscription</string>
+	<key>shouldEmitNavigator</key>
+	<string>transformCache</string>
+	<key>shouldTransformHeap</key>
+	<string>capacitySkewY</string>
+	<key>swifthue</key>
+	<string>crudeStack</string>
+	<key>textcontrast</key>
+	<string>subsequentLinker</string>
+	<key>timelineType</key>
+	<string>permissiveActivity</string>
+</dict>
+</plist>

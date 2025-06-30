@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelduration</key>
+	<string>texturehead</string>
+	<key>currentMerger</key>
+	<string>presentOperation</string>
+	<key>delegateskewy</key>
+	<string>compositionalListener</string>
+	<key>refreshalert</key>
+	<string>exponentTask</string>
+	<key>shouldFetchEffect</key>
+	<string>mobileRenderer</string>
+</dict>
+</plist>

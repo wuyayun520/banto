@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveright</key>
+	<string>plateShade</string>
+	<key>firstResponder</key>
+	<string>dynamicChapter</string>
+	<key>mendflags</key>
+	<string>retainIsolate</string>
+	<key>prismaticConstant</key>
+	<string>labelbeyondform</string>
+	<key>shouldBindGradient</key>
+	<string>logarithminfo</string>
+	<key>shouldDisposeFuture</key>
+	<string>cleanResource</string>
+</dict>
+</plist>

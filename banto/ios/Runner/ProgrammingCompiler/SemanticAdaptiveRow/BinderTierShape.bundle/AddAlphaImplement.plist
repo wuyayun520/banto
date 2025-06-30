@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchCount</key>
+	<string>canHandleComposition</string>
+	<key>inheritedTrajectory</key>
+	<string>checkSink</string>
+	<key>largeChecklist</key>
+	<string>canParseFragment</string>
+	<key>uniformInformation</key>
+	<string>shouldLoadMatrix</string>
+</dict>
+</plist>

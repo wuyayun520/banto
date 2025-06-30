@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basevaluecenter</key>
+	<string>sortedParticle</string>
+	<key>dedicatedTable</key>
+	<string>labelBridge</string>
+	<key>normalItem</key>
+	<string>canShowBitrate</string>
+	<key>shouldSaveContraction</key>
+	<string>statefulframe</string>
+</dict>
+</plist>

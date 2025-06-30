@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvedescription</key>
+	<string>aggregateFactory</string>
+	<key>draggableRoute</key>
+	<string>currentGram</string>
+	<key>geometricSubscriber</key>
+	<string>prismaticPolygon</string>
+	<key>globalRenderer</key>
+	<string>exponentParameter</string>
+	<key>logOrigin</key>
+	<string>agileCatalyst</string>
+	<key>standaloneMerger</key>
+	<string>pivotalEfficiency</string>
+	<key>unsortedInterpolation</key>
+	<string>reusableLayer</string>
+</dict>
+</plist>

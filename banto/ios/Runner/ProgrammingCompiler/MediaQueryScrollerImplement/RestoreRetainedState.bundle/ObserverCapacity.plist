@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectcolumn</key>
+	<string>consumeLocalization</string>
+	<key>curveTransparency</key>
+	<string>assetaroundadapter</string>
+	<key>defaultUnary</key>
+	<string>pinchableThroughput</string>
+	<key>desktopClipper</key>
+	<string>captureState</string>
+	<key>fixedProtocol</key>
+	<string>shearChart</string>
+	<key>responsiveResolver</key>
+	<string>canEmitCycle</string>
+	<key>sharedSelector</key>
+	<string>rowkinddensity</string>
+	<key>specifyTheme</key>
+	<string>multiplyQueue</string>
+	<key>workflowasnumber</key>
+	<string>shouldDeserializeColumn</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredDialogs</key>
+	<string>inactiveBorder</string>
+	<key>intermediateNavigator</key>
+	<string>draggableSegue</string>
+	<key>labelvarshape</key>
+	<string>containerscope</string>
+	<key>radioimage</key>
+	<string>spinSubscription</string>
+	<key>similarCharacteristic</key>
+	<string>strokeTag</string>
+	<key>transitionFrequency</key>
+	<string>updatepriority</string>
+	<key>uniqueAnimation</key>
+	<string>smartborder</string>
+</dict>
+</plist>

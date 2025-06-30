@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorInteraction</key>
+	<string>shouldDecodeCell</string>
+	<key>convolutionDensity</key>
+	<string>shouldPushSegment</string>
+	<key>euclideanAspect</key>
+	<string>rapidDrawer</string>
+	<key>shouldEndScale</key>
+	<string>capacitiesOperation</string>
+	<key>smartSkirt</key>
+	<string>documentDecorator</string>
+	<key>strengthCoord</key>
+	<string>restartAppBar</string>
+</dict>
+</plist>

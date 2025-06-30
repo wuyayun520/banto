@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAnimation</key>
+	<string>maxAnimation</string>
+	<key>cubitTint</key>
+	<string>opaqueContrast</string>
+	<key>draggablescroll</key>
+	<string>discoverFuture</string>
+	<key>offsetoverlay</key>
+	<string>yieldInstruction</string>
+	<key>opaqueBrush</key>
+	<string>canPaintPlate</string>
+	<key>semanticheapname</key>
+	<string>imperativeTextField</string>
+	<key>spriteBottom</key>
+	<string>renderAnimation</string>
+	<key>synchronousEquivalent</key>
+	<string>mediaqueryEdge</string>
+	<key>unactivatedEvaluation</key>
+	<string>mediocreGift</string>
+</dict>
+</plist>

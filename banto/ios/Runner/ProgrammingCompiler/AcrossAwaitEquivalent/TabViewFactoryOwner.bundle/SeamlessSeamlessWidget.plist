@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchvisibility</key>
+	<string>shouldEndTabBar</string>
+	<key>constantright</key>
+	<string>comprehensiveResolver</string>
+	<key>mapperOrigin</key>
+	<string>shouldCancelGridView</string>
+	<key>oldScope</key>
+	<string>shouldContinuePoint</string>
+	<key>progressbarflyweightbehavior</key>
+	<string>imperativeMaterializer</string>
+	<key>queueSpeed</key>
+	<string>arithmeticPreview</string>
+	<key>rowwrapper</key>
+	<string>currentOperation</string>
+	<key>shouldparseconstraint</key>
+	<string>smallCubit</string>
+</dict>
+</plist>

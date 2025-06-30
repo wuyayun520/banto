@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionGraphic</key>
+	<string>canEncodeOverlay</string>
+	<key>intensitytail</key>
+	<string>concretepet</string>
+	<key>interpolationPadding</key>
+	<string>bundledialogs</string>
+	<key>mediafactory</key>
+	<string>setupusecase</string>
+	<key>priorGrayscale</key>
+	<string>dedicatedLoader</string>
+	<key>respectiveCupertino</key>
+	<string>hardpriority</string>
+	<key>resultatjob</key>
+	<string>widgetHue</string>
+	<key>shouldPushAlpha</key>
+	<string>textfieldAppearance</string>
+</dict>
+</plist>

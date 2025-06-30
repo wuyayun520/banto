@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directEvolution</key>
+	<string>reactiveWorkflow</string>
+	<key>eagerCoordinator</key>
+	<string>wrapperTop</string>
+	<key>listviewbound</key>
+	<string>euclideanTechnique</string>
+	<key>notifybloc</key>
+	<string>shouldNavigateBoxShadow</string>
+	<key>sequentialIcon</key>
+	<string>multiplyTopic</string>
+	<key>shouldDisconnectGift</key>
+	<string>prepareAperture</string>
+	<key>shouldRenderAxis</key>
+	<string>canPushAlert</string>
+	<key>spotSkewY</key>
+	<string>composableTheme</string>
+</dict>
+</plist>

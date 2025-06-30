@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultWorkflow</key>
+	<string>revisitCallback</string>
+	<key>radiustierkind</key>
+	<string>injectQueue</string>
+	<key>shouldLoadProjection</key>
+	<string>animatedcontainerdecoratorskewy</string>
+	<key>smallsensor</key>
+	<string>graphinterpreterposition</string>
+	<key>weberror</key>
+	<string>processorLocation</string>
+</dict>
+</plist>

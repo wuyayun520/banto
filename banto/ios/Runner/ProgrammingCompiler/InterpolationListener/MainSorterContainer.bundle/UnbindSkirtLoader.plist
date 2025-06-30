@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedController</key>
+	<string>layoutamortization</string>
+	<key>callbackMode</key>
+	<string>eventJob</string>
+	<key>delegateorientation</key>
+	<string>scaffoldLocation</string>
+	<key>equipmentOffset</key>
+	<string>containermethodcenter</string>
+	<key>loadtimer</key>
+	<string>disconnectSkin</string>
+	<key>permissiveUsage</key>
+	<string>dialogsdensity</string>
+	<key>strokeShade</key>
+	<string>baseTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCatalyst</key>
+	<string>stopsegue</string>
+	<key>filterflags</key>
+	<string>canAttachPromise</string>
+	<key>intermediateScene</key>
+	<string>transitionMultiplication</string>
+	<key>remainderDepth</key>
+	<string>animatedListener</string>
+	<key>retainedSemantics</key>
+	<string>storeOffset</string>
+	<key>shouldAttachDecoration</key>
+	<string>stampdescription</string>
+	<key>shouldsaveoperation</key>
+	<string>coordinatorColor</string>
+	<key>temporaryGem</key>
+	<string>capsuleStage</string>
+</dict>
+</plist>

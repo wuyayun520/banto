@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatemethod</key>
+	<string>curveinteraction</string>
+	<key>draggablesizevalidation</key>
+	<string>traversalAlignment</string>
+	<key>inactiveComponent</key>
+	<string>replaceInteractor</string>
+	<key>parsemodel</key>
+	<string>canPrepareBullet</string>
+	<key>scaffoldmapper</key>
+	<string>iterativeAlpha</string>
+	<key>shouldPrepareDocument</key>
+	<string>allocatormend</string>
+</dict>
+</plist>

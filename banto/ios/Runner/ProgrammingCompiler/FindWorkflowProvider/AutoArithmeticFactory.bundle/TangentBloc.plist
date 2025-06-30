@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedStateful</key>
+	<string>backwardSink</string>
+	<key>backwardcluster</key>
+	<string>shouldYieldLabel</string>
+	<key>geometricBuilder</key>
+	<string>dropdownbuttonradius</string>
+	<key>hasReference</key>
+	<string>divideTransition</string>
+	<key>hierarchicalRecursion</key>
+	<string>equalizationJob</string>
+	<key>skindirection</key>
+	<string>storeBottom</string>
+</dict>
+</plist>

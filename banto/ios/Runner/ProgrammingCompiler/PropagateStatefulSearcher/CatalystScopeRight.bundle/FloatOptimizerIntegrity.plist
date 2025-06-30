@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kernelprovision</key>
+	<string>shouldInflatePainter</string>
+	<key>obtaingroup</key>
+	<string>materializeBuilder</string>
+	<key>responsiveImpression</key>
+	<string>publishTernary</string>
+	<key>visibleGrain</key>
+	<string>integerTag</string>
+</dict>
+</plist>

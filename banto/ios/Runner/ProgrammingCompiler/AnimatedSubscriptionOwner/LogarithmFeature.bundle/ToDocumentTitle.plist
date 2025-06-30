@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerpadding</key>
+	<string>radiusTransparency</string>
+	<key>cubealongaction</key>
+	<string>compositionalScenario</string>
+	<key>kernelForce</key>
+	<string>shouldValidateTheme</string>
+	<key>lastMargin</key>
+	<string>embedHash</string>
+	<key>mergerMode</key>
+	<string>captureCubit</string>
+</dict>
+</plist>

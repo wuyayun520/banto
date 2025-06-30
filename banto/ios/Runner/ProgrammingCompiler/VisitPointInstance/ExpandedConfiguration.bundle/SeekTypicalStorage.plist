@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioValidation</key>
+	<string>shouldConnectCurve</string>
+	<key>creatorindex</key>
+	<string>ternaryTail</string>
+	<key>delegateequalization</key>
+	<string>elasticDialogs</string>
+	<key>disabledWidget</key>
+	<string>updateChart</string>
+	<key>dismissusecase</key>
+	<string>frameCoord</string>
+	<key>latencyDepth</key>
+	<string>shouldLayoutMovement</string>
+	<key>layerprototypehead</key>
+	<string>queueLocation</string>
+	<key>newestVertex</key>
+	<string>addZone</string>
+</dict>
+</plist>

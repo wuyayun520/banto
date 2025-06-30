@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseInset</key>
+	<string>textureleft</string>
+	<key>basewithphase</key>
+	<string>canNavigateCache</string>
+	<key>optimizerDistance</key>
+	<string>iterativeStep</string>
+	<key>paddingBehavior</key>
+	<string>nextimpact</string>
+	<key>shouldPaintLayout</key>
+	<string>receiveservice</string>
+</dict>
+</plist>

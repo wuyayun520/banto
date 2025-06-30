@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryparametertension</key>
+	<string>tolerancefeedback</string>
+	<key>immutablemaster</key>
+	<string>crucialAwait</string>
+	<key>popuptrajectory</key>
+	<string>inkwellNumber</string>
+	<key>relationalCurve</key>
+	<string>histogramContext</string>
+</dict>
+</plist>

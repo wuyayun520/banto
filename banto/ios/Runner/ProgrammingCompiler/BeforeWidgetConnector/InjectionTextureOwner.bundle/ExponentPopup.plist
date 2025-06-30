@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeDescriptor</key>
+	<string>setstateCosine</string>
+	<key>contractionFeedback</key>
+	<string>spriteResponse</string>
+	<key>dynamicAxis</key>
+	<string>rectLayer</string>
+	<key>factoryHead</key>
+	<string>tickersingletonvalidation</string>
+	<key>indicatornumberskewy</key>
+	<string>heapmanager</string>
+	<key>interfaceAppearance</key>
+	<string>arithmeticAnchor</string>
+	<key>mainTask</key>
+	<string>canSaveTouch</string>
+	<key>modelshade</key>
+	<string>ephemeralGrain</string>
+	<key>transformerpatternvalidation</key>
+	<string>transposePresenter</string>
+</dict>
+</plist>

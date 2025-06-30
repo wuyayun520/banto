@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudePositioned</key>
+	<string>responsiveSemantics</string>
+	<key>customNotation</key>
+	<string>canPersistHeap</string>
+	<key>screenimpact</key>
+	<string>largeCycle</string>
+	<key>spritestate</key>
+	<string>paintExponent</string>
+	<key>touchkind</key>
+	<string>scalabilitySpacing</string>
+	<key>webRecursion</key>
+	<string>shouldAttachShader</string>
+</dict>
+</plist>

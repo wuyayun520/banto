@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeRadio</key>
+	<string>canContinueGraphic</string>
+	<key>activetweak</key>
+	<string>provideraction</string>
+	<key>asynctop</key>
+	<string>publicRange</string>
+	<key>paddingColor</key>
+	<string>semanticsOffset</string>
+	<key>singleLatency</key>
+	<string>numericalConsumer</string>
+</dict>
+</plist>

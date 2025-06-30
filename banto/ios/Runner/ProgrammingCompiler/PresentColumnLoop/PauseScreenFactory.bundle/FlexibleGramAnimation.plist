@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletTail</key>
+	<string>flexVelocity</string>
+	<key>listenremainder</key>
+	<string>taskbeyondform</string>
+	<key>searcherLeft</key>
+	<string>geometricSprite</string>
+	<key>shouldFetchCycle</key>
+	<string>canDispatchSemantics</string>
+</dict>
+</plist>

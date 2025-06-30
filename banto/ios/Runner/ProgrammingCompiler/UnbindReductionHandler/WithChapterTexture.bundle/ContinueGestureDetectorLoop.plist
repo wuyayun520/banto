@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanTicker</key>
+	<string>curveinsidekind</string>
+	<key>mediaTheme</key>
+	<string>listviewShape</string>
+	<key>polyfillTag</key>
+	<string>primaryFactory</string>
+	<key>reactiveGraph</key>
+	<string>robustCanvas</string>
+	<key>requiredpriority</key>
+	<string>mutableScheduler</string>
+	<key>retainedusagefeedback</key>
+	<string>rapidCompletion</string>
+	<key>typicalRepository</key>
+	<string>rolealongscope</string>
+</dict>
+</plist>

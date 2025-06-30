@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSwift</key>
+	<string>paintcontainer</string>
+	<key>overlaybehavior</key>
+	<string>delegateTopic</string>
+	<key>prismaticlistview</key>
+	<string>uniformPlayback</string>
+	<key>resourceattask</key>
+	<string>statefulMenu</string>
+	<key>shouldEmitSpine</key>
+	<string>shouldstopexpanded</string>
+	<key>signaturepreview</key>
+	<string>canEmitPositioned</string>
+</dict>
+</plist>

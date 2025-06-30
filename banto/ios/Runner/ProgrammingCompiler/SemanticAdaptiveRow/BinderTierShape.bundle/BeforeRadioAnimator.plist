@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTextField</key>
+	<string>channelsStatus</string>
+	<key>customAnalyzer</key>
+	<string>optionLeft</string>
+	<key>pageviewadaptermode</key>
+	<string>uniformController</string>
+	<key>sampleVisible</key>
+	<string>bufferOrigin</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalResolver</key>
+	<string>efficiencySaturation</string>
+	<key>masterShape</key>
+	<string>resumemodal</string>
+	<key>multiTechnique</key>
+	<string>colorVisible</string>
+	<key>pivotalDimension</key>
+	<string>retainConfiguration</string>
+	<key>protocolStatus</key>
+	<string>shouldAnimateInteger</string>
+	<key>routerfromvalue</key>
+	<string>ternaryduration</string>
+	<key>shouldResumeDimension</key>
+	<string>detectorShape</string>
+	<key>shouldYieldCell</key>
+	<string>shouldPrepareBoxShadow</string>
+	<key>touchBrightness</key>
+	<string>shouldDeserializeSymbol</string>
+</dict>
+</plist>

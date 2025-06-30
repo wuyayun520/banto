@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentbehavior</key>
+	<string>rotateCoordinator</string>
+	<key>globalArchitecture</key>
+	<string>canDetachNorm</string>
+	<key>maintainmomentum</key>
+	<string>curveamongvar</string>
+	<key>mountpageview</key>
+	<string>semanticPriority</string>
+	<key>permutationBottom</key>
+	<string>saveNotifier</string>
+	<key>semanticqueue</key>
+	<string>canSubscribeOptimizer</string>
+	<key>shouldFetchStoryboard</key>
+	<string>shouldSerializeMomentum</string>
+	<key>shouldtrainsign</key>
+	<string>permissiveLocalization</string>
+	<key>tabbarstyle</key>
+	<string>prevMovement</string>
+</dict>
+</plist>

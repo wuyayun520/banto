@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascenthue</key>
+	<string>listenerorigin</string>
+	<key>ephemeralSample</key>
+	<string>shouldShowUsage</string>
+	<key>listengraph</key>
+	<string>resilientBuffer</string>
+	<key>mediumConfidentiality</key>
+	<string>mapParameter</string>
+</dict>
+</plist>

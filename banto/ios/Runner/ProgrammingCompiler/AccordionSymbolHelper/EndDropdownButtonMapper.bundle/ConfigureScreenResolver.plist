@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoInkWell</key>
+	<string>cupertinoTask</string>
+	<key>dedicatedLoop</key>
+	<string>subpixellistener</string>
+	<key>emitstep</key>
+	<string>laststreamtail</string>
+	<key>intermediatespot</key>
+	<string>singletonforce</string>
+	<key>mediumRange</key>
+	<string>activityEnvironment</string>
+	<key>protectedUnary</key>
+	<string>pivotalEquipment</string>
+	<key>shouldObserveResource</key>
+	<string>pushAsset</string>
+	<key>storyboardVisible</key>
+	<string>buildSession</string>
+</dict>
+</plist>

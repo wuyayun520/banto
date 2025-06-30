@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureDuration</key>
+	<string>emitKernel</string>
+	<key>seamlessDescent</key>
+	<string>metricsSpeed</string>
+	<key>shouldMountedListView</key>
+	<string>switchDecorator</string>
+	<key>shouldParseGem</key>
+	<string>chapterpermutation</string>
+	<key>shouldPublishIndicator</key>
+	<string>coordinatortype</string>
+	<key>skirtDuration</key>
+	<string>serializeTabView</string>
+	<key>tangentMode</key>
+	<string>videoStatus</string>
+</dict>
+</plist>

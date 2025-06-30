@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>numericalShape</key>
+	<string>mainVideo</string>
+	<key>reactiveCube</key>
+	<string>reducerVariable</string>
+	<key>resizableSearcher</key>
+	<string>boxCount</string>
+	<key>shouldRestartMonster</key>
+	<string>currentIcon</string>
+	<key>sliderinformation</key>
+	<string>displaychart</string>
+	<key>unsortedLifecycle</key>
+	<string>interfaceopacity</string>
+</dict>
+</plist>

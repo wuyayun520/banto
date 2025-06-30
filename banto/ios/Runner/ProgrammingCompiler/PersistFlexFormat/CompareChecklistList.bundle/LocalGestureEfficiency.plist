@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCurve</key>
+	<string>shouldrouteplayback</string>
+	<key>associatedBorder</key>
+	<string>methodSpeed</string>
+	<key>dataAlignment</key>
+	<string>shouldDismissCompletion</string>
+	<key>dedicatedColor</key>
+	<string>dispatchresult</string>
+	<key>lastTicker</key>
+	<string>canValidateGram</string>
+	<key>liteSizedBox</key>
+	<string>serializehandler</string>
+	<key>lostModel</key>
+	<string>currentdocument</string>
+	<key>mobileGem</key>
+	<string>metricsPadding</string>
+	<key>reductionstateforce</key>
+	<string>unmarshalCompleter</string>
+	<key>themeSkewY</key>
+	<string>pauseThread</string>
+</dict>
+</plist>

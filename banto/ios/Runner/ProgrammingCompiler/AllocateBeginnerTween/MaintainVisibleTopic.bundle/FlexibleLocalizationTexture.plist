@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralStep</key>
+	<string>loopBridge</string>
+	<key>euclideanTouch</key>
+	<string>canAttachAlpha</string>
+	<key>menusingletonorientation</key>
+	<string>canCreateThread</string>
+	<key>normaloption</key>
+	<string>descriptorJob</string>
+	<key>shouldProcessStep</key>
+	<string>exitinterface</string>
+</dict>
+</plist>

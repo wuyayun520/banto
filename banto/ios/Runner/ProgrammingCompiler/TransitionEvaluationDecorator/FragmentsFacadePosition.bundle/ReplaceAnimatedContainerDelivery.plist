@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationright</key>
+	<string>scheduleTransformer</string>
+	<key>bitratemodel</key>
+	<string>localImage</string>
+	<key>gesturedetectorVisible</key>
+	<string>priorCubit</string>
+	<key>responsiveRow</key>
+	<string>evolutionstyle</string>
+	<key>shouldTransformGradient</key>
+	<string>pinchablenotificationcontrast</string>
+	<key>tensorMend</key>
+	<string>workflowvelocity</string>
+	<key>tweenScale</key>
+	<string>disposeCertificate</string>
+</dict>
+</plist>

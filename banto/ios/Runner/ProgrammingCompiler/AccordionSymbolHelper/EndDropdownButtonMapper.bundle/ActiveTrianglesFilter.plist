@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisconfiguration</key>
+	<string>removeView</string>
+	<key>cartesianBitrate</key>
+	<string>shouldBuildResource</string>
+	<key>enabledDuration</key>
+	<string>createMovement</string>
+	<key>nextModel</key>
+	<string>disabledTentative</string>
+	<key>observerright</key>
+	<string>canYieldOverlay</string>
+	<key>shouldCancelProvider</key>
+	<string>annotatetitle</string>
+	<key>shoulddisconnecttext</key>
+	<string>shouldStreamBatch</string>
+	<key>usedtechniquetheme</key>
+	<string>publicAperture</string>
+</dict>
+</plist>

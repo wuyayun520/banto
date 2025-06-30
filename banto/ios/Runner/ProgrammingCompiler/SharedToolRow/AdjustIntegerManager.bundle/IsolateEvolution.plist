@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerdrawer</key>
+	<string>kernelPressure</string>
+	<key>desktopReliability</key>
+	<string>shouldShowRoute</string>
+	<key>secondChooser</key>
+	<string>animationWork</string>
+	<key>shouldFetchCosine</key>
+	<string>canBuildComposition</string>
+	<key>shouldProcessEntropy</key>
+	<string>usedScope</string>
+	<key>shouldlayoutscaffold</key>
+	<string>dedicatedConstraint</string>
+	<key>transitionframe</key>
+	<string>formatCatalyst</string>
+	<key>tweenandframework</key>
+	<string>mobileInterface</string>
+</dict>
+</plist>

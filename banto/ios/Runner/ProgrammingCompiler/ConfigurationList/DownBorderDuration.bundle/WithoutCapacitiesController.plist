@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionorigin</key>
+	<string>hashtype</string>
+	<key>buildercoord</key>
+	<string>limitcertificate</string>
+	<key>controllerIndex</key>
+	<string>momentumFrequency</string>
+	<key>customizedmenu</key>
+	<string>scrollableMaterial</string>
+	<key>directlyOffset</key>
+	<string>fusedModal</string>
+	<key>durationinterpreterstatus</key>
+	<string>performStore</string>
+	<key>multiClipper</key>
+	<string>sampleInterval</string>
+	<key>positionedmaterializer</key>
+	<string>richtextrotation</string>
+	<key>shouldStreamDelegate</key>
+	<string>framelocation</string>
+	<key>subscriptionatmode</key>
+	<string>taskSaturation</string>
+</dict>
+</plist>

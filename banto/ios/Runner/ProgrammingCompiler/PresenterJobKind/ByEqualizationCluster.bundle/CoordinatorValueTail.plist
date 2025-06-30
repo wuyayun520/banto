@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyType</key>
+	<string>cubitTension</string>
+	<key>relationalwidget</key>
+	<string>entityPhase</string>
+	<key>shouldSaveAccessory</key>
+	<string>consumptiondensity</string>
+</dict>
+</plist>

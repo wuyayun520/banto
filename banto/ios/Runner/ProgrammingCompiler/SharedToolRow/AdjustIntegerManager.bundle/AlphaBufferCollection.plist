@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerMatrix</key>
+	<string>webPolygon</string>
+	<key>directRange</key>
+	<string>independentSkin</string>
+	<key>globalNib</key>
+	<string>canYieldDrawer</string>
+	<key>originalChapter</key>
+	<string>canCacheProjection</string>
+	<key>originalSwitch</key>
+	<string>mediaqueryEnvironment</string>
+	<key>pointFormat</key>
+	<string>renderRoute</string>
+	<key>subscriptionvisibility</key>
+	<string>persistentEvent</string>
+	<key>subsequentListener</key>
+	<string>errorpersystem</string>
+</dict>
+</plist>

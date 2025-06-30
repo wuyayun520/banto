@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameconfidentiality</key>
+	<string>decodeisolate</string>
+	<key>graphicactionkind</key>
+	<string>convertgem</string>
+	<key>materialSkewY</key>
+	<string>techniqueMethod</string>
+	<key>numericalOffset</key>
+	<string>isolatePressure</string>
+</dict>
+</plist>

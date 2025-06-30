@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedRow</key>
+	<string>difficultConvolution</string>
+	<key>createconstraint</key>
+	<string>numericalContrast</string>
+	<key>declarativeShape</key>
+	<string>canvasFramework</string>
+	<key>disparateGrain</key>
+	<string>shouldsavematerial</string>
+	<key>displayableAction</key>
+	<string>upgradeVector</string>
+	<key>displayableLoop</key>
+	<string>beginnerColumn</string>
+	<key>displayableShape</key>
+	<string>shouldAnimateGestureDetector</string>
+	<key>layerparameterdistance</key>
+	<string>appendService</string>
+	<key>shouldUpdateGridView</key>
+	<string>easySlider</string>
+	<key>sustainableAction</key>
+	<string>imperativeTime</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTernary</key>
+	<string>bufferdirection</string>
+	<key>flexibleRestriction</key>
+	<string>unactivatedMaterializer</string>
+	<key>progressbarAppearance</key>
+	<string>offsetWidget</string>
+	<key>statefulSpeed</key>
+	<string>inheritedPlayback</string>
+	<key>subscriptionstate</key>
+	<string>borderSpacing</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbartexture</key>
+	<string>statefulSkirt</string>
+	<key>globalEffect</key>
+	<string>beginnercallback</string>
+	<key>immutabledependency</key>
+	<string>geometricTouch</string>
+	<key>mediaIndex</key>
+	<string>navigatorInterval</string>
+	<key>shouldInflateExtension</key>
+	<string>responseMediator</string>
+	<key>wrapperHead</key>
+	<string>histogramBehavior</string>
+</dict>
+</plist>

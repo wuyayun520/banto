@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentThread</key>
+	<string>unregisterRequest</string>
+	<key>displayableAlert</key>
+	<string>consumeFeature</string>
+	<key>fixedCluster</key>
+	<string>consultativeDetail</string>
+	<key>frameName</key>
+	<string>functionalscreen</string>
+	<key>layoutMode</key>
+	<string>resizableController</string>
+	<key>sustainableflex</key>
+	<string>viewimpact</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncatadapter</key>
+	<string>specifiercontrast</string>
+	<key>combinerType</key>
+	<string>axisMargin</string>
+	<key>difficultrouteflags</key>
+	<string>injectOffset</string>
+	<key>nativeHash</key>
+	<string>disclaimerForce</string>
+	<key>providerDistance</key>
+	<string>canPopSkin</string>
+	<key>shouldPresentListView</key>
+	<string>missedAnimator</string>
+	<key>shouldSetStateHeap</key>
+	<string>emitEvent</string>
+	<key>smallExtension</key>
+	<string>loadScaffold</string>
+	<key>tappableSign</key>
+	<string>otherMetadata</string>
+</dict>
+</plist>

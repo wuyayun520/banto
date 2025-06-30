@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionmode</key>
+	<string>videoSkewX</string>
+	<key>formatdecoration</key>
+	<string>disparateChapter</string>
+	<key>giftDepth</key>
+	<string>decoupleTween</string>
+	<key>inheritedSegue</key>
+	<string>bandwidthSpacing</string>
+	<key>optionHead</key>
+	<string>canStartCertificate</string>
+	<key>responseoffset</key>
+	<string>listviewincludeenvironment</string>
+	<key>shouldTransitionCheckbox</key>
+	<string>usecaseProxy</string>
+	<key>vectornotation</key>
+	<string>inkwellForm</string>
+</dict>
+</plist>

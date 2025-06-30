@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalmodel</key>
+	<string>invisibleManager</string>
+	<key>granularpreview</key>
+	<string>canFetchButton</string>
+	<key>instructionTransparency</key>
+	<string>singlePresenter</string>
+	<key>positionedResponse</key>
+	<string>concurrentCoordinator</string>
+	<key>shouldPaintNorm</key>
+	<string>enhanceResource</string>
+	<key>shouldTrainRow</key>
+	<string>canHandleSegment</string>
+	<key>similarSpine</key>
+	<string>cupertinoPolygon</string>
+	<key>tableadaptervalidation</key>
+	<string>canDisposeTask</string>
+</dict>
+</plist>

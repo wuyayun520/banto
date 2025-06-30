@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedradiusstyle</key>
+	<string>titleForm</string>
+	<key>fixedReceiver</key>
+	<string>errorJob</string>
+	<key>reactiveBandwidth</key>
+	<string>sustainableSymbol</string>
+	<key>respectiveEquipment</key>
+	<string>providerCoord</string>
+	<key>shouldParseStep</key>
+	<string>bufferparamresponse</string>
+	<key>stackStyle</key>
+	<string>floatModel</string>
+</dict>
+</plist>

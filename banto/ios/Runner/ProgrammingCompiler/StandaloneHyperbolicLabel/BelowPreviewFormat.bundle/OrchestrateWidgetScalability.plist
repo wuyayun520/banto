@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertDepth</key>
+	<string>encodeDialogs</string>
+	<key>gemhead</key>
+	<string>nibVisitor</string>
+	<key>memberMode</key>
+	<string>gestureVisible</string>
+	<key>shouldtransitioninteger</key>
+	<string>invisibleGesture</string>
+	<key>tappableMovement</key>
+	<string>singletonAppearance</string>
+</dict>
+</plist>

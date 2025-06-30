@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticresourceskewx</key>
+	<string>utilOrientation</string>
+	<key>deserializeproject</key>
+	<string>canStreamStep</string>
+	<key>dismisscomposition</key>
+	<string>shouldRebuildInstruction</string>
+	<key>ephemeralSignature</key>
+	<string>measureRow</string>
+	<key>priorerror</key>
+	<string>canAnimateObserver</string>
+	<key>shouldattachcoordinator</key>
+	<string>canStopStateless</string>
+</dict>
+</plist>

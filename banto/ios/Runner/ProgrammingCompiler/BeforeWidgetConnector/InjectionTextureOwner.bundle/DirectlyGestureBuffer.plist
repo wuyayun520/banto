@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoFuture</key>
+	<string>permissiveChooser</string>
+	<key>captureroute</key>
+	<string>destroyobserver</string>
+	<key>discardedEvent</key>
+	<string>instantiateDuration</string>
+	<key>interactorinterval</key>
+	<string>optionPrototype</string>
+	<key>opaqueCertificate</key>
+	<string>configurecompletion</string>
+	<key>shaderBehavior</key>
+	<string>detailVelocity</string>
+	<key>shouldBuildNavigation</key>
+	<string>activeTable</string>
+	<key>subscribeaperture</key>
+	<string>sequentialComponent</string>
+	<key>transformermode</key>
+	<string>canDismissListView</string>
+</dict>
+</plist>

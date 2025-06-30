@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonStatus</key>
+	<string>concreteLoader</string>
+	<key>easyConvolution</key>
+	<string>listenSprite</string>
+	<key>shouldfetchimage</key>
+	<string>currentAnimation</string>
+	<key>standaloneTraversal</key>
+	<string>unsortedStrength</string>
+</dict>
+</plist>

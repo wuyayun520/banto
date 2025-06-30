@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoFactory</key>
+	<string>permanentKernel</string>
+	<key>criticalDialogs</key>
+	<string>functionalAnimation</string>
+	<key>discardedTextField</key>
+	<string>sineShape</string>
+	<key>functionalOptimizer</key>
+	<string>addRequest</string>
+	<key>kernelTheme</key>
+	<string>connectNotification</string>
+	<key>layoutStatus</key>
+	<string>canSubscribeCharacter</string>
+	<key>masterstyle</key>
+	<string>shouldObserveBuilder</string>
+	<key>relationalMenu</key>
+	<string>protectedTraversal</string>
+	<key>storageStatus</key>
+	<string>canEndButton</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTrajectory</key>
+	<string>canValidateInkWell</string>
+	<key>aspectratioCoord</key>
+	<string>pointtime</string>
+	<key>eventVisible</key>
+	<string>shouldConnectGift</string>
+	<key>immutableResponder</key>
+	<string>shouldEndBloc</string>
+	<key>intermediateQueue</key>
+	<string>transformActivity</string>
+	<key>normsaturation</key>
+	<string>deserializeflex</string>
+	<key>pivotalUseCase</key>
+	<string>injectLayer</string>
+	<key>standaloneTransformer</key>
+	<string>ignoredDependency</string>
+</dict>
+</plist>

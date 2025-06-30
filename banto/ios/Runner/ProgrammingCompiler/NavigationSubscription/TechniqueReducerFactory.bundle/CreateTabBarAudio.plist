@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleFeedback</key>
+	<string>dialogsBrightness</string>
+	<key>contractiontemplecount</key>
+	<string>intensityscopefrequency</string>
+	<key>displayableConfidentiality</key>
+	<string>repositoryStatus</string>
+	<key>keepgrain</key>
+	<string>shouldResumeSlash</string>
+	<key>scrollablepolygon</key>
+	<string>logevolution</string>
+	<key>similarSorter</key>
+	<string>interactionInterval</string>
+	<key>standaloneNotation</key>
+	<string>petDensity</string>
+	<key>symmetricMechanism</key>
+	<string>dropoutContainer</string>
+	<key>unactivatedLocalization</key>
+	<string>rebuildPet</string>
+</dict>
+</plist>

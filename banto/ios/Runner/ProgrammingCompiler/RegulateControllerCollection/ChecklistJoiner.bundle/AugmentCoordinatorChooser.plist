@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableCurve</key>
+	<string>interactorcombiner</string>
+	<key>enabledHistogram</key>
+	<string>dismissContraction</string>
+	<key>retainedInterface</key>
+	<string>imperativeMechanism</string>
+	<key>scrollableFrame</key>
+	<string>replicateInteractor</string>
+	<key>visibleButton</key>
+	<string>geometricVariant</string>
+</dict>
+</plist>

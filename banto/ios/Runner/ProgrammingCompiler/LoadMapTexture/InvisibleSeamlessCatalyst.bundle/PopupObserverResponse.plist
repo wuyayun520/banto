@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinooffset</key>
+	<string>canSubscribeStamp</string>
+	<key>onpageviewtap</key>
+	<string>locateHandler</string>
+	<key>shouldDisconnectCube</key>
+	<string>permanenttimer</string>
+	<key>shouldResumeCache</key>
+	<string>synchronizeDecoration</string>
+	<key>statelessinteraction</key>
+	<string>minAlert</string>
+	<key>tappableInjection</key>
+	<string>factoryborder</string>
+</dict>
+</plist>

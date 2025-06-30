@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedDetail</key>
+	<string>integerFlags</string>
+	<key>petBottom</key>
+	<string>numericalStore</string>
+	<key>profilevalidation</key>
+	<string>largeFormat</string>
+	<key>resizableRadio</key>
+	<string>isolatepressure</string>
+	<key>shouldPresentCoordinator</key>
+	<string>canPreparePositioned</string>
+	<key>significantLifecycle</key>
+	<string>secondRecursion</string>
+</dict>
+</plist>

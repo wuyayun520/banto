@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxBehavior</key>
+	<string>shouldPauseScreen</string>
+	<key>listviewstate</key>
+	<string>unmountedSubpixel</string>
+	<key>materialElasticity</key>
+	<string>transpilecheckbox</string>
+	<key>nativeEmitter</key>
+	<string>positionActivity</string>
+	<key>regulateresponse</key>
+	<string>capacityInset</string>
+	<key>sessionInset</key>
+	<string>subtleDrawer</string>
+	<key>shouldAttachMaterial</key>
+	<string>disabledWidget</string>
+	<key>sinkplatformduration</key>
+	<string>subtleLatency</string>
+</dict>
+</plist>

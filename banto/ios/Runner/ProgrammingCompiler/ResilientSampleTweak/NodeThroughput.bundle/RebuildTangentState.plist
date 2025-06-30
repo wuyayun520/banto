@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveShader</key>
+	<string>eagerVideo</string>
+	<key>comprehensiveInterpolation</key>
+	<string>unarySkewX</string>
+	<key>mediumFinder</key>
+	<string>agileSensor</string>
+	<key>shouldPrepareLog</key>
+	<string>disabledInteractor</string>
+	<key>shouldReplaceAperture</key>
+	<string>giftActivity</string>
+	<key>tensorPriority</key>
+	<string>futurebrightness</string>
+</dict>
+</plist>

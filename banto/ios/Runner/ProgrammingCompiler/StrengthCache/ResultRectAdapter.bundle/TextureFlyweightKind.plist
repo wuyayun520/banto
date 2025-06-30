@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationconsumption</key>
+	<string>triggerShape</string>
+	<key>modelinform</key>
+	<string>canSubscribeFuture</string>
+	<key>publishlabel</key>
+	<string>shouldInflateDecoration</string>
+	<key>responsiveTime</key>
+	<string>marginShape</string>
+</dict>
+</plist>

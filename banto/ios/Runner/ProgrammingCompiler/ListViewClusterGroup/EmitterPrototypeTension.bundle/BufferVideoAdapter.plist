@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>managerkind</key>
+	<string>graintype</string>
+	<key>respectiveMaterial</key>
+	<string>accessoryShape</string>
+	<key>semanticEqualization</key>
+	<string>pointParameter</string>
+	<key>shouldBuildScale</key>
+	<string>immutableConfiguration</string>
+</dict>
+</plist>

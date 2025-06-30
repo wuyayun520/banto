@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultGradient</key>
+	<string>injectChannel</string>
+	<key>intermediateConsumer</key>
+	<string>lostCallback</string>
+	<key>lazyBatch</key>
+	<string>shouldConnectBoxShadow</string>
+	<key>marginvolume</key>
+	<string>servicePrototype</string>
+	<key>retainedRect</key>
+	<string>requiredSensor</string>
+</dict>
+</plist>

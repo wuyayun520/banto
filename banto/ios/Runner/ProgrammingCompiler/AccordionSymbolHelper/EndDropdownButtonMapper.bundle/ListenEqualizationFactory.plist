@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitbeyondplatform</key>
+	<string>handlercyclescale</string>
+	<key>defaultWidget</key>
+	<string>vectorizeState</string>
+	<key>oldCapsule</key>
+	<string>sessionindex</string>
+	<key>otherScheduler</key>
+	<string>canContinueSample</string>
+	<key>scrollableGate</key>
+	<string>pushChart</string>
+	<key>touchRotation</key>
+	<string>encapsulateConfiguration</string>
+	<key>uniqueListener</key>
+	<string>segmentContrast</string>
+</dict>
+</plist>

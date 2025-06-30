@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelflyweighttype</key>
+	<string>removeentity</string>
+	<key>cycletop</key>
+	<string>canObserveClipper</string>
+	<key>diffableMobile</key>
+	<string>serializeHash</string>
+	<key>diversifiedNorm</key>
+	<string>animatedRichText</string>
+	<key>indicatorPressure</key>
+	<string>canDecodeComposition</string>
+	<key>significantConverter</key>
+	<string>globalRecursion</string>
+	<key>staticNorm</key>
+	<string>canDecodeSign</string>
+	<key>transformerborder</key>
+	<string>disconnectStoryboard</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaBottom</key>
+	<string>associatedDialogs</string>
+	<key>fixedvariant</key>
+	<string>deprecateconvolution</string>
+	<key>granularconstant</key>
+	<string>standaloneStateful</string>
+	<key>respectiveInjection</key>
+	<string>disconnectScaffold</string>
+	<key>respectiveScroller</key>
+	<string>creatorcenter</string>
+	<key>synchronousScene</key>
+	<string>shouldValidateFlex</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitconnector</key>
+	<string>shouldshowoperation</string>
+	<key>distinctioninterval</key>
+	<string>buttonanimation</string>
+	<key>intermediateDropdownButton</key>
+	<string>heapJob</string>
+	<key>invisibleStateful</key>
+	<string>scrollgraph</string>
+	<key>isolateproxytype</key>
+	<string>pivotalTrigger</string>
+	<key>nibMomentum</key>
+	<string>staticSorter</string>
+	<key>permanentDrawer</key>
+	<string>nextConnector</string>
+	<key>reusableEquipment</key>
+	<string>shouldendpriority</string>
+	<key>savesample</key>
+	<string>richtextStyle</string>
+</dict>
+</plist>

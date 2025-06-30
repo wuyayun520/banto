@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hasappbar</key>
+	<string>canRouteDrawer</string>
+	<key>mutableSkirt</key>
+	<string>embraceradio</string>
+	<key>pickerForce</key>
+	<string>descriptorbuilder</string>
+	<key>selectednavigation</key>
+	<string>volumeHead</string>
+	<key>shouldshowworkflow</key>
+	<string>reductionpresenter</string>
+</dict>
+</plist>

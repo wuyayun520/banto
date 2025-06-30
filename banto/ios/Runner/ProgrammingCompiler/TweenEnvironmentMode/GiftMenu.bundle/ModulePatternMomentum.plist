@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetcenter</key>
+	<string>directlyInteractor</string>
+	<key>opaqueRenderer</key>
+	<string>utilincludeoperation</string>
+	<key>responderhead</key>
+	<string>detachscroll</string>
+	<key>shouldUpdateBatch</key>
+	<string>drawlistener</string>
+</dict>
+</plist>

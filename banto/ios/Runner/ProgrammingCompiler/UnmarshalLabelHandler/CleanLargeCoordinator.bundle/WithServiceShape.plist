@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredIndicator</key>
+	<string>timelineTransparency</string>
+	<key>hierarchicalSearcher</key>
+	<string>shouldEmitRole</string>
+	<key>mainSign</key>
+	<string>visitEntity</string>
+	<key>permissiveBuilder</key>
+	<string>directlyThroughput</string>
+	<key>presenterAcceleration</key>
+	<string>retainedCompleter</string>
+	<key>shouldpublishwidget</key>
+	<string>pointFlags</string>
+</dict>
+</plist>

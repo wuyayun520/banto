@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeorigin</key>
+	<string>segueEdge</string>
+	<key>mutableChallenge</key>
+	<string>pushAlert</string>
+	<key>shouldConnectBehavior</key>
+	<string>optionAlignment</string>
+	<key>shouldParsePriority</key>
+	<string>transformMovement</string>
+	<key>shouldParseProvider</key>
+	<string>parallelAperture</string>
+	<key>tensorVariant</key>
+	<string>alertOrientation</string>
+	<key>uniformRouter</key>
+	<string>intermediatemarginorientation</string>
+</dict>
+</plist>

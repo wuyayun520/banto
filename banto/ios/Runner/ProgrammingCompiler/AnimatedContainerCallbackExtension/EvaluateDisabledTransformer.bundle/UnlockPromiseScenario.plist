@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentBehavior</key>
+	<string>subtleView</string>
+	<key>euclideanResponse</key>
+	<string>videoResponse</string>
+	<key>modulusState</key>
+	<string>multiModel</string>
+	<key>multiMap</key>
+	<string>descentBottom</string>
+	<key>shouldprocessslider</key>
+	<string>dropoutView</string>
+	<key>substantialTabView</key>
+	<string>pinchableFrame</string>
+	<key>topicaroundmemento</key>
+	<string>accelerateDuration</string>
+</dict>
+</plist>

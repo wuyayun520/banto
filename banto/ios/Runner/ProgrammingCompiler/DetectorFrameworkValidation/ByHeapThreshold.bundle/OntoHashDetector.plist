@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleDescriptor</key>
+	<string>stepTheme</string>
+	<key>notifierTop</key>
+	<string>gridname</string>
+	<key>popaperture</key>
+	<string>subscriptionMemento</string>
+	<key>processorInterval</key>
+	<string>transitionasync</string>
+	<key>shouldPauseEntropy</key>
+	<string>decoupleNavigator</string>
+</dict>
+</plist>

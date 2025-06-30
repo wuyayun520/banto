@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowPressure</key>
+	<string>shouldSkipSpine</string>
+	<key>draggableFrame</key>
+	<string>spineinteractor</string>
+	<key>globalActivity</key>
+	<string>resourceProxy</string>
+	<key>primaryvariantskewx</key>
+	<string>stateuntilbuffer</string>
+	<key>relationalcoordinatortop</key>
+	<string>synchronousMusic</string>
+	<key>shouldDisposeInkWell</key>
+	<string>accessibleState</string>
+	<key>smartmatrixright</key>
+	<string>canConnectNotification</string>
+	<key>subsequentScheduler</key>
+	<string>entropyMemento</string>
+	<key>swiftradius</key>
+	<string>rectangleFormat</string>
+</dict>
+</plist>

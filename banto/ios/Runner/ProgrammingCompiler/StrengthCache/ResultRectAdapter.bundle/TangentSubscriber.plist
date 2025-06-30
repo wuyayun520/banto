@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileDialogs</key>
+	<string>dropoutAction</string>
+	<key>asyncVisible</key>
+	<string>rangeFlags</string>
+	<key>compositionalController</key>
+	<string>deserializeexception</string>
+	<key>lazyLoader</key>
+	<string>shouldUnmountIcon</string>
+	<key>mediaquerybloc</key>
+	<string>grayscalePrototype</string>
+	<key>methodOffset</key>
+	<string>unregisterContainer</string>
+	<key>robustResponse</key>
+	<string>nodeBrightness</string>
+	<key>streamgem</key>
+	<string>navigatePoint</string>
+	<key>unactivatedMetadata</key>
+	<string>otherTopic</string>
+	<key>validategraph</key>
+	<string>hashHue</string>
+</dict>
+</plist>

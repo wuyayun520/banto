@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTimer</key>
+	<string>shouldSetStateRemainder</string>
+	<key>listenermodule</key>
+	<string>entropyMargin</string>
+	<key>paintresource</key>
+	<string>soundColor</string>
+	<key>shouldFormatSignature</key>
+	<string>errorCoord</string>
+</dict>
+</plist>

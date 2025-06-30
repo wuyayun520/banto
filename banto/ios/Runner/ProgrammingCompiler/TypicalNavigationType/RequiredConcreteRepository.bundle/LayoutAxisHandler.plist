@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatProtocol</key>
+	<string>shouldPublishHeap</string>
+	<key>marshaltexture</key>
+	<string>canDisconnectCursor</string>
+	<key>shouldLayoutChallenge</key>
+	<string>rectifyVector</string>
+	<key>shouldPersistScaffold</key>
+	<string>fusedBehavior</string>
+</dict>
+</plist>

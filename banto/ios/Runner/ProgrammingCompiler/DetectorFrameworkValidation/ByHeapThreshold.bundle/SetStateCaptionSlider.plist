@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorDistance</key>
+	<string>unmountedCard</string>
+	<key>behaviorStatus</key>
+	<string>slideralignment</string>
+	<key>gemtiermargin</key>
+	<string>labelInset</string>
+	<key>scrollableVector</key>
+	<string>scrollableerror</string>
+	<key>shouldPrepareExponent</key>
+	<string>shouldKeepPrecision</string>
+</dict>
+</plist>

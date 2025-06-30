@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorpainter</key>
+	<string>hardvectorrotation</string>
+	<key>directlyBinary</key>
+	<string>canRestartCache</string>
+	<key>frameTag</key>
+	<string>captionOperation</string>
+	<key>insteadthread</key>
+	<string>pendingClipper</string>
+	<key>protectedTask</key>
+	<string>prismaticCupertino</string>
+	<key>protocoltint</key>
+	<string>reducerActivity</string>
+	<key>recursionMomentum</key>
+	<string>webTriangles</string>
+	<key>scrollableTernary</key>
+	<string>isgesturedetector</string>
+	<key>skinDensity</key>
+	<string>bufferAlignment</string>
+	<key>subtleSkin</key>
+	<string>buttonPlatform</string>
+</dict>
+</plist>

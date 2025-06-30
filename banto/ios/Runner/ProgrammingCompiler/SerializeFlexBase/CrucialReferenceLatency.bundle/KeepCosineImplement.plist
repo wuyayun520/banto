@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaittension</key>
+	<string>canTrainMomentum</string>
+	<key>composablepager</key>
+	<string>keyCreator</string>
+	<key>directlySchema</key>
+	<string>pageviewinterval</string>
+	<key>isolatefrequency</key>
+	<string>scrollableSpecifier</string>
+	<key>shouldCacheLayout</key>
+	<string>overlayStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pinchablenavigator</key>
+	<string>independentColumn</string>
+	<key>pointTheme</key>
+	<string>soundHue</string>
+	<key>shouldunbindtextfield</key>
+	<string>responseevolution</string>
+	<key>syncsubscription</key>
+	<string>characteristicValidation</string>
+</dict>
+</plist>

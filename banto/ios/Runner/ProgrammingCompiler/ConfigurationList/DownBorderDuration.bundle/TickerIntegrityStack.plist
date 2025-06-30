@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentAnimator</key>
+	<string>statefuljobcenter</string>
+	<key>declarativeIndicator</key>
+	<string>shouldobservesegue</string>
+	<key>desktopOverlay</key>
+	<string>graphicVisible</string>
+	<key>mutableReduction</key>
+	<string>floatcheckbox</string>
+	<key>polyfillRate</key>
+	<string>visiblePreview</string>
+	<key>publicPlayback</key>
+	<string>denseerrorsize</string>
+	<key>responsiveAwait</key>
+	<string>buildDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOpacity</key>
+	<string>synchronizecanvas</string>
+	<key>cupertinoError</key>
+	<string>limittransformer</string>
+	<key>featureanimation</key>
+	<string>grayscaleChain</string>
+	<key>publishlog</key>
+	<string>freeAllocator</string>
+	<key>renderimage</key>
+	<string>unactivatedExponent</string>
+	<key>shouldRebuildPadding</key>
+	<string>publicentity</string>
+	<key>sophisticatedResponder</key>
+	<string>interactiveProvision</string>
+	<key>switchInteraction</key>
+	<string>ephemeralTitle</string>
+	<key>touchPosition</key>
+	<string>signDistance</string>
+</dict>
+</plist>

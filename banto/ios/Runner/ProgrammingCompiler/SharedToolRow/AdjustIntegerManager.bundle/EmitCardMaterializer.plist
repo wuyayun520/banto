@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createchecklist</key>
+	<string>builderTag</string>
+	<key>directlyNib</key>
+	<string>diffableJoiner</string>
+	<key>persistentModal</key>
+	<string>shouldAttachScroll</string>
+	<key>persistentTimeline</key>
+	<string>extensionJob</string>
+	<key>shouldDispatchPlayback</key>
+	<string>interfaceDirection</string>
+</dict>
+</plist>

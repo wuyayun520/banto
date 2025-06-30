@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerObject</key>
+	<string>tappableOperation</string>
+	<key>borderfeature</key>
+	<string>canStreamChannels</string>
+	<key>buttonscale</key>
+	<string>segmentRotation</string>
+	<key>elasticTween</key>
+	<string>agileCurve</string>
+	<key>fixedThroughput</key>
+	<string>objectMargin</string>
+	<key>hyperbolicSizedBox</key>
+	<string>customThreshold</string>
+	<key>oldPresenter</key>
+	<string>canDispatchCurve</string>
+	<key>projectionName</key>
+	<string>canLayoutBorder</string>
+	<key>shouldRebuildModal</key>
+	<string>disabledMobile</string>
+	<key>shouldStartChallenge</key>
+	<string>fusedGroup</string>
+</dict>
+</plist>

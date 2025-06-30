@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineduration</key>
+	<string>crucialDetail</string>
+	<key>containermargin</key>
+	<string>shouldEndLogarithm</string>
+	<key>dispatcherDistance</key>
+	<string>independentCallback</string>
+	<key>standaloneresourceinset</key>
+	<string>signSize</string>
+</dict>
+</plist>

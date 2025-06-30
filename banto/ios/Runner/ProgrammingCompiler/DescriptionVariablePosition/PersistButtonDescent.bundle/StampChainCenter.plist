@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonleft</key>
+	<string>shouldProcessController</string>
+	<key>eagerLocalization</key>
+	<string>asynchronousInteger</string>
+	<key>immediateLoss</key>
+	<string>isOption</string>
+	<key>intuitiveSine</key>
+	<string>synchronousConstant</string>
+	<key>largeScreen</key>
+	<string>aspectLayer</string>
+	<key>shouldNavigateSymbol</key>
+	<string>animatedcontainerTier</string>
+	<key>shouldSetStateCertificate</key>
+	<string>shouldAttachNotifier</string>
+</dict>
+</plist>

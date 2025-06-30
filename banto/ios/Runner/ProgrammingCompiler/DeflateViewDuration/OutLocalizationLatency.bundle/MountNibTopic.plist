@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitshapespacing</key>
+	<string>scaffoldFeedback</string>
+	<key>enabledDuration</key>
+	<string>extendError</string>
+	<key>infoStyle</key>
+	<string>canDetachSensor</string>
+	<key>intermediateShape</key>
+	<string>shouldBuildChallenge</string>
+	<key>rowstate</key>
+	<string>texturePlatform</string>
+	<key>shouldSkipFuture</key>
+	<string>injectiontag</string>
+	<key>shouldkeepcertificate</key>
+	<string>dialogsTask</string>
+</dict>
+</plist>

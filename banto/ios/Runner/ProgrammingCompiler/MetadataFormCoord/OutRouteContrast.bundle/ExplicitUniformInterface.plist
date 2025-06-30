@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentduringshape</key>
+	<string>shouldstopstamp</string>
+	<key>indicatorResponse</key>
+	<string>profileChannel</string>
+	<key>modulusShade</key>
+	<string>shouldEncodeBatch</string>
+	<key>modulusview</key>
+	<string>shouldUnmountDocument</string>
+	<key>precisionEdge</key>
+	<string>positionedLocation</string>
+	<key>presenterFrequency</key>
+	<string>resolverEdge</string>
+	<key>shouldEndCard</key>
+	<string>endMovement</string>
+	<key>shouldTransitionFuture</key>
+	<string>themeVariable</string>
+	<key>significantCupertino</key>
+	<string>uniqueGrayscale</string>
+	<key>subscriptionshapetint</key>
+	<string>defaultsubpixel</string>
+</dict>
+</plist>

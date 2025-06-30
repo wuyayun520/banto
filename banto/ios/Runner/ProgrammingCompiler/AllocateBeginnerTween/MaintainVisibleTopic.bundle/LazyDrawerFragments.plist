@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderDirection</key>
+	<string>parallelSlash</string>
+	<key>pausepageview</key>
+	<string>storageParam</string>
+	<key>referencesound</key>
+	<string>trainheap</string>
+	<key>shouldAnimateSymbol</key>
+	<string>shouldDecodeScroll</string>
+</dict>
+</plist>

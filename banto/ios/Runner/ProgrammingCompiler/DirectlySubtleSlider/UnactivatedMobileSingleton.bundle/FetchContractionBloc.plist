@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeconstraint</key>
+	<string>canParseCanvas</string>
+	<key>currentProvider</key>
+	<string>factoryShape</string>
+	<key>defaultModal</key>
+	<string>largeModal</string>
+	<key>eagerIntensity</key>
+	<string>draggableAnchor</string>
+	<key>handlerbehavior</key>
+	<string>disclaimerState</string>
+	<key>insteadsizedbox</key>
+	<string>trainSymbol</string>
+	<key>projectionAppearance</key>
+	<string>certificateBorder</string>
+	<key>resourcecount</key>
+	<string>cupertinoTernary</string>
+</dict>
+</plist>

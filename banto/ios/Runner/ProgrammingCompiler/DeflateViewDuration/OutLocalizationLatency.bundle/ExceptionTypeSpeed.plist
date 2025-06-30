@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelgrid</key>
+	<string>crucialAwait</string>
+	<key>compositionalrowmode</key>
+	<string>alphatail</string>
+	<key>materializedependency</key>
+	<string>publicMethod</string>
+	<key>shouldSkipAxis</key>
+	<string>reducerWork</string>
+	<key>singleAspectRatio</key>
+	<string>imperativeEvaluation</string>
+	<key>sophisticatedBinary</key>
+	<string>appbarFlags</string>
+</dict>
+</plist>

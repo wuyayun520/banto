@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustgem</key>
+	<string>spotAcceleration</string>
+	<key>blocrate</key>
+	<string>modaltempleopacity</string>
+	<key>hardAsset</key>
+	<string>usednotifiercoord</string>
+	<key>liteerrorlocation</key>
+	<string>shouldFormatView</string>
+	<key>sortedcursor</key>
+	<string>canDeserializeSlash</string>
+	<key>symmetricrecursion</key>
+	<string>canUpdateLogarithm</string>
+</dict>
+</plist>

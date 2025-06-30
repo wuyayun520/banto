@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialMend</key>
+	<string>limitSprite</string>
+	<key>deferredProgressBar</key>
+	<string>animateLog</string>
+	<key>integrationMode</key>
+	<string>flexibleResponder</string>
+	<key>mediumBox</key>
+	<string>freeprogressbar</string>
+	<key>reducerright</key>
+	<string>streamPriority</string>
+	<key>shouldConnectAlert</key>
+	<string>durationName</string>
+	<key>statusStyle</key>
+	<string>parallelListView</string>
+	<key>symmetricIntensity</key>
+	<string>rotateInterface</string>
+</dict>
+</plist>

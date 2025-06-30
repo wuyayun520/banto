@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSlash</key>
+	<string>backwardAction</string>
+	<key>cacheviaaction</key>
+	<string>fetchReference</string>
+	<key>composableGroup</key>
+	<string>shouldconnectprecision</string>
+	<key>configurationbehavior</key>
+	<string>routerstate</string>
+	<key>flexiblerequestalignment</key>
+	<string>transformScale</string>
+	<key>resizablescroller</key>
+	<string>shouldEncodeAnimatedContainer</string>
+	<key>scenechainresponse</key>
+	<string>drawertype</string>
+</dict>
+</plist>

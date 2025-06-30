@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedPopup</key>
+	<string>certificateCommand</string>
+	<key>bandwidthLeft</key>
+	<string>dedicatedScheduler</string>
+	<key>connectorInteraction</key>
+	<string>shouldTrainResource</string>
+	<key>containerDuration</key>
+	<string>scrollhead</string>
+	<key>converterTension</key>
+	<string>endChallenge</string>
+	<key>curvestylesaturation</key>
+	<string>shouldSubscribeGram</string>
+	<key>inheritedDialogs</key>
+	<string>opaqueSink</string>
+	<key>modalrate</key>
+	<string>sortedCompleter</string>
+	<key>statusInset</key>
+	<string>delegateHandler</string>
+</dict>
+</plist>

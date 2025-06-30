@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heapnode</key>
+	<string>integerScale</string>
+	<key>routerplatformopacity</key>
+	<string>resizeTransition</string>
+	<key>sampletween</key>
+	<string>concurrentEmitter</string>
+	<key>scaleinteraction</key>
+	<string>gradientAction</string>
+	<key>statelessWidget</key>
+	<string>canFormatChallenge</string>
+	<key>unsortedscreencolor</key>
+	<string>bulletFrequency</string>
+	<key>visibletabbarlocation</key>
+	<string>deliverySpacing</string>
+</dict>
+</plist>

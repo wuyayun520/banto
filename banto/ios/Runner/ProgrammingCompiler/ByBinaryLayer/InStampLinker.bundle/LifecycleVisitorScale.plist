@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorHue</key>
+	<string>denseAction</string>
+	<key>discardedRow</key>
+	<string>statefulIndex</string>
+	<key>fixedGem</key>
+	<string>secondMatrix</string>
+	<key>indicatorTint</key>
+	<string>exceptionBehavior</string>
+	<key>movementCenter</key>
+	<string>recursionType</string>
+	<key>multiProgressBar</key>
+	<string>shaderBrightness</string>
+	<key>samplebufferbrightness</key>
+	<string>constraintProcess</string>
+	<key>shouldSaveEquipment</key>
+	<string>slashintegrity</string>
+</dict>
+</plist>

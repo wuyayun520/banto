@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalrequest</key>
+	<string>autoStrength</string>
+	<key>layoutframe</key>
+	<string>largeAsset</string>
+	<key>modelDirection</key>
+	<string>responsiveCaption</string>
+	<key>storeKind</key>
+	<string>recttag</string>
+	<key>uniformdescription</key>
+	<string>monsterbound</string>
+	<key>uniqueTrajectory</key>
+	<string>isolateSaturation</string>
+</dict>
+</plist>

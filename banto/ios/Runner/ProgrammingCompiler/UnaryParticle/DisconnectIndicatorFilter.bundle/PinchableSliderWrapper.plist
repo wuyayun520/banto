@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorVisibility</key>
+	<string>hierarchicalparticlealignment</string>
+	<key>infrastructureDensity</key>
+	<string>elasticIndicator</string>
+	<key>keyReference</key>
+	<string>canConnectController</string>
+	<key>sinkName</key>
+	<string>canRouteLabel</string>
+	<key>topicLeft</key>
+	<string>materialExpanded</string>
+</dict>
+</plist>

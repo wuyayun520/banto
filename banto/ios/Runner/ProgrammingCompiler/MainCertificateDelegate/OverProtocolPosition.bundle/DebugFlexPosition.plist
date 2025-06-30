@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleLoop</key>
+	<string>currentUsage</string>
+	<key>checkboxorientation</key>
+	<string>singleRoute</string>
+	<key>filterDepth</key>
+	<string>eagergraph</string>
+	<key>layoutmanager</key>
+	<string>dispatchMonster</string>
+	<key>parallelManager</key>
+	<string>multimediamode</string>
+	<key>spotpopup</key>
+	<string>colorInterval</string>
+	<key>unarytail</key>
+	<string>disconnectStorage</string>
+</dict>
+</plist>

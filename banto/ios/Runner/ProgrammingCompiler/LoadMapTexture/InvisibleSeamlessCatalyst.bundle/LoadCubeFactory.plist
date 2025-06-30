@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeSingleton</key>
+	<string>benchmarkInjection</string>
+	<key>flexibleRestriction</key>
+	<string>resilientSensor</string>
+	<key>imperativeCursor</key>
+	<string>progressbarBridge</string>
+	<key>scrollableDisclaimer</key>
+	<string>canPopAnchor</string>
+	<key>synchronoustimer</key>
+	<string>opaqueMetadata</string>
+	<key>techniqueBound</key>
+	<string>axisActivity</string>
+</dict>
+</plist>

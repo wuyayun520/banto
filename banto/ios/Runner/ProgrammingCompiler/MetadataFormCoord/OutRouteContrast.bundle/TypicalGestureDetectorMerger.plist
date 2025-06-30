@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperKind</key>
+	<string>evaluationShade</string>
+	<key>converterSaturation</key>
+	<string>rangepressure</string>
+	<key>fetchmethod</key>
+	<string>associatedInteractor</string>
+	<key>isstep</key>
+	<string>shouldReplaceInstruction</string>
+	<key>routethroughstructure</key>
+	<string>draggableAllocator</string>
+	<key>storyboardalignment</key>
+	<string>visitAllocator</string>
+	<key>unarycenter</key>
+	<string>evaluatestoryboard</string>
+	<key>visibleSpine</key>
+	<string>amortizationDuration</string>
+</dict>
+</plist>

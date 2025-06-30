@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionusecase</key>
+	<string>canNavigatePositioned</string>
+	<key>findhandler</key>
+	<string>compositionalInformation</string>
+	<key>flexiblePicker</key>
+	<string>utilTemple</string>
+	<key>lostHash</key>
+	<string>shouldDisposeTabView</string>
+	<key>missiontext</key>
+	<string>observeIndicator</string>
+	<key>olddependency</key>
+	<string>upgradecube</string>
+	<key>textfieldhandler</key>
+	<string>shouldUnmountedProjection</string>
+</dict>
+</plist>

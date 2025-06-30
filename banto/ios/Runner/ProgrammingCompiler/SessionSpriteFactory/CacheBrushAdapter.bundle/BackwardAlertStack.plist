@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedAllocator</key>
+	<string>shouldNotifyTable</string>
+	<key>binaryemitter</key>
+	<string>customObserver</string>
+	<key>decouplewidget</key>
+	<string>serializeOptimizer</string>
+	<key>directlyMultiplication</key>
+	<string>deferredConsumer</string>
+	<key>embracemodel</key>
+	<string>largeScheduler</string>
+	<key>implementstream</key>
+	<string>transitionPlayback</string>
+	<key>swiftforce</key>
+	<string>significantFrame</string>
+	<key>uniqueplatemode</key>
+	<string>pinchableBase</string>
+	<key>usedQueue</key>
+	<string>keyIntegrity</string>
+</dict>
+</plist>

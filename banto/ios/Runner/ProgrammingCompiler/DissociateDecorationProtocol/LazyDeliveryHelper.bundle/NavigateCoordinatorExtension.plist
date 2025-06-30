@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedScenario</key>
+	<string>efficiencyInterval</string>
+	<key>buttonInteraction</key>
+	<string>bindCollection</string>
+	<key>commonCoordinator</key>
+	<string>labelParameter</string>
+	<key>crudeFrame</key>
+	<string>fusedchannelscoord</string>
+	<key>enabledReliability</key>
+	<string>streamobserver</string>
+	<key>fragmentstatus</key>
+	<string>mainAscent</string>
+	<key>priorityCenter</key>
+	<string>tabbarFramework</string>
+	<key>shouldInflateMaster</key>
+	<string>advancedCursor</string>
+</dict>
+</plist>

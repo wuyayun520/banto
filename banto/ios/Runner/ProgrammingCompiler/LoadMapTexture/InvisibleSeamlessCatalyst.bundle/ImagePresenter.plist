@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPopup</key>
+	<string>continueSpot</string>
+	<key>discardedChooser</key>
+	<string>limitDecoration</string>
+	<key>logexception</key>
+	<string>topicValidation</string>
+	<key>oldMobile</key>
+	<string>pendingResource</string>
+	<key>primaryPolyfill</key>
+	<string>permissiveScaffold</string>
+	<key>scalabilityVisible</key>
+	<string>shouldSkipChallenge</string>
+	<key>scalefrompattern</key>
+	<string>tappableAllocator</string>
+	<key>serializenorm</key>
+	<string>statelessAnalyzer</string>
+	<key>shouldrouteresource</key>
+	<string>canDismissNotifier</string>
+	<key>temporaryAscent</key>
+	<string>accelerateFeature</string>
+</dict>
+</plist>

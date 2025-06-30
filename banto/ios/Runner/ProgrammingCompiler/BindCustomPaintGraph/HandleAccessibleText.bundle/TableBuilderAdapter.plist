@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredChallenge</key>
+	<string>standaloneMesh</string>
+	<key>discardedInfo</key>
+	<string>taxonomyAppearance</string>
+	<key>itemlocation</key>
+	<string>animationDecorator</string>
+	<key>repositorystatebrightness</key>
+	<string>canDisconnectPriority</string>
+	<key>shouldStopAnchor</key>
+	<string>locateHash</string>
+</dict>
+</plist>

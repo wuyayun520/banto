@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerRate</key>
+	<string>backwardMaterial</string>
+	<key>axisconverter</key>
+	<string>elementFlags</string>
+	<key>confidentialitydirection</key>
+	<string>localDelegate</string>
+	<key>iconnearstrategy</key>
+	<string>sineBridge</string>
+	<key>retrievecontroller</key>
+	<string>canBuildPlate</string>
+	<key>shouldbindcomposition</key>
+	<string>normalTaxonomy</string>
+	<key>spritetype</key>
+	<string>threadProcess</string>
+	<key>viewtaxonomy</key>
+	<string>shouldStartCatalyst</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gatespacing</key>
+	<string>interpolateCallback</string>
+	<key>heapDensity</key>
+	<string>canDismissTabBar</string>
+	<key>materializerOrientation</key>
+	<string>checkboxSingleton</string>
+	<key>opaqueIntegrity</key>
+	<string>observerallocator</string>
+	<key>overlaymediatorleft</key>
+	<string>lockConstraint</string>
+	<key>statefulanimationtension</key>
+	<string>animateRepository</string>
+	<key>threadsincejob</key>
+	<string>timerCoord</string>
+</dict>
+</plist>

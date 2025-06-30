@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttongroup</key>
+	<string>assetaroundtemple</string>
+	<key>concurrentGroup</key>
+	<string>imperativeComposition</string>
+	<key>eagerExponent</key>
+	<string>pointWork</string>
+	<key>enumeratematrix</key>
+	<string>accordionProcessor</string>
+	<key>mobileState</key>
+	<string>playview</string>
+	<key>primaryAnimation</key>
+	<string>shouldSerializeSegment</string>
+	<key>shouldAttachMaterial</key>
+	<string>touchSkewY</string>
+</dict>
+</plist>

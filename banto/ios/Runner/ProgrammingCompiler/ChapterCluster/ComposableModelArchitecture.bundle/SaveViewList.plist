@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveAlpha</key>
+	<string>reactiveElasticity</string>
+	<key>cursorlocation</key>
+	<string>canTransitionRow</string>
+	<key>fusedmapcenter</key>
+	<string>declarativeMediaQuery</string>
+	<key>shouldCancelTheme</key>
+	<string>shouldNavigateFragment</string>
+	<key>shouldLayoutPositioned</key>
+	<string>timelineType</string>
+	<key>statefulpatterndelay</key>
+	<string>crucialSensor</string>
+	<key>tableSpacing</key>
+	<string>canPersistCharacter</string>
+	<key>vectorForce</key>
+	<string>oldGem</string>
+</dict>
+</plist>

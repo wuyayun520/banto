@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerPublisher</key>
+	<string>stackStage</string>
+	<key>denseDescent</key>
+	<string>shouldRouteRemainder</string>
+	<key>densebloc</key>
+	<string>formatusecase</string>
+	<key>dynamicTaxonomy</key>
+	<string>localSubscriber</string>
+	<key>findcontainer</key>
+	<string>embedResource</string>
+	<key>interpolationamongparameter</key>
+	<string>displayableSign</string>
+	<key>shouldDetachExtension</key>
+	<string>storesize</string>
+	<key>shouldvalidategesture</key>
+	<string>showTexture</string>
+	<key>tensorSchema</key>
+	<string>handleModel</string>
+</dict>
+</plist>

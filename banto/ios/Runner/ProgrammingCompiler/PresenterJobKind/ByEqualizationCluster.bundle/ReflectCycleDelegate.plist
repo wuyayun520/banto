@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilesink</key>
+	<string>animatedResource</string>
+	<key>desktopLabel</key>
+	<string>gesturerect</string>
+	<key>dialogsTheme</key>
+	<string>pivotalPainter</string>
+	<key>mediaqueryrow</key>
+	<string>taskstrategysaturation</string>
+	<key>shouldEndLabel</key>
+	<string>minIcon</string>
+</dict>
+</plist>

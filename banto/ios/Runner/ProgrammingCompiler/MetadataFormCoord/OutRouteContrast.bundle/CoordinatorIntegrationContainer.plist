@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>sizeTheme</key>
+	<string>independentStorage</string>
+	<key>smallCompleter</key>
+	<string>unregisterBuilder</string>
+	<key>usedAllocator</key>
+	<string>canProcessGraphic</string>
+	<key>webAnchor</key>
+	<string>stateduringobserver</string>
+</dict>
+</plist>

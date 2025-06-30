@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directStorage</key>
+	<string>insteadAsync</string>
+	<key>diversifiedNotation</key>
+	<string>oldAppBar</string>
+	<key>optimizeresponse</key>
+	<string>mountedChannels</string>
+	<key>pivotalReplica</key>
+	<string>canSubscribeMaster</string>
+	<key>reactivemerger</key>
+	<string>navigatorLayer</string>
+	<key>responsiveNode</key>
+	<string>isolateobserverspacing</string>
+	<key>shouldCreateAxis</key>
+	<string>touchActivity</string>
+	<key>shouldValidateSession</key>
+	<string>canBindAnimation</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificatestructurestyle</key>
+	<string>creatorSpeed</string>
+	<key>eageralignment</key>
+	<string>mediumEvent</string>
+	<key>loadcurve</key>
+	<string>sequentialNib</string>
+	<key>pinchableScroller</key>
+	<string>inheritedMapper</string>
+</dict>
+</plist>

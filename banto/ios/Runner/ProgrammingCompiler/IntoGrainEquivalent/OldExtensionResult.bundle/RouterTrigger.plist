@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicProjection</key>
+	<string>greatImage</string>
+	<key>decorationTint</key>
+	<string>diffableSensor</string>
+	<key>defaultSkin</key>
+	<string>dismissprojection</string>
+	<key>ephemeralSegment</key>
+	<string>shouldendaxis</string>
+	<key>immediateGrid</key>
+	<string>requiredPositioned</string>
+	<key>impressiondensity</key>
+	<string>multiButton</string>
+	<key>responsiveItem</key>
+	<string>permanentVariant</string>
+	<key>shouldTransformMaster</key>
+	<string>titletension</string>
+	<key>staticAspect</key>
+	<string>transpileTimer</string>
+</dict>
+</plist>

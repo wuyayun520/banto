@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityTop</key>
+	<string>activeDuration</string>
+	<key>rectangleSaturation</key>
+	<string>bindstoryboard</string>
+	<key>shouldSubscribeKernel</key>
+	<string>mediumObserver</string>
+	<key>shouldTransformLayout</key>
+	<string>usedMargin</string>
+</dict>
+</plist>

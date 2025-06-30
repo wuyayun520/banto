@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerTicker</key>
+	<string>publisherSkewY</string>
+	<key>hasStream</key>
+	<string>combinerSaturation</string>
+	<key>shouldPersistBullet</key>
+	<string>shouldvalidateprotocol</string>
+	<key>titlemementointeraction</key>
+	<string>shouldParseCupertino</string>
+</dict>
+</plist>

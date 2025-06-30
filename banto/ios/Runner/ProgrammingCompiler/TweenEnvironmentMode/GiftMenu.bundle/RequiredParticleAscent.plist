@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerRight</key>
+	<string>consumeshader</string>
+	<key>imageInset</key>
+	<string>otherInteractor</string>
+	<key>kernelValidation</key>
+	<string>paddingDelay</string>
+	<key>moduleShape</key>
+	<string>rectDensity</string>
+</dict>
+</plist>

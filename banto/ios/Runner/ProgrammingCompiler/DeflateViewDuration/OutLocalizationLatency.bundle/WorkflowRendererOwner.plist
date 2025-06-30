@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorSkewX</key>
+	<string>restartCanvas</string>
+	<key>asynchronousElement</key>
+	<string>removeTexture</string>
+	<key>dedicatedIntegration</key>
+	<string>subscriberBrightness</string>
+	<key>equalizationlevelcolor</key>
+	<string>colorCount</string>
+	<key>explicitCombiner</key>
+	<string>particledepth</string>
+	<key>scalemend</key>
+	<string>shouldStreamAlert</string>
+</dict>
+</plist>

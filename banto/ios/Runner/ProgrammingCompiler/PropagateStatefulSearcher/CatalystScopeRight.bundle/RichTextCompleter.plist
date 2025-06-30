@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedsubpixel</key>
+	<string>processorMode</string>
+	<key>enabledNavigator</key>
+	<string>playText</string>
+	<key>largeAction</key>
+	<string>shouldSetStateLogarithm</string>
+	<key>oldcanvascolor</key>
+	<string>prismaticwidget</string>
+	<key>selectedscroll</key>
+	<string>defaultbrush</string>
+	<key>shouldPrepareDrawer</key>
+	<string>hyperbolicEntity</string>
+	<key>shouldTransitionPromise</key>
+	<string>invokeInteractor</string>
+	<key>similarSlash</key>
+	<string>shouldPopRemainder</string>
+</dict>
+</plist>

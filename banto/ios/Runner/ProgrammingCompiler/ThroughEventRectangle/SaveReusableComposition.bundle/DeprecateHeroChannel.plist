@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMatrix</key>
+	<string>buttoncontextname</string>
+	<key>combinespot</key>
+	<string>challengeFormat</string>
+	<key>elasticDescriptor</key>
+	<string>inactiveIcon</string>
+	<key>enabledImpression</key>
+	<string>canConnectPet</string>
+	<key>inflateallocator</key>
+	<string>rowsize</string>
+	<key>requiredComposition</key>
+	<string>createMaster</string>
+	<key>secondAnalogy</key>
+	<string>modulusValue</string>
+	<key>shouldContinueDelegate</key>
+	<string>disparateIsolate</string>
+	<key>specifyCupertino</key>
+	<string>ephemeralInstruction</string>
+	<key>uniformInstruction</key>
+	<string>curvePressure</string>
+</dict>
+</plist>

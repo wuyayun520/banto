@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncframeworkmode</key>
+	<string>executepriority</string>
+	<key>eagerStrength</key>
+	<string>displayableScope</string>
+	<key>extensionedge</key>
+	<string>immutablecoordinatorspacing</string>
+	<key>firstWidget</key>
+	<string>wrapperMomentum</string>
+	<key>geometricUseCase</key>
+	<string>shouldbuildpoint</string>
+	<key>originalAspect</key>
+	<string>firstVector</string>
+</dict>
+</plist>

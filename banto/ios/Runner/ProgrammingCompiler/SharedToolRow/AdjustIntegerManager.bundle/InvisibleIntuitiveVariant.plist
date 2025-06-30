@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertjoiner</key>
+	<string>shaderContrast</string>
+	<key>backwardScope</key>
+	<string>sequentialManager</string>
+	<key>crudeAudio</key>
+	<string>shouldRenderGate</string>
+	<key>priorDistinction</key>
+	<string>lazyTolerance</string>
+	<key>stopmomentum</key>
+	<string>clearResource</string>
+	<key>usagealignment</key>
+	<string>notifierDelay</string>
+	<key>vectorLeft</key>
+	<string>spinProvider</string>
+</dict>
+</plist>

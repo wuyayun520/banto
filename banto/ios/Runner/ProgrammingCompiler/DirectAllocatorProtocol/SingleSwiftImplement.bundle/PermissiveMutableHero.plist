@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nativeMetadata</key>
+	<string>checkTitle</string>
+	<key>protectedMember</key>
+	<string>timerstructureformat</string>
+	<key>repositorytraversal</key>
+	<string>responseDirection</string>
+	<key>routeappearance</key>
+	<string>canStartTangent</string>
+	<key>shouldYieldVariant</key>
+	<string>eventskewx</string>
+</dict>
+</plist>

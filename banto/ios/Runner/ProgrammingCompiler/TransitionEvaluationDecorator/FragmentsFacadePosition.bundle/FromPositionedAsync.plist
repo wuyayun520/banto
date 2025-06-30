@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncobservertype</key>
+	<string>logCenter</string>
+	<key>delegateRight</key>
+	<string>integrationinterval</string>
+	<key>interactiveCertificate</key>
+	<string>variantPressure</string>
+	<key>shouldRouteOptimizer</key>
+	<string>toolDelay</string>
+	<key>uniformConfiguration</key>
+	<string>difficultEfficiency</string>
+</dict>
+</plist>

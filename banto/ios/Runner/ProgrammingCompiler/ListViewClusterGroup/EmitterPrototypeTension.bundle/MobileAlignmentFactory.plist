@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveinteraction</key>
+	<string>trainRadio</string>
+	<key>prioritymesh</key>
+	<string>primaryElement</string>
+	<key>reusablescaffold</key>
+	<string>switchawayframework</string>
+	<key>timeTint</key>
+	<string>diversifiedTexture</string>
+	<key>traversalSkewX</key>
+	<string>sophisticatedsubscription</string>
+</dict>
+</plist>

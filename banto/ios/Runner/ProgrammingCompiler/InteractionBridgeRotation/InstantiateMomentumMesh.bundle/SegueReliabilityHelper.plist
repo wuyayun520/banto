@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTool</key>
+	<string>symmetricexpanded</string>
+	<key>defaultBehavior</key>
+	<string>documentbesidevisitor</string>
+	<key>immediateRectangle</key>
+	<string>reliabilityForce</string>
+	<key>navigatebloc</key>
+	<string>activatedTolerance</string>
+	<key>rendererDistance</key>
+	<string>symmetricSubscription</string>
+	<key>sequentialConsumer</key>
+	<string>fixedInjection</string>
+	<key>sharedPicker</key>
+	<string>selectedmaterial</string>
+	<key>usedMethod</key>
+	<string>selectedTool</string>
+</dict>
+</plist>

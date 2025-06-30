@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseWorkflow</key>
+	<string>floatAsync</string>
+	<key>effectName</key>
+	<string>playTask</string>
+	<key>originalFuture</key>
+	<string>eventcoord</string>
+	<key>robustExponent</key>
+	<string>architectureRight</string>
+	<key>shouldLayoutView</key>
+	<string>concurrentgridedge</string>
+	<key>shouldPushStamp</key>
+	<string>shouldLoadComposition</string>
+	<key>statelessTangent</key>
+	<string>savestoryboard</string>
+	<key>typicalUnary</key>
+	<string>canSetStateSymbol</string>
+</dict>
+</plist>

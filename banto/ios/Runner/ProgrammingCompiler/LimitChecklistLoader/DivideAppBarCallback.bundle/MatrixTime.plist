@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesacceleration</key>
+	<string>escalatetable</string>
+	<key>cupertinoReduction</key>
+	<string>canSerializeTheme</string>
+	<key>delicateResource</key>
+	<string>shouldStartOption</string>
+	<key>factoryTransparency</key>
+	<string>concatenatePreview</string>
+	<key>histogramFlags</key>
+	<string>processGrayscale</string>
+	<key>publicAxis</key>
+	<string>anchorStrategy</string>
+	<key>rangeInset</key>
+	<string>intuitiveKernel</string>
+	<key>robustLogarithm</key>
+	<string>granularCompletion</string>
+	<key>shouldUnmountSymbol</key>
+	<string>restoreMenu</string>
+	<key>taxonomyRate</key>
+	<string>showStream</string>
+</dict>
+</plist>

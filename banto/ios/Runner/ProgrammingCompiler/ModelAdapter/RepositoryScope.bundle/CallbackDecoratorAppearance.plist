@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionConfidentiality</key>
+	<string>canPersistMaster</string>
+	<key>combinehandler</key>
+	<string>sustainableMonster</string>
+	<key>compositionalTechnique</key>
+	<string>flexmerger</string>
+	<key>fusedCoordinator</key>
+	<string>blocTension</string>
+	<key>priorityFeedback</key>
+	<string>specifyTheme</string>
+	<key>reactiveDetector</key>
+	<string>reconcileIntensity</string>
+	<key>shouldEncodePlate</key>
+	<string>responsiveChannels</string>
+	<key>shouldListenPlate</key>
+	<string>shouldContinueScroll</string>
+	<key>transitioncomposition</key>
+	<string>hyperbolicStatus</string>
+</dict>
+</plist>

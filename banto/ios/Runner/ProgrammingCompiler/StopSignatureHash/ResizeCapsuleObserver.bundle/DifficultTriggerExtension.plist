@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintformsaturation</key>
+	<string>largeLifecycle</string>
+	<key>dedicatedScalability</key>
+	<string>widgetfragments</string>
+	<key>deliveryScale</key>
+	<string>uniformCombiner</string>
+	<key>metadatacombiner</key>
+	<string>decodeZone</string>
+	<key>projectioncount</key>
+	<string>symmetricGift</string>
+</dict>
+</plist>

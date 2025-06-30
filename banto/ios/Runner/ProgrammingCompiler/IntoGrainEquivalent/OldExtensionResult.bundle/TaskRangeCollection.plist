@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerlikeframework</key>
+	<string>reactiveMapper</string>
+	<key>autoRestriction</key>
+	<string>combineMetadata</string>
+	<key>completerobject</key>
+	<string>invisibleFormat</string>
+	<key>desktopShader</key>
+	<string>respondBuilder</string>
+	<key>sequentialStore</key>
+	<string>bindershape</string>
+</dict>
+</plist>

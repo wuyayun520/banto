@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localQuaternion</key>
+	<string>skipProtocol</string>
+	<key>nativematerializer</key>
+	<string>canEmitSkirt</string>
+	<key>richtextparamorientation</key>
+	<string>sorterBehavior</string>
+	<key>robustpositioned</key>
+	<string>scaffoldMemento</string>
+	<key>semanticTrajectory</key>
+	<string>elasticSymbol</string>
+	<key>shouldCreateBehavior</key>
+	<string>hasAnimation</string>
+	<key>shouldDisposeInkWell</key>
+	<string>bindProtocol</string>
+	<key>trajectoryName</key>
+	<string>graphAppearance</string>
+	<key>volumeTail</key>
+	<string>canStreamMultiplication</string>
+</dict>
+</plist>

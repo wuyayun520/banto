@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicRotation</key>
+	<string>futurethreshold</string>
+	<key>kernelinterval</key>
+	<string>canRebuildDuration</string>
+	<key>notificationnearbridge</key>
+	<string>navigatorFacade</string>
+	<key>resourceforfacade</key>
+	<string>shaderShape</string>
+	<key>shaderbuilder</key>
+	<string>precisionParam</string>
+	<key>shouldkeeplog</key>
+	<string>shouldMountBloc</string>
+	<key>shouldsetstateprotocol</key>
+	<string>spritetheme</string>
+	<key>strengthTension</key>
+	<string>canPrepareContainer</string>
+</dict>
+</plist>

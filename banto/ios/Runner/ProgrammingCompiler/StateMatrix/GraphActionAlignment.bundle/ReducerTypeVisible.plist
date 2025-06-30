@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSpot</key>
+	<string>textstyleopacity</string>
+	<key>descriptionTail</key>
+	<string>activatedinteger</string>
+	<key>interactorcenter</key>
+	<string>shouldDisconnectCosine</string>
+	<key>iterativeMethod</key>
+	<string>notificationLayer</string>
+	<key>primarySize</key>
+	<string>restartView</string>
+	<key>secondCombiner</key>
+	<string>nextVertex</string>
+	<key>shouldDispatchPainter</key>
+	<string>durationOffset</string>
+	<key>shouldEmitLayout</key>
+	<string>delicateStateless</string>
+	<key>uniqueTrigger</key>
+	<string>mediumAlert</string>
+</dict>
+</plist>

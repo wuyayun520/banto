@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystSize</key>
+	<string>injectionProxy</string>
+	<key>inkwellDelay</key>
+	<string>explicitLoader</string>
+	<key>modelcontrast</key>
+	<string>custompaintDistance</string>
+	<key>mountbrush</key>
+	<string>animatedBatch</string>
+	<key>textoperationskewy</key>
+	<string>reductionBorder</string>
+	<key>tweenskewx</key>
+	<string>isCapacities</string>
+	<key>usedtext</key>
+	<string>pauseSpot</string>
+</dict>
+</plist>

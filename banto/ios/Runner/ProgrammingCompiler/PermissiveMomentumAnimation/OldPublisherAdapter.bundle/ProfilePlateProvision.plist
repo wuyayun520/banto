@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedRichText</key>
+	<string>sequentialCard</string>
+	<key>inheritedStore</key>
+	<string>criticaleffect</string>
+	<key>movementnotation</key>
+	<string>unsortedModel</string>
+	<key>remediationRight</key>
+	<string>responseParam</string>
+	<key>semanticNavigator</key>
+	<string>dialogsFeedback</string>
+	<key>shouldDeserializeCertificate</key>
+	<string>trainExpanded</string>
+	<key>tappableEntity</key>
+	<string>amortizationContrast</string>
+</dict>
+</plist>

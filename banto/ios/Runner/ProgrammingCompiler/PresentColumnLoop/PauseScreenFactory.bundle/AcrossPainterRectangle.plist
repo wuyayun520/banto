@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderflags</key>
+	<string>differentiatedelegate</string>
+	<key>declarativeGraph</key>
+	<string>arithmeticScheduler</string>
+	<key>diversifieddialogs</key>
+	<string>reusableQuaternion</string>
+	<key>effectBound</key>
+	<string>canHandleMovement</string>
+	<key>greatSegue</key>
+	<string>synchronousLog</string>
+	<key>setstateprotocol</key>
+	<string>ignoredTask</string>
+	<key>shouldPersistSign</key>
+	<string>swiftEdge</string>
+</dict>
+</plist>

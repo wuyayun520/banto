@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSubscription</key>
+	<string>shouldPopTool</string>
+	<key>animatedChannel</key>
+	<string>injectionVisitor</string>
+	<key>customizedCaption</key>
+	<string>finderdirection</string>
+	<key>customizedInteraction</key>
+	<string>iconShade</string>
+	<key>deferredListener</key>
+	<string>canDismissIcon</string>
+	<key>textureBehavior</key>
+	<string>modelparameteroffset</string>
+</dict>
+</plist>

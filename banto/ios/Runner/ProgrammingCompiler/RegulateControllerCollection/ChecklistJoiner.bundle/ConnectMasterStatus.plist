@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basecallback</key>
+	<string>playbackcontroller</string>
+	<key>giftefficiency</key>
+	<string>denseMaterial</string>
+	<key>multiSelector</key>
+	<string>canLayoutBehavior</string>
+	<key>otherinterfaceedge</key>
+	<string>eagerText</string>
+	<key>parallelRecursion</key>
+	<string>concatenateDuration</string>
+	<key>shouldFetchPet</key>
+	<string>unlockDecoration</string>
+	<key>shouldSkipCatalyst</key>
+	<string>swiftInteraction</string>
+	<key>statefulLifecycle</key>
+	<string>uniqueRemainder</string>
+</dict>
+</plist>

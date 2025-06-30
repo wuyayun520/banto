@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvastransformer</key>
+	<string>lastGraph</string>
+	<key>cardshade</key>
+	<string>persistScroll</string>
+	<key>convolutionalongobserver</key>
+	<string>prepareChannels</string>
+	<key>displayableMovement</key>
+	<string>ternaryMode</string>
+	<key>modelconfidentiality</key>
+	<string>canNavigateGem</string>
+	<key>permanentInformation</key>
+	<string>shouldUnmountAxis</string>
+	<key>responsiveIntegration</key>
+	<string>inactiveError</string>
+	<key>shouldpresentequalization</key>
+	<string>animatedSplitter</string>
+</dict>
+</plist>

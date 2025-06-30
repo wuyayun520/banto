@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryascent</key>
+	<string>grainTail</string>
+	<key>handlercolor</key>
+	<string>normTint</string>
+	<key>listenerDuration</key>
+	<string>replaceDescription</string>
+	<key>relationalRole</key>
+	<string>shouldnotifytechnique</string>
+	<key>shouldAnimateCosine</key>
+	<string>canObserveGradient</string>
+	<key>subscriptionvisible</key>
+	<string>canDismissMap</string>
+</dict>
+</plist>

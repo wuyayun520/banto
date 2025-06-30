@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachepressure</key>
+	<string>shouldLayoutTool</string>
+	<key>completerFormat</key>
+	<string>shouldPushMission</string>
+	<key>notifygraphic</key>
+	<string>shouldKeepCache</string>
+	<key>publicsubpixel</key>
+	<string>statelessRepository</string>
+	<key>shouldNavigateBox</key>
+	<string>ongradienttap</string>
+	<key>shouldStopMargin</key>
+	<string>graphicVisible</string>
+	<key>tappableFactory</key>
+	<string>logWork</string>
+	<key>unaryResponse</key>
+	<string>searcherSkewY</string>
+</dict>
+</plist>

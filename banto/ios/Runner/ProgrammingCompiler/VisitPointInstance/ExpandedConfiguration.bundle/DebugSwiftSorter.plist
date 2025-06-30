@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalLogarithm</key>
+	<string>difficultStrength</string>
+	<key>directOperation</key>
+	<string>lazyIndicator</string>
+	<key>localBehavior</key>
+	<string>parseVector</string>
+	<key>resumemedia</key>
+	<string>basicCosine</string>
+	<key>smallResponse</key>
+	<string>custompaintFunction</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoPolygon</key>
+	<string>keyanalogy</string>
+	<key>eagerJoiner</key>
+	<string>resolvepageview</string>
+	<key>euclideanWidget</key>
+	<string>keyResponse</string>
+	<key>normalAwait</key>
+	<string>disconnectCycle</string>
+	<key>shouldInflateAnimation</key>
+	<string>criticalalignmentposition</string>
+	<key>topicskewx</key>
+	<string>manageroffset</string>
+</dict>
+</plist>

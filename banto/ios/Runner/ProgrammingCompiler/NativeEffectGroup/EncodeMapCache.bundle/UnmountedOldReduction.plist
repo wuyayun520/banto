@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>routesingleton</key>
+	<string>permanentCluster</string>
+	<key>sharedBrush</key>
+	<string>addCompleter</string>
+	<key>shouldMountPriority</key>
+	<string>disclaimerDepth</string>
+	<key>shouldProcessCollection</key>
+	<string>enumerateMetadata</string>
+	<key>shouldValidateHeap</key>
+	<string>dispatcherDistance</string>
+	<key>storeCoord</key>
+	<string>paintstep</string>
+</dict>
+</plist>

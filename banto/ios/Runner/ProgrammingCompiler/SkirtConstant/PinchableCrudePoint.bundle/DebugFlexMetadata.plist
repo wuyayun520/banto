@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphastrategyflags</key>
+	<string>injectionAdapter</string>
+	<key>explicitThroughput</key>
+	<string>mechanismDepth</string>
+	<key>nativeternary</key>
+	<string>receivecursor</string>
+	<key>originalStream</key>
+	<string>detailHue</string>
+	<key>resultjobskewx</key>
+	<string>encodeHeap</string>
+	<key>schemaFormat</key>
+	<string>buildRow</string>
+	<key>seamlessMetadata</key>
+	<string>activateScene</string>
+	<key>shouldFinishCharacter</key>
+	<string>metadatacontexttop</string>
+	<key>sizeKind</key>
+	<string>blocvisibility</string>
+	<key>vectorformat</key>
+	<string>logarithmObserver</string>
+</dict>
+</plist>

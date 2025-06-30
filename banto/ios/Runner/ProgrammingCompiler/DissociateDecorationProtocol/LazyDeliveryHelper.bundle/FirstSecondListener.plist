@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaInteraction</key>
+	<string>interactionFlags</string>
+	<key>completerimage</key>
+	<string>concurrentRadius</string>
+	<key>explicitPainter</key>
+	<string>currentCompleter</string>
+	<key>fetchdelegate</key>
+	<string>responsiveAnimatedContainer</string>
+	<key>giftprovider</key>
+	<string>directObject</string>
+	<key>granularException</key>
+	<string>interactiveCallback</string>
+	<key>prismaticInformation</key>
+	<string>matrixSkewX</string>
+	<key>signaturespacing</key>
+	<string>gramtimeline</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorRotation</key>
+	<string>canKeepBrush</string>
+	<key>liteTexture</key>
+	<string>handleCapsule</string>
+	<key>normalcluster</key>
+	<string>capsuleLeft</string>
+	<key>resilientManager</key>
+	<string>buttonfromparam</string>
+	<key>semanticChallenge</key>
+	<string>futureRotation</string>
+</dict>
+</plist>

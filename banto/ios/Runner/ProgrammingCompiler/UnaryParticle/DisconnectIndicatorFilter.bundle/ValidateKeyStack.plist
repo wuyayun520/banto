@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCharacteristic</key>
+	<string>permanentCell</string>
+	<key>agileFormat</key>
+	<string>createInstruction</string>
+	<key>priorBuffer</key>
+	<string>dispatchinteractor</string>
+	<key>shouldConnectMusic</key>
+	<string>markProgressBar</string>
+	<key>smartlabelvelocity</key>
+	<string>currentTabView</string>
+</dict>
+</plist>

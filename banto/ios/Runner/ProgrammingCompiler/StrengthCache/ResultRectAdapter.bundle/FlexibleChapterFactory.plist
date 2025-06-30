@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customScheduler</key>
+	<string>shouldSerializeBase</string>
+	<key>instructionorientation</key>
+	<string>geometricButton</string>
+	<key>latencyPressure</key>
+	<string>canDeserializePositioned</string>
+	<key>shouldskipanimatedcontainer</key>
+	<string>infrastructureFrequency</string>
+	<key>skipcaption</key>
+	<string>shouldEndRoute</string>
+	<key>threadanimation</key>
+	<string>registercallback</string>
+</dict>
+</plist>

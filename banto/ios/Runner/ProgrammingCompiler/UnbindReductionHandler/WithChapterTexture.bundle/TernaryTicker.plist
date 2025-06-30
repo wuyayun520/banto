@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedScalability</key>
+	<string>meshPosition</string>
+	<key>canvasFeedback</key>
+	<string>observeView</string>
+	<key>equalizationvisibility</key>
+	<string>shouldStartNorm</string>
+	<key>flexibledelegate</key>
+	<string>localizationorjob</string>
+	<key>primaryAnimator</key>
+	<string>indicatorBridge</string>
+	<key>semanticMethod</key>
+	<string>shouldEmitCurve</string>
+	<key>shouldLayoutCanvas</key>
+	<string>gesturedetectoratfunction</string>
+</dict>
+</plist>

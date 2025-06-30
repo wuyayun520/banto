@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeresultdelay</key>
+	<string>canPersistUnary</string>
+	<key>adaptivePainter</key>
+	<string>disparateScroll</string>
+	<key>amortizationSpeed</key>
+	<string>setstateStateless</string>
+	<key>diffableScenario</key>
+	<string>notifyGift</string>
+	<key>draggableSingleton</key>
+	<string>immutableSignature</string>
+	<key>handlenavigator</key>
+	<string>canPersistSample</string>
+	<key>hardJoiner</key>
+	<string>comprehensiveStateful</string>
+	<key>rapidFragment</key>
+	<string>shouldValidateSample</string>
+	<key>respectiveVertex</key>
+	<string>missedChapter</string>
+	<key>sophisticatedError</key>
+	<string>persistentHero</string>
+</dict>
+</plist>

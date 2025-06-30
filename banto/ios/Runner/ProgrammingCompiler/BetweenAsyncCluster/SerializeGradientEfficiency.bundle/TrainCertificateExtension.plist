@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardFuture</key>
+	<string>immediateRectangle</string>
+	<key>criticalContrast</key>
+	<string>desktopTextField</string>
+	<key>disabledMusic</key>
+	<string>metadatasplitter</string>
+	<key>lostseguedirection</key>
+	<string>animateMultiplication</string>
+	<key>mechanismborder</key>
+	<string>continueview</string>
+	<key>schemaBrightness</key>
+	<string>canStartPromise</string>
+	<key>statefulBuilder</key>
+	<string>protectedStorage</string>
+</dict>
+</plist>

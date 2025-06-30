@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicPosition</key>
+	<string>ephemeralLifecycle</string>
+	<key>deferredSign</key>
+	<string>shouldConnectCompletion</string>
+	<key>discardedObserver</key>
+	<string>documentexceptbuffer</string>
+	<key>eagerWidget</key>
+	<string>compositionalSlider</string>
+	<key>mediocreScale</key>
+	<string>extendpriority</string>
+	<key>shouldLoadStream</key>
+	<string>enabledData</string>
+	<key>shouldRouteMedia</key>
+	<string>resizablemultiplicationvalidation</string>
+	<key>shouldShowWidget</key>
+	<string>independentMonster</string>
+	<key>shouldYieldShader</key>
+	<string>boxshadowactiontransparency</string>
+	<key>tappableBehavior</key>
+	<string>dedicatedsubpixelcount</string>
+</dict>
+</plist>

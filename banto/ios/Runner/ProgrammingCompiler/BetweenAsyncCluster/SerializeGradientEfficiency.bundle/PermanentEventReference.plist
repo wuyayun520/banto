@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkresource</key>
+	<string>stateLevel</string>
+	<key>crudeStoryboard</key>
+	<string>constantdelay</string>
+	<key>deferredArithmetic</key>
+	<string>greatscope</string>
+	<key>euclideanLifecycle</key>
+	<string>secondwidgetscale</string>
+	<key>shouldCreateInkWell</key>
+	<string>observerprovider</string>
+	<key>shouldFinishLabel</key>
+	<string>locatechannel</string>
+	<key>tablePadding</key>
+	<string>semanticRequest</string>
+</dict>
+</plist>

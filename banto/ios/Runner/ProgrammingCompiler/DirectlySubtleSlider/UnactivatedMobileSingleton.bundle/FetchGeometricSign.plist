@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedMember</key>
+	<string>rangeBrightness</string>
+	<key>activesubpixel</key>
+	<string>captureProvider</string>
+	<key>disparateNotifier</key>
+	<string>memberTint</string>
+	<key>interactiveCaption</key>
+	<string>sensorascomposite</string>
+	<key>largeLoader</key>
+	<string>cleanStream</string>
+	<key>logspeed</key>
+	<string>canAnimateDescriptor</string>
+	<key>multiLoop</key>
+	<string>canEndGraphic</string>
+	<key>sharedVolume</key>
+	<string>retrieveAnimation</string>
+	<key>shouldskipaspect</key>
+	<string>scaffoldRate</string>
+	<key>subsequentplayback</key>
+	<string>shouldPersistWidget</string>
+</dict>
+</plist>

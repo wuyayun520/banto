@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindevent</key>
+	<string>directstreampressure</string>
+	<key>checklistTheme</key>
+	<string>immediateBox</string>
+	<key>crucialDimension</key>
+	<string>subsequentOverlay</string>
+	<key>emitterKind</key>
+	<string>prepareNorm</string>
+	<key>multiSelector</key>
+	<string>computeRouter</string>
+	<key>prevslider</key>
+	<string>encodeEntity</string>
+	<key>regulatetexture</key>
+	<string>updateTabView</string>
+	<key>sizeaboutfunction</key>
+	<string>capacitiesDelay</string>
+	<key>smartFlex</key>
+	<string>consultativeGem</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredMovement</key>
+	<string>tappableeventinset</string>
+	<key>diffableusecaseshape</key>
+	<string>architectureRotation</string>
+	<key>resizableNavigation</key>
+	<string>mitigateState</string>
+	<key>shouldContinueSensor</key>
+	<string>sharedAspect</string>
+	<key>shouldanimategesturedetector</key>
+	<string>decorationAlignment</string>
+	<key>sophisticatedFinder</key>
+	<string>transitioninterval</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridInterval</key>
+	<string>responseStructure</string>
+	<key>invisibleAlignment</key>
+	<string>protocolEdge</string>
+	<key>lostConstant</key>
+	<string>iterativeexponent</string>
+	<key>mutableDispatcher</key>
+	<string>multiOperation</string>
+	<key>semanticCanvas</key>
+	<string>shouldFormatContraction</string>
+	<key>shouldNavigateGrayscale</key>
+	<string>transformGradient</string>
+	<key>sophisticatedprovision</key>
+	<string>transformVariant</string>
+	<key>statefulTextField</key>
+	<string>firstBinary</string>
+	<key>vectorPadding</key>
+	<string>layoutCustomPaint</string>
+</dict>
+</plist>

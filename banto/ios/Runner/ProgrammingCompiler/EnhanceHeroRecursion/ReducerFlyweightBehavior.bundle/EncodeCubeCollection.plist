@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>methodFeedback</key>
+	<string>techniquealongcycle</string>
+	<key>paddingState</key>
+	<string>sizeInset</string>
+	<key>roleDirection</key>
+	<string>currentgrayscale</string>
+	<key>shouldFormatDuration</key>
+	<string>mountedTransition</string>
+	<key>significantStream</key>
+	<string>iterativeWorkflow</string>
+	<key>standaloneProject</key>
+	<string>shouldSetStateConstraint</string>
+</dict>
+</plist>

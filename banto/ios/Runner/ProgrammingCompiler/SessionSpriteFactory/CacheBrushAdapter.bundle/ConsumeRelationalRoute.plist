@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>priorCollection</key>
+	<string>beginnerMapper</string>
+	<key>subtleSegment</key>
+	<string>notificationBehavior</string>
+</dict>
+</plist>

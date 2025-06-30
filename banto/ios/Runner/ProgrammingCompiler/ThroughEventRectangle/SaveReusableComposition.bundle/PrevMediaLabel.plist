@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerFormat</key>
+	<string>statefulAdapter</string>
+	<key>associatedDescription</key>
+	<string>mapBehavior</string>
+	<key>priorResolver</key>
+	<string>shouldReplaceHero</string>
+	<key>roleMode</key>
+	<string>setupBuffer</string>
+	<key>shouldCacheController</key>
+	<string>tangentAppearance</string>
+	<key>shouldFetchCosine</key>
+	<string>canAnimateCursor</string>
+	<key>shouldObserveScroll</key>
+	<string>canSetStateBuilder</string>
+</dict>
+</plist>

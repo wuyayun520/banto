@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicButton</key>
+	<string>sequentialButton</string>
+	<key>boxshadowjobvisible</key>
+	<string>delicateBox</string>
+	<key>crudePosition</key>
+	<string>inactiveComposition</string>
+	<key>crudeTentative</key>
+	<string>allocateFeature</string>
+	<key>directQuaternion</key>
+	<string>robustRow</string>
+	<key>impressionShade</key>
+	<string>eventSpacing</string>
+	<key>inheritedTernary</key>
+	<string>interactiveTexture</string>
+	<key>robustParticle</key>
+	<string>deactivateState</string>
+	<key>shouldTransitionConvolution</key>
+	<string>reusableGridView</string>
+</dict>
+</plist>

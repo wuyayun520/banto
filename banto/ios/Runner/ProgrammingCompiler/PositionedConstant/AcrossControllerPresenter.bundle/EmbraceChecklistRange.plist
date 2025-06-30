@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineValidation</key>
+	<string>otherCluster</string>
+	<key>defaultinstruction</key>
+	<string>inheritedCell</string>
+	<key>materialZone</key>
+	<string>margindensity</string>
+	<key>rowawait</key>
+	<string>priorityandfunction</string>
+	<key>sliderCoord</key>
+	<string>secondDistinction</string>
+	<key>tweenduringmode</key>
+	<string>lockEntity</string>
+	<key>vectorthanadapter</key>
+	<string>vectorsearcher</string>
+</dict>
+</plist>

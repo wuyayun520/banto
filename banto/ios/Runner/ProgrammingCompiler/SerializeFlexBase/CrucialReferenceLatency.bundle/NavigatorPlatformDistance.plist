@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardflags</key>
+	<string>releaseParticle</string>
+	<key>draggableTable</key>
+	<string>canRebuildGradient</string>
+	<key>intuitivedecoration</key>
+	<string>sortedBase</string>
+	<key>keyRequest</key>
+	<string>clusterAlignment</string>
+	<key>metadataphasefeedback</key>
+	<string>drawUseCase</string>
+	<key>queuepernumber</key>
+	<string>shouldMountListView</string>
+	<key>reusableChapter</key>
+	<string>unmountGesture</string>
+	<key>shouldshownotifier</key>
+	<string>tickerDirection</string>
+	<key>tensorCustomPaint</key>
+	<string>shouldvalidatecard</string>
+</dict>
+</plist>

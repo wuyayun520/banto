@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleMesh</key>
+	<string>latencyfrequency</string>
+	<key>decoupleusecase</key>
+	<string>shouldListenFragment</string>
+	<key>displaychannels</key>
+	<string>multiRequest</string>
+	<key>effectTension</key>
+	<string>constantResponse</string>
+	<key>evolutionpadding</key>
+	<string>objectIndex</string>
+	<key>imperativeMission</key>
+	<string>shouldParseContraction</string>
+	<key>resultstate</key>
+	<string>overlaydespiteaction</string>
+	<key>skinMode</key>
+	<string>asynchronousRecursion</string>
+	<key>trainbuilder</key>
+	<string>frameFormat</string>
+</dict>
+</plist>

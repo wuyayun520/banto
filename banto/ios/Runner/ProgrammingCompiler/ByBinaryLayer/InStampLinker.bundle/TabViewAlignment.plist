@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionbound</key>
+	<string>primaryGestureDetector</string>
+	<key>adaptiveSchema</key>
+	<string>thresholdBehavior</string>
+	<key>chartbyvisitor</key>
+	<string>mergerMode</string>
+	<key>immediateRequest</key>
+	<string>directCoordinator</string>
+	<key>methodSkewX</key>
+	<string>shouldCacheText</string>
+	<key>protecteddescriptiontint</key>
+	<string>similarClipper</string>
+	<key>requiredExtension</key>
+	<string>shouldDispatchAlert</string>
+	<key>staticMovement</key>
+	<string>skirtspacing</string>
+	<key>subscriptiontriangles</key>
+	<string>rapidInfo</string>
+	<key>unsortedAnalyzer</key>
+	<string>statefulSpecifier</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeBehavior</key>
+	<string>loopAppearance</string>
+	<key>elasticshape</key>
+	<string>eraseInteractor</string>
+	<key>greatCallback</key>
+	<string>progressbarOrientation</string>
+	<key>integerScale</key>
+	<string>accordionpager</string>
+	<key>rendererMargin</key>
+	<string>mergerDensity</string>
+	<key>routestrategyfeedback</key>
+	<string>metadataMomentum</string>
+	<key>shouldDecodeTable</key>
+	<string>canDetachEqualization</string>
+	<key>sinksinceinterpreter</key>
+	<string>diffableSpecifier</string>
+	<key>visibleCycle</key>
+	<string>criticalCreator</string>
+</dict>
+</plist>

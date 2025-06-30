@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSensor</key>
+	<string>activeKernel</string>
+	<key>composablecallback</key>
+	<string>positionedcontroller</string>
+	<key>concurrentError</key>
+	<string>quantizerFactory</string>
+	<key>firstDrawer</key>
+	<string>fixedModule</string>
+	<key>flexibleMesh</key>
+	<string>standaloneScalability</string>
+	<key>ismodulus</key>
+	<string>tablevalidation</string>
+	<key>mitigateexpanded</key>
+	<string>declarativeDisclaimer</string>
+	<key>navigategrid</key>
+	<string>tangentPhase</string>
+	<key>subsequentChannel</key>
+	<string>augmentService</string>
+</dict>
+</plist>

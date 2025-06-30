@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedContraction</key>
+	<string>progressbarMethod</string>
+	<key>declarativeNavigator</key>
+	<string>shouldpreparestack</string>
+	<key>fragmentsEdge</key>
+	<string>localCreator</string>
+	<key>immutableBuffer</key>
+	<string>maincursor</string>
+	<key>localizationborder</key>
+	<string>coordinatordelay</string>
+	<key>monsteranimation</key>
+	<string>shouldTransitionReference</string>
+	<key>resilientEvolution</key>
+	<string>canUnmountShader</string>
+	<key>viewPressure</key>
+	<string>fillGraph</string>
+	<key>visibleInstruction</key>
+	<string>revisitCoordinator</string>
+</dict>
+</plist>

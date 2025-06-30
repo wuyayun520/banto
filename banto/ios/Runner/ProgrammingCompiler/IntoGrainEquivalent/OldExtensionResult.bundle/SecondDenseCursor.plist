@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudePermutation</key>
+	<string>canPublishCheckbox</string>
+	<key>customIndicator</key>
+	<string>serializeManager</string>
+	<key>dimensioncontainstrategy</key>
+	<string>resilientgrain</string>
+	<key>gesturedetectorresponse</key>
+	<string>shouldResumePromise</string>
+	<key>injectionascycle</key>
+	<string>robustChallenge</string>
+	<key>removestate</key>
+	<string>customSpot</string>
+	<key>sustainableCompletion</key>
+	<string>bulletValue</string>
+	<key>synchronousAspectRatio</key>
+	<string>subsequentduration</string>
+</dict>
+</plist>

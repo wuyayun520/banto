@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dataAppearance</key>
+	<string>respondObserver</string>
+	<key>graphFeedback</key>
+	<string>canRouteSwift</string>
+	<key>integrityTag</key>
+	<string>consultativeRadius</string>
+	<key>invisibleintegrity</key>
+	<string>cubeNumber</string>
+	<key>numericalCycle</key>
+	<string>canRebuildScaffold</string>
+	<key>screencallback</key>
+	<string>canHandleCube</string>
+</dict>
+</plist>

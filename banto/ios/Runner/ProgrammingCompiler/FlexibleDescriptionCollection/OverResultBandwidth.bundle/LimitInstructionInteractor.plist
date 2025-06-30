@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalcreator</key>
+	<string>criticalscroll</string>
+	<key>originalDelegate</key>
+	<string>topicnearoperation</string>
+	<key>persistentTolerance</key>
+	<string>defaultsegue</string>
+	<key>pivotalParticle</key>
+	<string>substantialPoint</string>
+	<key>shouldLoadChecklist</key>
+	<string>adaptiveChecklist</string>
+	<key>unarycyclevisibility</key>
+	<string>bufferPrototype</string>
+</dict>
+</plist>

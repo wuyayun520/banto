@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveProcessor</key>
+	<string>resultsaturation</string>
+	<key>brushroute</key>
+	<string>cartesianNavigator</string>
+	<key>graphicormediator</key>
+	<string>presenterJob</string>
+	<key>lostDocument</key>
+	<string>criticalinstructionindex</string>
+	<key>promiseaboutlevel</key>
+	<string>usedImage</string>
+	<key>showlistener</key>
+	<string>selectedcertificate</string>
+	<key>substantialSchema</key>
+	<string>textfieldProxy</string>
+</dict>
+</plist>

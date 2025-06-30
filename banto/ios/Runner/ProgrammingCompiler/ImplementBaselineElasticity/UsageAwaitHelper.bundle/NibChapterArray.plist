@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveButton</key>
+	<string>limitmedia</string>
+	<key>dependencydetector</key>
+	<string>saveAppBar</string>
+	<key>materialAcceleration</key>
+	<string>localBox</string>
+	<key>methodprocessor</key>
+	<string>listenerSize</string>
+	<key>secondIntegrity</key>
+	<string>canDisposeCycle</string>
+	<key>shoulddisconnectmobile</key>
+	<string>lifecycleOrigin</string>
+	<key>statusMomentum</key>
+	<string>canLoadDimension</string>
+	<key>uniqueNavigator</key>
+	<string>notationCoord</string>
+</dict>
+</plist>

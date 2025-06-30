@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentName</key>
+	<string>parallelfactory</string>
+	<key>composableAnimation</key>
+	<string>intuitiveAlpha</string>
+	<key>formatInset</key>
+	<string>replaceAlpha</string>
+	<key>indicatorIndex</key>
+	<string>monsterwithoutinterpreter</string>
+	<key>invisibleInfo</key>
+	<string>dispatchScroll</string>
+	<key>iterativeScreen</key>
+	<string>localizationScale</string>
+	<key>pushreference</key>
+	<string>intermediateFactory</string>
+	<key>skirtDepth</key>
+	<string>continueinjection</string>
+</dict>
+</plist>

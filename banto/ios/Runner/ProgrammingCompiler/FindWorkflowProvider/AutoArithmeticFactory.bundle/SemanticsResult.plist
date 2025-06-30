@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeFormat</key>
+	<string>overlaycompleter</string>
+	<key>exceptionDirection</key>
+	<string>boxshadowfrequency</string>
+	<key>extensionnearoperation</key>
+	<string>loadScroll</string>
+	<key>mobilefinder</key>
+	<string>grainBottom</string>
+	<key>presentervalidation</key>
+	<string>denseInteger</string>
+	<key>priorityVelocity</key>
+	<string>primaryResolver</string>
+	<key>sensordata</key>
+	<string>custompaintthreshold</string>
+	<key>variantskewy</key>
+	<string>synchronousStep</string>
+	<key>visibleListener</key>
+	<string>canSubscribeLabel</string>
+</dict>
+</plist>

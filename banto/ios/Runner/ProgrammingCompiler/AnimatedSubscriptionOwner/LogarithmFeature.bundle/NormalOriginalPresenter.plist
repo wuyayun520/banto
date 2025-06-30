@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheMode</key>
+	<string>projectionMediator</string>
+	<key>directRadio</key>
+	<string>missionFeedback</string>
+	<key>factoryStatus</key>
+	<string>quantizationSprite</string>
+	<key>intermediateTicker</key>
+	<string>graphicnearproxy</string>
+	<key>maingemsaturation</key>
+	<string>localSubscriber</string>
+	<key>nodetheme</key>
+	<string>publishAnchor</string>
+	<key>rapidLatency</key>
+	<string>dialogsFramework</string>
+	<key>statelessResult</key>
+	<string>otherSelector</string>
+</dict>
+</plist>

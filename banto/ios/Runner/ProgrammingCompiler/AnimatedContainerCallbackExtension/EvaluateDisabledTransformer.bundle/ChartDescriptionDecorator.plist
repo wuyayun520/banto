@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameMomentum</key>
+	<string>interactiveSine</string>
+	<key>intuitiveRadius</key>
+	<string>scheduleMenu</string>
+	<key>largeBuffer</key>
+	<string>holdCubit</string>
+	<key>resilientHash</key>
+	<string>taskDirection</string>
+	<key>shouldLoadSemantics</key>
+	<string>priorityKind</string>
+</dict>
+</plist>

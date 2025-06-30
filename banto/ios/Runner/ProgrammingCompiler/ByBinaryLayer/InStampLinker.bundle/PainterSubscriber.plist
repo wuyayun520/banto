@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>giftLocation</key>
+	<string>canPauseRow</string>
+	<key>grayscaleDuration</key>
+	<string>shouldNavigateCapacities</string>
+	<key>immutableChallenge</key>
+	<string>keyImpression</string>
+	<key>marginDirection</key>
+	<string>secondExtension</string>
+	<key>painterStyle</key>
+	<string>builderstatus</string>
+	<key>relationalFuture</key>
+	<string>sensorpadding</string>
+	<key>selectorBorder</key>
+	<string>contrastResponse</string>
+	<key>shouldDetachColumn</key>
+	<string>directlyCheckbox</string>
+	<key>shouldDispatchGridView</key>
+	<string>shouldNotifyProtocol</string>
+	<key>staticCompletion</key>
+	<string>canUnmountedGridView</string>
+</dict>
+</plist>

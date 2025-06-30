@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferOrientation</key>
+	<string>singletonBrightness</string>
+	<key>concurrentPresenter</key>
+	<string>immutableDetector</string>
+	<key>connectortension</key>
+	<string>multiCubit</string>
+	<key>fragmentEdge</key>
+	<string>sampleAcceleration</string>
+	<key>imperativeCapacities</key>
+	<string>integrationStyle</string>
+	<key>mainGraph</key>
+	<string>disconnectparticle</string>
+	<key>presenterstagebound</key>
+	<string>ephemeralUtil</string>
+	<key>tentativeDensity</key>
+	<string>typicalHandler</string>
+</dict>
+</plist>

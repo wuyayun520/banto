@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleChecklist</key>
+	<string>canUnmountSensor</string>
+	<key>actionproxyposition</key>
+	<string>eraseFeature</string>
+	<key>activityFrequency</key>
+	<string>interactiverequestshape</string>
+	<key>backwardInfrastructure</key>
+	<string>informationRight</string>
+	<key>directmargin</key>
+	<string>containerassingleton</string>
+	<key>ignoredcosine</key>
+	<string>paddingprocessflags</string>
+	<key>isProjection</key>
+	<string>aspectratioFlags</string>
+</dict>
+</plist>

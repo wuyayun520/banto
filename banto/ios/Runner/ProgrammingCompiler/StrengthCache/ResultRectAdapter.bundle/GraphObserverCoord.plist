@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticUsage</key>
+	<string>convertNavigator</string>
+	<key>iterativehashcount</key>
+	<string>normalSprite</string>
+	<key>persistmediaquery</key>
+	<string>controllerLevel</string>
+	<key>publishstack</key>
+	<string>arithmeticmargin</string>
+	<key>routeHue</key>
+	<string>temporaryShader</string>
+</dict>
+</plist>

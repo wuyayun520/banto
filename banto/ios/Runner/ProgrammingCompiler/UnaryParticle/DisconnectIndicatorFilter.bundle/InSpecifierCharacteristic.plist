@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblestatebrightness</key>
+	<string>canDecodeSwift</string>
+	<key>appbarvalidation</key>
+	<string>defaultTextField</string>
+	<key>enumerateutil</key>
+	<string>actionmode</string>
+	<key>euclideanFilter</key>
+	<string>freeConstraint</string>
+	<key>interfaceRotation</key>
+	<string>standaloneDescent</string>
+	<key>musicbuffer</key>
+	<string>colorcontrast</string>
+	<key>operationamongactivity</key>
+	<string>unregisterAnimation</string>
+	<key>shouldInflateEffect</key>
+	<string>annotatedecoration</string>
+	<key>unactivatedElasticity</key>
+	<string>sortedProfile</string>
+</dict>
+</plist>

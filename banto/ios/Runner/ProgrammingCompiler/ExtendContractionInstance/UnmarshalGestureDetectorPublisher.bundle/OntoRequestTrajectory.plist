@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMetadata</key>
+	<string>firstDocument</string>
+	<key>mutableInterpolation</key>
+	<string>sequentialMaterial</string>
+	<key>shouldDetachSlider</key>
+	<string>imageskewx</string>
+	<key>shouldObserveTabView</key>
+	<string>transformStore</string>
+</dict>
+</plist>

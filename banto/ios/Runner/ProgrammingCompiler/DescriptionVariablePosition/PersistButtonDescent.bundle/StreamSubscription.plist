@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalWorkflow</key>
+	<string>sortedCheckbox</string>
+	<key>implementexception</key>
+	<string>connectError</string>
+	<key>navigatorPosition</key>
+	<string>parallelListView</string>
+	<key>newestloop</key>
+	<string>iterativeMechanism</string>
+	<key>pivotalTask</key>
+	<string>euclideanDecoration</string>
+	<key>providedrawer</key>
+	<string>handlerthroughmode</string>
+	<key>skinFeedback</key>
+	<string>integerSpacing</string>
+	<key>webException</key>
+	<string>hashFacade</string>
+</dict>
+</plist>

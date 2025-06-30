@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalInfrastructure</key>
+	<string>binderBound</string>
+	<key>masterFlags</key>
+	<string>consultativeChooser</string>
+	<key>resultDirection</key>
+	<string>statelessRoute</string>
+	<key>shouldTrainInterpolation</key>
+	<string>utilStatus</string>
+	<key>significantTweak</key>
+	<string>desktopZone</string>
+	<key>stampStyle</key>
+	<string>dependencyOrientation</string>
+</dict>
+</plist>

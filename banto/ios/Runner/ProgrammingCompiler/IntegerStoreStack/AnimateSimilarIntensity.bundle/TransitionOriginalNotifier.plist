@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserInteraction</key>
+	<string>comprehensivelabel</string>
+	<key>declarativebloc</key>
+	<string>checklistentity</string>
+	<key>localmaster</key>
+	<string>transformInteger</string>
+	<key>memberTop</key>
+	<string>numericalShader</string>
+	<key>nodevisitorinteraction</key>
+	<string>gateTag</string>
+	<key>shouldListenCoordinator</key>
+	<string>cycleHue</string>
+	<key>subsequentChart</key>
+	<string>cacheMethod</string>
+	<key>uniqueTextField</key>
+	<string>integerSkewY</string>
+</dict>
+</plist>

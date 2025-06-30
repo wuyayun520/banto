@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorobserver</key>
+	<string>iterativeTransformer</string>
+	<key>cacheFormat</key>
+	<string>commonHero</string>
+	<key>customizedTabView</key>
+	<string>adjustEvent</string>
+	<key>fragmentVelocity</key>
+	<string>observeResponse</string>
+	<key>interactivelifecycle</key>
+	<string>basicEntropy</string>
+	<key>missedDuration</key>
+	<string>tensorExpanded</string>
+	<key>recursionMomentum</key>
+	<string>interactivetabbar</string>
+</dict>
+</plist>

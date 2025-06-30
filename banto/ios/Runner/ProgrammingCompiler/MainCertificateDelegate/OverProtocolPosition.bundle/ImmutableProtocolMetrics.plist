@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalarchitecture</key>
+	<string>displayableReducer</string>
+	<key>curvealongproxy</key>
+	<string>largeInteger</string>
+	<key>customizedPainter</key>
+	<string>granularRange</string>
+	<key>declarativeAnimation</key>
+	<string>basicSegue</string>
+	<key>disconnecttransformer</key>
+	<string>secondSound</string>
+	<key>elasticSemantics</key>
+	<string>canPersistEffect</string>
+	<key>entitylocation</key>
+	<string>canPopMedia</string>
+	<key>hierarchicalGesture</key>
+	<string>mediumCluster</string>
+	<key>modulusDepth</key>
+	<string>agileposition</string>
+</dict>
+</plist>

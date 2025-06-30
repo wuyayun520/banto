@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gemlevelpadding</key>
+	<string>objectLocation</string>
+	<key>inheritedSchema</key>
+	<string>flexiblePageView</string>
+	<key>resolverbrightness</key>
+	<string>seamlessNode</string>
+	<key>screendetail</key>
+	<string>nodeOffset</string>
+	<key>shouldFinishGradient</key>
+	<string>resizableFuture</string>
+	<key>shouldupdatesession</key>
+	<string>storeStage</string>
+	<key>uniformTask</key>
+	<string>transitionDocument</string>
+</dict>
+</plist>

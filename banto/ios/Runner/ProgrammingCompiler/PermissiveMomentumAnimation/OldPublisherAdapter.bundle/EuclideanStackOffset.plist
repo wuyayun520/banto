@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionTag</key>
+	<string>subscribeAspect</string>
+	<key>effectOpacity</key>
+	<string>controllerRate</string>
+	<key>inheritedRenderer</key>
+	<string>canMountBinary</string>
+	<key>semanticCard</key>
+	<string>materialInterface</string>
+	<key>shouldLoadColumn</key>
+	<string>yieldframe</string>
+	<key>spotscale</key>
+	<string>robustlistviewname</string>
+	<key>uniqueHandler</key>
+	<string>shouldTransitionMediaQuery</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesvisitorrotation</key>
+	<string>cubeProxy</string>
+	<key>concreteStateless</key>
+	<string>accessibleVolume</string>
+	<key>missedlayoutinterval</key>
+	<string>rectScope</string>
+	<key>viewformat</key>
+	<string>tappablemanager</string>
+</dict>
+</plist>

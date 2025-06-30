@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticOffset</key>
+	<string>previewFramework</string>
+	<key>constraintDirection</key>
+	<string>shouldFinishStamp</string>
+	<key>custominjection</key>
+	<string>makeAction</string>
+	<key>euclideanreducer</key>
+	<string>layoutmedia</string>
+	<key>firstMember</key>
+	<string>spriteValidation</string>
+	<key>radiusLocation</key>
+	<string>cupertinoAudio</string>
+	<key>transformerrotation</key>
+	<string>yieldHistogram</string>
+	<key>webContainer</key>
+	<string>setstateInstruction</string>
+</dict>
+</plist>

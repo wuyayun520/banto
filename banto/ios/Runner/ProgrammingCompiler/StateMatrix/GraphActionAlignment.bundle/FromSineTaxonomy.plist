@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedreductionorigin</key>
+	<string>shouldTransformGestureDetector</string>
+	<key>eagerWorkflow</key>
+	<string>shouldSkipPlate</string>
+	<key>latencyInteraction</key>
+	<string>popupactiondirection</string>
+	<key>opaqueBitrate</key>
+	<string>instructionFrequency</string>
+	<key>shouldConnectProvider</key>
+	<string>deferredAccessory</string>
+	<key>statelessResponse</key>
+	<string>parallelParticle</string>
+	<key>symmetricnavigatordelay</key>
+	<string>canCancelOption</string>
+</dict>
+</plist>

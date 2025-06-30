@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorSkewY</key>
+	<string>cosineRate</string>
+	<key>cupertinonibdelay</key>
+	<string>durationInterval</string>
+	<key>exceptionTint</key>
+	<string>scopespeed</string>
+	<key>inheritedProgressBar</key>
+	<string>labelstructureposition</string>
+	<key>mapstatus</key>
+	<string>zoneMargin</string>
+	<key>resizablesensorspacing</key>
+	<string>builderSkewX</string>
+	<key>storageBrightness</key>
+	<string>expandedTag</string>
+	<key>storagesincenumber</key>
+	<string>cacheBase</string>
+</dict>
+</plist>

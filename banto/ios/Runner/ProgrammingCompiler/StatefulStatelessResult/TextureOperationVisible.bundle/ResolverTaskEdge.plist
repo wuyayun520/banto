@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorForce</key>
+	<string>scrollsensor</string>
+	<key>fragmentsBorder</key>
+	<string>singleInteractor</string>
+	<key>shouldBindSegue</key>
+	<string>pauseStamp</string>
+	<key>shouldFetchCapacities</key>
+	<string>mutableDuration</string>
+</dict>
+</plist>

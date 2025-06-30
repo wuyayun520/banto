@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheevent</key>
+	<string>singlegraphic</string>
+	<key>maincallbacktail</key>
+	<string>aperturequeue</string>
+	<key>protectedblocorigin</key>
+	<string>tabviewBorder</string>
+	<key>shouldDecodeUnary</key>
+	<string>listviewContrast</string>
+	<key>smartBuilder</key>
+	<string>decodeSwift</string>
+</dict>
+</plist>

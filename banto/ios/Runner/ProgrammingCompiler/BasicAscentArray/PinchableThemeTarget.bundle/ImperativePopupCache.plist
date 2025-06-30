@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalScalability</key>
+	<string>iswidget</string>
+	<key>granularcertificateflags</key>
+	<string>hasrole</string>
+	<key>graphCenter</key>
+	<string>alertAcceleration</string>
+	<key>precisioninsidecontext</key>
+	<string>shouldStopDocument</string>
+	<key>shouldDetachPoint</key>
+	<string>appbarBottom</string>
+	<key>shouldObserveBase</key>
+	<string>particlemomentum</string>
+	<key>shouldPauseTable</key>
+	<string>largeBloc</string>
+	<key>unactivatedmargin</key>
+	<string>significanttouchvisibility</string>
+	<key>viewtag</key>
+	<string>typicalGridView</string>
+</dict>
+</plist>

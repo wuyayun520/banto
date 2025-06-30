@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factorythroughstructure</key>
+	<string>executeCurve</string>
+	<key>largeHistogram</key>
+	<string>constraintVelocity</string>
+	<key>paddingBottom</key>
+	<string>materialSkewY</string>
+	<key>preparecurve</key>
+	<string>shouldFetchDialogs</string>
+	<key>uniqueVector</key>
+	<string>singletonaudio</string>
+</dict>
+</plist>

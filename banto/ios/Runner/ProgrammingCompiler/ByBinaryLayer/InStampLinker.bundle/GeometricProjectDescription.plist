@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionMomentum</key>
+	<string>channelForce</string>
+	<key>permutationShade</key>
+	<string>uniformLayout</string>
+	<key>pinchableAnalogy</key>
+	<string>continueSpecifier</string>
+	<key>rapidRadius</key>
+	<string>matrixpolyfill</string>
+	<key>responsivehash</key>
+	<string>persistentLayout</string>
+	<key>shouldDecodeComposition</key>
+	<string>publicSlider</string>
+	<key>shouldPublishPadding</key>
+	<string>appendScene</string>
+	<key>similarExtension</key>
+	<string>overrideRepository</string>
+</dict>
+</plist>

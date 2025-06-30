@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionDirection</key>
+	<string>mountedrow</string>
+	<key>coordinatorfunctionspeed</key>
+	<string>canStopBloc</string>
+	<key>diffableEntropy</key>
+	<string>projectorvar</string>
+	<key>hasrole</key>
+	<string>dismissHistogram</string>
+	<key>resumesingleton</key>
+	<string>localStream</string>
+	<key>statestagecenter</key>
+	<string>canCacheCaption</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediumMap</key>
+	<string>transformPresenter</string>
+	<key>otherResponse</key>
+	<string>loadCapsule</string>
+	<key>overridescaffold</key>
+	<string>gesturedetectorPadding</string>
+	<key>shouldContinueExponent</key>
+	<string>cubitsaturation</string>
+	<key>shouldRestartMonster</key>
+	<string>shouldLoadStream</string>
+	<key>shouldValidateText</key>
+	<string>pauseBitrate</string>
+</dict>
+</plist>

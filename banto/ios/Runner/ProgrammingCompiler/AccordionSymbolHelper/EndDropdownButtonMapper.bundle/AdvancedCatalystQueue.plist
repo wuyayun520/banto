@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitySkewY</key>
+	<string>ignoredGem</string>
+	<key>descriptorDensity</key>
+	<string>canSaveDescriptor</string>
+	<key>hasSpecifier</key>
+	<string>singleDistinction</string>
+	<key>liteInstruction</key>
+	<string>resilientcaptionmode</string>
+	<key>sliderjobleft</key>
+	<string>geometricEqualization</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerkind</key>
+	<string>unsortedLabel</string>
+	<key>custombuilderopacity</key>
+	<string>shouldEndResource</string>
+	<key>disabledservice</key>
+	<string>robustScaffold</string>
+	<key>modelPosition</key>
+	<string>shouldDeserializeScreen</string>
+	<key>rowAlignment</key>
+	<string>serviceStructure</string>
+	<key>shouldFinishTabBar</key>
+	<string>canAnimateTouch</string>
+	<key>shouldMountScroll</key>
+	<string>maintainScene</string>
+</dict>
+</plist>

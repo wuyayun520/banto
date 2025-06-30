@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryState</key>
+	<string>reductionInteraction</string>
+	<key>currentSample</key>
+	<string>signatureFormat</string>
+	<key>directHeap</key>
+	<string>canRouteAnimatedContainer</string>
+	<key>expandedBehavior</key>
+	<string>shouldDecodeBaseline</string>
+	<key>finishgate</key>
+	<string>framepressure</string>
+	<key>painterdescent</key>
+	<string>customPlate</string>
+	<key>precisionFrequency</key>
+	<string>layervarshape</string>
+	<key>shouldNotifyController</key>
+	<string>statefulTexture</string>
+	<key>tabviewPadding</key>
+	<string>canMountedPlayback</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedProjection</key>
+	<string>precisionspeed</string>
+	<key>graphFrequency</key>
+	<string>decodeSlash</string>
+	<key>nativeCharacter</key>
+	<string>tensorIcon</string>
+	<key>radiusright</key>
+	<string>canListenBase</string>
+	<key>rapidBaseline</key>
+	<string>sharedStore</string>
+	<key>shouldEncodeStream</key>
+	<string>materialQueue</string>
+	<key>shouldrebuildsample</key>
+	<string>gemforce</string>
+	<key>synchronousSlash</key>
+	<string>cleanaxis</string>
+</dict>
+</plist>

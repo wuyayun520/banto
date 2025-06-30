@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedVariant</key>
+	<string>mixininjection</string>
+	<key>groupspacing</key>
+	<string>activeDelegate</string>
+	<key>largeDetector</key>
+	<string>backwardHash</string>
+	<key>mainduration</key>
+	<string>threadDistance</string>
+	<key>overlayShape</key>
+	<string>imperativedecoration</string>
+	<key>prevMetrics</key>
+	<string>exitpromise</string>
+	<key>sharedScale</key>
+	<string>buildEffect</string>
+	<key>transformloss</key>
+	<string>canObserveAlpha</string>
+</dict>
+</plist>

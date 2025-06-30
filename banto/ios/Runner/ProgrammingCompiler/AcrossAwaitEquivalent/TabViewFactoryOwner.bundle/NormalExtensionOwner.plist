@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationoperationshape</key>
+	<string>subscribeLoss</string>
+	<key>clipperlikemethod</key>
+	<string>significantpaddingmargin</string>
+	<key>eagerCanvas</key>
+	<string>canValidateCard</string>
+	<key>ephemeralInfrastructure</key>
+	<string>statefulProcessor</string>
+	<key>exitview</key>
+	<string>iterativeSplitter</string>
+	<key>firstBuilder</key>
+	<string>presenterJob</string>
+	<key>lostSine</key>
+	<string>shouldTrainInterpolation</string>
+	<key>shouldpresentcupertino</key>
+	<string>tangentColor</string>
+	<key>significantParticle</key>
+	<string>bitrateCommand</string>
+</dict>
+</plist>

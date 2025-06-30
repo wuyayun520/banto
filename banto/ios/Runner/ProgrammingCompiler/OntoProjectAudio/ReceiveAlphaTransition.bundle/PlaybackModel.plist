@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialOccasion</key>
+	<string>disclaimerShade</string>
+	<key>localHandler</key>
+	<string>analyzerlocation</string>
+	<key>signvideo</key>
+	<string>attachTopic</string>
+	<key>standalonesizedbox</key>
+	<string>resetQueue</string>
+	<key>sustainableElasticity</key>
+	<string>cupertinoOperation</string>
+	<key>tappableAwait</key>
+	<string>tangentPosition</string>
+	<key>tappableInterpolation</key>
+	<string>modelmediatorhue</string>
+	<key>temporaryChapter</key>
+	<string>displayableswitchstate</string>
+	<key>unsortedHandler</key>
+	<string>configureSize</string>
+</dict>
+</plist>

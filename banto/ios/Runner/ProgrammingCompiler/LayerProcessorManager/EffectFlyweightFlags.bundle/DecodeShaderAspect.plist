@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTouch</key>
+	<string>detachMember</string>
+	<key>boxshadowchapter</key>
+	<string>imperativeRole</string>
+	<key>catalystOpacity</key>
+	<string>consumemetadata</string>
+	<key>criticalTicker</key>
+	<string>crucialEffect</string>
+	<key>momentumvaluetheme</key>
+	<string>notifyResponse</string>
+	<key>nodeHue</key>
+	<string>canRestartAnimatedContainer</string>
+	<key>remainderoperationacceleration</key>
+	<string>computeRequest</string>
+	<key>taskbehavior</key>
+	<string>imageContrast</string>
+	<key>unactivatedTimeline</key>
+	<string>dynamicnotifier</string>
+</dict>
+</plist>

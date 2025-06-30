@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentappbar</key>
+	<string>mutableAccessory</string>
+	<key>extensionDuration</key>
+	<string>chapterbridgeformat</string>
+	<key>flexname</key>
+	<string>hierarchicalModel</string>
+	<key>interactorState</key>
+	<string>columnTag</string>
+	<key>largeSensor</key>
+	<string>resumeDecoration</string>
+	<key>occasionAcceleration</key>
+	<string>baseDistance</string>
+	<key>opaquebaseline</key>
+	<string>stateCount</string>
+	<key>primaryCard</key>
+	<string>metricsTheme</string>
+	<key>vertexBound</key>
+	<string>retainedInfrastructure</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialShader</key>
+	<string>unactivatedElasticity</string>
+	<key>isolateVisible</key>
+	<string>onactivitychanged</string>
+	<key>tappablePriority</key>
+	<string>easyConstraint</string>
+</dict>
+</plist>

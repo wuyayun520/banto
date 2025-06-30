@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonsink</key>
+	<string>typicalsegment</string>
+	<key>directlyConnector</key>
+	<string>canRestartAnchor</string>
+	<key>intensityasmediator</key>
+	<string>eagerParticle</string>
+	<key>retainedvolume</key>
+	<string>removeSingleton</string>
+	<key>semanticEntropy</key>
+	<string>detectorshape</string>
+	<key>shouldShowAxis</key>
+	<string>presenterEdge</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalRouter</key>
+	<string>invisibleContainer</string>
+	<key>concreteCaption</key>
+	<string>shouldUnbindModal</string>
+	<key>layerOffset</key>
+	<string>extendFrame</string>
+	<key>parallelDecoration</key>
+	<string>collectionDirection</string>
+	<key>screenbloc</key>
+	<string>compareIntensity</string>
+	<key>serializeanimation</key>
+	<string>makeRequest</string>
+</dict>
+</plist>

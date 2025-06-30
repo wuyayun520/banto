@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorstyle</key>
+	<string>intuitiveItem</string>
+	<key>disclaimerTag</key>
+	<string>swiftLayer</string>
+	<key>largeVertex</key>
+	<string>channelactionshape</string>
+	<key>semanticsDelay</key>
+	<string>isolateDelay</string>
+	<key>shouldDecodeAccessory</key>
+	<string>pendingSine</string>
+	<key>shouldStreamBase</key>
+	<string>analogySaturation</string>
+	<key>tentativeOrigin</key>
+	<string>substantialCycle</string>
+</dict>
+</plist>

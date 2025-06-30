@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstRenderer</key>
+	<string>customMap</string>
+	<key>ignoredRow</key>
+	<string>documentDecorator</string>
+	<key>interactorBottom</key>
+	<string>poolEntity</string>
+	<key>movementskewx</key>
+	<string>disabledCatalyst</string>
+	<key>painterbyshape</key>
+	<string>inheritedState</string>
+	<key>shouldFormatConvolution</key>
+	<string>captionOperation</string>
+	<key>shouldResumeBorder</key>
+	<string>methodRate</string>
+	<key>significantSegue</key>
+	<string>navigationSaturation</string>
+	<key>singleDelegate</key>
+	<string>shouldBindMomentum</string>
+	<key>uniqueAwait</key>
+	<string>canTrainPet</string>
+</dict>
+</plist>

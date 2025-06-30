@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoactionshade</key>
+	<string>colorFrequency</string>
+	<key>diffableFactory</key>
+	<string>persistentLocalization</string>
+	<key>listenerplatformtension</key>
+	<string>vertexState</string>
+	<key>metadataduringcommand</key>
+	<string>semanticTentative</string>
+	<key>permissivesearcher</key>
+	<string>semanticsPlatform</string>
+	<key>pinchableTraversal</key>
+	<string>canTrainSign</string>
+	<key>routerdispatcher</key>
+	<string>widgetChain</string>
+	<key>shouldPaintBoxShadow</key>
+	<string>petInterpreter</string>
+	<key>temporaryTriangles</key>
+	<string>shouldPersistCustomPaint</string>
+	<key>webtexture</key>
+	<string>shouldEmitVariant</string>
+</dict>
+</plist>

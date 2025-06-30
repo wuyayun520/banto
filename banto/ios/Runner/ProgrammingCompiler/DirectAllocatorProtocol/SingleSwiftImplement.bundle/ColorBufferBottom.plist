@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedProgressBar</key>
+	<string>hierarchicalTouch</string>
+	<key>emitterShade</key>
+	<string>textSaturation</string>
+	<key>radiusInteraction</key>
+	<string>callbackSpacing</string>
+	<key>sequentialReliability</key>
+	<string>discardedCluster</string>
+	<key>typicalAlert</key>
+	<string>shouldContinueGem</string>
+	<key>uniquedetector</key>
+	<string>cartesianInkWell</string>
+</dict>
+</plist>

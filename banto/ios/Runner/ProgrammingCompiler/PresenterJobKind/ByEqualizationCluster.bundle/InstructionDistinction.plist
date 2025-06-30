@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredSchema</key>
+	<string>priorInteractor</string>
+	<key>referenceLocation</key>
+	<string>ephemeralLayer</string>
+	<key>shouldDisconnectAxis</key>
+	<string>gateorigin</string>
+	<key>storeinteraction</key>
+	<string>deserializemodel</string>
+	<key>webLinker</key>
+	<string>prevConstraint</string>
+</dict>
+</plist>

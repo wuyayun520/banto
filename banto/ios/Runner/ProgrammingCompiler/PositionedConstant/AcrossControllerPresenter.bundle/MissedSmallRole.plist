@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphatexture</key>
+	<string>publicGridView</string>
+	<key>explicitPlate</key>
+	<string>axisTint</string>
+	<key>graphVelocity</key>
+	<string>decoupleDuration</string>
+	<key>handleequipment</key>
+	<string>specifierStructure</string>
+	<key>mainAudio</key>
+	<string>mobileName</string>
+	<key>mediaqueryTag</key>
+	<string>cosineAction</string>
+	<key>semanticsTag</key>
+	<string>shouldPresentShader</string>
+</dict>
+</plist>

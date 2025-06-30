@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logbutton</key>
+	<string>mutableVertex</string>
+	<key>mainTolerance</key>
+	<string>compositionalGram</string>
+	<key>permanentMap</key>
+	<string>audioStyle</string>
+	<key>shouldSubscribeDocument</key>
+	<string>canDisposeCompletion</string>
+	<key>streamlikecommand</key>
+	<string>staticMedia</string>
+</dict>
+</plist>

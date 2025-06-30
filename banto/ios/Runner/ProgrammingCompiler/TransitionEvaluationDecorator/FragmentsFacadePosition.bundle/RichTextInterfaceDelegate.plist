@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttondistinction</key>
+	<string>multiQuaternion</string>
+	<key>dedicatedMargin</key>
+	<string>flexibleQuaternion</string>
+	<key>numericalSubscription</key>
+	<string>canPauseController</string>
+	<key>shouldSetStatePromise</key>
+	<string>pinchableScalability</string>
+	<key>specifierpadding</key>
+	<string>intuitivetransformertension</string>
+	<key>unscheduleskirt</key>
+	<string>precisionRate</string>
+</dict>
+</plist>

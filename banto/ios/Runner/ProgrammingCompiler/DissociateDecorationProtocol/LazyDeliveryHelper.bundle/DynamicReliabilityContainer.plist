@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryVisibility</key>
+	<string>canSkipMultiplication</string>
+	<key>chartdelay</key>
+	<string>firstEntity</string>
+	<key>combinerMode</key>
+	<string>graphOperation</string>
+	<key>diffablePlayback</key>
+	<string>catalystValue</string>
+	<key>lostOperation</key>
+	<string>destroyConstraint</string>
+	<key>masterTransparency</key>
+	<string>accessibleAnimator</string>
+	<key>shouldCancelAxis</key>
+	<string>introspectMetadata</string>
+	<key>statefulBorder</key>
+	<string>scrollablePlayback</string>
+	<key>videocolor</key>
+	<string>canCancelBinary</string>
+</dict>
+</plist>

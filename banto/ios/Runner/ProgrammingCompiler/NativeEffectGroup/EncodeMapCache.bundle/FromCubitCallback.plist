@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitDelivery</key>
+	<string>curveDelay</string>
+	<key>mendFlags</key>
+	<string>permissiveimagedensity</string>
+	<key>missedDocument</key>
+	<string>selectedExpanded</string>
+	<key>shouldpersistcheckbox</key>
+	<string>robustTraversal</string>
+	<key>tabbarEdge</key>
+	<string>canDeserializeAlert</string>
+	<key>tappableChapter</key>
+	<string>prevAppBar</string>
+</dict>
+</plist>

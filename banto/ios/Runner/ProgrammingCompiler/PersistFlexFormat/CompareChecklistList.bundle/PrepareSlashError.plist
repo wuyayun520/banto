@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAcceleration</key>
+	<string>paintInstruction</string>
+	<key>canvasawaychain</key>
+	<string>threadInterval</string>
+	<key>difficultBuffer</key>
+	<string>propagateInteractor</string>
+	<key>onsessionchanged</key>
+	<string>canTrainCollection</string>
+	<key>referencesound</key>
+	<string>specifyDuration</string>
+	<key>serviceLeft</key>
+	<string>dynamicFuture</string>
+	<key>shouldUpdateNotifier</key>
+	<string>deprecateTask</string>
+</dict>
+</plist>

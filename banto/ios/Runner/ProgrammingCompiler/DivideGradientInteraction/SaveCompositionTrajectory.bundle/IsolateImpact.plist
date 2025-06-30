@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedStrength</key>
+	<string>relationalBehavior</string>
+	<key>elasticExtension</key>
+	<string>enabledSwift</string>
+	<key>inheritedDrawer</key>
+	<string>signVelocity</string>
+	<key>liteAction</key>
+	<string>canSaveButton</string>
+	<key>originalLayout</key>
+	<string>infoStyle</string>
+	<key>publicStrength</key>
+	<string>gridviewMode</string>
+	<key>requiredSkin</key>
+	<string>canAttachSkirt</string>
+</dict>
+</plist>

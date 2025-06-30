@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityDirection</key>
+	<string>equalGroup</string>
+	<key>arithmeticInfrastructure</key>
+	<string>combineVector</string>
+	<key>criticalActivity</key>
+	<string>shouldAnimateDrawer</string>
+	<key>crucialObject</key>
+	<string>activatedAnimator</string>
+	<key>discardedPermutation</key>
+	<string>finishnavigator</string>
+	<key>intuitiveGraph</key>
+	<string>activatedArithmetic</string>
+	<key>parallelTangent</key>
+	<string>handleresource</string>
+	<key>scrollableTernary</key>
+	<string>canMountedTechnique</string>
+	<key>shouldLayoutThread</key>
+	<string>workflowInterpreter</string>
+</dict>
+</plist>

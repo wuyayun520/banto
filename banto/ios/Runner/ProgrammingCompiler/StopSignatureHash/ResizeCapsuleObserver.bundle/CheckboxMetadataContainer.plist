@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentTag</key>
+	<string>durationevolution</string>
+	<key>intensitydepth</key>
+	<string>optimizeParticle</string>
+	<key>optimizeroperationrotation</key>
+	<string>viewSize</string>
+	<key>painterthroughvalue</key>
+	<string>decodeTabView</string>
+	<key>polygonVisible</key>
+	<string>positionacceleration</string>
+	<key>shouldBuildTouch</key>
+	<string>specifiercontextshape</string>
+	<key>tensorConsumer</key>
+	<string>hasPoint</string>
+</dict>
+</plist>

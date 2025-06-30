@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelDuration</key>
+	<string>resolveCubit</string>
+	<key>dropoutpopup</key>
+	<string>registerObserver</string>
+	<key>geometricSensor</key>
+	<string>uniqueInterpolation</string>
+	<key>petDepth</key>
+	<string>marginActivity</string>
+	<key>relationalRichText</key>
+	<string>semanticDimension</string>
+	<key>reusableCycle</key>
+	<string>timerStage</string>
+	<key>shouldPersistFuture</key>
+	<string>documentinsideobserver</string>
+	<key>statefulCharacter</key>
+	<string>canEmitDropdownButton</string>
+</dict>
+</plist>

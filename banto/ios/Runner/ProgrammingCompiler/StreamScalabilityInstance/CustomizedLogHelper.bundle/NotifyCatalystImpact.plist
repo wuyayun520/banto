@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorType</key>
+	<string>intermediateTween</string>
+	<key>dedicatedCreator</key>
+	<string>parallelBuffer</string>
+	<key>hashEdge</key>
+	<string>shouldStopCheckbox</string>
+	<key>intuitiveZone</key>
+	<string>canPauseStamp</string>
+	<key>keySize</key>
+	<string>shouldUnbindCheckbox</string>
+	<key>occasionSpacing</key>
+	<string>normalWrapper</string>
+	<key>rapidconvolution</key>
+	<string>touchForm</string>
+	<key>rectbrightness</key>
+	<string>shouldHandleCache</string>
+	<key>shouldStartDelegate</key>
+	<string>smartMethod</string>
+</dict>
+</plist>

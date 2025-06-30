@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticmodebehavior</key>
+	<string>encapsulateQueue</string>
+	<key>catalystType</key>
+	<string>canTransformAccessory</string>
+	<key>paddingbufferorientation</key>
+	<string>shouldLoadInstruction</string>
+	<key>shouldrendercustompaint</key>
+	<string>staticService</string>
+	<key>singleError</key>
+	<string>cancelPet</string>
+	<key>sustainableDistinction</key>
+	<string>greatMechanism</string>
+	<key>usedRange</key>
+	<string>uniformPlayback</string>
+</dict>
+</plist>

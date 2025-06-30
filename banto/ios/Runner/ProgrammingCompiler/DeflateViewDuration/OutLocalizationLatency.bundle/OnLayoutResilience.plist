@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deploycompleter</key>
+	<string>dropoutState</string>
+	<key>ephemeralPadding</key>
+	<string>revisitTransition</string>
+	<key>grayscaleMode</key>
+	<string>isolatethroughbuffer</string>
+	<key>lastView</key>
+	<string>layoutTabView</string>
+	<key>lostQueue</key>
+	<string>canvasInterpreter</string>
+	<key>mainpaddingshape</key>
+	<string>documentorcommand</string>
+	<key>remainderMargin</key>
+	<string>navigatorStyle</string>
+	<key>sharedscreentail</key>
+	<string>navigateaccessory</string>
+</dict>
+</plist>

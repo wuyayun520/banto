@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonResolver</key>
+	<string>aggregateSprite</string>
+	<key>mediocreSize</key>
+	<string>hardSubpixel</string>
+	<key>originalradiusdensity</key>
+	<string>accordionAscent</string>
+	<key>partitionsine</key>
+	<string>loadExtension</string>
+	<key>profileAlignment</key>
+	<string>greatConnector</string>
+</dict>
+</plist>

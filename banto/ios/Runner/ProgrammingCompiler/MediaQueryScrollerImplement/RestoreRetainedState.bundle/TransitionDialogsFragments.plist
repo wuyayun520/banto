@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architecturedepth</key>
+	<string>normEdge</string>
+	<key>directlyMenu</key>
+	<string>responderinterval</string>
+	<key>primarySymbol</key>
+	<string>numericalticker</string>
+	<key>reducerScale</key>
+	<string>resizableCharacter</string>
+	<key>unactivatedEquivalent</key>
+	<string>compareBuffer</string>
+</dict>
+</plist>

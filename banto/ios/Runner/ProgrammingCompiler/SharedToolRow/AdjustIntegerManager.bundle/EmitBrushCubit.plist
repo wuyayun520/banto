@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedDistinction</key>
+	<string>commonRadius</string>
+	<key>attachmultiplication</key>
+	<string>canPresentStep</string>
+	<key>capacitiesInteraction</key>
+	<string>storageResponse</string>
+	<key>currentVariant</key>
+	<string>canSerializeReference</string>
+	<key>oldSchema</key>
+	<string>canValidateReference</string>
+	<key>opaqueCurve</key>
+	<string>subsequentChallenge</string>
+	<key>playbrush</key>
+	<string>stackVisitor</string>
+	<key>scrollableHandler</key>
+	<string>iterativeSink</string>
+	<key>visitbuilder</key>
+	<string>agileLifecycle</string>
+</dict>
+</plist>

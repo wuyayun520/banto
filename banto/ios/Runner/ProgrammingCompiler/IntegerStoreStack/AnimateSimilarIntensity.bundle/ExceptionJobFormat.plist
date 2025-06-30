@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaBottom</key>
+	<string>equipmentpatterntheme</string>
+	<key>awaitBorder</key>
+	<string>canEmitGem</string>
+	<key>dropdownbuttonvideo</key>
+	<string>shouldProcessAlpha</string>
+	<key>semanticTopic</key>
+	<string>multiBox</string>
+	<key>visibleAccessory</key>
+	<string>endListView</string>
+</dict>
+</plist>

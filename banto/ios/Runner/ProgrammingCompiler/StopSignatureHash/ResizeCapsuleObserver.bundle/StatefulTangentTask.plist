@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCapacities</key>
+	<string>scalabilityTransparency</string>
+	<key>blocscalability</key>
+	<string>groupStage</string>
+	<key>cartesianRenderer</key>
+	<string>ephemeralAccessory</string>
+	<key>curveasstate</key>
+	<string>standaloneAwait</string>
+	<key>optionFrequency</key>
+	<string>looptransparency</string>
+	<key>painterwidget</key>
+	<string>subpixelInterval</string>
+	<key>pushalpha</key>
+	<string>sorterShade</string>
+	<key>robustHero</key>
+	<string>shouldMountStateful</string>
+	<key>shouldObserveDecoration</key>
+	<string>slashmodeskewx</string>
+	<key>threadOrientation</key>
+	<string>currentaccessory</string>
+</dict>
+</plist>

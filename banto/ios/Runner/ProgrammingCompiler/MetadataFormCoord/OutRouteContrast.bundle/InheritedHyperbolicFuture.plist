@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerTail</key>
+	<string>canStopOptimizer</string>
+	<key>gemdescent</key>
+	<string>mediatension</string>
+	<key>integrityFlags</key>
+	<string>publicReliability</string>
+	<key>interpolatesegue</key>
+	<string>displayableGraph</string>
+	<key>nibKind</key>
+	<string>titlefromdecorator</string>
+	<key>operationIndex</key>
+	<string>nextRequest</string>
+	<key>resolverbufferinterval</key>
+	<string>shouldbindgate</string>
+	<key>segmentspacing</key>
+	<string>savechart</string>
+	<key>visibleCaption</key>
+	<string>sizedboxTier</string>
+</dict>
+</plist>

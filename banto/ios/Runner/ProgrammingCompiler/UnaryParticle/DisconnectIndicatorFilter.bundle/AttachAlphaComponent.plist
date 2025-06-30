@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCupertino</key>
+	<string>desktopAction</string>
+	<key>asynchronousDetail</key>
+	<string>cycletop</string>
+	<key>dedicatedSign</key>
+	<string>sessiontasktheme</string>
+	<key>displayableCursor</key>
+	<string>layouttask</string>
+	<key>segueSaturation</key>
+	<string>currentNotifier</string>
+	<key>shouldyieldtable</key>
+	<string>shoulddecodeaperture</string>
+</dict>
+</plist>

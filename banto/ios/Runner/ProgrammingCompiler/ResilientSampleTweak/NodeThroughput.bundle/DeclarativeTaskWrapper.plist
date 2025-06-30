@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferSaturation</key>
+	<string>createCollection</string>
+	<key>customizedInjection</key>
+	<string>refreshRequest</string>
+	<key>marklocalization</key>
+	<string>destroyView</string>
+	<key>onswiftchanged</key>
+	<string>requestUtil</string>
+	<key>parallelData</key>
+	<string>createFeature</string>
+</dict>
+</plist>

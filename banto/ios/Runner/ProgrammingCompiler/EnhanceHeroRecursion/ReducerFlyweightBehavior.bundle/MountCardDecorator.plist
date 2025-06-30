@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseModal</key>
+	<string>injectParticle</string>
+	<key>firstProjection</key>
+	<string>adjustBuilder</string>
+	<key>fixedAlpha</key>
+	<string>matrixmargin</string>
+	<key>iconInteraction</key>
+	<string>hyperbolicParticle</string>
+	<key>interactionShape</key>
+	<string>shouldSkipAspect</string>
+	<key>symmetricActivity</key>
+	<string>skipGem</string>
+</dict>
+</plist>

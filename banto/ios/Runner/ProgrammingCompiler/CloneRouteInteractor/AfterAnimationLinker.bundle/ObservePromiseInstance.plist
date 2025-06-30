@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegaterate</key>
+	<string>escalateTicker</string>
+	<key>reactiveInstruction</key>
+	<string>asyncdetail</string>
+	<key>shouldloadsession</key>
+	<string>shouldEndSpot</string>
+	<key>shouldprocessspine</key>
+	<string>baseBehavior</string>
+	<key>standaloneMember</key>
+	<string>disposeAlpha</string>
+	<key>synchronouscontainertop</key>
+	<string>skipTheme</string>
+	<key>techniqueStyle</key>
+	<string>routeProjection</string>
+</dict>
+</plist>

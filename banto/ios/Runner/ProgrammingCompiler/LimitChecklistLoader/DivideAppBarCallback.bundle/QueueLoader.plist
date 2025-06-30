@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveProfile</key>
+	<string>mountUnary</string>
+	<key>directHandler</key>
+	<string>rectifyAllocator</string>
+	<key>multiGram</key>
+	<string>functionalConfidentiality</string>
+	<key>scrollervisibility</key>
+	<string>previewBehavior</string>
+</dict>
+</plist>

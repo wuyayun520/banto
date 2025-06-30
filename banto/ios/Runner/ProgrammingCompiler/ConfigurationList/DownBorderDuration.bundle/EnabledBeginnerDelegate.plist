@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionDropdownButton</key>
+	<string>crudeCharacteristic</string>
+	<key>arithmeticUsage</key>
+	<string>traversalBound</string>
+	<key>challengeorfunction</key>
+	<string>immediateStrength</string>
+	<key>dependencytime</key>
+	<string>variantOrientation</string>
+	<key>fillmethod</key>
+	<string>maintainBuffer</string>
+	<key>mediaquerySpacing</key>
+	<string>inactiveReference</string>
+	<key>routeTag</key>
+	<string>navigatorHead</string>
+	<key>secondMend</key>
+	<string>shouldProcessCursor</string>
+	<key>shouldDisconnectAspect</key>
+	<string>materializeLayout</string>
+</dict>
+</plist>

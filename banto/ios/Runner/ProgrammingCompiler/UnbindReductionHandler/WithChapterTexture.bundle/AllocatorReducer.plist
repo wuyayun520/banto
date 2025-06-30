@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleResilience</key>
+	<string>usedrange</string>
+	<key>liteRecursion</key>
+	<string>textfieldVisibility</string>
+	<key>pivotalWrapper</key>
+	<string>canEmitThread</string>
+	<key>shouldEncodeSymbol</key>
+	<string>concurrentDocument</string>
+	<key>sizeStatus</key>
+	<string>retainedComposition</string>
+	<key>synchronousGrain</key>
+	<string>creatorType</string>
+</dict>
+</plist>

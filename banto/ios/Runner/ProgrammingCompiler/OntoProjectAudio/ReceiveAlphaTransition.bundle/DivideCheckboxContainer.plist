@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedDrawer</key>
+	<string>awaitOrigin</string>
+	<key>hyperbolicRenderer</key>
+	<string>rowDirection</string>
+	<key>prioritycontrast</key>
+	<string>shouldstartgesturedetector</string>
+	<key>refreshworkflow</key>
+	<string>delicateTabBar</string>
+</dict>
+</plist>

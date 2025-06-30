@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binddescription</key>
+	<string>unmountSkirt</string>
+	<key>crudeArchitecture</key>
+	<string>giftInset</string>
+	<key>hierarchicalstateful</key>
+	<string>unbindWidget</string>
+	<key>schemaScale</key>
+	<string>autoContraction</string>
+	<key>shouldHandleCheckbox</key>
+	<string>disparateNotifier</string>
+</dict>
+</plist>

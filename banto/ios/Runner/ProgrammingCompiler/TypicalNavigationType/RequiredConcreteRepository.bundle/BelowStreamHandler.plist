@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>linkerDirection</key>
+	<string>immediateInkWell</string>
+	<key>liteLatency</key>
+	<string>subtleFilter</string>
+	<key>resourcesinceoperation</key>
+	<string>shouldPushSkin</string>
+	<key>responsiveRect</key>
+	<string>shouldPauseGram</string>
+	<key>subsequentdrawer</key>
+	<string>firstHash</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocexceptmemento</key>
+	<string>canRenderPriority</string>
+	<key>crudeinteractor</key>
+	<string>minCube</string>
+	<key>cursorsaturation</key>
+	<string>accessibleSession</string>
+	<key>protectedRow</key>
+	<string>elasticityRight</string>
+	<key>shouldpreparereference</key>
+	<string>resetTween</string>
+	<key>synchronousSample</key>
+	<string>parallelSubscription</string>
+	<key>touchsaturation</key>
+	<string>temporaryIntegrity</string>
+</dict>
+</plist>

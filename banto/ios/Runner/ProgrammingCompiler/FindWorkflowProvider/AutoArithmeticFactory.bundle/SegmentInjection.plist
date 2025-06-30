@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeHandler</key>
+	<string>loadDrawer</string>
+	<key>eventInterval</key>
+	<string>coordinatorMemento</string>
+	<key>featureResponse</key>
+	<string>canDismissOperation</string>
+	<key>lostEqualization</key>
+	<string>subtleDialogs</string>
+	<key>resilientInteger</key>
+	<string>delegateRotation</string>
+	<key>scrollableCanvas</key>
+	<string>basicBinary</string>
+	<key>shouldConnectTool</key>
+	<string>similarElasticity</string>
+	<key>shouldHandleEffect</key>
+	<string>shouldNavigateNorm</string>
+	<key>synchronousCard</key>
+	<string>skinshape</string>
+</dict>
+</plist>

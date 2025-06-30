@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedResult</key>
+	<string>unsortedInteger</string>
+	<key>flexibleslider</key>
+	<string>showMap</string>
+	<key>functionalTool</key>
+	<string>vectorVelocity</string>
+	<key>gatelocation</key>
+	<string>upgradeContainer</string>
+	<key>mutableFrame</key>
+	<string>mountedTransition</string>
+	<key>prismaticTable</key>
+	<string>keeptabbar</string>
+	<key>shouldLayoutBorder</key>
+	<string>decodeScale</string>
+	<key>tensorJoiner</key>
+	<string>futuremodel</string>
+	<key>uniqueProject</key>
+	<string>desktopCache</string>
+</dict>
+</plist>

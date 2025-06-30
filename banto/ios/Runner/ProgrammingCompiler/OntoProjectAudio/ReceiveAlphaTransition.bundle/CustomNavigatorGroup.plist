@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicnorm</key>
+	<string>canTrainTool</string>
+	<key>intermediateNotifier</key>
+	<string>endWorkflow</string>
+	<key>timeragainstframework</key>
+	<string>persistentLog</string>
+	<key>unactivatedlabelbehavior</key>
+	<string>captiontension</string>
+</dict>
+</plist>

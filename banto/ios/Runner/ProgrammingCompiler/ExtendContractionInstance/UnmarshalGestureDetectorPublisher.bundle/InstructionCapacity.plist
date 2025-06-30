@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionoroperation</key>
+	<string>dismissBrush</string>
+	<key>difficultBatch</key>
+	<string>localcontroller</string>
+	<key>elasticityBehavior</key>
+	<string>smartDuration</string>
+	<key>hasSlash</key>
+	<string>semanticMerger</string>
+	<key>optimizerlistener</key>
+	<string>shouldRestartTable</string>
+	<key>progressbarVisible</key>
+	<string>analogyvisible</string>
+	<key>shouldLoadConsumer</key>
+	<string>sensorleft</string>
+	<key>shouldNotifyOverlay</key>
+	<string>statusDelay</string>
+	<key>storevalidation</key>
+	<string>normalPromise</string>
+</dict>
+</plist>

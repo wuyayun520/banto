@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deliveryContrast</key>
+	<string>subtleMobile</string>
+	<key>layoutresponse</key>
+	<string>extensionPadding</string>
+	<key>radiotask</key>
+	<string>granularAnchor</string>
+</dict>
+</plist>

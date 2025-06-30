@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeValidation</key>
+	<string>statefulUseCase</string>
+	<key>customFactory</key>
+	<string>shouldDispatchActivity</string>
+	<key>infrastructureContrast</key>
+	<string>invokeCompleter</string>
+	<key>labelreducer</key>
+	<string>customCupertino</string>
+	<key>listenertype</key>
+	<string>modulustaskshape</string>
+</dict>
+</plist>

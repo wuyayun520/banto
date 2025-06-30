@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decoderoute</key>
+	<string>onusagechanged</string>
+	<key>fixedGridView</key>
+	<string>awaitEdge</string>
+	<key>liteDelegate</key>
+	<string>animatedCell</string>
+	<key>projectTheme</key>
+	<string>discardedDelegate</string>
+	<key>stackLocation</key>
+	<string>temporaryassetoffset</string>
+</dict>
+</plist>

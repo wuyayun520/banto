@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseState</key>
+	<string>flexibleDependency</string>
+	<key>factoryMode</key>
+	<string>gesturedetectorProcess</string>
+	<key>flexCenter</key>
+	<string>dynamicLoss</string>
+	<key>histogramMargin</key>
+	<string>immediatescroller</string>
+	<key>otherReplica</key>
+	<string>playbackMemento</string>
+	<key>scalabilityValidation</key>
+	<string>temporarysession</string>
+	<key>singletonContrast</key>
+	<string>hyperbolicMember</string>
+	<key>subsequentOptimizer</key>
+	<string>deserializeDuration</string>
+	<key>unactivatedMomentum</key>
+	<string>finishRoute</string>
+</dict>
+</plist>

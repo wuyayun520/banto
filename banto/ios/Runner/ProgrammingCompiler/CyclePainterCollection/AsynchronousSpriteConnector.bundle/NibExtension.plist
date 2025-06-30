@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isMusic</key>
+	<string>embraceTexture</string>
+	<key>itemScale</key>
+	<string>shouldrenderreduction</string>
+	<key>lostGraph</key>
+	<string>consultativeCustomPaint</string>
+	<key>persistentMethod</key>
+	<string>serializeDependency</string>
+	<key>prevReplica</key>
+	<string>continuetouch</string>
+	<key>recursionTag</key>
+	<string>interactiveNotifier</string>
+	<key>shouldBindOption</key>
+	<string>selecteddialogs</string>
+	<key>shouldDetachSlider</key>
+	<string>pendingComposition</string>
+	<key>storyboardcluster</key>
+	<string>desktopVideo</string>
+</dict>
+</plist>

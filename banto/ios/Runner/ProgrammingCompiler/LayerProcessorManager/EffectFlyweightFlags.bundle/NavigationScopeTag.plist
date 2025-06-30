@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityTint</key>
+	<string>isanchor</string>
+	<key>baselineagainstcomposite</key>
+	<string>sustainableLoss</string>
+	<key>compositionDensity</key>
+	<string>delegatelevelcenter</string>
+	<key>disparateProfile</key>
+	<string>promiseInteraction</string>
+	<key>lifecycleAcceleration</key>
+	<string>smartDetector</string>
+	<key>metadataInteraction</key>
+	<string>dialogsChain</string>
+	<key>mountedchart</key>
+	<string>activeTouch</string>
+	<key>ternaryAlignment</key>
+	<string>shouldTransitionBinary</string>
+</dict>
+</plist>

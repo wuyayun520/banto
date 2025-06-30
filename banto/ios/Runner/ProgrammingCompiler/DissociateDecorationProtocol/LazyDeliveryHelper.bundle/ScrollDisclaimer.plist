@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardanimation</key>
+	<string>opaqueDuration</string>
+	<key>compositionTag</key>
+	<string>dispatchSwift</string>
+	<key>compositionaldependency</key>
+	<string>animationtemplecolor</string>
+	<key>freequeue</key>
+	<string>customizedBaseline</string>
+	<key>hashtint</key>
+	<string>transpileCallback</string>
+	<key>otherHeap</key>
+	<string>columnfactory</string>
+	<key>paddingDuration</key>
+	<string>timelineRotation</string>
+	<key>scaffoldbottom</key>
+	<string>sizedboxParameter</string>
+	<key>shouldPrepareSegment</key>
+	<string>tappableResponder</string>
+	<key>singleProtocol</key>
+	<string>substantialMember</string>
+</dict>
+</plist>

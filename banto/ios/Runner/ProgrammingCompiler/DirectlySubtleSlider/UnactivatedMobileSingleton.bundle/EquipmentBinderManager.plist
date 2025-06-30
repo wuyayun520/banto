@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRect</key>
+	<string>toolFramework</string>
+	<key>arithmeticCombiner</key>
+	<string>challengeuntilmediator</string>
+	<key>eventbesidetype</key>
+	<string>sequentialrouter</string>
+	<key>relationalTrajectory</key>
+	<string>lastException</string>
+	<key>shouldBuildSemantics</key>
+	<string>iterativenavigationtheme</string>
+	<key>shouldstartspine</key>
+	<string>canRenderAnimatedContainer</string>
+	<key>stringifyslash</key>
+	<string>denseHistogram</string>
+</dict>
+</plist>

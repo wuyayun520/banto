@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>losssize</key>
+	<string>taskFrequency</string>
+	<key>mapperShape</key>
+	<string>touchController</string>
+	<key>maputil</key>
+	<string>storescreen</string>
+	<key>mobilemodelinteraction</key>
+	<string>subtleEvolution</string>
+	<key>prioritySpacing</key>
+	<string>mountedLog</string>
+	<key>shouldSetStateStack</key>
+	<string>canDispatchBinary</string>
+</dict>
+</plist>

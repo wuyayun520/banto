@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedboxshadow</key>
+	<string>shouldRebuildEffect</string>
+	<key>composableWorkflow</key>
+	<string>animationlocation</string>
+	<key>easyVolume</key>
+	<string>capsuleChain</string>
+	<key>metricsContrast</key>
+	<string>accessoryorfacade</string>
+	<key>nodecenter</key>
+	<string>similarAnimation</string>
+	<key>routervariableskewx</key>
+	<string>advancedChapter</string>
+	<key>schedulerState</key>
+	<string>replicateStream</string>
+	<key>slideractionformat</key>
+	<string>delicateDuration</string>
+	<key>tensorUnary</key>
+	<string>shouldConnectInterpolation</string>
+	<key>timelineResponse</key>
+	<string>delegatedetector</string>
+</dict>
+</plist>

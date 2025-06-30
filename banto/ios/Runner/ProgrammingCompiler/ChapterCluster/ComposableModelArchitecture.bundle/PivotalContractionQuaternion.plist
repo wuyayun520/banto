@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleReceiver</key>
+	<string>canFinishGestureDetector</string>
+	<key>inheritedticker</key>
+	<string>pagerScale</string>
+	<key>intuitiveThreshold</key>
+	<string>canParseNotification</string>
+	<key>listviewformvisibility</key>
+	<string>seamlessIndicator</string>
+	<key>lostconstraintsaturation</key>
+	<string>allocatorType</string>
+	<key>restrictionDensity</key>
+	<string>masterBorder</string>
+	<key>shouldPauseSlider</key>
+	<string>oldElasticity</string>
+	<key>shouldcontinuelistview</key>
+	<string>canPreparePrecision</string>
+</dict>
+</plist>

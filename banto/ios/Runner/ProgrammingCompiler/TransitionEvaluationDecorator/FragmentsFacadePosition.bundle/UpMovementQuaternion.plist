@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativerowdelay</key>
+	<string>configurationLayer</string>
+	<key>dedicatedEfficiency</key>
+	<string>immutableInjection</string>
+	<key>desktopRadius</key>
+	<string>reduceNavigator</string>
+	<key>errorTint</key>
+	<string>mutableCubit</string>
+	<key>shouldFormatBoxShadow</key>
+	<string>navigationAcceleration</string>
+	<key>shouldRouteSession</key>
+	<string>resilienttransitioninterval</string>
+	<key>subscriptioncoord</key>
+	<string>specifyTimeline</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonLocation</key>
+	<string>canDetachCycle</string>
+	<key>buttonorientation</key>
+	<string>shouldLoadOperation</string>
+	<key>permutationorigin</key>
+	<string>adaptiveUsage</string>
+	<key>polyfillKind</key>
+	<string>canReplaceStamp</string>
+	<key>positionedge</key>
+	<string>standaloneUtil</string>
+	<key>shouldUnbindGram</key>
+	<string>alignmentStrategy</string>
+	<key>standaloneDecoration</key>
+	<string>minCatalyst</string>
+	<key>transformerspeed</key>
+	<string>popupFlags</string>
+</dict>
+</plist>

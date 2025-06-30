@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTable</key>
+	<string>projectionParam</string>
+	<key>cellRate</key>
+	<string>coordinatorFlyweight</string>
+	<key>containerparameterdepth</key>
+	<string>computeSingleton</string>
+	<key>cubeVelocity</key>
+	<string>divideCubit</string>
+	<key>gateOpacity</key>
+	<string>denseStateless</string>
+	<key>listenerOpacity</key>
+	<string>shouldUnmountCard</string>
+	<key>mainTime</key>
+	<string>shouldtransitionreference</string>
+	<key>pivotalNode</key>
+	<string>mainbloc</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionTheme</key>
+	<string>transitionRole</string>
+	<key>advancedCharacter</key>
+	<string>shouldsaveoperation</string>
+	<key>aperturekind</key>
+	<string>otherPicker</string>
+	<key>backwardfactory</key>
+	<string>accessibleSlider</string>
+	<key>greatAction</key>
+	<string>customizedNotification</string>
+	<key>hasscaffold</key>
+	<string>numericalTransition</string>
+	<key>modulefrequency</key>
+	<string>annotateConfiguration</string>
+	<key>permissiveUseCase</key>
+	<string>referenceopacity</string>
+	<key>shouldFormatCertificate</key>
+	<string>largeMaster</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionatstage</key>
+	<string>minAnimation</string>
+	<key>managerinterval</key>
+	<string>storeequivalent</string>
+	<key>multiVideo</key>
+	<string>signvolume</string>
+	<key>retainedCosine</key>
+	<string>inheritedListView</string>
+	<key>shouldSubscribeSkin</key>
+	<string>displayView</string>
+	<key>zoneTint</key>
+	<string>graphSize</string>
+</dict>
+</plist>

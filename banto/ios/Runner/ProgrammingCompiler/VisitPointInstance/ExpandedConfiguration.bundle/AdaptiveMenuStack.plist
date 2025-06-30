@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledTransformer</key>
+	<string>missedstatetransparency</string>
+	<key>previewanimation</key>
+	<string>shouldPersistRow</string>
+	<key>radiobystyle</key>
+	<string>delicateGraphic</string>
+	<key>relationalelement</key>
+	<string>maintainProgressBar</string>
+	<key>resetresource</key>
+	<string>shouldEndDialogs</string>
+	<key>trajectoryOrigin</key>
+	<string>liteMap</string>
+</dict>
+</plist>

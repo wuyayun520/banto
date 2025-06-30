@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionScale</key>
+	<string>sensorpublisher</string>
+	<key>explicitSwift</key>
+	<string>similarStore</string>
+	<key>inheritedDimension</key>
+	<string>independentMedia</string>
+	<key>nativeEmitter</key>
+	<string>visualizeChapter</string>
+	<key>persistentConsumer</key>
+	<string>enabledGram</string>
+	<key>pushgrain</key>
+	<string>granularMargin</string>
+	<key>shouldEndGesture</key>
+	<string>deferredRecursion</string>
+	<key>tappableTimeline</key>
+	<string>subscriptionfactory</string>
+</dict>
+</plist>

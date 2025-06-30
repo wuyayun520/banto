@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousAperture</key>
+	<string>matrixsensor</string>
+	<key>compositionalCharacteristic</key>
+	<string>ascentSkewY</string>
+	<key>currentMaster</key>
+	<string>progressbarchainstyle</string>
+	<key>curveinstate</key>
+	<string>emitBehavior</string>
+	<key>liteSign</key>
+	<string>originalrowacceleration</string>
+	<key>shouldCacheComposition</key>
+	<string>ternaryPrototype</string>
+	<key>shouldpresentsession</key>
+	<string>symmetricController</string>
+	<key>tensorBandwidth</key>
+	<string>sharedInkWell</string>
+</dict>
+</plist>

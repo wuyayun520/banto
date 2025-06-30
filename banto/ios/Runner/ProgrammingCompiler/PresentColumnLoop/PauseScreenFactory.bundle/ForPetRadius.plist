@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleScroll</key>
+	<string>resultcenter</string>
+	<key>arithmeticTernary</key>
+	<string>canCreateStack</string>
+	<key>gridInteraction</key>
+	<string>shouldSkipPoint</string>
+	<key>mapCount</key>
+	<string>shouldLoadRole</string>
+	<key>materialphasetag</key>
+	<string>capacitiesAppearance</string>
+	<key>numericalListView</key>
+	<string>delicategiftmargin</string>
+	<key>releaserequest</key>
+	<string>functionalArchitecture</string>
+	<key>shouldCancelText</key>
+	<string>commonMission</string>
+	<key>trianglesFlags</key>
+	<string>objectResponse</string>
+</dict>
+</plist>

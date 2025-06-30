@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMetrics</key>
+	<string>canUpdateOperation</string>
+	<key>composableTicker</key>
+	<string>rowvarresponse</string>
+	<key>cubitSaturation</key>
+	<string>iterativeInformation</string>
+	<key>dynamicbinder</key>
+	<string>embedChart</string>
+	<key>shoulddisposechecklist</key>
+	<string>findtimer</string>
+	<key>soundcontrast</key>
+	<string>hierarchicalDuration</string>
+	<key>tappablePresenter</key>
+	<string>compileResult</string>
+	<key>threadPadding</key>
+	<string>mutableTime</string>
+</dict>
+</plist>

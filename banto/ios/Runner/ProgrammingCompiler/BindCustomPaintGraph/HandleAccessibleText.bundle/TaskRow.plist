@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deprecateradio</key>
+	<string>decodeSingleton</string>
+	<key>nodeaboutcommand</key>
+	<string>flexEnvironment</string>
+	<key>persistentGesture</key>
+	<string>batchDirection</string>
+	<key>shouldkeepdropdownbutton</key>
+	<string>resizableElement</string>
+	<key>themeCoord</key>
+	<string>tensorScroller</string>
+	<key>tickersincecomposite</key>
+	<string>shouldRestartBaseline</string>
+	<key>touchTransparency</key>
+	<string>invisibleInformation</string>
+</dict>
+</plist>

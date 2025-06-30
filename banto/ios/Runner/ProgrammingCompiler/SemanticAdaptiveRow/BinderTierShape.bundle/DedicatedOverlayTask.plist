@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileConverter</key>
+	<string>entropymodehead</string>
+	<key>exceptionindex</key>
+	<string>mediocreDropdownButton</string>
+	<key>flexibleLog</key>
+	<string>positionRight</string>
+	<key>mobileLoader</key>
+	<string>canReplaceTransition</string>
+	<key>musicAppearance</key>
+	<string>provisionPosition</string>
+	<key>shouldYieldModal</key>
+	<string>contractionFunction</string>
+	<key>synchronousInstruction</key>
+	<string>immediateStateful</string>
+	<key>vertexVisible</key>
+	<string>layoutCaption</string>
+</dict>
+</plist>

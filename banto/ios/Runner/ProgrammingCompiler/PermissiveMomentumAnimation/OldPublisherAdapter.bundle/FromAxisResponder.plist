@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionamongprototype</key>
+	<string>canDeserializeView</string>
+	<key>composableAspectRatio</key>
+	<string>draggableDetail</string>
+	<key>localRequest</key>
+	<string>cupertinoresult</string>
+	<key>parallelCycle</key>
+	<string>floatRadius</string>
+	<key>scrollableCycle</key>
+	<string>globalProcessor</string>
+	<key>storageOrientation</key>
+	<string>primaryChart</string>
+</dict>
+</plist>

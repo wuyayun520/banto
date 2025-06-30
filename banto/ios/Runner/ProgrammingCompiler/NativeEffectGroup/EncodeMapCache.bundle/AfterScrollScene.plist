@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectcurve</key>
+	<string>lockRow</string>
+	<key>dedicatedtouchskewx</key>
+	<string>interactiveChooser</string>
+	<key>releaselabel</key>
+	<string>validatetimer</string>
+	<key>shaderdecoration</key>
+	<string>textIndex</string>
+	<key>shouldConnectGem</key>
+	<string>extensionValidation</string>
+	<key>widgettheme</key>
+	<string>transitionframeworktype</string>
+</dict>
+</plist>

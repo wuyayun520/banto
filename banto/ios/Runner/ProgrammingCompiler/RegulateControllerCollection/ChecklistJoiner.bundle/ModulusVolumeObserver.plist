@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptioncount</key>
+	<string>liteMetadata</string>
+	<key>detailTail</key>
+	<string>dedicatedDuration</string>
+	<key>metadatamodedepth</key>
+	<string>publicactivitystate</string>
+	<key>offsetSaturation</key>
+	<string>presentDelegate</string>
+	<key>offsetskin</key>
+	<string>asynchronousDialogs</string>
+	<key>resourceStatus</key>
+	<string>channelsactionvalidation</string>
+	<key>shouldbuildcatalyst</key>
+	<string>canParseMatrix</string>
+	<key>subscriptionpolyfill</key>
+	<string>dimensionFrequency</string>
+	<key>subsequentCompleter</key>
+	<string>shouldProcessHistogram</string>
+</dict>
+</plist>

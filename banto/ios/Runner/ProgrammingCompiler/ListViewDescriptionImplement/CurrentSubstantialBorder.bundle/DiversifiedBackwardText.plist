@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthHead</key>
+	<string>methodactioninterval</string>
+	<key>basicHeap</key>
+	<string>releaseAllocator</string>
+	<key>ephemeraldropdownbutton</key>
+	<string>firstSlash</string>
+</dict>
+</plist>

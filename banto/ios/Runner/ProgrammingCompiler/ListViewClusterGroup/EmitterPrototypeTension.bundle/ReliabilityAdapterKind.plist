@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedoptimizer</key>
+	<string>cubitTint</string>
+	<key>buttonRight</key>
+	<string>allocateState</string>
+	<key>formatfuture</key>
+	<string>shouldPauseAccessory</string>
+	<key>kernelState</key>
+	<string>rendertexture</string>
+	<key>primaryReduction</key>
+	<string>subtleReference</string>
+	<key>shouldValidateEntropy</key>
+	<string>globalRange</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheskewx</key>
+	<string>canReplaceBase</string>
+	<key>crudeVolume</key>
+	<string>canPausePlate</string>
+	<key>imperativeAnimation</key>
+	<string>resourceRotation</string>
+	<key>imperativeBox</key>
+	<string>cupertinoposition</string>
+	<key>primaryMenu</key>
+	<string>inactiveScroll</string>
+	<key>prismaticSignature</key>
+	<string>shouldMountedPlayback</string>
+	<key>reusableChooser</key>
+	<string>imperativeWorkflow</string>
+	<key>shouldobservepriority</key>
+	<string>freeParticle</string>
+	<key>smallCube</key>
+	<string>mediocreGradient</string>
+</dict>
+</plist>

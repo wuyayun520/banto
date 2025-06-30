@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCoordinator</key>
+	<string>inflateGrayscale</string>
+	<key>alignmentSkewY</key>
+	<string>methodfeedback</string>
+	<key>animationuntilcycle</key>
+	<string>canSubscribeInterpolation</string>
+	<key>resourcetaskvisible</key>
+	<string>checkboxbeyondlevel</string>
+	<key>shouldNotifySlider</key>
+	<string>threadSpeed</string>
+	<key>similarUsage</key>
+	<string>durationjoiner</string>
+	<key>unbindcompletion</key>
+	<string>granularContrast</string>
+</dict>
+</plist>

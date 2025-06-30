@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedCubit</key>
+	<string>secondReplica</string>
+	<key>granularCapsule</key>
+	<string>canStreamTextField</string>
+	<key>processcurve</key>
+	<string>provideslider</string>
+	<key>publicPadding</key>
+	<string>canRouteInstruction</string>
+	<key>remediationskewx</key>
+	<string>statePressure</string>
+	<key>retainedNib</key>
+	<string>protectedText</string>
+	<key>reusableCallback</key>
+	<string>listenAlignment</string>
+	<key>themeForce</key>
+	<string>sizedboxPressure</string>
+	<key>uniformThreshold</key>
+	<string>columnForce</string>
+	<key>workflowhash</key>
+	<string>addProvider</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardAperture</key>
+	<string>shouldReplaceText</string>
+	<key>hardTheme</key>
+	<string>invisibleLocalization</string>
+	<key>inactiveAnimator</key>
+	<string>rapidcontrollerdistance</string>
+	<key>nibnearmediator</key>
+	<string>shouldStopProvider</string>
+	<key>prevRichText</key>
+	<string>standalonedisclaimer</string>
+	<key>protectedcombiner</key>
+	<string>maintainStorage</string>
+	<key>refreshscene</key>
+	<string>canValidateBatch</string>
+	<key>sinemesh</key>
+	<string>shouldUnbindMatrix</string>
+	<key>swiftRotation</key>
+	<string>completedListView</string>
+</dict>
+</plist>

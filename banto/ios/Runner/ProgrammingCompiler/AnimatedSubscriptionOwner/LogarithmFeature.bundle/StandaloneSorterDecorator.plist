@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentProject</key>
+	<string>resultRotation</string>
+	<key>dependencyPadding</key>
+	<string>concurrentDescriptor</string>
+	<key>descriptorBound</key>
+	<string>statelessDensity</string>
+	<key>immediateInfo</key>
+	<string>threadDistance</string>
+	<key>scrollTint</key>
+	<string>mediumScene</string>
+	<key>shouldLayoutMobile</key>
+	<string>computenotifier</string>
+	<key>shouldMountedModal</key>
+	<string>ignoredCache</string>
+	<key>staticBoxShadow</key>
+	<string>boxDirection</string>
+	<key>tweakBehavior</key>
+	<string>decoupleScene</string>
+	<key>unarySkewX</key>
+	<string>resetZone</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletpatternmode</key>
+	<string>timerForce</string>
+	<key>shouldFetchAccessory</key>
+	<string>groupvaluerate</string>
+	<key>sustainableSwitch</key>
+	<string>storeMediator</string>
+	<key>touchcontainer</key>
+	<string>indicatorBuffer</string>
+</dict>
+</plist>

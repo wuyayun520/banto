@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeLocalization</key>
+	<string>granulartaskinset</string>
+	<key>anchorAcceleration</key>
+	<string>fusedTaxonomy</string>
+	<key>calculatebatch</key>
+	<string>continueDocument</string>
+	<key>groupValidation</key>
+	<string>observeGrayscale</string>
+	<key>hardNotification</key>
+	<string>mediumData</string>
+	<key>routerInterval</key>
+	<string>shouldNotifyMomentum</string>
+	<key>seamlessCanvas</key>
+	<string>independentStrength</string>
+	<key>shouldyieldtextfield</key>
+	<string>descriptionLayer</string>
+	<key>smallObserver</key>
+	<string>chapterforparam</string>
+	<key>uniformKernel</key>
+	<string>evaluateAction</string>
+</dict>
+</plist>

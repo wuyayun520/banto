@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerTint</key>
+	<string>granularContainer</string>
+	<key>dependencyRight</key>
+	<string>animateWorkflow</string>
+	<key>measuresemantics</key>
+	<string>canUpdateOperation</string>
+	<key>rowmode</key>
+	<string>replaceScreen</string>
+	<key>shouldRestartTask</key>
+	<string>pauseBrush</string>
+</dict>
+</plist>

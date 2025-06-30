@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDistinction</key>
+	<string>canUnmountSemantics</string>
+	<key>customizedrolehue</key>
+	<string>topiclocation</string>
+	<key>iterativequeue</key>
+	<string>capsuleParam</string>
+	<key>modelInterval</key>
+	<string>beginnerDescriptor</string>
+	<key>projectionscale</key>
+	<string>scaleOrientation</string>
+	<key>selectedrow</key>
+	<string>inflatePopup</string>
+	<key>subscriberVisible</key>
+	<string>memberstate</string>
+	<key>symmetricsensorspeed</key>
+	<string>progressbarforsystem</string>
+	<key>timeBottom</key>
+	<string>shouldEncodeListView</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedMonster</key>
+	<string>singletonScale</string>
+	<key>associatedLoader</key>
+	<string>unmountedGradient</string>
+	<key>chapterhandler</key>
+	<string>graphmargin</string>
+	<key>inactiveDrawer</key>
+	<string>consumeConstraint</string>
+	<key>presentstateful</key>
+	<string>concreteIndicator</string>
+	<key>semanticZone</key>
+	<string>collectionSkewY</string>
+	<key>trajectoryMode</key>
+	<string>declarativeprovider</string>
+</dict>
+</plist>

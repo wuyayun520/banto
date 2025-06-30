@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorShape</key>
+	<string>permanentexceptionalignment</string>
+	<key>consumehero</key>
+	<string>tickerFeedback</string>
+	<key>inactiveConvolution</key>
+	<string>retainedCollection</string>
+	<key>managerRotation</key>
+	<string>prevQuaternion</string>
+	<key>shapeVisible</key>
+	<string>paintercenter</string>
+	<key>standaloneSingleton</key>
+	<string>scrollSystem</string>
+	<key>statebeyondscope</key>
+	<string>bordermode</string>
+	<key>subtleaction</key>
+	<string>pushCompleter</string>
+</dict>
+</plist>

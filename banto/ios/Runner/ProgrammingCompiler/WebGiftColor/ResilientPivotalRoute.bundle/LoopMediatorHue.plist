@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledNotification</key>
+	<string>eagerTween</string>
+	<key>mobileTicker</key>
+	<string>texturecontrast</string>
+	<key>normalinterfacespeed</key>
+	<string>radioexcepttask</string>
+	<key>restartusecase</key>
+	<string>mapperType</string>
+	<key>setupmobile</key>
+	<string>synctext</string>
+	<key>shouldPersistLayout</key>
+	<string>denseBullet</string>
+	<key>shouldSaveMargin</key>
+	<string>criticalLabel</string>
+	<key>soundCoord</key>
+	<string>heapOffset</string>
+	<key>specifyEvolution</key>
+	<string>borderadapterhead</string>
+	<key>symmetricobservertension</key>
+	<string>canPrepareKernel</string>
+</dict>
+</plist>

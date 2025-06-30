@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileBloc</key>
+	<string>completionStage</string>
+	<key>associatedNavigation</key>
+	<string>similarBloc</string>
+	<key>descentLeft</key>
+	<string>reactiveerror</string>
+	<key>drawerBrightness</key>
+	<string>coordinatorDensity</string>
+	<key>functionalAccessory</key>
+	<string>compositionalRestriction</string>
+	<key>ignoredTraversal</key>
+	<string>canValidateMonster</string>
+	<key>interactorvalueinterval</key>
+	<string>mediumTopic</string>
+	<key>materialappearance</key>
+	<string>eventcluster</string>
+	<key>persistreference</key>
+	<string>cancelTouch</string>
+	<key>sustainableTopic</key>
+	<string>finishAperture</string>
+</dict>
+</plist>

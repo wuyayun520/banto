@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencycolor</key>
+	<string>canRouteDecoration</string>
+	<key>equalizationchart</key>
+	<string>rendererCoord</string>
+	<key>euclideanPageView</key>
+	<string>missedSprite</string>
+	<key>graphicright</key>
+	<string>autoGrayscale</string>
+	<key>hashMargin</key>
+	<string>difficultScheduler</string>
+	<key>mainScale</key>
+	<string>publishAlpha</string>
+	<key>missedOption</key>
+	<string>rebuildSlider</string>
+	<key>observerasset</key>
+	<string>requestTier</string>
+	<key>serviceFormat</key>
+	<string>streamMission</string>
+	<key>subsequentLifecycle</key>
+	<string>mediocretechnique</string>
+</dict>
+</plist>

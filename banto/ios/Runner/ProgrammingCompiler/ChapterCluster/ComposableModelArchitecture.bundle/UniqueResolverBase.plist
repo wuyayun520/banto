@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledSegue</key>
+	<string>customJoiner</string>
+	<key>durationTransparency</key>
+	<string>shouldCreateCanvas</string>
+	<key>freesession</key>
+	<string>unactivatedCache</string>
+	<key>intermediatetextfieldborder</key>
+	<string>connectBoxShadow</string>
+	<key>standalonechapterskewx</key>
+	<string>metricsBottom</string>
+	<key>uniformModule</key>
+	<string>dispatchActivity</string>
+</dict>
+</plist>

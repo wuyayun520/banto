@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTopic</key>
+	<string>instructionStage</string>
+	<key>catalystResponse</key>
+	<string>statelessTask</string>
+	<key>customVertex</key>
+	<string>hyperbolicNode</string>
+	<key>expandedlabel</key>
+	<string>reconcileanchor</string>
+	<key>shouldRebuildLabel</key>
+	<string>gesturedetectorProcess</string>
+	<key>singletonDelay</key>
+	<string>serializeBinary</string>
+	<key>tangentIndex</key>
+	<string>cartesianFeature</string>
+</dict>
+</plist>

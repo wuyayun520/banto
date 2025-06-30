@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonBrush</key>
+	<string>delegateBottom</string>
+	<key>granularBinder</key>
+	<string>loadRoute</string>
+	<key>greatLoss</key>
+	<string>marshalRoute</string>
+	<key>inactiveOptimizer</key>
+	<string>baseelasticity</string>
+	<key>shouldValidateMember</key>
+	<string>painterTint</string>
+	<key>shouldYieldBitrate</key>
+	<string>largeCache</string>
+	<key>synchronousSingleton</key>
+	<string>synchronousReplica</string>
+</dict>
+</plist>

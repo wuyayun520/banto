@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerTheme</key>
+	<string>playbackMargin</string>
+	<key>dynamicResolver</key>
+	<string>activateCallback</string>
+	<key>easyBoxShadow</key>
+	<string>cartesianInstruction</string>
+	<key>lastChecklist</key>
+	<string>bulletappearance</string>
+	<key>originalMethod</key>
+	<string>animateCursor</string>
+	<key>resolverTheme</key>
+	<string>canListenSession</string>
+	<key>responderLeft</key>
+	<string>ondrawerchanged</string>
+	<key>scrollableSingleton</key>
+	<string>metricscontrast</string>
+	<key>textfieldShade</key>
+	<string>statelessSchema</string>
+</dict>
+</plist>

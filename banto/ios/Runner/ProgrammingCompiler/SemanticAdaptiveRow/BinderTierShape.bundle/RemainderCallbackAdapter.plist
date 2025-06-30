@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryTop</key>
+	<string>unmountedDrawer</string>
+	<key>composableService</key>
+	<string>concreteSchema</string>
+	<key>expandedbyphase</key>
+	<string>decodeCell</string>
+	<key>localizationDistance</key>
+	<string>disparateImpact</string>
+	<key>multiCursor</key>
+	<string>usedScreen</string>
+	<key>segueDelay</key>
+	<string>shouldEncodeDropdownButton</string>
+	<key>startgridview</key>
+	<string>canParseRichText</string>
+	<key>subsequentCustomPaint</key>
+	<string>timerKind</string>
+</dict>
+</plist>

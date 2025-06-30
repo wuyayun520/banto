@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopanimatedcontainer</key>
+	<string>primaryAperture</string>
+	<key>logInteraction</key>
+	<string>mediaqueryInterval</string>
+	<key>oldTriangles</key>
+	<string>dropdownbuttonmodel</string>
+	<key>shouldTrainSensor</key>
+	<string>publicFactory</string>
+	<key>statefulscopeinterval</key>
+	<string>mapperinterval</string>
+	<key>transformerrotation</key>
+	<string>ignoredAxis</string>
+</dict>
+</plist>

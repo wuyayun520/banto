@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSchema</key>
+	<string>activatedNotifier</string>
+	<key>denseSingleton</key>
+	<string>shouldCacheView</string>
+	<key>fusedLoop</key>
+	<string>secondCallback</string>
+	<key>ignoredskin</key>
+	<string>canFinishCustomPaint</string>
+	<key>indicatorleft</key>
+	<string>intermediateTrigger</string>
+	<key>persistentObserver</key>
+	<string>makeManager</string>
+	<key>polyfillinteraction</key>
+	<string>shouldUnbindModulus</string>
+</dict>
+</plist>

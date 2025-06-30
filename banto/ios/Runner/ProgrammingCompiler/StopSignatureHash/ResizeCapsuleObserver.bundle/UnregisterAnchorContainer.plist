@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedFilter</key>
+	<string>beginnerDispatcher</string>
+	<key>beginnerRemediation</key>
+	<string>continueComposition</string>
+	<key>heroinmethod</key>
+	<string>transitionCell</string>
+	<key>semanticsType</key>
+	<string>statefulCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulealongflyweight</key>
+	<string>topicNumber</string>
+	<key>commonCombiner</key>
+	<string>shouldProcessPlayback</string>
+	<key>entropyBottom</key>
+	<string>denseStatus</string>
+	<key>giftTint</key>
+	<string>canEmitPlayback</string>
+	<key>immutabletransitionbehavior</key>
+	<string>layoutAccessory</string>
+	<key>nodeBound</key>
+	<string>replicaTail</string>
+	<key>providerValidation</key>
+	<string>shouldPauseProjection</string>
+	<key>shouldCancelPainter</key>
+	<string>newestTangent</string>
+</dict>
+</plist>

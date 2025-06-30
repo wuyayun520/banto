@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoThroughput</key>
+	<string>processCompleter</string>
+	<key>lazySearcher</key>
+	<string>optionOpacity</string>
+	<key>priorityTop</key>
+	<string>sceneFramework</string>
+	<key>semanticselement</key>
+	<string>retainresource</string>
+	<key>shouldMountedListView</key>
+	<string>occasionDirection</string>
+	<key>shouldValidateNavigator</key>
+	<string>globalBloc</string>
+</dict>
+</plist>

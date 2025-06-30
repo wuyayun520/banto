@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderversusbuffer</key>
+	<string>singleSelector</string>
+	<key>contrastIndex</key>
+	<string>completerSpeed</string>
+	<key>dimensionstageindex</key>
+	<string>richtextProxy</string>
+	<key>shouldFetchFragment</key>
+	<string>enumerateSingleton</string>
+	<key>shouldSerializeVariant</key>
+	<string>customizedTextField</string>
+	<key>staticcardorientation</key>
+	<string>commoncache</string>
+	<key>subscriberSaturation</key>
+	<string>transformIcon</string>
+</dict>
+</plist>

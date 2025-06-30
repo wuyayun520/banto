@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterShape</key>
+	<string>backwarddrawer</string>
+	<key>deferredinterfacetail</key>
+	<string>sizedboxCycle</string>
+	<key>recttag</key>
+	<string>queuebytier</string>
+	<key>scrollableTabView</key>
+	<string>dedicatedProjection</string>
+	<key>spriteawaystage</key>
+	<string>connectorAlignment</string>
+	<key>spriteshade</key>
+	<string>futureformat</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalOptimizer</key>
+	<string>interactorFlags</string>
+	<key>crudeFlex</key>
+	<string>dismissStateful</string>
+	<key>eventefficiency</key>
+	<string>webRadio</string>
+	<key>floatpoint</key>
+	<string>shouldDisconnectText</string>
+	<key>invisibleBoxShadow</key>
+	<string>seamlessPresenter</string>
+	<key>selectedtabbar</key>
+	<string>hashResponse</string>
+	<key>shouldserializebitrate</key>
+	<string>shouldNotifyAccessory</string>
+	<key>subscriptionstagespeed</key>
+	<string>declarativedependency</string>
+</dict>
+</plist>

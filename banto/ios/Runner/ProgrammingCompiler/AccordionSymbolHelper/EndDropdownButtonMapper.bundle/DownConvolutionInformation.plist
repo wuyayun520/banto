@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticEfficiency</key>
+	<string>layoutTier</string>
+	<key>erasedialogs</key>
+	<string>clusterShade</string>
+	<key>explicitStroke</key>
+	<string>spriteScale</string>
+	<key>handlervisible</key>
+	<string>arithmeticModel</string>
+	<key>hardConvolution</key>
+	<string>elasticdescription</string>
+	<key>interactiveMenu</key>
+	<string>basicBatch</string>
+	<key>pagerLocation</key>
+	<string>nextZone</string>
+	<key>scrollableCharacter</key>
+	<string>elasticnotification</string>
+	<key>signatmethod</key>
+	<string>filldelegate</string>
+	<key>synchronizematerial</key>
+	<string>cupertinoLog</string>
+</dict>
+</plist>

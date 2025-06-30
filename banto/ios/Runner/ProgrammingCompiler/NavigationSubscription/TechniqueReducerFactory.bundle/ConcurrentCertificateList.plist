@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardDelivery</key>
+	<string>alignmentVar</string>
+	<key>crucialschema</key>
+	<string>normalProject</string>
+	<key>difficultConstant</key>
+	<string>baseFlags</string>
+	<key>disparatequeue</key>
+	<string>canParsePromise</string>
+	<key>fusedBehavior</key>
+	<string>iterativeLifecycle</string>
+	<key>inactiveCompletion</key>
+	<string>delegateCompleter</string>
+	<key>inheritedCallback</key>
+	<string>compositionalMapper</string>
+	<key>oldFeature</key>
+	<string>clusterFormat</string>
+</dict>
+</plist>

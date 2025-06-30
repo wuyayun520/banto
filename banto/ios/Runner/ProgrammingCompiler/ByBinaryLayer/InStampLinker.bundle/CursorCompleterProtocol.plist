@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoGesture</key>
+	<string>agileUnary</string>
+	<key>deferredslider</key>
+	<string>shouldPresentSlider</string>
+	<key>movementlifecycle</key>
+	<string>sizeprocessdepth</string>
+	<key>permissiveResource</key>
+	<string>deserializeRemainder</string>
+	<key>secondArchitecture</key>
+	<string>smalltentative</string>
+	<key>shouldnotifydecoration</key>
+	<string>unactivatedAnimator</string>
+	<key>skinchannel</key>
+	<string>serviceStrategy</string>
+	<key>timelineCount</key>
+	<string>diversifiedCupertino</string>
+	<key>transformerBound</key>
+	<string>numericalRouter</string>
+</dict>
+</plist>

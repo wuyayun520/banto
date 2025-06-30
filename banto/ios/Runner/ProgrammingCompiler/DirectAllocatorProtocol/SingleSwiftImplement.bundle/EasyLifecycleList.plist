@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitparamstate</key>
+	<string>checklistEnvironment</string>
+	<key>materialInterpolation</key>
+	<string>appbarstylevelocity</string>
+	<key>permanentRepository</key>
+	<string>iterativeFrame</string>
+	<key>radiusspeed</key>
+	<string>modulusVariable</string>
+	<key>shouldHandlePromise</key>
+	<string>draggableCombiner</string>
+	<key>visitcontainer</key>
+	<string>customizedActivity</string>
+</dict>
+</plist>

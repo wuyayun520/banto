@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCube</key>
+	<string>unaryedge</string>
+	<key>diffableHandler</key>
+	<string>permissiveExtension</string>
+	<key>fusedSink</key>
+	<string>shouldResumeSign</string>
+	<key>interfaceindex</key>
+	<string>staticresourcename</string>
+	<key>mediumPreview</key>
+	<string>traversalIndex</string>
+	<key>permanentReceiver</key>
+	<string>nextAlignment</string>
+	<key>statefulLifecycle</key>
+	<string>popupPrototype</string>
+	<key>vertexSaturation</key>
+	<string>slashfunctiontension</string>
+</dict>
+</plist>

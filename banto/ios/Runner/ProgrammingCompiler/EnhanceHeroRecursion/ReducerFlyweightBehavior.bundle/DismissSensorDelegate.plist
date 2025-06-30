@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchutil</key>
+	<string>constantDuration</string>
+	<key>integeramongmethod</key>
+	<string>spriteacceleration</string>
+	<key>persistentNode</key>
+	<string>shouldPushBehavior</string>
+	<key>sequentialThroughput</key>
+	<string>canRestartAlert</string>
+	<key>sophisticateddescent</key>
+	<string>giftMode</string>
+	<key>standalonePoint</key>
+	<string>accessibleStrength</string>
+	<key>tweendespitetemple</key>
+	<string>layoutGesture</string>
+</dict>
+</plist>

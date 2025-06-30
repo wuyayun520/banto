@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocaspect</key>
+	<string>fixedPositioned</string>
+	<key>concreteReceiver</key>
+	<string>basicAppBar</string>
+	<key>iconhash</key>
+	<string>capsuleformtail</string>
+	<key>intuitiveMaterial</key>
+	<string>normalModal</string>
+	<key>mountedpadding</key>
+	<string>immediateProtocol</string>
+	<key>nodecolor</key>
+	<string>tappableGridView</string>
+	<key>permanentFeature</key>
+	<string>decorationForce</string>
+	<key>persistentStrength</key>
+	<string>shouldDetachMedia</string>
+	<key>touchservice</key>
+	<string>reactiveScroller</string>
+</dict>
+</plist>

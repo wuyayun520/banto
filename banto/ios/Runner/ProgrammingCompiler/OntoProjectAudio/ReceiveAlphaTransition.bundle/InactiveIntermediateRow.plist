@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianFragments</key>
+	<string>imperativeRadio</string>
+	<key>currentdialogs</key>
+	<string>normalConsumption</string>
+	<key>largeScale</key>
+	<string>dialogsRotation</string>
+	<key>sampleedge</key>
+	<string>creatorState</string>
+	<key>shouldPrepareConvolution</key>
+	<string>histogramState</string>
+	<key>significantheap</key>
+	<string>combinerForce</string>
+	<key>themethroughdecorator</key>
+	<string>provideUtil</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianUsage</key>
+	<string>uniformScreen</string>
+	<key>channelpadding</key>
+	<string>hasExtension</string>
+	<key>clipperopacity</key>
+	<string>finishTransition</string>
+	<key>commonState</key>
+	<string>repositoryScale</string>
+	<key>metadataType</key>
+	<string>selectedTable</string>
+	<key>nativeVariant</key>
+	<string>denseSprite</string>
+	<key>profileappearance</key>
+	<string>canSubscribeCursor</string>
+	<key>retainedPopup</key>
+	<string>usagestatus</string>
+	<key>shouldSubscribeProfile</key>
+	<string>promisesensor</string>
+	<key>webPoint</key>
+	<string>resultEnvironment</string>
+</dict>
+</plist>

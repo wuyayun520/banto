@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyTint</key>
+	<string>mobileBaseline</string>
+	<key>logDuration</key>
+	<string>dropdownbuttonPosition</string>
+	<key>nativeBuffer</key>
+	<string>synchronousGrid</string>
+	<key>primaryExtension</key>
+	<string>shouldemitsizedbox</string>
+	<key>signaturepicker</key>
+	<string>symbolSpeed</string>
+</dict>
+</plist>

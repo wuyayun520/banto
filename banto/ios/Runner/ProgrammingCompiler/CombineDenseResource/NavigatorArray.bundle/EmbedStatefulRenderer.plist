@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modalbysingleton</key>
+	<string>accordionGradient</string>
+	<key>permissiveInterface</key>
+	<string>fusedProvider</string>
+	<key>rowdirection</key>
+	<string>polyfillFormat</string>
+	<key>shouldHandleExtension</key>
+	<string>shouldLayoutPageView</string>
+</dict>
+</plist>

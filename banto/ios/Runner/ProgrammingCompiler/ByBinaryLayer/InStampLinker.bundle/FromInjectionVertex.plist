@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clippername</key>
+	<string>deprecatetext</string>
+	<key>discardedSine</key>
+	<string>unbindlayer</string>
+	<key>eagerSprite</key>
+	<string>diversifiedTweak</string>
+	<key>semanticprocessor</key>
+	<string>tabbarStyle</string>
+	<key>tangentmaterializer</key>
+	<string>shouldLoadGram</string>
+	<key>vectorormode</key>
+	<string>asynchronousController</string>
+</dict>
+</plist>

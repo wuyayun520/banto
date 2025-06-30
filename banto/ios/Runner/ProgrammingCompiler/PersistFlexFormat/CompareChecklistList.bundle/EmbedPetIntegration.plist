@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellSkewX</key>
+	<string>hyperbolicTernary</string>
+	<key>dialogsColor</key>
+	<string>informationRate</string>
+	<key>emitterMargin</key>
+	<string>resilientWrapper</string>
+	<key>respectiveComposition</key>
+	<string>euclideanColor</string>
+	<key>shouldUpdateUnary</key>
+	<string>retrieveProgressBar</string>
+	<key>unsortedShape</key>
+	<string>registerStore</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonHandler</key>
+	<string>normalStroke</string>
+	<key>concreteCompleter</key>
+	<string>petStage</string>
+	<key>drawerreliability</key>
+	<string>reduceProvider</string>
+	<key>graphicshape</key>
+	<string>createmultiplication</string>
+	<key>scaffoldtransparency</key>
+	<string>canSubscribeButton</string>
+	<key>shouldPublishSine</key>
+	<string>baseEdge</string>
+	<key>shouldSubscribeArithmetic</key>
+	<string>resolverInteraction</string>
+</dict>
+</plist>

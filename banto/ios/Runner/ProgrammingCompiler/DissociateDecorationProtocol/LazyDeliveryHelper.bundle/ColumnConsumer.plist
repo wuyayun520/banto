@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combineparticle</key>
+	<string>hyperbolicModule</string>
+	<key>concreteInstruction</key>
+	<string>transitionDelay</string>
+	<key>connectpresenter</key>
+	<string>formatScale</string>
+	<key>discardedDimension</key>
+	<string>permanentcurve</string>
+	<key>intermediateIndicator</key>
+	<string>canPushScroll</string>
+	<key>interpolationtitle</key>
+	<string>richtextSpacing</string>
+	<key>operationBottom</key>
+	<string>canAnimateIcon</string>
+	<key>reactivesensorstate</key>
+	<string>statefulCreator</string>
+</dict>
+</plist>

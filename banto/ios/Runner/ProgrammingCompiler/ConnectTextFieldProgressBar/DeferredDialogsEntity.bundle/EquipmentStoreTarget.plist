@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectchallenge</key>
+	<string>navigateZone</string>
+	<key>largeElasticity</key>
+	<string>resizableWrapper</string>
+	<key>modulusKind</key>
+	<string>replicateOffset</string>
+	<key>newestaperture</key>
+	<string>accordionPositioned</string>
+	<key>pivotalChannel</key>
+	<string>textureFlyweight</string>
+	<key>reactiveTransformer</key>
+	<string>alphamediatorstate</string>
+	<key>shouldUnmountGridView</key>
+	<string>oldMovement</string>
+	<key>staticbaseline</key>
+	<string>combineScene</string>
+	<key>synchronousaspect</key>
+	<string>interactiveRectangle</string>
+</dict>
+</plist>

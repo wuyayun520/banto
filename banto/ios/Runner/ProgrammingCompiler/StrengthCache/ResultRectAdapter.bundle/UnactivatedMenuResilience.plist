@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerTag</key>
+	<string>canFormatAccessory</string>
+	<key>associatedSubscription</key>
+	<string>compositionalAnimatedContainer</string>
+	<key>latencyEdge</key>
+	<string>indicatorprovider</string>
+	<key>memberIndex</key>
+	<string>handlerLeft</string>
+	<key>shouldBindBullet</key>
+	<string>discardedContainer</string>
+	<key>shouldReplaceController</key>
+	<string>requesttop</string>
+	<key>spinethroughstyle</key>
+	<string>immediateData</string>
+	<key>unsortedResource</key>
+	<string>enhanceModel</string>
+	<key>vectordetector</key>
+	<string>activityCoord</string>
+</dict>
+</plist>

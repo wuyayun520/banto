@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryVisibility</key>
+	<string>textParam</string>
+	<key>arithmeticFactory</key>
+	<string>mapfrequency</string>
+	<key>customBaseline</key>
+	<string>popupMediator</string>
+	<key>displayableindicatorpressure</key>
+	<string>enhancePresenter</string>
+	<key>smartWrapper</key>
+	<string>euclideanBuffer</string>
+</dict>
+</plist>

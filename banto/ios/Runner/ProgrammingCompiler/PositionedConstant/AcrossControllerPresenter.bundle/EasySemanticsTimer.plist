@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerdispatcher</key>
+	<string>errorPattern</string>
+	<key>composablelogarithmresponse</key>
+	<string>uniqueFactory</string>
+	<key>encodeshader</key>
+	<string>cubeVar</string>
+	<key>interfaceRate</key>
+	<string>playbackskewx</string>
+	<key>localAnalyzer</key>
+	<string>ismission</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedEntity</key>
+	<string>accordionChannels</string>
+	<key>localReduction</key>
+	<string>requiredText</string>
+	<key>modalchannel</key>
+	<string>imperativeProtocol</string>
+	<key>switchcoordinator</key>
+	<string>detectorDelay</string>
+	<key>wrapperDirection</key>
+	<string>publicTabBar</string>
+</dict>
+</plist>

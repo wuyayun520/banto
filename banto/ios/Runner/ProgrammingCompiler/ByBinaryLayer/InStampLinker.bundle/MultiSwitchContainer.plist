@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableAlpha</key>
+	<string>remediationBrightness</string>
+	<key>displayablePicker</key>
+	<string>interactiveData</string>
+	<key>errordisclaimer</key>
+	<string>gateForm</string>
+	<key>iconzone</key>
+	<string>ignoredAlert</string>
+	<key>shouldContinueSemantics</key>
+	<string>chapterawayvalue</string>
+	<key>shouldCreateListView</key>
+	<string>locateResponse</string>
+	<key>unsortedCycle</key>
+	<string>tableInterpreter</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>progressbarSkewY</key>
+	<string>attachresource</string>
+	<key>shouldFinishPrecision</key>
+	<string>newestShape</string>
+	<key>shouldLoadListView</key>
+	<string>unactivatedSensor</string>
+	<key>shouldPrepareMusic</key>
+	<string>exceptionType</string>
+</dict>
+</plist>

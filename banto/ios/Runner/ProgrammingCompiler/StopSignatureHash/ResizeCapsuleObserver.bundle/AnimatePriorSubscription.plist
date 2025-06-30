@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMaster</key>
+	<string>serializeerror</string>
+	<key>buttonCenter</key>
+	<string>arithmeticEffect</string>
+	<key>constraintsingleton</key>
+	<string>shouldParseNotification</string>
+	<key>holdstamp</key>
+	<string>interpolateresult</string>
+	<key>hyperbolicRenderer</key>
+	<string>crucialIntegrity</string>
+	<key>shouldKeepReduction</key>
+	<string>markscaffold</string>
+	<key>shouldProcessNavigation</key>
+	<string>shouldLayoutCatalyst</string>
+	<key>shouldPushGrayscale</key>
+	<string>defaultoption</string>
+</dict>
+</plist>

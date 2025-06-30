@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventsplitter</key>
+	<string>gradientvarcoord</string>
+	<key>interactiveZone</key>
+	<string>functionalReceiver</string>
+	<key>missiontentative</key>
+	<string>timelinePosition</string>
+	<key>reactiveFeature</key>
+	<string>aggregateCallback</string>
+	<key>robustLocalization</key>
+	<string>shouldDecodeDropdownButton</string>
+	<key>shouldEndTextField</key>
+	<string>subscriptionValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyPolyfill</key>
+	<string>shouldDetachModal</string>
+	<key>grayscaleState</key>
+	<string>unactivatedAwait</string>
+	<key>mutablePainter</key>
+	<string>subsequentduration</string>
+	<key>primaryFilter</key>
+	<string>listenerpublisher</string>
+	<key>robustChannel</key>
+	<string>subsequentAnimation</string>
+	<key>robustGestureDetector</key>
+	<string>inactiveMerger</string>
+</dict>
+</plist>

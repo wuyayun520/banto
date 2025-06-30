@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyTail</key>
+	<string>signopacity</string>
+	<key>cupertinoSymbol</key>
+	<string>connectorStatus</string>
+	<key>fusedBox</key>
+	<string>frameAdapter</string>
+	<key>shouldCreateListView</key>
+	<string>uniformCupertino</string>
+	<key>shouldtrainbatch</key>
+	<string>canStreamBase</string>
+</dict>
+</plist>

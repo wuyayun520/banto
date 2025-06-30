@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindresolver</key>
+	<string>connectRouter</string>
+	<key>bitrateasync</key>
+	<string>bulletdescent</string>
+	<key>desktopUsage</key>
+	<string>shouldEncodeMedia</string>
+	<key>liteColor</key>
+	<string>temporaryStack</string>
+	<key>metadataVelocity</key>
+	<string>smallView</string>
+	<key>scrollablesensormargin</key>
+	<string>subtleSample</string>
+	<key>tappableSplitter</key>
+	<string>radiowidget</string>
+	<key>uniformEvent</key>
+	<string>shouldKeepTask</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedGrain</key>
+	<string>arithmeticLoss</string>
+	<key>missedcubitduration</key>
+	<string>startListView</string>
+	<key>momentumbottom</key>
+	<string>interactorTail</string>
+	<key>mutableMedia</key>
+	<string>shouldDisconnectIndicator</string>
+	<key>permutationBorder</key>
+	<string>ternaryShape</string>
+	<key>permutationFrequency</key>
+	<string>shearnavigator</string>
+	<key>protectedSink</key>
+	<string>shouldStartAspectRatio</string>
+	<key>reactivedetector</key>
+	<string>taskStyle</string>
+	<key>savecoordinator</key>
+	<string>firstSlash</string>
+</dict>
+</plist>

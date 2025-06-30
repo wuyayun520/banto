@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleHandler</key>
+	<string>mobilewithoutvar</string>
+	<key>dedicatedpainter</key>
+	<string>discardedSlider</string>
+	<key>modalcompositestatus</key>
+	<string>iconPlatform</string>
+	<key>relationalMatrix</key>
+	<string>shouldDetachEffect</string>
+</dict>
+</plist>

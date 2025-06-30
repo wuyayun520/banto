@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticaldescriptorbehavior</key>
+	<string>canYieldRoute</string>
+	<key>crucialBrush</key>
+	<string>cubitTemple</string>
+	<key>cupertinoVertex</key>
+	<string>hardFragments</string>
+	<key>dispatcherInteraction</key>
+	<string>coordinatorcallback</string>
+	<key>diversifiedElasticity</key>
+	<string>loadDescriptor</string>
+	<key>pinchableTween</key>
+	<string>enabledDetector</string>
+	<key>tensorOption</key>
+	<string>calculateChannel</string>
+	<key>timeforce</key>
+	<string>insteadCallback</string>
+</dict>
+</plist>

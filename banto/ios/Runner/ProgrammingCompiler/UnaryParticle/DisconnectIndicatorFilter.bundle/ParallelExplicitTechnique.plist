@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityDepth</key>
+	<string>temporaryDelegate</string>
+	<key>completerFeedback</key>
+	<string>ignoredTransformer</string>
+	<key>composableIcon</key>
+	<string>menuStage</string>
+	<key>currentgift</key>
+	<string>loadScreen</string>
+	<key>fixedInstruction</key>
+	<string>difficultSession</string>
+	<key>interpolationlocalization</key>
+	<string>behaviorflyweightrate</string>
+	<key>shouldSubscribeMember</key>
+	<string>dispatchSkirt</string>
+	<key>textrect</key>
+	<string>immediatehero</string>
+</dict>
+</plist>

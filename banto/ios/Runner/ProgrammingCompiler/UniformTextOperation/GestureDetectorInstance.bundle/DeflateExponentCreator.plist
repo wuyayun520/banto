@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoawaitspacing</key>
+	<string>missionhandler</string>
+	<key>multiplicationrotation</key>
+	<string>refreshChart</string>
+	<key>pivotalSkirt</key>
+	<string>modalSkewY</string>
+	<key>primaryPreview</key>
+	<string>keepResource</string>
+	<key>responsiveBatch</key>
+	<string>displayableDisclaimer</string>
+</dict>
+</plist>

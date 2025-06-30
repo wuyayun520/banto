@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationinset</key>
+	<string>unbindcursor</string>
+	<key>diversifiedCosine</key>
+	<string>rendererfrequency</string>
+	<key>pivotalmenu</key>
+	<string>convertalert</string>
+	<key>retainedCurve</key>
+	<string>sharedRectangle</string>
+	<key>sensorCoord</key>
+	<string>stopClipper</string>
+	<key>shouldpersistcosine</key>
+	<string>responderSaturation</string>
+	<key>subsequentSorter</key>
+	<string>sophisticatedTexture</string>
+	<key>usedLatency</key>
+	<string>schemaStatus</string>
+</dict>
+</plist>

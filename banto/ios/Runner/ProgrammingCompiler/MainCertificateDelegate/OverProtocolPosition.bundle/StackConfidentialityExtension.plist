@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentChannel</key>
+	<string>hasRole</string>
+	<key>fixedBinary</key>
+	<string>unbindEqualization</string>
+	<key>globalFrame</key>
+	<string>draggableSymbol</string>
+	<key>invisibleimageopacity</key>
+	<string>observerTag</string>
+	<key>largeCycle</key>
+	<string>multiAsync</string>
+	<key>nativeTimeline</key>
+	<string>updateSingleton</string>
+	<key>permanentCreator</key>
+	<string>permanentEntropy</string>
+	<key>respectiveProgressBar</key>
+	<string>heapBorder</string>
+	<key>techniqueTail</key>
+	<string>mobilematerial</string>
+</dict>
+</plist>

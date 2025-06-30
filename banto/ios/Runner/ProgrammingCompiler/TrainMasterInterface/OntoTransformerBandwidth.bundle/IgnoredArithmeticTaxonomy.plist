@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelAppearance</key>
+	<string>shouldPopCheckbox</string>
+	<key>lostCursor</key>
+	<string>mapProcess</string>
+	<key>replicaHead</key>
+	<string>builderParameter</string>
+	<key>selectedoption</key>
+	<string>statusDelay</string>
+	<key>viewTint</key>
+	<string>radiokind</string>
+</dict>
+</plist>

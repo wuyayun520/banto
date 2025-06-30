@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedScroller</key>
+	<string>shouldListenInteger</string>
+	<key>logState</key>
+	<string>concurrentIcon</string>
+	<key>presenterCoord</key>
+	<string>intensityForm</string>
+	<key>progressbarPressure</key>
+	<string>collectionCoord</string>
+	<key>shouldShowDelegate</key>
+	<string>shouldReplaceCurve</string>
+</dict>
+</plist>

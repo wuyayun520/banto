@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionSaturation</key>
+	<string>resourcePlatform</string>
+	<key>primaryOptimizer</key>
+	<string>metadatasaturation</string>
+	<key>resolverShade</key>
+	<string>lifecycleScale</string>
+	<key>shouldUpdateAlert</key>
+	<string>granularAsset</string>
+	<key>validatebox</key>
+	<string>declarativeState</string>
+	<key>wrapperDelay</key>
+	<string>navigationOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferdelay</key>
+	<string>playLayout</string>
+	<key>imagedelay</key>
+	<string>resizableLogarithm</string>
+	<key>materialsize</key>
+	<string>immediateOperation</string>
+	<key>scrollabletaxonomy</key>
+	<string>imperativeInjection</string>
+	<key>secondInterpolation</key>
+	<string>numericalGestureDetector</string>
+	<key>shouldCreateNavigator</key>
+	<string>basicVector</string>
+	<key>shouldUnmountIndicator</key>
+	<string>convertername</string>
+	<key>stateoutsidenumber</key>
+	<string>shouldPersistModulus</string>
+</dict>
+</plist>

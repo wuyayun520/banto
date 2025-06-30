@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalVector</key>
+	<string>mediacallback</string>
+	<key>constantResponse</key>
+	<string>optionvisible</string>
+	<key>directlyProvider</key>
+	<string>imperativeTernary</string>
+	<key>localizationbyform</key>
+	<string>visibleVector</string>
+	<key>requestState</key>
+	<string>offsetTail</string>
+	<key>staticJoiner</key>
+	<string>arithmeticAmortization</string>
+	<key>vectorsaturation</key>
+	<string>shouldPrepareDuration</string>
+</dict>
+</plist>

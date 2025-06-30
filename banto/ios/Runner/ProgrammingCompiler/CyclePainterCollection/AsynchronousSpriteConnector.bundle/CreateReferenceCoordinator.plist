@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateBinary</key>
+	<string>channelsdecoratortag</string>
+	<key>missedVolume</key>
+	<string>geometricvariant</string>
+	<key>multicardacceleration</key>
+	<string>shouldSkipLabel</string>
+	<key>shouldStreamTextField</key>
+	<string>shouldLayoutAnimation</string>
+</dict>
+</plist>

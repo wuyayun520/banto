@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalSkin</key>
+	<string>notationSaturation</string>
+	<key>mediumTask</key>
+	<string>canSerializeConstraint</string>
+	<key>painternotation</key>
+	<string>petshade</string>
+	<key>significantFeature</key>
+	<string>normalRadio</string>
+	<key>smallMaterializer</key>
+	<string>completerValidation</string>
+</dict>
+</plist>

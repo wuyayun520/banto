@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvecyclecontrast</key>
+	<string>desktopImpact</string>
+	<key>declarativeDescent</key>
+	<string>canInflateEqualization</string>
+	<key>finishconstraint</key>
+	<string>symmetricMomentum</string>
+	<key>materialgrayscalemargin</key>
+	<string>stepInteraction</string>
+	<key>nativelifecycle</key>
+	<string>restartDrawer</string>
+	<key>requiredSymbol</key>
+	<string>constructZone</string>
+	<key>resilientRichText</key>
+	<string>binaryorigin</string>
+	<key>shouldUnmountReference</key>
+	<string>startalpha</string>
+	<key>unactivatedClipper</key>
+	<string>explicitProjection</string>
+</dict>
+</plist>

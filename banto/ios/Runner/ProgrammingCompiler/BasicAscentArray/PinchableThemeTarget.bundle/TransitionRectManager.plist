@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eraseintensity</key>
+	<string>intensityCoord</string>
+	<key>futurevalidation</key>
+	<string>mediumDrawer</string>
+	<key>mediumAlignment</key>
+	<string>rebuildtransition</string>
+	<key>quaternionFeedback</key>
+	<string>canCancelPainter</string>
+	<key>topicorigin</key>
+	<string>semanticStack</string>
+</dict>
+</plist>

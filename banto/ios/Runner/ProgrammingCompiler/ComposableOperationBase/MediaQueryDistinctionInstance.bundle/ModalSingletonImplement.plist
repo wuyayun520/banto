@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellvalidation</key>
+	<string>listenstorage</string>
+	<key>consultativeGrid</key>
+	<string>persistentManager</string>
+	<key>ephemeralCell</key>
+	<string>servicetype</string>
+	<key>errorframeworkright</key>
+	<string>yieldInkWell</string>
+	<key>hierarchicalMenu</key>
+	<string>iconFeedback</string>
+	<key>reducerAcceleration</key>
+	<string>shouldSetStateInkWell</string>
+	<key>retainedcatalyst</key>
+	<string>semanticHistogram</string>
+	<key>statefulRecursion</key>
+	<string>routeModal</string>
+	<key>sustainableScale</key>
+	<string>canSaveInteger</string>
+	<key>themebuffertint</key>
+	<string>scaffoldContrast</string>
+</dict>
+</plist>

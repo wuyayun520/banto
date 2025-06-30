@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directHandler</key>
+	<string>layoutFragment</string>
+	<key>flexiblePosition</key>
+	<string>rotateBuffer</string>
+	<key>grayscaleBrightness</key>
+	<string>connectStateful</string>
+	<key>lossTail</key>
+	<string>mobileArchitecture</string>
+	<key>materialRecursion</key>
+	<string>marginSingleton</string>
+	<key>partitionchallenge</key>
+	<string>canNotifyNib</string>
+	<key>remediationValidation</key>
+	<string>seekradius</string>
+	<key>tabbarflags</key>
+	<string>shouldReplaceCertificate</string>
+	<key>visibleOffset</key>
+	<string>decodeSubscription</string>
+</dict>
+</plist>

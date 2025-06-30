@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardalert</key>
+	<string>prevDescription</string>
+	<key>basicDependency</key>
+	<string>immutableCharacteristic</string>
+	<key>decorationtraversal</key>
+	<string>axisNumber</string>
+	<key>deferredImpact</key>
+	<string>popupwithoutlayer</string>
+	<key>largeButton</key>
+	<string>canRenderBitrate</string>
+	<key>rapidDisclaimer</key>
+	<string>awaitBrightness</string>
+	<key>resilientintegration</key>
+	<string>labeldistance</string>
+	<key>specifyaccessory</key>
+	<string>selectedPrecision</string>
+</dict>
+</plist>

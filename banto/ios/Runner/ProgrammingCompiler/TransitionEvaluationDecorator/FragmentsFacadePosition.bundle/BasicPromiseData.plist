@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbacktemplebrightness</key>
+	<string>shaderalongjob</string>
+	<key>dynamicPositioned</key>
+	<string>adjustTransition</string>
+	<key>enabledChooser</key>
+	<string>invisibleChannels</string>
+	<key>equipmentPadding</key>
+	<string>mobileInteraction</string>
+	<key>makeoffset</key>
+	<string>unregisterView</string>
+	<key>permanentChecklist</key>
+	<string>mediocreAppBar</string>
+	<key>responderMode</key>
+	<string>responseFlyweight</string>
+	<key>taskOpacity</key>
+	<string>capsuleAdapter</string>
+</dict>
+</plist>

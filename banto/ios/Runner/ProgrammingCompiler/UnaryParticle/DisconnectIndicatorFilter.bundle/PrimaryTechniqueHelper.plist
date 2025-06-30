@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheshape</key>
+	<string>priorCreator</string>
+	<key>documentdescription</key>
+	<string>lazyInfrastructure</string>
+	<key>flexibleModel</key>
+	<string>gridSize</string>
+	<key>interactiveaction</key>
+	<string>sceneformat</string>
+	<key>nativeActivity</key>
+	<string>sliderVisible</string>
+	<key>nextTask</key>
+	<string>shouldLayoutLoss</string>
+	<key>sessionSpeed</key>
+	<string>hyperbolicNode</string>
+	<key>shouldDetachSignature</key>
+	<string>validateExpanded</string>
+	<key>shouldMountedPositioned</key>
+	<string>disconnectSegment</string>
+</dict>
+</plist>

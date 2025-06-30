@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardLoader</key>
+	<string>matrixWork</string>
+	<key>liteCache</key>
+	<string>performService</string>
+	<key>localLabel</key>
+	<string>yieldCharacter</string>
+	<key>shouldShowAxis</key>
+	<string>modalDensity</string>
+	<key>trainalert</key>
+	<string>euclideanPlayback</string>
+	<key>viewstateforce</key>
+	<string>originallayoutsaturation</string>
+	<key>widgettheme</key>
+	<string>declarativeSensor</string>
+</dict>
+</plist>

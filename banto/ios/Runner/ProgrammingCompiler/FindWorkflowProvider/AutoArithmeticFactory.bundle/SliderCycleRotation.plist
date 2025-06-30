@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedObject</key>
+	<string>singleSizedBox</string>
+	<key>basicEvolution</key>
+	<string>oldResource</string>
+	<key>loadrole</key>
+	<string>allocatePosition</string>
+	<key>shouldInflateAxis</key>
+	<string>signatureDelay</string>
+	<key>sustainableQuaternion</key>
+	<string>analogyRate</string>
+</dict>
+</plist>

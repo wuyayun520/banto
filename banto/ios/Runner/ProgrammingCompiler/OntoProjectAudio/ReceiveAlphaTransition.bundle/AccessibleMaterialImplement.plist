@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedFactory</key>
+	<string>inheritedProtocol</string>
+	<key>ephemeralBatch</key>
+	<string>cartesianGradient</string>
+	<key>gatescalability</key>
+	<string>encodequeue</string>
+	<key>invisibleExpanded</key>
+	<string>shouldListenStateless</string>
+	<key>shouldSaveImage</key>
+	<string>accessibleCombiner</string>
+	<key>shouldUnmountedDecoration</key>
+	<string>themespacing</string>
+	<key>tappableDimension</key>
+	<string>invokemetadata</string>
+	<key>toleranceFrequency</key>
+	<string>timermodeposition</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalSegment</key>
+	<string>mobileCursor</string>
+	<key>fixedhandlertransparency</key>
+	<string>canNotifyMobile</string>
+	<key>shouldstartaspectratio</key>
+	<string>tickerComposite</string>
+	<key>singleWorkflow</key>
+	<string>shouldParseStream</string>
+	<key>toolbloc</key>
+	<string>canUpdateSizedBox</string>
+</dict>
+</plist>

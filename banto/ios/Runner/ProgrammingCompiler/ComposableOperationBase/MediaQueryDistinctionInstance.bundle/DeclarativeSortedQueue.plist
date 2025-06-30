@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicData</key>
+	<string>notifyInterface</string>
+	<key>ignoredimpact</key>
+	<string>validateAlert</string>
+	<key>interactiveFilter</key>
+	<string>sortedPermutation</string>
+	<key>linkerPosition</key>
+	<string>shouldDisposeStamp</string>
+	<key>optionSize</key>
+	<string>canObserveCharacter</string>
+	<key>pageviewalignment</key>
+	<string>lastCoordinator</string>
+	<key>resultRate</key>
+	<string>clipTween</string>
+</dict>
+</plist>

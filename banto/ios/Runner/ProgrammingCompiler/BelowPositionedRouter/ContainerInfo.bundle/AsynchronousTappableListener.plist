@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerMaster</key>
+	<string>projectionsearcher</string>
+	<key>numericalAllocator</key>
+	<string>diversifiedTernary</string>
+	<key>originalCanvas</key>
+	<string>connectorScale</string>
+	<key>playloop</key>
+	<string>composableContrast</string>
+	<key>retainedtweak</key>
+	<string>animatedUsage</string>
+	<key>routerfromphase</key>
+	<string>resultShade</string>
+</dict>
+</plist>

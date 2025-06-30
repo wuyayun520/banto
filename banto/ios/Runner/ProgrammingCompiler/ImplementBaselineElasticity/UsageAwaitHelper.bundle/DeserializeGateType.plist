@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>infrastructureSkewY</key>
+	<string>firstBatch</string>
+	<key>shouldTransformOperation</key>
+	<string>unbindAnchor</string>
+	<key>widgetscale</key>
+	<string>canFinishPageView</string>
+</dict>
+</plist>

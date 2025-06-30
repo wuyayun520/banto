@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxduringsystem</key>
+	<string>timePadding</string>
+	<key>decodeintensity</key>
+	<string>imperativeVideo</string>
+	<key>defaultworkflow</key>
+	<string>conformPreview</string>
+	<key>denseContainer</key>
+	<string>disparatePolyfill</string>
+	<key>materializerContrast</key>
+	<string>attachFlex</string>
+	<key>servicerotation</key>
+	<string>staticNavigation</string>
+	<key>shouldListenWidget</key>
+	<string>dividelayout</string>
+	<key>sophisticatedData</key>
+	<string>rectoffset</string>
+</dict>
+</plist>

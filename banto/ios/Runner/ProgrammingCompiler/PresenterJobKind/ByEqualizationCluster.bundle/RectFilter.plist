@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertOpacity</key>
+	<string>managerTop</string>
+	<key>disabledInfrastructure</key>
+	<string>protocolAcceleration</string>
+	<key>effectsaturation</key>
+	<string>shouldPopScale</string>
+	<key>granularOccasion</key>
+	<string>arithmeticStyle</string>
+	<key>hierarchicalFragment</key>
+	<string>oncyclechanged</string>
+	<key>ignoredRadio</key>
+	<string>bandwidthFormat</string>
+	<key>measuregate</key>
+	<string>interactiveexponentstate</string>
+	<key>opaqueRadius</key>
+	<string>schemaIndex</string>
+	<key>parallelTrajectory</key>
+	<string>coordinatorBehavior</string>
+</dict>
+</plist>

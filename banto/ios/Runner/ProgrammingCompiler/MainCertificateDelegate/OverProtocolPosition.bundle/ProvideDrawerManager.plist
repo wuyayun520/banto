@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintrate</key>
+	<string>cloneStorage</string>
+	<key>coordinatorscale</key>
+	<string>selectedMatrix</string>
+	<key>customizedsine</key>
+	<string>boxconfiguration</string>
+	<key>disconnectclipper</key>
+	<string>fixedRenderer</string>
+	<key>elasticInterface</key>
+	<string>usecasedescent</string>
+	<key>groupoutsidebridge</key>
+	<string>permissiveScheduler</string>
+	<key>reducercycleinset</key>
+	<string>shouldNotifyCupertino</string>
+	<key>shouldStopIndicator</key>
+	<string>tabbarMemento</string>
+	<key>tooloutsidevar</key>
+	<string>reusableResilience</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateFlex</key>
+	<string>comprehensiveEmitter</string>
+	<key>explicitInterface</key>
+	<string>shouldSetStateProtocol</string>
+	<key>injectionBound</key>
+	<string>publishPlayback</string>
+	<key>keyshadercoord</key>
+	<string>shouldValidateScreen</string>
+	<key>reusableicon</key>
+	<string>ephemeralCapsule</string>
+</dict>
+</plist>

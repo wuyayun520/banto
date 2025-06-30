@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileVertex</key>
+	<string>connectSubscription</string>
+	<key>autoException</key>
+	<string>otherStep</string>
+	<key>elasticCombiner</key>
+	<string>clipperwithlevel</string>
+	<key>layoutfuture</key>
+	<string>graphicScope</string>
+	<key>metricsPressure</key>
+	<string>enabledAlignment</string>
+	<key>offsetatflyweight</key>
+	<string>streamVariant</string>
+	<key>precisionRotation</key>
+	<string>sizeAppearance</string>
+	<key>symmetricFormat</key>
+	<string>debugInterface</string>
+	<key>touchtabbar</key>
+	<string>smallInjection</string>
+</dict>
+</plist>

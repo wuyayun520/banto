@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerinteraction</key>
+	<string>mixinDescription</string>
+	<key>desktopCluster</key>
+	<string>mergerDensity</string>
+	<key>fusedTweak</key>
+	<string>screenStatus</string>
+	<key>shouldListenBullet</key>
+	<string>blocScope</string>
+	<key>sophisticatedStorage</key>
+	<string>permanentOverlay</string>
+</dict>
+</plist>

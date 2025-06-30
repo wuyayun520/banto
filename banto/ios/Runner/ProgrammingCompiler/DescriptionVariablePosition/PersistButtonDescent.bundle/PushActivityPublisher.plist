@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeState</key>
+	<string>isScroll</string>
+	<key>converterPadding</key>
+	<string>canMountAnchor</string>
+	<key>gridviewinterval</key>
+	<string>enabledAction</string>
+	<key>scenarioFlags</key>
+	<string>dedicatedRichText</string>
+	<key>shouldProcessPadding</key>
+	<string>shouldDismissCache</string>
+	<key>shouldSkipThread</key>
+	<string>shouldpauseplayback</string>
+	<key>singleImpact</key>
+	<string>shouldPushRadio</string>
+	<key>subsequentTask</key>
+	<string>globalSwift</string>
+	<key>unarydistance</key>
+	<string>encodeCallback</string>
+</dict>
+</plist>

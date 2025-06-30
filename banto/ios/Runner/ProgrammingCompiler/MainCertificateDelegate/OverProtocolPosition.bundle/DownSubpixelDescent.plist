@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeProgressBar</key>
+	<string>notationInteraction</string>
+	<key>architectureFeedback</key>
+	<string>textForce</string>
+	<key>catalystState</key>
+	<string>petTag</string>
+	<key>floatgrid</key>
+	<string>animaterepository</string>
+	<key>imperativeAsset</key>
+	<string>texturetype</string>
+	<key>reconcilestream</key>
+	<string>shouldRouteNavigation</string>
+	<key>shouldBuildSpot</key>
+	<string>transformerFlyweight</string>
+	<key>shouldnavigatepet</key>
+	<string>canStartScaffold</string>
+</dict>
+</plist>

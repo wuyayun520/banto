@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelinteraction</key>
+	<string>geometricGestureDetector</string>
+	<key>granularNib</key>
+	<string>animatedChallenge</string>
+	<key>priorAspect</key>
+	<string>canDismissPageView</string>
+	<key>rectbound</key>
+	<string>independentTextField</string>
+	<key>resolverPressure</key>
+	<string>formatState</string>
+	<key>subscribehandler</key>
+	<string>invisibleEquipment</string>
+</dict>
+</plist>

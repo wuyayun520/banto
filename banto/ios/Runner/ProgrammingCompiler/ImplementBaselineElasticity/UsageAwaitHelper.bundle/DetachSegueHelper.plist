@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSlash</key>
+	<string>switchMediator</string>
+	<key>activeSwitch</key>
+	<string>masterrate</string>
+	<key>adaptiveprovider</key>
+	<string>layoutFragment</string>
+	<key>apertureLeft</key>
+	<string>inheritedData</string>
+	<key>embedview</key>
+	<string>sineSize</string>
+	<key>materialScaffold</key>
+	<string>coordinatorColor</string>
+	<key>resourceAlignment</key>
+	<string>oldPlate</string>
+	<key>tweenevolution</key>
+	<string>unactivatedObject</string>
+</dict>
+</plist>

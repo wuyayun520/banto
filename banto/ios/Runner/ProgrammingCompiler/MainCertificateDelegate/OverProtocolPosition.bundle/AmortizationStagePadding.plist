@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioTheme</key>
+	<string>injectresource</string>
+	<key>backwardFilter</key>
+	<string>localContraction</string>
+	<key>clearloop</key>
+	<string>trianglesBehavior</string>
+	<key>graphicworkshade</key>
+	<string>temporaryInterpolation</string>
+	<key>keyTernary</key>
+	<string>fillGraph</string>
+	<key>shouldlistensignature</key>
+	<string>immediateParticle</string>
+	<key>singleThreshold</key>
+	<string>updateUnary</string>
+	<key>tensorResponse</key>
+	<string>permissiveOffset</string>
+</dict>
+</plist>

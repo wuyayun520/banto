@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gramaroundlayer</key>
+	<string>globalRectangle</string>
+	<key>momentumStyle</key>
+	<string>axisTag</string>
+	<key>reducerSpeed</key>
+	<string>singleReducer</string>
+	<key>renderlayer</key>
+	<string>arithmeticOperation</string>
+	<key>seekradius</key>
+	<string>normalEvaluation</string>
+	<key>selectorcontrast</key>
+	<string>respondBuffer</string>
+	<key>tappableAnimator</key>
+	<string>seamlessDocument</string>
+	<key>themetriangles</key>
+	<string>clipperName</string>
+</dict>
+</plist>

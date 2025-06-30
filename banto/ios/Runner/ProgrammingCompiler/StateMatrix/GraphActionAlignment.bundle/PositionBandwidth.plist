@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousElement</key>
+	<string>actionScope</string>
+	<key>compositionalEmitter</key>
+	<string>listviewTask</string>
+	<key>constructnotifier</key>
+	<string>asynchronousException</string>
+	<key>contrastbehavior</key>
+	<string>disabledTimeline</string>
+	<key>injectionworkshade</key>
+	<string>rowinshape</string>
+	<key>notifytexture</key>
+	<string>stringifyService</string>
+	<key>retainedSound</key>
+	<string>flexibleSink</string>
+	<key>sequentialCard</key>
+	<string>accordionRecursion</string>
+	<key>statelessFrequency</key>
+	<string>popupLevel</string>
+</dict>
+</plist>

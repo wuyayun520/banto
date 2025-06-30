@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderOrigin</key>
+	<string>analyzeResolver</string>
+	<key>cacheinset</key>
+	<string>differentiateSlider</string>
+	<key>euclideanprofilecontrast</key>
+	<string>smallResponder</string>
+	<key>seamlessAlert</key>
+	<string>shouldSaveAspect</string>
+	<key>shouldLoadBatch</key>
+	<string>beginnerOption</string>
+	<key>slidercontextacceleration</key>
+	<string>cupertinoImage</string>
+	<key>standaloneRemediation</key>
+	<string>uniquestorevalidation</string>
+</dict>
+</plist>

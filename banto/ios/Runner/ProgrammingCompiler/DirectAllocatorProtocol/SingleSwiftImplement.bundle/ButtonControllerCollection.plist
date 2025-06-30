@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutableTaxonomy</key>
+	<string>characteristicDensity</string>
+	<key>pagerResponse</key>
+	<string>parallelResponder</string>
+	<key>progressbarValidation</key>
+	<string>synchronousRow</string>
+	<key>responsiveContainer</key>
+	<string>canUnmountLayout</string>
+	<key>retaindialogs</key>
+	<string>beginnerPreview</string>
+	<key>shouldTrainBox</key>
+	<string>addProvider</string>
+	<key>timelineOffset</key>
+	<string>otherSkirt</string>
+</dict>
+</plist>

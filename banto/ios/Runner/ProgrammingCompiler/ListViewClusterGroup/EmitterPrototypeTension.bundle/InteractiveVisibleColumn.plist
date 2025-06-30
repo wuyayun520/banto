@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalEvent</key>
+	<string>activatedReference</string>
+	<key>disparateNorm</key>
+	<string>commoncaption</string>
+	<key>protectedscroll</key>
+	<string>searcherTheme</string>
+	<key>sceneName</key>
+	<string>particletype</string>
+	<key>usedListener</key>
+	<string>widgethandler</string>
+</dict>
+</plist>

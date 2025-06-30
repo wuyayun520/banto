@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalAspectRatio</key>
+	<string>shouldCreateSignature</string>
+	<key>ignoredElement</key>
+	<string>euclideanRenderer</string>
+	<key>imperativesinktag</key>
+	<string>autoTransformer</string>
+	<key>robustProjection</key>
+	<string>visitService</string>
+	<key>shouldTransitionSpecifier</key>
+	<string>cancelbatch</string>
+	<key>significantVariant</key>
+	<string>graphicVisible</string>
+	<key>titleinterval</key>
+	<string>shouldUnbindCollection</string>
+</dict>
+</plist>

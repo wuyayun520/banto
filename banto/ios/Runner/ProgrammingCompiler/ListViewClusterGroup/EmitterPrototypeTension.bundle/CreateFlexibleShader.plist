@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousLabel</key>
+	<string>notificationgrid</string>
+	<key>deferredBinder</key>
+	<string>showCapacities</string>
+	<key>globalsliderinterval</key>
+	<string>textfieldconstant</string>
+	<key>gramstyleacceleration</key>
+	<string>captureResource</string>
+	<key>priorTicker</key>
+	<string>thresholdVelocity</string>
+	<key>schemaSize</key>
+	<string>layerTail</string>
+</dict>
+</plist>

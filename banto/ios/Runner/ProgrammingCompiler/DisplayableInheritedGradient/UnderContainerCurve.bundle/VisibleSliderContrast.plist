@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeinteractorvisibility</key>
+	<string>refreshTexture</string>
+	<key>priorMaster</key>
+	<string>difficultGestureDetector</string>
+	<key>processorFrequency</key>
+	<string>easyModulus</string>
+	<key>schedulerName</key>
+	<string>locateChannel</string>
+	<key>shouldnotifypromise</key>
+	<string>canPublishCertificate</string>
+</dict>
+</plist>

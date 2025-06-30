@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bullettierspeed</key>
+	<string>mediaContext</string>
+	<key>graphskewx</key>
+	<string>mediumFlex</string>
+	<key>musicthreshold</key>
+	<string>canStopDecoration</string>
+	<key>sharedMonster</key>
+	<string>disparateClipper</string>
+	<key>shouldPrepareCube</key>
+	<string>staticScroll</string>
+</dict>
+</plist>

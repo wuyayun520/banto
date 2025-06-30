@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableThreshold</key>
+	<string>cartesianfutureappearance</string>
+	<key>crudeNavigation</key>
+	<string>shouldTransformOverlay</string>
+	<key>diffableScreen</key>
+	<string>interactiveGestureDetector</string>
+	<key>ephemeralmedia</key>
+	<string>dimensionDistance</string>
+	<key>lostCosine</key>
+	<string>substantialDescent</string>
+	<key>mutablesemantics</key>
+	<string>rowanimation</string>
+	<key>opaquedescriptiontransparency</key>
+	<string>generatecomposition</string>
+	<key>permutationStyle</key>
+	<string>cubitProxy</string>
+</dict>
+</plist>

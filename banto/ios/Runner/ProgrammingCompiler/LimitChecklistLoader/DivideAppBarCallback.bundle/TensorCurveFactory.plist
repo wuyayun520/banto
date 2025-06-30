@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedData</key>
+	<string>imperativeEvent</string>
+	<key>latencySkewY</key>
+	<string>staticBinary</string>
+	<key>modulePosition</key>
+	<string>touchRow</string>
+	<key>nexttickerdelay</key>
+	<string>sorterDepth</string>
+	<key>persistentMaterializer</key>
+	<string>shouldDisposeBinary</string>
+	<key>shouldContinueMultiplication</key>
+	<string>notifyIsolate</string>
+</dict>
+</plist>

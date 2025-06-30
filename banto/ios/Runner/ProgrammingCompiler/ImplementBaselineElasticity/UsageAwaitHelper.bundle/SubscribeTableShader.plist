@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedDetector</key>
+	<string>shouldAttachPositioned</string>
+	<key>coordinatorType</key>
+	<string>multiClipper</string>
+	<key>crucialTitle</key>
+	<string>canTransitionPlate</string>
+	<key>oldObserver</key>
+	<string>grayscaleStructure</string>
+	<key>shouldObserveWidget</key>
+	<string>startscreen</string>
+</dict>
+</plist>

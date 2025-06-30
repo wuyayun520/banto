@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>encodecustompaint</key>
+	<string>currentconsumer</string>
+	<key>fixedCertificate</key>
+	<string>animateentity</string>
+	<key>intermediateResource</key>
+	<string>displayableMovement</string>
+	<key>mediumFrame</key>
+	<string>desktopSpine</string>
+	<key>notifierRate</key>
+	<string>retrievegesture</string>
+	<key>radiusLocation</key>
+	<string>modalDistance</string>
+	<key>scopeScale</key>
+	<string>cacheSubpixel</string>
+	<key>smartAppBar</key>
+	<string>hierarchicalHistogram</string>
+	<key>standaloneRadio</key>
+	<string>mountUnary</string>
+</dict>
+</plist>

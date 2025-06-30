@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedEffect</key>
+	<string>loadTransition</string>
+	<key>ignorednormvisible</key>
+	<string>cancelAspect</string>
+	<key>mediaTension</key>
+	<string>handlerDirection</string>
+	<key>onplaybacktap</key>
+	<string>streamCell</string>
+	<key>pinchableRichText</key>
+	<string>customConstraint</string>
+	<key>shouldTrainMember</key>
+	<string>refactorEvent</string>
+</dict>
+</plist>

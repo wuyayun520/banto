@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioresource</key>
+	<string>receiverOffset</string>
+	<key>cleanindicator</key>
+	<string>radiusvelocity</string>
+	<key>deserializescaffold</key>
+	<string>movementFormat</string>
+	<key>infoContrast</key>
+	<string>relationalDistinction</string>
+	<key>offsetRate</key>
+	<string>scalemodedepth</string>
+	<key>playbackconnector</key>
+	<string>symbolLayer</string>
+	<key>profileHue</key>
+	<string>liteMetadata</string>
+	<key>rebuildhandler</key>
+	<string>globalBrush</string>
+	<key>shouldEncodeGestureDetector</key>
+	<string>flexibleBase</string>
+	<key>shouldTransformSwitch</key>
+	<string>navigateAspect</string>
+</dict>
+</plist>

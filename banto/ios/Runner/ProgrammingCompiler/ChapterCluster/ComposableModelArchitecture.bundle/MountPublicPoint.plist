@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioDistance</key>
+	<string>remainderPattern</string>
+	<key>firstSign</key>
+	<string>connectlistview</string>
+	<key>onnotifierchanged</key>
+	<string>canCreateExponent</string>
+	<key>resourcePosition</key>
+	<string>shouldStopHistogram</string>
+	<key>selectordistance</key>
+	<string>mediaparametervalidation</string>
+	<key>shouldDisposeWorkflow</key>
+	<string>shouldRestartTabBar</string>
+	<key>shouldRenderDelegate</key>
+	<string>handledescriptor</string>
+	<key>shouldUnmountButton</key>
+	<string>encodeInteger</string>
+	<key>synchronousListener</key>
+	<string>interactiveAction</string>
+	<key>utilcenter</key>
+	<string>statelessAperture</string>
+</dict>
+</plist>

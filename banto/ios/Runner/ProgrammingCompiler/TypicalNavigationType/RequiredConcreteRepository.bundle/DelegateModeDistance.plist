@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeComposition</key>
+	<string>chooserDirection</string>
+	<key>dismissmethod</key>
+	<string>persistentDisclaimer</string>
+	<key>draggableModulus</key>
+	<string>canTrainContraction</string>
+	<key>granularpolygon</key>
+	<string>pauseDecoration</string>
+	<key>inkwellsplitter</key>
+	<string>tabbarFlyweight</string>
+	<key>routeKind</key>
+	<string>bundleRect</string>
+	<key>shouldAnimateKernel</key>
+	<string>stopAnimation</string>
+	<key>shouldPersistMaster</key>
+	<string>makeSprite</string>
+	<key>shouldPresentCompletion</key>
+	<string>eagerNotification</string>
+</dict>
+</plist>

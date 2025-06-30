@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintdrawer</key>
+	<string>texttaskorientation</string>
+	<key>invisibleRow</key>
+	<string>handleGrain</string>
+	<key>joinerIndex</key>
+	<string>basictweenindex</string>
+	<key>lastDrawer</key>
+	<string>searcherForce</string>
+	<key>statelessFinder</key>
+	<string>canPublishMomentum</string>
+	<key>unsortedChooser</key>
+	<string>responsiveStateful</string>
+</dict>
+</plist>

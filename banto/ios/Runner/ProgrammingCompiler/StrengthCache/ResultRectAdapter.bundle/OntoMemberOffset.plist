@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveCell</key>
+	<string>deployService</string>
+	<key>mediaqueryInteraction</key>
+	<string>shouldLoadTask</string>
+	<key>pointOffset</key>
+	<string>binaryawait</string>
+	<key>relationalPlayback</key>
+	<string>comprehensiveProject</string>
+	<key>responsiveConsumption</key>
+	<string>replaceSlider</string>
+	<key>substantialRect</key>
+	<string>mobileDependency</string>
+	<key>trianglesShape</key>
+	<string>hardStore</string>
+	<key>visiblePicker</key>
+	<string>prismaticIntensity</string>
+</dict>
+</plist>

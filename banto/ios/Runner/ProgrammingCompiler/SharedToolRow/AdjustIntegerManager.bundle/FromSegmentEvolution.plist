@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalDelegate</key>
+	<string>deserializeResponse</string>
+	<key>explicitscreenspacing</key>
+	<string>normalOverlay</string>
+	<key>ignoredInteger</key>
+	<string>shouldObserveMember</string>
+	<key>invisibleactivity</key>
+	<string>timerRotation</string>
+	<key>loadsign</key>
+	<string>rapidGrain</string>
+	<key>robustHistogram</key>
+	<string>unmountedProfile</string>
+	<key>smartTask</key>
+	<string>ignoredSubpixel</string>
+	<key>sophisticatedInformation</key>
+	<string>quantizerDescription</string>
+	<key>typicalBatch</key>
+	<string>previewMethod</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartHead</key>
+	<string>autoRemediation</string>
+	<key>checkboxnumberdensity</key>
+	<string>introspectResource</string>
+	<key>firstlogarithm</key>
+	<string>shouldDeserializeSwitch</string>
+	<key>requiredIntensity</key>
+	<string>timeLocation</string>
+	<key>routeprocessformat</key>
+	<string>protectedIsolate</string>
+	<key>shouldDispatchTransition</key>
+	<string>greatEvaluation</string>
+	<key>shouldSkipGridView</key>
+	<string>consumeUtil</string>
+</dict>
+</plist>

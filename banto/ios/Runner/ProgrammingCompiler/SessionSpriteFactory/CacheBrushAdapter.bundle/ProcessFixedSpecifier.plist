@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableIcon</key>
+	<string>shouldSetStateMission</string>
+	<key>crucialAction</key>
+	<string>nodeshapekind</string>
+	<key>mainRadius</key>
+	<string>sizerestriction</string>
+	<key>numericalpager</key>
+	<string>prevDelegate</string>
+	<key>screenStyle</key>
+	<string>shouldFinishImage</string>
+	<key>shouldEndSample</key>
+	<string>dismissBoxShadow</string>
+	<key>shouldInflateMaster</key>
+	<string>mutableDescent</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicPosition</key>
+	<string>shouldAttachFlex</string>
+	<key>currentSemantics</key>
+	<string>stopprojection</string>
+	<key>intermediaterequesttheme</key>
+	<string>loopDecorator</string>
+	<key>iterativeModulus</key>
+	<string>canPublishSpine</string>
+	<key>mediaVisible</key>
+	<string>anchorPressure</string>
+	<key>pivotalSize</key>
+	<string>scrollableScale</string>
+	<key>shouldLayoutProtocol</key>
+	<string>bindDelegate</string>
+	<key>shouldUpdateAppBar</key>
+	<string>normalPopup</string>
+	<key>slashRight</key>
+	<string>canFinishRole</string>
+</dict>
+</plist>

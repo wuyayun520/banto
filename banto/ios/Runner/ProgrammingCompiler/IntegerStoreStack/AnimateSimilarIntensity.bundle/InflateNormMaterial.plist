@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityRate</key>
+	<string>delegateForm</string>
+	<key>commonStateful</key>
+	<string>notificationResponse</string>
+	<key>customizedconstrainttension</key>
+	<string>shouldEndInstruction</string>
+	<key>selectorContrast</key>
+	<string>scalebloc</string>
+</dict>
+</plist>

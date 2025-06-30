@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachindicator</key>
+	<string>shouldProcessCurve</string>
+	<key>entropyScale</key>
+	<string>backwardCube</string>
+	<key>flexAlignment</key>
+	<string>offsetComposite</string>
+	<key>imperativeRadius</key>
+	<string>canDisposeGem</string>
+	<key>independentStep</key>
+	<string>uniqueInfo</string>
+	<key>navigatorTail</key>
+	<string>profilePopup</string>
+	<key>requiredStorage</key>
+	<string>profileController</string>
+	<key>significantResilience</key>
+	<string>shouldTransformSensor</string>
+</dict>
+</plist>

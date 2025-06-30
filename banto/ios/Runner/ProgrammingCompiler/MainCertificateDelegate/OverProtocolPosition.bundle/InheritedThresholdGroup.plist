@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedlocalizationtype</key>
+	<string>tabletierposition</string>
+	<key>diffableSignature</key>
+	<string>playbackLayer</string>
+	<key>greatCupertino</key>
+	<string>tappableDuration</string>
+	<key>keySymbol</key>
+	<string>listenAsync</string>
+	<key>lastStorage</key>
+	<string>usecaseInterval</string>
+	<key>modelcenter</key>
+	<string>hasextension</string>
+	<key>nibDensity</key>
+	<string>futureBound</string>
+	<key>robustModulus</key>
+	<string>secondFilter</string>
+	<key>segueForce</key>
+	<string>granularThroughput</string>
+	<key>sharedHistogram</key>
+	<string>instantiateParticle</string>
+</dict>
+</plist>

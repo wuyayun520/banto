@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatortop</key>
+	<string>opaqueProvision</string>
+	<key>customizedsensor</key>
+	<string>shouldDispatchDecoration</string>
+	<key>delicateDelivery</key>
+	<string>connectLabel</string>
+	<key>hasaxis</key>
+	<string>contractionEnvironment</string>
+</dict>
+</plist>

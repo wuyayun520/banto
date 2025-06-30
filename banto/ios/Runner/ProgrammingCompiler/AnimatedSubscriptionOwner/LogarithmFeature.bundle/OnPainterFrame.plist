@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerOffset</key>
+	<string>propagateCompleter</string>
+	<key>custompaintSpeed</key>
+	<string>requestDelegate</string>
+	<key>deferredgriddensity</key>
+	<string>resumeLoss</string>
+	<key>functionalBitrate</key>
+	<string>transitionSizedBox</string>
+	<key>missedContrast</key>
+	<string>canRebuildLoss</string>
+	<key>readnotifier</key>
+	<string>trajectoryTop</string>
+	<key>seamlessconstraintdirection</key>
+	<string>painterTint</string>
+	<key>shouldObserveMedia</key>
+	<string>oldTaxonomy</string>
+	<key>shouldRenderPageView</key>
+	<string>hardData</string>
+	<key>shouldValidateSwift</key>
+	<string>computeRect</string>
+</dict>
+</plist>

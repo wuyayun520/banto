@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchordelay</key>
+	<string>responsiveGrayscale</string>
+	<key>imageAcceleration</key>
+	<string>canCreateColumn</string>
+	<key>missedLocalization</key>
+	<string>dismissRole</string>
+	<key>multiDialogs</key>
+	<string>canSaveInterpolation</string>
+	<key>otherVolume</key>
+	<string>shouldRestartEntropy</string>
+	<key>pinchableInfo</key>
+	<string>persistReference</string>
+	<key>schemaShape</key>
+	<string>shouldEncodeAspectRatio</string>
+	<key>shouldNavigateExponent</key>
+	<string>rapidSemantics</string>
+	<key>trajectoryshade</key>
+	<string>loadEqualization</string>
+</dict>
+</plist>

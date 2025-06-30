@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderInset</key>
+	<string>elasticityPressure</string>
+	<key>cacheasync</key>
+	<string>continuebox</string>
+	<key>currentmonster</key>
+	<string>firstUnary</string>
+	<key>heapmetadata</key>
+	<string>chartLevel</string>
+	<key>multiPublisher</key>
+	<string>webCluster</string>
+	<key>paddingTag</key>
+	<string>canObserveBase</string>
+	<key>pivotalAnalyzer</key>
+	<string>hasSignature</string>
+	<key>shouldReplaceExponent</key>
+	<string>primaryContraction</string>
+	<key>shouldnotifytable</key>
+	<string>shoulddismissdialogs</string>
+</dict>
+</plist>

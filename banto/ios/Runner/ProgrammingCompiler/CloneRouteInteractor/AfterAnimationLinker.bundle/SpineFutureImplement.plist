@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticgrain</key>
+	<string>diffablerow</string>
+	<key>intermediateSink</key>
+	<string>paintchart</string>
+	<key>normproxybehavior</key>
+	<string>shouldKeepSine</string>
+	<key>onresourcechanged</key>
+	<string>relationalResolver</string>
+	<key>rowparameterhue</key>
+	<string>seamlessBuilder</string>
+	<key>shouldFetchScale</key>
+	<string>losszone</string>
+</dict>
+</plist>

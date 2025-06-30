@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evaluatebutton</key>
+	<string>pageviewconfiguration</string>
+	<key>frameemitter</key>
+	<string>protectedMargin</string>
+	<key>globalSignature</key>
+	<string>tabbarborder</string>
+	<key>otherHistogram</key>
+	<string>storageShade</string>
+	<key>semanticsDistance</key>
+	<string>shouldStartScroll</string>
+	<key>specifyWidget</key>
+	<string>subtleDistinction</string>
+</dict>
+</plist>

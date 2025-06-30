@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledSegment</key>
+	<string>functionaltween</string>
+	<key>granularTweak</key>
+	<string>tweenfeedback</string>
+	<key>listenerTag</key>
+	<string>layerKind</string>
+	<key>matrixpadding</key>
+	<string>nativetexturedensity</string>
+	<key>navigatorscale</key>
+	<string>appendsession</string>
+	<key>scopeShade</key>
+	<string>pinchableStamp</string>
+	<key>shouldAnimateExponent</key>
+	<string>shouldPublishReference</string>
+</dict>
+</plist>

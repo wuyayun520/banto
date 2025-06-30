@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>numericalExpanded</key>
+	<string>providerflags</string>
+	<key>numericalMobile</key>
+	<string>scaffoldcompleter</string>
+	<key>parallelbloc</key>
+	<string>validateGift</string>
+	<key>permanentJoiner</key>
+	<string>accordionCard</string>
+	<key>poplistview</key>
+	<string>canBuildSubpixel</string>
+	<key>respectiveStoryboard</key>
+	<string>canFinishLogarithm</string>
+	<key>selectedGesture</key>
+	<string>scrollDepth</string>
+</dict>
+</plist>

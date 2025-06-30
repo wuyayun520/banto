@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureAcceleration</key>
+	<string>dialogsrect</string>
+	<key>backwardSubscription</key>
+	<string>modulusSpeed</string>
+	<key>cartesianThreshold</key>
+	<string>shouldTrainResource</string>
+	<key>clipperprocessor</key>
+	<string>statelessTransformer</string>
+	<key>directlyCompletion</key>
+	<string>mobileStrategy</string>
+	<key>exponentSkewY</key>
+	<string>sharedHash</string>
+	<key>geometricCube</key>
+	<string>streamSignature</string>
+	<key>shouldLoadStateful</key>
+	<string>sortedEvolution</string>
+	<key>stateplatformshape</key>
+	<string>responderScale</string>
+</dict>
+</plist>

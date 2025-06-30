@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedprocessor</key>
+	<string>deferredReduction</string>
+	<key>ephemeralVariant</key>
+	<string>ephemeralAudio</string>
+	<key>lostContraction</key>
+	<string>eventframeworkvisibility</string>
+	<key>promiseandobserver</key>
+	<string>newestEvent</string>
+	<key>sharedRoute</key>
+	<string>appbarMomentum</string>
+	<key>webPublisher</key>
+	<string>statePrototype</string>
+</dict>
+</plist>

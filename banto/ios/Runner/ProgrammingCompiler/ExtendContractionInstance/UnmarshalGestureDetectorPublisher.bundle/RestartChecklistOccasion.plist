@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disconnecttransformer</key>
+	<string>associateAsset</string>
+	<key>draggableEquivalent</key>
+	<string>resizableResult</string>
+	<key>kernelbandwidth</key>
+	<string>accessibleStore</string>
+	<key>originalthreadcenter</key>
+	<string>basicPriority</string>
+	<key>particleCount</key>
+	<string>gemParameter</string>
+	<key>publicExponent</key>
+	<string>shouldDismissProvider</string>
+	<key>tappableGrain</key>
+	<string>semanticnotifier</string>
+	<key>unactivatedUtil</key>
+	<string>alertDelay</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedBoxShadow</key>
+	<string>canDisconnectImage</string>
+	<key>entityTint</key>
+	<string>statelessExtension</string>
+	<key>iterativeExtension</key>
+	<string>equalbinary</string>
+	<key>materialcanvasbound</key>
+	<string>subscriptionacceleration</string>
+	<key>semanticProvider</key>
+	<string>canCreateButton</string>
+	<key>singletonopacity</key>
+	<string>canNotifyCurve</string>
+	<key>sortedsignatureflags</key>
+	<string>startPriority</string>
+	<key>staticSubpixel</key>
+	<string>cardscale</string>
+	<key>unactivatedMediaQuery</key>
+	<string>consumeLayout</string>
+</dict>
+</plist>

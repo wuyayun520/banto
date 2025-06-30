@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionFlags</key>
+	<string>canInflateWorkflow</string>
+	<key>disconnectchannel</key>
+	<string>statefulMonster</string>
+	<key>errorshaperight</key>
+	<string>constantDistance</string>
+	<key>gesturedetectorinteraction</key>
+	<string>directlySegue</string>
+	<key>reusableConvolution</key>
+	<string>shoulddeserializeaccessory</string>
+	<key>scrollableContrast</key>
+	<string>clipSlider</string>
+	<key>semanticUsage</key>
+	<string>overlayBorder</string>
+	<key>statefulAscent</key>
+	<string>reusableScalability</string>
+	<key>temporaryPager</key>
+	<string>associatedEquipment</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentAmortization</key>
+	<string>deprecaterouter</string>
+	<key>draggableSpine</key>
+	<string>diversifiedHistogram</string>
+	<key>mutablePainter</key>
+	<string>ignoredMetadata</string>
+	<key>parallelconstraint</key>
+	<string>canProcessChannels</string>
+	<key>priorityName</key>
+	<string>interpolateresource</string>
+	<key>reusableInteger</key>
+	<string>emitterPadding</string>
+	<key>secondScenario</key>
+	<string>primaryTraversal</string>
+	<key>specifyInterpolation</key>
+	<string>intermediateMomentum</string>
+	<key>splitterColor</key>
+	<string>ternaryStrategy</string>
+	<key>synchronizecycle</key>
+	<string>cycleversusparameter</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedSpot</key>
+	<string>shouldLoadAppBar</string>
+	<key>desktopBatch</key>
+	<string>retainedtweeninterval</string>
+	<key>elasticscope</key>
+	<string>subscribecontainer</string>
+	<key>gridviewMargin</key>
+	<string>statefulMatrix</string>
+	<key>menuscale</key>
+	<string>elementBound</string>
+	<key>responsecolor</key>
+	<string>tabbarSingleton</string>
+	<key>rowthroughprototype</key>
+	<string>notifyDescriptor</string>
+	<key>texturestyle</key>
+	<string>divideUseCase</string>
+</dict>
+</plist>

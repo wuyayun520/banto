@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitleft</key>
+	<string>augmentTask</string>
+	<key>eagerinterface</key>
+	<string>shouldUnmountEquipment</string>
+	<key>globalLabel</key>
+	<string>detachGridView</string>
+	<key>hardchallengetag</key>
+	<string>multiIndicator</string>
+	<key>techniqueShade</key>
+	<string>workflowStructure</string>
+	<key>unactivatedScope</key>
+	<string>mediaDistance</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeGesture</key>
+	<string>ismap</string>
+	<key>intensitymementopressure</key>
+	<string>protectedSwift</string>
+	<key>nextChapter</key>
+	<string>sinkLeft</string>
+	<key>persiststream</key>
+	<string>observeBullet</string>
+	<key>rowMargin</key>
+	<string>referenceDirection</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocmatrix</key>
+	<string>permissiveAnchor</string>
+	<key>compositionalAlert</key>
+	<string>activatedCaption</string>
+	<key>dialogsName</key>
+	<string>schemaColor</string>
+	<key>ephemeralCharacteristic</key>
+	<string>granularGrayscale</string>
+	<key>geometricComponent</key>
+	<string>keepPlayback</string>
+	<key>greatarchitecture</key>
+	<string>draggableDescent</string>
+	<key>hardawait</key>
+	<string>customdetail</string>
+	<key>movementvisible</key>
+	<string>flexibleLatency</string>
+	<key>otherDropdownButton</key>
+	<string>enabledProvider</string>
+	<key>shouldCacheModulus</key>
+	<string>canDecodeProfile</string>
+</dict>
+</plist>

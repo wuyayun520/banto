@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteRenderer</key>
+	<string>resizableTimer</string>
+	<key>difficultbullet</key>
+	<string>shouldParseClipper</string>
+	<key>grayscaleOrientation</key>
+	<string>futureSkewY</string>
+	<key>mainTexture</key>
+	<string>flexibleResponder</string>
+	<key>materialModel</key>
+	<string>statefuldispatcher</string>
+	<key>niboperation</key>
+	<string>dataAcceleration</string>
+	<key>resilientFormat</key>
+	<string>intermediateDecoration</string>
+	<key>standaloneMapper</key>
+	<string>materializeGrid</string>
+	<key>tickerFrequency</key>
+	<string>canRebuildOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousAsync</key>
+	<string>minSample</string>
+	<key>expandedShape</key>
+	<string>pivotalResilience</string>
+	<key>keyprogressbaredge</key>
+	<string>listviewLayer</string>
+	<key>shouldEndScaffold</key>
+	<string>channelsPosition</string>
+	<key>shouldRenderCupertino</key>
+	<string>concurrentView</string>
+</dict>
+</plist>

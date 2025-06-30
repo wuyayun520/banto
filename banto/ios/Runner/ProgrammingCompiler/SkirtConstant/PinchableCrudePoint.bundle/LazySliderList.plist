@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentusage</key>
+	<string>isolateMethod</string>
+	<key>interfaceDirection</key>
+	<string>spriteForce</string>
+	<key>lossPosition</key>
+	<string>saveSkirt</string>
+	<key>oldInterface</key>
+	<string>isbase</string>
+	<key>onscalechanged</key>
+	<string>storageCoord</string>
+	<key>shouldPrepareSegue</key>
+	<string>disposePlate</string>
+	<key>storyboardmaterializer</key>
+	<string>draggablethroughput</string>
+	<key>taskcallback</key>
+	<string>stampFormat</string>
+	<key>threadthanscope</key>
+	<string>arithmeticMultiplication</string>
+</dict>
+</plist>

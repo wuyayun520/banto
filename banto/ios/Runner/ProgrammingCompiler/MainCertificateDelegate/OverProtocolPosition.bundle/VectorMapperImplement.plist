@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDescent</key>
+	<string>sliderAdapter</string>
+	<key>channelsingletonshape</key>
+	<string>moveSubscription</string>
+	<key>defaultNavigator</key>
+	<string>canSaveButton</string>
+	<key>deferredResult</key>
+	<string>shouldPauseLogarithm</string>
+	<key>menuactionshade</key>
+	<string>audioBorder</string>
+	<key>shouldFinishBullet</key>
+	<string>shouldAttachCoordinator</string>
+	<key>sustainableMenu</key>
+	<string>soundmomentum</string>
+	<key>unsortedQueue</key>
+	<string>lastNavigator</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>instructionlevelhue</key>
+	<string>semanticProcessor</string>
+	<key>newestVector</key>
+	<string>shouldreplaceradio</string>
+	<key>prevVector</key>
+	<string>replaceMovement</string>
+	<key>publicPoint</key>
+	<string>capsuleVisible</string>
+	<key>publicnode</key>
+	<string>oldTransformer</string>
+	<key>responsiveSegment</key>
+	<string>positionedhash</string>
+	<key>seamlessStep</key>
+	<string>mediocreZone</string>
+	<key>semanticMetadata</key>
+	<string>flexiblePosition</string>
+	<key>tabviewDensity</key>
+	<string>subscriptionstylehead</string>
+	<key>temporaryMovement</key>
+	<string>newestbuttoncenter</string>
+</dict>
+</plist>

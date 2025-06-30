@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedEmitter</key>
+	<string>tweakBottom</string>
+	<key>declarativeCollection</key>
+	<string>canValidateInstruction</string>
+	<key>defaultOperation</key>
+	<string>pageviewconfiguration</string>
+	<key>imperativecanvas</key>
+	<string>inheritedMap</string>
+	<key>methodincludesystem</key>
+	<string>sizedboxAcceleration</string>
+	<key>missionHead</key>
+	<string>canDisconnectClipper</string>
+	<key>prepareplayback</key>
+	<string>customizedBoxShadow</string>
+	<key>rolebyprototype</key>
+	<string>serviceState</string>
+	<key>usedProjection</key>
+	<string>priorFuture</string>
+</dict>
+</plist>

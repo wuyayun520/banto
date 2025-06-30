@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultstep</key>
+	<string>formatnavigation</string>
+	<key>impressionSpacing</key>
+	<string>pivotalReplica</string>
+	<key>materialSwift</key>
+	<string>respectiveGrain</string>
+	<key>savebatch</key>
+	<string>beginnerSchema</string>
+	<key>shouldPopTechnique</key>
+	<string>shouldPersistGrayscale</string>
+	<key>switchScale</key>
+	<string>rotateAnimation</string>
+</dict>
+</plist>

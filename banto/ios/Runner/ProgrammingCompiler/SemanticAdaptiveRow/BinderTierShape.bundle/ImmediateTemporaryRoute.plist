@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationborder</key>
+	<string>loadEquipment</string>
+	<key>deferredSprite</key>
+	<string>unaryNumber</string>
+	<key>difficultColor</key>
+	<string>startGradient</string>
+	<key>resizableRouter</key>
+	<string>easyAnalogy</string>
+	<key>responderShape</key>
+	<string>canCancelConvolution</string>
+	<key>shoulddisposelogarithm</key>
+	<string>infoVelocity</string>
+	<key>singlePermutation</key>
+	<string>resizablebitratetag</string>
+</dict>
+</plist>

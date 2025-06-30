@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintcomponent</key>
+	<string>shouldResumeDelegate</string>
+	<key>creatorCount</key>
+	<string>adaptiveCluster</string>
+	<key>draggableNib</key>
+	<string>synchronousDetector</string>
+	<key>draggableSpecifier</key>
+	<string>shouldStopLoss</string>
+	<key>fusedaction</key>
+	<string>isSensor</string>
+	<key>statelessState</key>
+	<string>initializeGraph</string>
+	<key>webbinder</key>
+	<string>singletonframe</string>
+</dict>
+</plist>

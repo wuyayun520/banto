@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentbesidecomposite</key>
+	<string>annotateBuffer</string>
+	<key>crucialConverter</key>
+	<string>previewComposite</string>
+	<key>oldPublisher</key>
+	<string>resolveFactory</string>
+	<key>slidervelocity</key>
+	<string>imperativeImpression</string>
+	<key>splitterVelocity</key>
+	<string>renderPainter</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionDirection</key>
+	<string>sequentialSample</string>
+	<key>compositionalSensor</key>
+	<string>navigatorposition</string>
+	<key>integrityCoord</key>
+	<string>parallelNotification</string>
+	<key>oldstateless</key>
+	<string>canStreamController</string>
+	<key>overlaybinder</key>
+	<string>toolasync</string>
+	<key>petinteractor</key>
+	<string>aperturevariablestate</string>
+	<key>projectpolygon</key>
+	<string>sinkForm</string>
+	<key>shouldPublishEquipment</key>
+	<string>composableGraphic</string>
+</dict>
+</plist>

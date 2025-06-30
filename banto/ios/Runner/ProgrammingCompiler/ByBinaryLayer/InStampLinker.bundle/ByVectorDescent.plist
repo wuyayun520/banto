@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticandchain</key>
+	<string>memberName</string>
+	<key>baselineDistance</key>
+	<string>mapperColor</string>
+	<key>geometricSpine</key>
+	<string>missedClipper</string>
+	<key>observeropacity</key>
+	<string>shouldAttachDuration</string>
+	<key>shouldDispatchMission</key>
+	<string>releaseService</string>
+	<key>vertexmode</key>
+	<string>displayableEmitter</string>
+</dict>
+</plist>

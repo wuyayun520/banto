@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencybottom</key>
+	<string>inheritedModal</string>
+	<key>isMatrix</key>
+	<string>isDelegate</string>
+	<key>keyCapacities</key>
+	<string>bitratedispatcher</string>
+	<key>optionStyle</key>
+	<string>shouldFetchCoordinator</string>
+	<key>sequentialResponse</key>
+	<string>shouldStreamTool</string>
+	<key>shouldUnmountContainer</key>
+	<string>tableinsideframework</string>
+	<key>shouldconnectmap</key>
+	<string>maxCompletion</string>
+</dict>
+</plist>

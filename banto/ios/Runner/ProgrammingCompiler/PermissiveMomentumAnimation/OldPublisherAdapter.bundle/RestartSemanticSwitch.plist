@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticImpact</key>
+	<string>significantStamp</string>
+	<key>binaryFrequency</key>
+	<string>canPushPoint</string>
+	<key>concurrentReceiver</key>
+	<string>canFormatSegue</string>
+	<key>easyRemainder</key>
+	<string>stampAlignment</string>
+	<key>lastProjection</key>
+	<string>independentSign</string>
+	<key>mediumSorter</key>
+	<string>observeCell</string>
+	<key>retrievepositioned</key>
+	<string>overlayprocessor</string>
+	<key>sustainableConnector</key>
+	<string>callbackmaterializer</string>
+	<key>unsortedDistinction</key>
+	<string>trianglesState</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedStoryboard</key>
+	<string>capacitiesContext</string>
+	<key>deferredprioritytop</key>
+	<string>arithmeticFeedback</string>
+	<key>hardTransformer</key>
+	<string>curvePattern</string>
+	<key>scrollDelay</key>
+	<string>cosineSingleton</string>
+</dict>
+</plist>

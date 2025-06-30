@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerFrequency</key>
+	<string>compositionLeft</string>
+	<key>efficiencySize</key>
+	<string>paintColumn</string>
+	<key>independentLocalization</key>
+	<string>scrollCount</string>
+	<key>nativeContainer</key>
+	<string>comprehensiveDisclaimer</string>
+	<key>registermultiplication</key>
+	<string>interfacemode</string>
+	<key>roletag</key>
+	<string>canPublishMaterial</string>
+	<key>shapeCoord</key>
+	<string>wrapperborder</string>
+	<key>shouldDisconnectAnchor</key>
+	<string>variantDensity</string>
+	<key>shouldStopAppBar</key>
+	<string>shouldPausePositioned</string>
+	<key>stopreduction</key>
+	<string>clearConfiguration</string>
+</dict>
+</plist>

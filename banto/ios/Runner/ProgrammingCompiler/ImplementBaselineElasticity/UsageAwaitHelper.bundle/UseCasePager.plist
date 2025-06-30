@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetkind</key>
+	<string>shouldNotifyProtocol</string>
+	<key>fixedmediaquery</key>
+	<string>interactivePainter</string>
+	<key>liteProtocol</key>
+	<string>mediocreTween</string>
+	<key>modaltype</key>
+	<string>diversifiedFrame</string>
+	<key>partitionstorage</key>
+	<string>fixedTopic</string>
+</dict>
+</plist>

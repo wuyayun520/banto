@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedPet</key>
+	<string>agilethreshold</string>
+	<key>granularwidget</key>
+	<string>processFrame</string>
+	<key>greatEquivalent</key>
+	<string>refactorindicator</string>
+	<key>greatRole</key>
+	<string>specifyCharacter</string>
+	<key>hierarchicalNotification</key>
+	<string>customizedSegment</string>
+	<key>shouldNotifyMonster</key>
+	<string>prevChapter</string>
+	<key>significantTitle</key>
+	<string>nodeRate</string>
+	<key>stampcoordinator</key>
+	<string>shouldProcessSpecifier</string>
+	<key>synchronousMission</key>
+	<string>symmetricInterface</string>
+	<key>tappableLoop</key>
+	<string>tangentAlignment</string>
+</dict>
+</plist>

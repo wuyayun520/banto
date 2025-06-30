@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionsystemacceleration</key>
+	<string>comprehensiveAspectRatio</string>
+	<key>deployprovider</key>
+	<string>otherGate</string>
+	<key>iterativeBuilder</key>
+	<string>euclideanCube</string>
+	<key>liteAsset</key>
+	<string>shouldListenGate</string>
+	<key>musicEdge</key>
+	<string>aspectasmode</string>
+	<key>numericalProgressBar</key>
+	<string>imperativeNorm</string>
+	<key>sliderposition</key>
+	<string>playbackscheduler</string>
+</dict>
+</plist>

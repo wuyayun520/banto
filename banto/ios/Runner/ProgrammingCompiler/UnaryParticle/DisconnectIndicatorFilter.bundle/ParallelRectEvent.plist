@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeElement</key>
+	<string>advancedAxis</string>
+	<key>futuremodel</key>
+	<string>channelDirection</string>
+	<key>interactiveCubit</key>
+	<string>graphicMargin</string>
+	<key>othersubscriptioninterval</key>
+	<string>usecasePrototype</string>
+	<key>shouldDeserializeContraction</key>
+	<string>permanentWrapper</string>
+	<key>shouldPresentCaption</key>
+	<string>parallelVideo</string>
+	<key>sortedAlignment</key>
+	<string>autoSample</string>
+	<key>tensortimeline</key>
+	<string>accordionsessionflags</string>
+	<key>webFlex</key>
+	<string>inheritedDisclaimer</string>
+</dict>
+</plist>

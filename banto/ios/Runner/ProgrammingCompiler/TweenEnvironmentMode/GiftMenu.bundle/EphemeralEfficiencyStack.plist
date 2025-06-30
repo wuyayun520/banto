@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderlevelinteraction</key>
+	<string>storageasmemento</string>
+	<key>equivalentmargin</key>
+	<string>imageFlags</string>
+	<key>playbackformat</key>
+	<string>scrollableEqualization</string>
+	<key>shaderstatus</key>
+	<string>sharedtweenalignment</string>
+	<key>shouldPresentIndicator</key>
+	<string>shouldDispatchSegment</string>
+	<key>standaloneLog</key>
+	<string>nodecontextcontrast</string>
+</dict>
+</plist>

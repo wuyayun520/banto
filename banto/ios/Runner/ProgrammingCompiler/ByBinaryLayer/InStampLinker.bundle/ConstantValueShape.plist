@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorMomentum</key>
+	<string>similaroption</string>
+	<key>diffableinstructionorigin</key>
+	<string>appbarkind</string>
+	<key>restrictionspeed</key>
+	<string>certificateTier</string>
+	<key>secondPosition</key>
+	<string>missionType</string>
+	<key>shouldCancelCheckbox</key>
+	<string>embedController</string>
+	<key>shouldContinueSpine</key>
+	<string>statemode</string>
+</dict>
+</plist>

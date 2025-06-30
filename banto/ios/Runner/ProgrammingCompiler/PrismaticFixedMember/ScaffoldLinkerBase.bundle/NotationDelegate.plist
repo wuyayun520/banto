@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commontransitionalignment</key>
+	<string>encapsulateMethod</string>
+	<key>finishpreview</key>
+	<string>skirtOrigin</string>
+	<key>informationInset</key>
+	<string>protocolAppearance</string>
+	<key>mediaCenter</key>
+	<string>handlerTag</string>
+	<key>onfragmenttap</key>
+	<string>canDetachMovement</string>
+	<key>shouldCacheMargin</key>
+	<string>gestureInset</string>
+	<key>shouldResumeActivity</key>
+	<string>confidentialityDuration</string>
+	<key>smartZone</key>
+	<string>canStreamAspectRatio</string>
+	<key>subtleCallback</key>
+	<string>greatCustomPaint</string>
+	<key>titleBrightness</key>
+	<string>associatedFragment</string>
+</dict>
+</plist>

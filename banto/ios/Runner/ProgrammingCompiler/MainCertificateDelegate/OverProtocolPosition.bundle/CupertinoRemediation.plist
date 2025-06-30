@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedDetector</key>
+	<string>canUnmountArithmetic</string>
+	<key>multiRole</key>
+	<string>observeBullet</string>
+	<key>numericalMusic</key>
+	<string>cubitInteraction</string>
+	<key>rapidProject</key>
+	<string>elasticStroke</string>
+	<key>usagemodule</key>
+	<string>sizedboxVelocity</string>
+	<key>viewTop</key>
+	<string>pinchableMultiplication</string>
+</dict>
+</plist>

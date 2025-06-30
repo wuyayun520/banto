@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletduringscope</key>
+	<string>missiontint</string>
+	<key>hardHandler</key>
+	<string>crudeInteractor</string>
+	<key>inactiveNavigator</key>
+	<string>loadCupertino</string>
+	<key>multiAlignment</key>
+	<string>distinctionAppearance</string>
+	<key>retainedCycle</key>
+	<string>shouldRebuildRemainder</string>
+	<key>usedShape</key>
+	<string>accessibleTitle</string>
+</dict>
+</plist>

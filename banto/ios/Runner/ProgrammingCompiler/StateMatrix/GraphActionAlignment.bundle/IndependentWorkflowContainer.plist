@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredwrapper</key>
+	<string>inactiveInterface</string>
+	<key>encodeentity</key>
+	<string>geometricStream</string>
+	<key>permanentUseCase</key>
+	<string>arithmeticresolver</string>
+	<key>scrollerSaturation</key>
+	<string>currentinkwell</string>
+	<key>shouldEmitConsumer</key>
+	<string>methodcount</string>
+	<key>smartDuration</key>
+	<string>seamlessSearcher</string>
+</dict>
+</plist>

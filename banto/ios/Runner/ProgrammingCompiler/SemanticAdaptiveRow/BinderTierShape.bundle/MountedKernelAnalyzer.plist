@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousGrid</key>
+	<string>appbarAdapter</string>
+	<key>concreteElasticity</key>
+	<string>canResumeBuilder</string>
+	<key>functionalInkWell</key>
+	<string>storecompositecoord</string>
+	<key>gestureinset</key>
+	<string>shouldRenderAlert</string>
+	<key>sequentialPreview</key>
+	<string>checklistormemento</string>
+	<key>staticNotation</key>
+	<string>parallelMerger</string>
+	<key>tasktaskvalidation</key>
+	<string>imperativeBorder</string>
+</dict>
+</plist>

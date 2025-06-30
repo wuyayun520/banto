@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionKind</key>
+	<string>beginnerSpot</string>
+	<key>declarativeThroughput</key>
+	<string>itemShade</string>
+	<key>delicateasset</key>
+	<string>detacherror</string>
+	<key>hierarchicalListView</key>
+	<string>listenGraphic</string>
+	<key>parallelChannel</key>
+	<string>resultbyobserver</string>
+	<key>scrollsprite</key>
+	<string>dependencytint</string>
+	<key>temporaryanimation</key>
+	<string>canValidateTabView</string>
+</dict>
+</plist>

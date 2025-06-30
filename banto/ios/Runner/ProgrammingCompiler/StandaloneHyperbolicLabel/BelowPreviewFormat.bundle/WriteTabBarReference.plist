@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetschema</key>
+	<string>cloneChannel</string>
+	<key>fixedtickerscale</key>
+	<string>navigationFramework</string>
+	<key>iconcubit</key>
+	<string>disconnectReducer</string>
+	<key>sceneTransparency</key>
+	<string>setstateScaffold</string>
+	<key>shouldPresentCoordinator</key>
+	<string>shouldAttachTable</string>
+	<key>sinkDelay</key>
+	<string>retainedService</string>
+	<key>storagetaskduration</key>
+	<string>disconnectPrecision</string>
+</dict>
+</plist>

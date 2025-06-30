@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderAppearance</key>
+	<string>significantFeature</string>
+	<key>colorSkewX</key>
+	<string>toolbrightness</string>
+	<key>cupertinoTabView</key>
+	<string>wrapSlider</string>
+	<key>handleexponent</key>
+	<string>crudeCaption</string>
+	<key>instructionpresenter</key>
+	<string>computeWidget</string>
+	<key>scrollablemultiplicationoffset</key>
+	<string>stateincludestage</string>
+	<key>segmentnearprototype</key>
+	<string>normalFeature</string>
+	<key>shouldFormatBorder</key>
+	<string>shouldDispatchThread</string>
+</dict>
+</plist>

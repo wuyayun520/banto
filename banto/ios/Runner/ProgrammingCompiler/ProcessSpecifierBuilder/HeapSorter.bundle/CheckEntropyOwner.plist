@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTaxonomy</key>
+	<string>shouldLayoutNorm</string>
+	<key>errorOrientation</key>
+	<string>canRestartAnimation</string>
+	<key>euclideanSink</key>
+	<string>diversifiedelasticity</string>
+	<key>staticGroup</key>
+	<string>shouldValidateHistogram</string>
+</dict>
+</plist>

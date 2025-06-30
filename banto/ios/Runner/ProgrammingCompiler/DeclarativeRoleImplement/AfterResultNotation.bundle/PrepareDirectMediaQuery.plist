@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorVisible</key>
+	<string>trainColumn</string>
+	<key>offsetplatformrate</key>
+	<string>layoutNotifier</string>
+	<key>shouldTransformNotification</key>
+	<string>greatFinder</string>
+	<key>tangentInterval</key>
+	<string>specifyPicker</string>
+	<key>webManager</key>
+	<string>synchronousutil</string>
+</dict>
+</plist>

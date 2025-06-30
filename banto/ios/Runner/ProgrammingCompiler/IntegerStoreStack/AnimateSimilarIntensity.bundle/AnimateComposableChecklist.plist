@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultCursor</key>
+	<string>attachIcon</string>
+	<key>futureflags</key>
+	<string>observerScale</string>
+	<key>globalcharacteristic</key>
+	<string>eventinterval</string>
+	<key>hasmission</key>
+	<string>eagerinjectionscale</string>
+	<key>reducerstyle</key>
+	<string>shouldPresentBase</string>
+	<key>scrollablecube</key>
+	<string>ignoredConfiguration</string>
+	<key>symmetricMediaQuery</key>
+	<string>stampContrast</string>
+</dict>
+</plist>

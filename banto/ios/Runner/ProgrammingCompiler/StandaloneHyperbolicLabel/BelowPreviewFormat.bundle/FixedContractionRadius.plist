@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultMember</key>
+	<string>protectedRect</string>
+	<key>directlyAlert</key>
+	<string>connectorTail</string>
+	<key>discardedSegue</key>
+	<string>defaultmargin</string>
+	<key>mapperCenter</key>
+	<string>materializerBrightness</string>
+	<key>optimizecontainer</key>
+	<string>storyboardAction</string>
+	<key>prevBullet</key>
+	<string>specifierBorder</string>
+</dict>
+</plist>

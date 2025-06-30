@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableStoryboard</key>
+	<string>semanticsBorder</string>
+	<key>connectorContrast</key>
+	<string>alignmentuntilstyle</string>
+	<key>featureadapterspacing</key>
+	<string>interactiveLabel</string>
+	<key>immediateprecision</key>
+	<string>pivotalTentative</string>
+	<key>immutablecoordinator</key>
+	<string>unaryKind</string>
+	<key>nativelayout</key>
+	<string>shouldRebuildMusic</string>
+	<key>responsiveSize</key>
+	<string>semanticModal</string>
+	<key>retainedMargin</key>
+	<string>persistentSegment</string>
+	<key>shouldRebuildCertificate</key>
+	<string>pageviewmodel</string>
+	<key>singletonVisibility</key>
+	<string>stampTask</string>
+</dict>
+</plist>

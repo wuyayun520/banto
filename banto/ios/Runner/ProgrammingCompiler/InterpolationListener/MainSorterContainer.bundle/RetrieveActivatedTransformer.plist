@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationColor</key>
+	<string>shouldBindPromise</string>
+	<key>buttonOrientation</key>
+	<string>rolecolor</string>
+	<key>capsuleindex</key>
+	<string>subscriptionMediator</string>
+	<key>configurationcreator</key>
+	<string>refreshInterface</string>
+	<key>declarativedistinction</key>
+	<string>slidertop</string>
+	<key>iterativeRestriction</key>
+	<string>subscriptionAlignment</string>
+	<key>newestJoiner</key>
+	<string>shouldBindSession</string>
+	<key>protectedsingleton</key>
+	<string>channelLocation</string>
+	<key>shouldBuildMatrix</key>
+	<string>movementDecorator</string>
+</dict>
+</plist>

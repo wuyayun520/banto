@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurescene</key>
+	<string>validateCard</string>
+	<key>discardedElasticity</key>
+	<string>equalizationperaction</string>
+	<key>histogramMode</key>
+	<string>elasticanimationbottom</string>
+	<key>rectBound</key>
+	<string>chapterTint</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeScene</key>
+	<string>sophisticatedGroup</string>
+	<key>retainedService</key>
+	<string>cancelShader</string>
+	<key>sortedEmitter</key>
+	<string>flexiblestreamtype</string>
+	<key>throughputTheme</key>
+	<string>publicFactory</string>
+	<key>uniqueConsumption</key>
+	<string>skinSkewX</string>
+</dict>
+</plist>

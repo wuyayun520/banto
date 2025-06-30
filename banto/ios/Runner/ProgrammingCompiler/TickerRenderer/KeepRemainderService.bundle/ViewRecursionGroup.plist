@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>encapsulatebloc</key>
+	<string>canKeepChallenge</string>
+	<key>mapconsumer</key>
+	<string>setstateSkirt</string>
+	<key>offsetmargin</key>
+	<string>commonTime</string>
+	<key>prevDispatcher</key>
+	<string>canRebuildHistogram</string>
+	<key>provisionPressure</key>
+	<string>lastUseCase</string>
+	<key>selectorShape</key>
+	<string>titlePrototype</string>
+	<key>semanticAspect</key>
+	<string>optimizerdecoratorbottom</string>
+</dict>
+</plist>

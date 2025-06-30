@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureaboutparameter</key>
+	<string>reusableIcon</string>
+	<key>difficultSprite</key>
+	<string>interactiveSubscriber</string>
+	<key>difficultdecorationdensity</key>
+	<string>specifySkin</string>
+	<key>lazyroute</key>
+	<string>interactionIndex</string>
+	<key>lostDisclaimer</key>
+	<string>bufferParam</string>
+	<key>resizableSensor</key>
+	<string>dismissNorm</string>
+	<key>significantlistviewtop</key>
+	<string>layoutGate</string>
+	<key>specifyResponse</key>
+	<string>grayscaleStatus</string>
+	<key>statefulCount</key>
+	<string>concatenateRepository</string>
+</dict>
+</plist>

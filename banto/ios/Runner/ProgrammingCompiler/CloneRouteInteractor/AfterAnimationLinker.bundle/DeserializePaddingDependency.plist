@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedModal</key>
+	<string>diffableTable</string>
+	<key>asynchronousCaption</key>
+	<string>lastView</string>
+	<key>channelVelocity</key>
+	<string>dataSpacing</string>
+	<key>completerTag</key>
+	<string>canListenTernary</string>
+	<key>cupertinoTimeline</key>
+	<string>cartesianSample</string>
+	<key>customCallback</key>
+	<string>normalCallback</string>
+	<key>resolvegesture</key>
+	<string>popupTint</string>
+	<key>shouldsubscribeduration</key>
+	<string>shouldCacheMultiplication</string>
+	<key>tensorPlate</key>
+	<string>canMountedAperture</string>
+</dict>
+</plist>

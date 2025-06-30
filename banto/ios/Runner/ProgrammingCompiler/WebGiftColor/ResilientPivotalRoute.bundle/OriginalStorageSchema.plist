@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferorientation</key>
+	<string>brushOperation</string>
+	<key>cupertinoProvider</key>
+	<string>subpixelSpacing</string>
+	<key>deferredview</key>
+	<string>graphchainhue</string>
+	<key>delicateBaseline</key>
+	<string>agileThread</string>
+	<key>elasticgesturedetector</key>
+	<string>canPersistCanvas</string>
+	<key>nativeMomentum</key>
+	<string>pauseBitrate</string>
+	<key>shouldstoplabel</key>
+	<string>lostSemantics</string>
+</dict>
+</plist>

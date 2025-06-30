@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactorneartask</key>
+	<string>composableTitle</string>
+	<key>localNorm</key>
+	<string>canNotifyDelegate</string>
+	<key>mutableLinker</key>
+	<string>largeListener</string>
+	<key>oldAnchor</key>
+	<string>tappableFeature</string>
+	<key>profileutil</key>
+	<string>shouldAttachAspectRatio</string>
+	<key>publishdocument</key>
+	<string>statefuldirection</string>
+	<key>resilientBandwidth</key>
+	<string>parallelflexmode</string>
+</dict>
+</plist>

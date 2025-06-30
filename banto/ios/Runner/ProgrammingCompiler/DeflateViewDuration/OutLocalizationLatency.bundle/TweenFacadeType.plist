@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>protectedTransition</key>
+	<string>symmetricFragment</string>
+	<key>seamlessMission</key>
+	<string>futureBottom</string>
+	<key>singleDescent</key>
+	<string>lostRouter</string>
+	<key>toleranceState</key>
+	<string>capacitiessaturation</string>
+</dict>
+</plist>

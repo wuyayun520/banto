@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hasappbar</key>
+	<string>resourcealignment</string>
+	<key>localresourceskewy</key>
+	<string>modelSaturation</string>
+	<key>parallelGestureDetector</key>
+	<string>resizableNotification</string>
+	<key>sceneconsumer</key>
+	<string>setstatePainter</string>
+	<key>shouldDeserializeConvolution</key>
+	<string>shouldYieldLayout</string>
+	<key>shouldPublishConvolution</key>
+	<string>mediumStream</string>
+	<key>singleCosine</key>
+	<string>gridStage</string>
+	<key>statelessCreator</key>
+	<string>canEncodeCharacter</string>
+</dict>
+</plist>

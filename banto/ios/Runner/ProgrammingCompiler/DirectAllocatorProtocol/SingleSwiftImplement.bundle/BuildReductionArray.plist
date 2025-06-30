@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablevariant</key>
+	<string>directstoreshade</string>
+	<key>discardedRichText</key>
+	<string>layoutstore</string>
+	<key>fillactivity</key>
+	<string>shouldStartWidget</string>
+	<key>interactiveoptioncount</key>
+	<string>detachlayer</string>
+	<key>robustColor</key>
+	<string>optionresilience</string>
+	<key>temporaryTrigger</key>
+	<string>hyperbolicSelector</string>
+	<key>temporarydropdownbutton</key>
+	<string>aspectcompositerotation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detailposition</key>
+	<string>binaryCenter</string>
+	<key>discardedReduction</key>
+	<string>shouldNotifySlash</string>
+	<key>displayableInformation</key>
+	<string>eagerRenderer</string>
+	<key>listenerTransparency</key>
+	<string>sharedMenu</string>
+	<key>shouldPrepareText</key>
+	<string>disconnectRadius</string>
+	<key>sustainableCombiner</key>
+	<string>overlayvelocity</string>
+</dict>
+</plist>

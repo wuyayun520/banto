@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableConverter</key>
+	<string>canFormatConsumer</string>
+	<key>materialMatrix</key>
+	<string>explicitStroke</string>
+	<key>persistentTool</key>
+	<string>canFormatLabel</string>
+	<key>selectedChecklist</key>
+	<string>optionEnvironment</string>
+	<key>sharedAlpha</key>
+	<string>interactiveDetail</string>
+	<key>shouldpublishinkwell</key>
+	<string>shouldtrainstack</string>
+</dict>
+</plist>

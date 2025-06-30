@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledcallbackrate</key>
+	<string>streamMaster</string>
+	<key>effectappearance</key>
+	<string>drawerProxy</string>
+	<key>lostParticle</key>
+	<string>fusedHero</string>
+	<key>meshStyle</key>
+	<string>layoutRow</string>
+	<key>shouldreplacechecklist</key>
+	<string>videoKind</string>
+	<key>standaloneconstraint</key>
+	<string>convolutionsprite</string>
+	<key>streamlinemaster</key>
+	<string>formatLog</string>
+	<key>sustainableScaffold</key>
+	<string>mainbuffer</string>
+	<key>touchSaturation</key>
+	<string>tickerValue</string>
+</dict>
+</plist>

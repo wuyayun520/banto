@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alerttransparency</key>
+	<string>shouldDeserializeNavigation</string>
+	<key>mechanismVisibility</key>
+	<string>responseSingleton</string>
+	<key>subtleprovider</key>
+	<string>dedicatedAction</string>
+	<key>sustainableCapacities</key>
+	<string>decodeEquipment</string>
+</dict>
+</plist>

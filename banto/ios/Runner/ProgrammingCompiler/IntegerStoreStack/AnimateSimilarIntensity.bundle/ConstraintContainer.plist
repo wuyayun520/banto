@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTransformer</key>
+	<string>interactorprocesscontrast</string>
+	<key>durationBound</key>
+	<string>attachListener</string>
+	<key>opaqueReceiver</key>
+	<string>euclideanMovement</string>
+	<key>roleLeft</key>
+	<string>issine</string>
+	<key>seamlessAnalogy</key>
+	<string>retainedSizedBox</string>
+	<key>shouldshowswift</key>
+	<string>firstRadius</string>
+	<key>smartBatch</key>
+	<string>notifylayer</string>
+	<key>statefultaxonomy</key>
+	<string>interactiveTabView</string>
+</dict>
+</plist>

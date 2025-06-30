@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintRight</key>
+	<string>explicitSound</string>
+	<key>dataTop</key>
+	<string>equipmentContrast</string>
+	<key>greatIntensity</key>
+	<string>restoreHandler</string>
+	<key>hyperbolicBrush</key>
+	<string>relationalScroller</string>
+	<key>mobileresponse</key>
+	<string>resolverTag</string>
+	<key>movementTension</key>
+	<string>emitterVelocity</string>
+	<key>shouldInflateSkirt</key>
+	<string>pinchableOptimizer</string>
+	<key>soundBorder</key>
+	<string>equipmentAction</string>
+</dict>
+</plist>

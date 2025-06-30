@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedStore</key>
+	<string>cosineObserver</string>
+	<key>cartesianSorter</key>
+	<string>contrastStyle</string>
+	<key>containerskewy</key>
+	<string>basicAwait</string>
+	<key>draggableBandwidth</key>
+	<string>canBindProjection</string>
+	<key>inactiveSlider</key>
+	<string>taskbrightness</string>
+	<key>independentWrapper</key>
+	<string>processScaffold</string>
+	<key>integertask</key>
+	<string>labelsize</string>
+	<key>tensorRichText</key>
+	<string>readAwait</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnernormskewx</key>
+	<string>rowexceptmediator</string>
+	<key>currentSchema</key>
+	<string>liteGraphic</string>
+	<key>detectorBottom</key>
+	<string>skirttail</string>
+	<key>mainTicker</key>
+	<string>dataVelocity</string>
+	<key>renderremainder</key>
+	<string>canCreateCapsule</string>
+	<key>shouldDisposeNib</key>
+	<string>unmountRow</string>
+	<key>substantialRemediation</key>
+	<string>canFetchTabView</string>
+	<key>transformerLocation</key>
+	<string>unmountcoordinator</string>
+</dict>
+</plist>

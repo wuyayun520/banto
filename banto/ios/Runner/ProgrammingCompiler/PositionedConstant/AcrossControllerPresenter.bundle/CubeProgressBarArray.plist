@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMap</key>
+	<string>symmetricDialogs</string>
+	<key>consultativePreview</key>
+	<string>adaptiveMetadata</string>
+	<key>customizedhandler</key>
+	<string>keyRepository</string>
+	<key>gramexceptflyweight</key>
+	<string>blocacceleration</string>
+	<key>ignoredStrength</key>
+	<string>diversifiedResponse</string>
+	<key>inheritedWrapper</key>
+	<string>reconcileBuffer</string>
+	<key>loadnib</key>
+	<string>accessibleTransformer</string>
+	<key>positionedcontroller</key>
+	<string>canLoadResource</string>
+	<key>scrollableentitybottom</key>
+	<string>shouldparsematrix</string>
+</dict>
+</plist>

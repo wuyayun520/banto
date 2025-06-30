@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axiswrapper</key>
+	<string>activatedCapacities</string>
+	<key>positionFrequency</key>
+	<string>responsiveElement</string>
+	<key>shouldCacheHeap</key>
+	<string>originalequalizationscale</string>
+	<key>shouldDisconnectAlpha</key>
+	<string>behaviorSystem</string>
+</dict>
+</plist>

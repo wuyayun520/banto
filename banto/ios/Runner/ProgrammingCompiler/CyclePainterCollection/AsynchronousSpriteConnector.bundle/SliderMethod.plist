@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintRight</key>
+	<string>stamppadding</string>
+	<key>immediateCursor</key>
+	<string>quantizationSingleton</string>
+	<key>integrityIndex</key>
+	<string>sizedboxAppearance</string>
+	<key>intermediateroutecoord</key>
+	<string>canUnbindStateful</string>
+	<key>polygonAlignment</key>
+	<string>rapidmodel</string>
+	<key>shouldnotifyoverlay</key>
+	<string>staticKernel</string>
+	<key>statelessHeap</key>
+	<string>durationScale</string>
+</dict>
+</plist>

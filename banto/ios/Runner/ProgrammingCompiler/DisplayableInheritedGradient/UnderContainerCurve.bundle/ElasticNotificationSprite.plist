@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePlayback</key>
+	<string>scheduleChannel</string>
+	<key>commonHandler</key>
+	<string>routeSystem</string>
+	<key>comprehensiveOccasion</key>
+	<string>responsiveAnimation</string>
+	<key>ephemeralRow</key>
+	<string>canNavigateChallenge</string>
+	<key>granularModel</key>
+	<string>observeworkflow</string>
+	<key>inheritedMerger</key>
+	<string>stateActivity</string>
+</dict>
+</plist>

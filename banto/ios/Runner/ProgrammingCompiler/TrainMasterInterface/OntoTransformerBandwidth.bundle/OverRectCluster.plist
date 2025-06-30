@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterPadding</key>
+	<string>specifierLeft</string>
+	<key>independentcallback</key>
+	<string>emitStateless</string>
+	<key>semanticStack</key>
+	<string>createsprite</string>
+	<key>shouldSubscribeSpecifier</key>
+	<string>canConnectTouch</string>
+	<key>unactivatedDimension</key>
+	<string>textPhase</string>
+</dict>
+</plist>

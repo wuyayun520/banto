@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensiongrid</key>
+	<string>canListenConsumer</string>
+	<key>directlyAwait</key>
+	<string>retainZone</string>
+	<key>optionPadding</key>
+	<string>usagecontextmode</string>
+	<key>popupwithflyweight</key>
+	<string>shouldStreamColumn</string>
+	<key>resolvecanvas</key>
+	<string>connectResult</string>
+	<key>resultHead</key>
+	<string>canResumeFragment</string>
+	<key>shouldEmitProjection</key>
+	<string>dispatchEffect</string>
+	<key>smallpresenterposition</key>
+	<string>intuitiveVariant</string>
+	<key>staticMargin</key>
+	<string>shouldNotifyBatch</string>
+</dict>
+</plist>

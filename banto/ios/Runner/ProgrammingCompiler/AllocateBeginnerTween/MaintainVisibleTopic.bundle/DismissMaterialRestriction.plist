@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerFormat</key>
+	<string>normalEntropy</string>
+	<key>ephemeralEquivalent</key>
+	<string>transformerMethod</string>
+	<key>isaxis</key>
+	<string>shouldhandlecosine</string>
+	<key>localizationviaadapter</key>
+	<string>nativeBase</string>
+	<key>playbackagainststyle</key>
+	<string>directIntegration</string>
+	<key>protectedSound</key>
+	<string>canDetachMobile</string>
+	<key>seamlessEquivalent</key>
+	<string>temporaryMatrix</string>
+</dict>
+</plist>

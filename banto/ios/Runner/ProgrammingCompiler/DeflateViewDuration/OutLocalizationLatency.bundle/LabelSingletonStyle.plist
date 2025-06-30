@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelstate</key>
+	<string>fetchMonster</string>
+	<key>characterstate</key>
+	<string>connectTool</string>
+	<key>conformwidget</key>
+	<string>advancedSample</string>
+	<key>explicitAperture</key>
+	<string>stateRight</string>
+	<key>keyEvaluation</key>
+	<string>buildaccessory</string>
+	<key>materialTabBar</key>
+	<string>oldProgressBar</string>
+	<key>shouldMountedScaffold</key>
+	<string>dispatchsensor</string>
+</dict>
+</plist>

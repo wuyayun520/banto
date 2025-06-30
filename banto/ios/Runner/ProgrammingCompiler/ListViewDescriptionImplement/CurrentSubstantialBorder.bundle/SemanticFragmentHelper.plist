@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardrate</key>
+	<string>soundBehavior</string>
+	<key>publicDrawer</key>
+	<string>replaceRect</string>
+	<key>rowstyle</key>
+	<string>radiusAppearance</string>
+	<key>sineState</key>
+	<string>checkSize</string>
+</dict>
+</plist>

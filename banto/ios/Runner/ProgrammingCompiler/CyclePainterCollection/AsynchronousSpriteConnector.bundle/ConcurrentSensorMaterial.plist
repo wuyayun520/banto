@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackResponse</key>
+	<string>cupertinoMaster</string>
+	<key>interfacestyleinset</key>
+	<string>imagedisclaimer</string>
+	<key>marginperproxy</key>
+	<string>hierarchicalGesture</string>
+	<key>priorgridview</key>
+	<string>subscriptionSize</string>
+	<key>retainedAllocator</key>
+	<string>canPaintFlex</string>
+	<key>saverect</key>
+	<string>chapterwithouttype</string>
+	<key>shouldSaveSensor</key>
+	<string>decorationRotation</string>
+	<key>shouldyieldaspect</key>
+	<string>symbolStyle</string>
+</dict>
+</plist>

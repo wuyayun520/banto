@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileObserver</key>
+	<string>navigatoredge</string>
+	<key>cupertinocontainerdirection</key>
+	<string>inheritedCluster</string>
+	<key>directlyProcessor</key>
+	<string>createCapsule</string>
+	<key>extensionmode</key>
+	<string>requiredRouter</string>
+	<key>greatResponse</key>
+	<string>spineRate</string>
+	<key>robustsearcher</key>
+	<string>canPushMusic</string>
+	<key>semanticQueue</key>
+	<string>shouldYieldInkWell</string>
+	<key>utilInset</key>
+	<string>webvolume</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerStorage</key>
+	<string>findView</string>
+	<key>immediateLayout</key>
+	<string>immutableTexture</string>
+	<key>liteStateless</key>
+	<string>baseFrequency</string>
+	<key>mobileLoss</key>
+	<string>channelsMargin</string>
+	<key>permissiveQueue</key>
+	<string>statelessDelegate</string>
+	<key>protectedMargin</key>
+	<string>positionedFunction</string>
+	<key>shouldEmitCapsule</key>
+	<string>synchronousBitrate</string>
+	<key>shouldReplaceCompletion</key>
+	<string>providerect</string>
+</dict>
+</plist>

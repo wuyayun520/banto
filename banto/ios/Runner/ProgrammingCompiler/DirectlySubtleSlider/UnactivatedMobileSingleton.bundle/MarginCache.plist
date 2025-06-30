@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedRemediation</key>
+	<string>schemaTop</string>
+	<key>differentiatespecifier</key>
+	<string>canPersistHeap</string>
+	<key>enabledCompleter</key>
+	<string>pushAnimation</string>
+	<key>groupincludeparameter</key>
+	<string>cupertinoAudio</string>
+	<key>shouldStreamSession</key>
+	<string>durationShade</string>
+	<key>widgetcontaindecorator</key>
+	<string>metadataComposite</string>
+</dict>
+</plist>

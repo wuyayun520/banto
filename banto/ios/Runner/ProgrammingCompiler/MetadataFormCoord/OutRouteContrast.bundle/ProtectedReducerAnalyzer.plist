@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitTop</key>
+	<string>actiontop</string>
+	<key>customizedTable</key>
+	<string>thresholdFlags</string>
+	<key>expandedcycleinterval</key>
+	<string>overriderequest</string>
+	<key>paintercompleter</key>
+	<string>saveHistogram</string>
+	<key>shaderAcceleration</key>
+	<string>adjusttext</string>
+	<key>shouldConnectBinary</key>
+	<string>consultativeConvolution</string>
+	<key>shouldStopStream</key>
+	<string>shouldRestartTouch</string>
+</dict>
+</plist>

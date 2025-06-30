@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferreddescription</key>
+	<string>scaffoldShade</string>
+	<key>persistentScope</key>
+	<string>profilethanscope</string>
+	<key>remediationShape</key>
+	<string>easyDrawer</string>
+	<key>requiredBullet</key>
+	<string>firstasyncstyle</string>
+	<key>responseDelay</key>
+	<string>standaloneScheduler</string>
+	<key>skinMargin</key>
+	<string>playCallback</string>
+	<key>unsortedBase</key>
+	<string>unmountBuilder</string>
+</dict>
+</plist>

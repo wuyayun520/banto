@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterInterval</key>
+	<string>loopStrategy</string>
+	<key>coordinatorbottom</key>
+	<string>updateChecklist</string>
+	<key>enabledBinary</key>
+	<string>usedSensor</string>
+	<key>imageInset</key>
+	<string>petFeedback</string>
+	<key>instructionMode</key>
+	<string>compositionalProvision</string>
+	<key>retainedDescent</key>
+	<string>alertVisible</string>
+	<key>sessionobserver</key>
+	<string>dedicatedStore</string>
+	<key>shouldYieldBehavior</key>
+	<string>specifierScope</string>
+</dict>
+</plist>

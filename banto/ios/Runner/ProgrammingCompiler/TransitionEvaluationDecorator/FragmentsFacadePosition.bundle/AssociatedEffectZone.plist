@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardtaskformat</key>
+	<string>convolutionMemento</string>
+	<key>composableDescription</key>
+	<string>freeTimer</string>
+	<key>displayableStatus</key>
+	<string>keepCursor</string>
+	<key>missedAnalyzer</key>
+	<string>shouldSerializeDescriptor</string>
+	<key>resizableQuaternion</key>
+	<string>composableImage</string>
+	<key>shouldParseTabBar</key>
+	<string>canFinishMovement</string>
+	<key>spineEdge</key>
+	<string>geometricRadius</string>
+</dict>
+</plist>

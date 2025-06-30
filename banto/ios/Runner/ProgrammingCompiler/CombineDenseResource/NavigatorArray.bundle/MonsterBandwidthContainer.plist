@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directDropdownButton</key>
+	<string>associatedSize</string>
+	<key>ephemeralChannel</key>
+	<string>vertexIndex</string>
+	<key>fixedElement</key>
+	<string>requiredDuration</string>
+	<key>multiplicationBrightness</key>
+	<string>shouldPersistModal</string>
+	<key>shouldSaveGem</key>
+	<string>iterativeReducer</string>
+	<key>threadBrightness</key>
+	<string>instructionAcceleration</string>
+</dict>
+</plist>

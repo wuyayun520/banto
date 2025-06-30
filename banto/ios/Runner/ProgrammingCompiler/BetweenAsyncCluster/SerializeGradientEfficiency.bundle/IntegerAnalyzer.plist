@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveQueue</key>
+	<string>parallelRow</string>
+	<key>dedicatedAwait</key>
+	<string>unaryDirection</string>
+	<key>inactiveAlert</key>
+	<string>sortedpositionedoffset</string>
+	<key>navigatorlayerspacing</key>
+	<string>canUnbindStamp</string>
+	<key>shouldAttachStream</key>
+	<string>diversifiedFragment</string>
+	<key>shouldListenCursor</key>
+	<string>semanticAlignment</string>
+</dict>
+</plist>

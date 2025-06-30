@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedInformation</key>
+	<string>globalScaffold</string>
+	<key>composableModal</key>
+	<string>checktransition</string>
+	<key>customMember</key>
+	<string>continueCanvas</string>
+	<key>disposearithmetic</key>
+	<string>staticScope</string>
+	<key>effectanimator</key>
+	<string>semanticsShape</string>
+	<key>objectSize</key>
+	<string>saveGestureDetector</string>
+	<key>pageviewCount</key>
+	<string>textureStructure</string>
+	<key>sinktypeindex</key>
+	<string>canUnmountText</string>
+	<key>staticBox</key>
+	<string>semanticDecoration</string>
+</dict>
+</plist>

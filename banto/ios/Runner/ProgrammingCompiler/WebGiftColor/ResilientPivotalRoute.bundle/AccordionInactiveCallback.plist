@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeReceiver</key>
+	<string>shouldEncodeBox</string>
+	<key>intermediateBuilder</key>
+	<string>syncPosition</string>
+	<key>mediuminteraction</key>
+	<string>marginProxy</string>
+	<key>platelabel</key>
+	<string>canSavePositioned</string>
+	<key>robustReliability</key>
+	<string>seamlessScene</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureTint</key>
+	<string>equalizationType</string>
+	<key>constraintpolygon</key>
+	<string>concreteTrajectory</string>
+	<key>oldUsage</key>
+	<string>canStopBullet</string>
+	<key>routecontainer</key>
+	<string>accessibleAscent</string>
+	<key>shouldAnimateBullet</key>
+	<string>disconnectaspectratio</string>
+	<key>unactivatedAnimation</key>
+	<string>animatedcontainerLeft</string>
+</dict>
+</plist>

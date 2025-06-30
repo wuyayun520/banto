@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicThread</key>
+	<string>composableConsumer</string>
+	<key>futureInteraction</key>
+	<string>gesturedetectorcolor</string>
+	<key>hasUnary</key>
+	<string>infoSkewX</string>
+	<key>normalEntropy</key>
+	<string>cartesianDelivery</string>
+	<key>plateFlags</key>
+	<string>bloctrigger</string>
+	<key>tangentscenario</key>
+	<string>shouldAnimateStream</string>
+	<key>unaryDirection</key>
+	<string>customizedRoute</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentInstruction</key>
+	<string>canSkipCanvas</string>
+	<key>deserializeconstraint</key>
+	<string>opaqueMap</string>
+	<key>fragmentbyobserver</key>
+	<string>missedWorkflow</string>
+	<key>hierarchicalCharacter</key>
+	<string>widgetFacade</string>
+	<key>prevKernel</key>
+	<string>providerDecorator</string>
+	<key>sharedService</key>
+	<string>decodeTabBar</string>
+	<key>shouldCreateSkirt</key>
+	<string>canFormatSwift</string>
+	<key>symmetricNotification</key>
+	<string>evaluateWidget</string>
+</dict>
+</plist>

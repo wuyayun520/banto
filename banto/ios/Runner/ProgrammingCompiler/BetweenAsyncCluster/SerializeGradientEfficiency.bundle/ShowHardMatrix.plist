@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentManager</key>
+	<string>mutableOverlay</string>
+	<key>descriptorName</key>
+	<string>binaryFrequency</string>
+	<key>discardedCertificate</key>
+	<string>removeView</string>
+	<key>grainshapeinteraction</key>
+	<string>fusedCanvas</string>
+	<key>shouldCancelExponent</key>
+	<string>shouldCancelSensor</string>
+	<key>shouldRestartStateless</key>
+	<string>navigationSize</string>
+	<key>specifyTransformer</key>
+	<string>infrastructureTint</string>
+	<key>storeSkewX</key>
+	<string>mobileListener</string>
+</dict>
+</plist>

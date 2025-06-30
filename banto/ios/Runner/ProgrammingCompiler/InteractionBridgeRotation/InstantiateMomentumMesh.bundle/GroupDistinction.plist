@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentBottom</key>
+	<string>dropdownbuttonInteraction</string>
+	<key>mutableBuilder</key>
+	<string>shouldAnimateSegue</string>
+	<key>smallConfiguration</key>
+	<string>projectPosition</string>
+	<key>synchronoustexture</key>
+	<string>missedamortization</string>
+</dict>
+</plist>

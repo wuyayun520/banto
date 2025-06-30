@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveExtension</key>
+	<string>arithmeticfacadevisible</string>
+	<key>permissiveCreator</key>
+	<string>scrollableConsumption</string>
+	<key>pinchableCaption</key>
+	<string>reusabletopic</string>
+	<key>shouldCancelIndicator</key>
+	<string>progressbarscopescale</string>
+	<key>shouldEncodeMap</key>
+	<string>nativeScroller</string>
+	<key>unbinddecoration</key>
+	<string>currentFlex</string>
+</dict>
+</plist>

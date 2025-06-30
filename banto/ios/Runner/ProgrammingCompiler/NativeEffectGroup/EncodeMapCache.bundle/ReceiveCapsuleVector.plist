@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTabBar</key>
+	<string>singletonFacade</string>
+	<key>advancedLatency</key>
+	<string>statelessmomentumspacing</string>
+	<key>diffableCharacteristic</key>
+	<string>rapidPolyfill</string>
+	<key>interfaceorigin</key>
+	<string>cubetheme</string>
+	<key>mainRoute</key>
+	<string>sineProcess</string>
+	<key>scaffoldShape</key>
+	<string>bindPadding</string>
+	<key>selectedNavigation</key>
+	<string>limitDependency</string>
+	<key>shouldCancelSkin</key>
+	<string>canDecodeLayout</string>
+	<key>shouldPauseModulus</key>
+	<string>navigationOrigin</string>
+	<key>typicalTextField</key>
+	<string>statefulpermemento</string>
+</dict>
+</plist>

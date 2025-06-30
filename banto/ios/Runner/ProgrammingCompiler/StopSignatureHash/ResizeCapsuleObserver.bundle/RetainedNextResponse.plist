@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileConstraint</key>
+	<string>quantizationAllocator</string>
+	<key>compositionalTangent</key>
+	<string>missionScope</string>
+	<key>currentreduction</key>
+	<string>storeBloc</string>
+	<key>keyStream</key>
+	<string>canPopBitrate</string>
+	<key>priorDuration</key>
+	<string>chartBuffer</string>
+	<key>resolverchooser</key>
+	<string>handlebox</string>
+	<key>responseOpacity</key>
+	<string>notifyAllocator</string>
+	<key>rowconsumer</key>
+	<string>shouldencodepriority</string>
+	<key>shouldAttachMovement</key>
+	<string>localizationposition</string>
+	<key>streamcontainer</key>
+	<string>smartCube</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedmemberformat</key>
+	<string>responsiveEfficiency</string>
+	<key>interactiveConfidentiality</key>
+	<string>shouldDeserializeScroll</string>
+	<key>keeppreview</key>
+	<string>sampleFramework</string>
+	<key>pointRate</key>
+	<string>missedInformation</string>
+	<key>publicStrength</key>
+	<string>shouldProcessEntropy</string>
+	<key>uniqueSwitch</key>
+	<string>shouldResumeAnchor</string>
+</dict>
+</plist>

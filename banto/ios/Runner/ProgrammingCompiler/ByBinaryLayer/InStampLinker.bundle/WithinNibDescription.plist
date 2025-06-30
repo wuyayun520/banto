@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerhue</key>
+	<string>mobileBorder</string>
+	<key>decodesensor</key>
+	<string>columnDuration</string>
+	<key>deserializefuture</key>
+	<string>builderfactory</string>
+	<key>displayableResource</key>
+	<string>canSkipButton</string>
+	<key>intermediateSizedBox</key>
+	<string>sinkcoord</string>
+	<key>shouldUnbindStream</key>
+	<string>mobileTriangles</string>
+	<key>shouldskipanchor</key>
+	<string>canStopNavigator</string>
+	<key>visibleMobile</key>
+	<string>spriteobserverhue</string>
+</dict>
+</plist>

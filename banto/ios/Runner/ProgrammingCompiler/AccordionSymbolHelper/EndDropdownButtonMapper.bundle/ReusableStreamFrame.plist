@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatchdescriptor</key>
+	<string>startGesture</string>
+	<key>gridsincejob</key>
+	<string>canBindPrecision</string>
+	<key>isolateHead</key>
+	<string>litetheme</string>
+	<key>recteffect</key>
+	<string>loadSizedBox</string>
+	<key>scopeDensity</key>
+	<string>mobileEnvironment</string>
+	<key>sessionincludestructure</key>
+	<string>resilientCube</string>
+	<key>shouldAnimateBoxShadow</key>
+	<string>trainContraction</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeChannel</key>
+	<string>resolvervaluedelay</string>
+	<key>currentOffset</key>
+	<string>maintainGraph</string>
+	<key>keyTransformer</key>
+	<string>decodeAllocator</string>
+	<key>otherSlider</key>
+	<string>showMission</string>
+	<key>subtleLatency</key>
+	<string>normalLogarithm</string>
+</dict>
+</plist>

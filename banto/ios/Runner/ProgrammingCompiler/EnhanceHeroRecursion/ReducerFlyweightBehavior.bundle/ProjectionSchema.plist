@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyScroller</key>
+	<string>robustStoryboard</string>
+	<key>handlerName</key>
+	<string>shouldpushbullet</string>
+	<key>iterativeReplica</key>
+	<string>captionStage</string>
+	<key>lostVolume</key>
+	<string>resizeAnimation</string>
+	<key>schedulerSkewX</key>
+	<string>shouldNotifyScaffold</string>
+	<key>shapeCoord</key>
+	<string>otherFilter</string>
+	<key>shouldEncodeGradient</key>
+	<string>flexformat</string>
+</dict>
+</plist>

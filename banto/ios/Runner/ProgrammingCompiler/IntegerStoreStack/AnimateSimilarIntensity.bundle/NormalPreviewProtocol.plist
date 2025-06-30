@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hyperbolicView</key>
+	<string>singletonRotation</string>
+	<key>inheritedDocument</key>
+	<string>shouldDispatchAxis</string>
+	<key>mobileInteractor</key>
+	<string>singletonFlags</string>
+	<key>progressbarTail</key>
+	<string>disconnectEquipment</string>
+	<key>requiredtexturesize</key>
+	<string>canUpdateAlpha</string>
+	<key>selectedcapacities</key>
+	<string>associatedDimension</string>
+	<key>shouldHandleMatrix</key>
+	<string>canPublishTransition</string>
+	<key>statelessMaster</key>
+	<string>canEncodeSign</string>
+	<key>widgetlocation</key>
+	<string>capacitiesFeedback</string>
+</dict>
+</plist>

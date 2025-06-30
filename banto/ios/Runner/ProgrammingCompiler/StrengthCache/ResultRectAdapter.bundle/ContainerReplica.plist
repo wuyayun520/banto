@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicAsync</key>
+	<string>rowcycleforce</string>
+	<key>loadanimation</key>
+	<string>pivotalScaffold</string>
+	<key>radiusFeedback</key>
+	<string>rapidCache</string>
+	<key>retainedChooser</key>
+	<string>mergerPadding</string>
+	<key>richtextHead</key>
+	<string>resilientEntity</string>
+	<key>rowmethodforce</key>
+	<string>strokeAlignment</string>
+	<key>serviceAlignment</key>
+	<string>similarConstraint</string>
+	<key>statefulRange</key>
+	<string>validateCollection</string>
+	<key>substantialgrainname</key>
+	<string>losslocalization</string>
+	<key>uniqueEqualization</key>
+	<string>canEncodeTextField</string>
+</dict>
+</plist>

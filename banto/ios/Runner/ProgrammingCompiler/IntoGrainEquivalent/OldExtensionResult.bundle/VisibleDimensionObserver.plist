@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderKind</key>
+	<string>permissivePolyfill</string>
+	<key>detectorOrigin</key>
+	<string>masterHead</string>
+	<key>displayableEquivalent</key>
+	<string>shouldObserveSkin</string>
+	<key>equipmentPressure</key>
+	<string>transitionMusic</string>
+	<key>invisibleConsumer</key>
+	<string>canDispatchPadding</string>
+	<key>platePosition</key>
+	<string>cardEnvironment</string>
+	<key>scaleFeedback</key>
+	<string>keyGrayscale</string>
+	<key>sequentialLoss</key>
+	<string>replaceSkirt</string>
+	<key>shouldBindSegment</key>
+	<string>protectedAnchor</string>
+	<key>unbindzone</key>
+	<string>graphicalongbuffer</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>giftscale</key>
+	<string>normalNorm</string>
+	<key>integerOrientation</key>
+	<string>interactorbehavior</string>
+	<key>joinerInteraction</key>
+	<string>layoutagainstmediator</string>
+	<key>largeAsset</key>
+	<string>toolResponse</string>
+	<key>mediumNotation</key>
+	<string>dispatchProvider</string>
+	<key>opaquegate</key>
+	<string>synchronousRemainder</string>
+	<key>popupvariablebrightness</key>
+	<string>cardDecorator</string>
+	<key>respectiveInteractor</key>
+	<string>canPaintPrecision</string>
+	<key>shouldSaveMovement</key>
+	<string>normalTaxonomy</string>
+</dict>
+</plist>

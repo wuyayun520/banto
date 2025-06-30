@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalthroughput</key>
+	<string>nativeBorder</string>
+	<key>imageOpacity</key>
+	<string>canCancelMaterial</string>
+	<key>particlePressure</key>
+	<string>measureParticle</string>
+	<key>semanticInterpolation</key>
+	<string>floatTopic</string>
+	<key>shouldMountCursor</key>
+	<string>stateOrigin</string>
+	<key>shouldRouteSkin</key>
+	<string>immutableSession</string>
+	<key>sustainableSingleton</key>
+	<string>fetchStream</string>
+	<key>trianglesedge</key>
+	<string>errorSkewY</string>
+</dict>
+</plist>

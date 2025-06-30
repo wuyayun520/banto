@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilecachedelay</key>
+	<string>canRenderMission</string>
+	<key>criticalpresentertag</key>
+	<string>pinchabledependency</string>
+	<key>defaultAnimation</key>
+	<string>webResolver</string>
+	<key>desktopCursor</key>
+	<string>moduleFormat</string>
+	<key>displayableMedia</key>
+	<string>shouldPrepareAnchor</string>
+	<key>gridviewforstage</key>
+	<string>autonodecenter</string>
+	<key>istechnique</key>
+	<string>dimensionShade</string>
+	<key>missedUseCase</key>
+	<string>subsequentGate</string>
+	<key>reliabilityTheme</key>
+	<string>actionStatus</string>
+</dict>
+</plist>

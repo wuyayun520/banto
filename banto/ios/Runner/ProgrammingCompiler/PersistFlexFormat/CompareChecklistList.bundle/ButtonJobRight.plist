@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMetadata</key>
+	<string>inheritedLayer</string>
+	<key>radioType</key>
+	<string>activityOpacity</string>
+	<key>shouldEncodeNorm</key>
+	<string>hyperbolicRouter</string>
+	<key>shouldSetStateExponent</key>
+	<string>ephemeralPicker</string>
+	<key>streamsaturation</key>
+	<string>layoutSize</string>
+	<key>subsequentCell</key>
+	<string>scalabilityRotation</string>
+	<key>uniquePageView</key>
+	<string>smallPlate</string>
+</dict>
+</plist>

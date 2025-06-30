@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bloctaskcoord</key>
+	<string>mediumBatch</string>
+	<key>constraintalongform</key>
+	<string>pickerMode</string>
+	<key>denseinterpolationcount</key>
+	<string>explicitMaterializer</string>
+	<key>emitterEdge</key>
+	<string>appbaralongbuffer</string>
+	<key>optimizerInteraction</key>
+	<string>logormode</string>
+	<key>serviceKind</key>
+	<string>viewnumbercolor</string>
+	<key>shouldattachexponent</key>
+	<string>basicSlash</string>
+</dict>
+</plist>

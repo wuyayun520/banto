@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCoordinator</key>
+	<string>tableVisible</string>
+	<key>animatedPermutation</key>
+	<string>dynamicCupertino</string>
+	<key>arithmeticGrid</key>
+	<string>statefulSize</string>
+	<key>challengekindedge</key>
+	<string>specifyEquipment</string>
+	<key>compositionalPlayback</key>
+	<string>tickeralongtype</string>
+	<key>crucialGesture</key>
+	<string>dependencybound</string>
+	<key>gridviewAlignment</key>
+	<string>gesturedetectorStyle</string>
+	<key>reusableSession</key>
+	<string>agileCache</string>
+</dict>
+</plist>

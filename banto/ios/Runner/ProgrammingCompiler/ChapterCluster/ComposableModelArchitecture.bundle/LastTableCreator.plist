@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedconverter</key>
+	<string>canMountedSlider</string>
+	<key>animationleveldepth</key>
+	<string>volumeSkewY</string>
+	<key>desktopQuaternion</key>
+	<string>canSerializeTable</string>
+	<key>lazyParticle</key>
+	<string>deactivateservice</string>
+	<key>materialBinder</key>
+	<string>standaloneDependency</string>
+	<key>shouldParseFuture</key>
+	<string>textfieldResponse</string>
+	<key>shouldSubscribeSkirt</key>
+	<string>consultativeCache</string>
+	<key>shouldunbindsession</key>
+	<string>skirtobject</string>
+</dict>
+</plist>

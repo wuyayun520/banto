@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deliverylocation</key>
+	<string>fixedCapsule</string>
+	<key>desktopSignature</key>
+	<string>navigatepresenter</string>
+	<key>shouldLayoutGate</key>
+	<string>inheritedoperation</string>
+	<key>shouldUnmountModal</key>
+	<string>sorterrate</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintResponse</key>
+	<string>sophisticatedRepository</string>
+	<key>disabledTechnique</key>
+	<string>soundTransparency</string>
+	<key>draggableProvider</key>
+	<string>storyboardBound</string>
+	<key>extensionscene</key>
+	<string>shouldPopAnimation</string>
+	<key>heapSpacing</key>
+	<string>mountedUnary</string>
+	<key>optimizerforce</key>
+	<string>shouldEndSizedBox</string>
+	<key>rapidCombiner</key>
+	<string>seamlessimpact</string>
+	<key>retainedUsage</key>
+	<string>shouldUnbindStream</string>
+	<key>sharedsorter</key>
+	<string>interceptParticle</string>
+	<key>statefulTriangles</key>
+	<string>effectAppearance</string>
+</dict>
+</plist>

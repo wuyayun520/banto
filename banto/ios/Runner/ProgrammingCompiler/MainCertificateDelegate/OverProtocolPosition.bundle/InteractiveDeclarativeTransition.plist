@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendsubscription</key>
+	<string>staticDrawer</string>
+	<key>basicmapper</key>
+	<string>petVariable</string>
+	<key>copygraph</key>
+	<string>missedArchitecture</string>
+	<key>providertag</key>
+	<string>popupstate</string>
+</dict>
+</plist>

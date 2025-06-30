@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeMapper</key>
+	<string>offsetFormat</string>
+	<key>publicBrush</key>
+	<string>channelResponse</string>
+	<key>shouldDeserializeShader</key>
+	<string>routerfeedback</string>
+	<key>sophisticatedInterpolation</key>
+	<string>explicitSwift</string>
+	<key>statelessenvironmentopacity</key>
+	<string>latencyTransparency</string>
+	<key>tabbartheme</key>
+	<string>annotateRepository</string>
+</dict>
+</plist>

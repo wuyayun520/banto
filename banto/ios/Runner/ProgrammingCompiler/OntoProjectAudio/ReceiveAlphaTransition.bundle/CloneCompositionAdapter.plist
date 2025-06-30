@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableReducer</key>
+	<string>sceneIndex</string>
+	<key>equalizationBehavior</key>
+	<string>singleReducer</string>
+	<key>groupSkewY</key>
+	<string>smartStoryboard</string>
+	<key>mediocreSelector</key>
+	<string>shouldDispatchGift</string>
+	<key>publicDetector</key>
+	<string>mutableTweak</string>
+	<key>restorealpha</key>
+	<string>tableCenter</string>
+	<key>scrollableLinker</key>
+	<string>animatedTentative</string>
+	<key>segmentMomentum</key>
+	<string>permanentWidget</string>
+	<key>semanticManager</key>
+	<string>animationcycleorigin</string>
+	<key>shouldunmountedmovement</key>
+	<string>canDetachDelegate</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bordertierpadding</key>
+	<string>shouldUnbindIndicator</string>
+	<key>factorybrightness</key>
+	<string>cacheStrategy</string>
+	<key>polyfillInterval</key>
+	<string>replaceRect</string>
+	<key>provisionSize</key>
+	<string>loaderForce</string>
+	<key>robustBrush</key>
+	<string>shouldReplaceSpecifier</string>
+	<key>shouldSubscribeAlpha</key>
+	<string>globalSearcher</string>
+	<key>shouldattachbrush</key>
+	<string>firstcompletion</string>
+	<key>singleTweak</key>
+	<string>initializeremainder</string>
+	<key>sortedEfficiency</key>
+	<string>displayablePainter</string>
+	<key>typicalAnalogy</key>
+	<string>beginnerZone</string>
+</dict>
+</plist>

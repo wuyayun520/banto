@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledtweeninset</key>
+	<string>slashcontainaction</string>
+	<key>pivotalTweak</key>
+	<string>shouldReplacePromise</string>
+	<key>shouldPrepareReduction</key>
+	<string>insteadResponse</string>
+	<key>shouldShowUnary</key>
+	<string>performOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorPressure</key>
+	<string>objectbehavior</string>
+	<key>featurescroller</key>
+	<string>updateSingleton</string>
+	<key>lastChooser</key>
+	<string>recursionFormat</string>
+	<key>remaindertriangles</key>
+	<string>respectiveExtension</string>
+</dict>
+</plist>

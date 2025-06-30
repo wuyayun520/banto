@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonversusadapter</key>
+	<string>dependencyStatus</string>
+	<key>equipmentdensity</key>
+	<string>composableSkirt</string>
+	<key>injectionoperationdirection</key>
+	<string>shouldPauseBatch</string>
+	<key>isolateOrientation</key>
+	<string>characterLeft</string>
+	<key>retainedScaffold</key>
+	<string>maintainskin</string>
+	<key>stampbuffer</key>
+	<string>touchView</string>
+</dict>
+</plist>

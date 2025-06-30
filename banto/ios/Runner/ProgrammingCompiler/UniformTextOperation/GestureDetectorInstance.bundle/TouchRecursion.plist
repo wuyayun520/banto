@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedConstant</key>
+	<string>immutabletext</string>
+	<key>commonTolerance</key>
+	<string>streamlineMetadata</string>
+	<key>desktopSorter</key>
+	<string>vectorWork</string>
+	<key>immutableAspect</key>
+	<string>validateColumn</string>
+	<key>respectiveMediaQuery</key>
+	<string>canDispatchMovement</string>
+	<key>sliderdepth</key>
+	<string>labelTask</string>
+	<key>transitiontransformer</key>
+	<string>detachPreview</string>
+</dict>
+</plist>

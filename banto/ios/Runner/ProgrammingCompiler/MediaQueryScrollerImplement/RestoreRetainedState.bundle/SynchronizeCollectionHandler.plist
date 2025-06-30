@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiotension</key>
+	<string>pauseText</string>
+	<key>declarativeConsumer</key>
+	<string>cellBridge</string>
+	<key>ignoredColumn</key>
+	<string>iterativevolume</string>
+	<key>notificationobserverdistance</key>
+	<string>shouldAnimateCheckbox</string>
+	<key>shouldRouteFuture</key>
+	<string>toolSaturation</string>
+	<key>smallPet</key>
+	<string>positionedNumber</string>
+	<key>unactivatedHash</key>
+	<string>canUnmountedSpine</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarInterval</key>
+	<string>sineSize</string>
+	<key>aspectratiosink</key>
+	<string>requiredCoordinator</string>
+	<key>inheritedDetail</key>
+	<string>canSerializeMomentum</string>
+	<key>requiredTransition</key>
+	<string>originalAction</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardOffset</key>
+	<string>shouldroutetouch</string>
+	<key>groupoffset</key>
+	<string>notifyController</string>
+	<key>ignoredUsage</key>
+	<string>webplate</string>
+	<key>operationcommandedge</key>
+	<string>differentiateCompleter</string>
+	<key>smallSwift</key>
+	<string>directService</string>
+	<key>unmountnode</key>
+	<string>currentpet</string>
+</dict>
+</plist>

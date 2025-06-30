@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeTask</key>
+	<string>skirtaboutlevel</string>
+	<key>cubepadding</key>
+	<string>emitCheckbox</string>
+	<key>diversifiedTrigger</key>
+	<string>shouldCancelThread</string>
+	<key>shouldAnimateCanvas</key>
+	<string>shouldCancelSymbol</string>
+	<key>shouldConnectNotification</key>
+	<string>tensorTool</string>
+	<key>shouldStopDialogs</key>
+	<string>canRestartMatrix</string>
+	<key>shouldValidateDuration</key>
+	<string>lastCycle</string>
+	<key>subtleprogressbarmode</key>
+	<string>processDropdownButton</string>
+</dict>
+</plist>

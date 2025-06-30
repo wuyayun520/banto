@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleConsumer</key>
+	<string>canPrepareLog</string>
+	<key>customizedCache</key>
+	<string>architectureStyle</string>
+	<key>dismissstateless</key>
+	<string>isArithmetic</string>
+	<key>permissiveMedia</key>
+	<string>plateMode</string>
+	<key>quantizercontroller</key>
+	<string>lastTrajectory</string>
+	<key>resilientGem</key>
+	<string>canProcessBatch</string>
+	<key>significantComponent</key>
+	<string>canEmitEquipment</string>
+	<key>singleRect</key>
+	<string>diversifiedIcon</string>
+</dict>
+</plist>

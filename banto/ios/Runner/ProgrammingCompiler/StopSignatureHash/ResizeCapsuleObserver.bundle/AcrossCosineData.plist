@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentPreview</key>
+	<string>selectedSpine</string>
+	<key>dynamicScope</key>
+	<string>pendingRoute</string>
+	<key>heaprect</key>
+	<string>referenceequivalent</string>
+	<key>pinchableCaption</key>
+	<string>shouldTransitionOption</string>
+	<key>shouldPopSkirt</key>
+	<string>unmountedmodal</string>
+	<key>shouldrendercatalyst</key>
+	<string>injectionSkewY</string>
+</dict>
+</plist>

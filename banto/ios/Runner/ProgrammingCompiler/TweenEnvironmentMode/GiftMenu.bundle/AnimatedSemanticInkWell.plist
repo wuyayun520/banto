@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutappearance</key>
+	<string>intuitivealertdepth</string>
+	<key>listviewvelocity</key>
+	<string>hierarchicalGraphic</string>
+	<key>musicsize</key>
+	<string>declarativeclipperspacing</string>
+	<key>observerpressure</key>
+	<string>distinctionShade</string>
+</dict>
+</plist>

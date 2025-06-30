@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuezone</key>
+	<string>unsortedAction</string>
+	<key>deliveryType</key>
+	<string>delegateRouter</string>
+	<key>mobileDelegate</key>
+	<string>promiseVariable</string>
+	<key>pooltechnique</key>
+	<string>continueGate</string>
+	<key>resumedescriptor</key>
+	<string>exponentVariable</string>
+	<key>shouldAttachSpine</key>
+	<string>menuState</string>
+	<key>shouldDecodeSign</key>
+	<string>multiplicationFrequency</string>
+	<key>shouldShowModulus</key>
+	<string>intuitiveConsumer</string>
+</dict>
+</plist>

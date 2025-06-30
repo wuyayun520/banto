@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>methodValidation</key>
+	<string>unmountedSign</string>
+	<key>pivotalStroke</key>
+	<string>cacheInterpolation</string>
+	<key>smallAudio</key>
+	<string>canConnectContainer</string>
+	<key>sortedEqualization</key>
+	<string>detachGrayscale</string>
+	<key>stampStatus</key>
+	<string>oldaction</string>
+	<key>tentativeindex</key>
+	<string>shouldlistendialogs</string>
+</dict>
+</plist>

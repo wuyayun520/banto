@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeArithmetic</key>
+	<string>customizedIntegration</string>
+	<key>adaptiveLoader</key>
+	<string>retainedCaption</string>
+	<key>animationchooser</key>
+	<string>activatedFragment</string>
+	<key>compositionalInfrastructure</key>
+	<string>liteAlert</string>
+	<key>interfaceDepth</key>
+	<string>spriteParam</string>
+	<key>interpolationTag</key>
+	<string>columnmomentum</string>
+	<key>onbuildertap</key>
+	<string>retainAllocator</string>
+	<key>providerconnector</key>
+	<string>sinkContext</string>
+	<key>tabbarContrast</key>
+	<string>shouldLayoutGestureDetector</string>
+</dict>
+</plist>

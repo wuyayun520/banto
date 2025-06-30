@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaVisible</key>
+	<string>canDecodeMaster</string>
+	<key>batchDelay</key>
+	<string>indicatorCoord</string>
+	<key>cubitdirection</key>
+	<string>fetchCollection</string>
+	<key>newestPicker</key>
+	<string>immediateChannel</string>
+	<key>previewstagedensity</key>
+	<string>granularActivity</string>
+	<key>requiredNavigator</key>
+	<string>dynamicMechanism</string>
+	<key>shouldfinishbox</key>
+	<string>sceneDistance</string>
+	<key>unsortedNotifier</key>
+	<string>characteristicdelay</string>
+	<key>visualizereducer</key>
+	<string>smartBaseline</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gateInteraction</key>
+	<string>encapsulateDependency</string>
+	<key>gateTag</key>
+	<string>shouldSavePainter</string>
+	<key>intensityevolution</key>
+	<string>requestNode</string>
+	<key>lostFuture</key>
+	<string>pivotalInteraction</string>
+	<key>mediumText</key>
+	<string>pivotaloverlayvisible</string>
+	<key>nativeDialogs</key>
+	<string>timerWork</string>
+	<key>significantLog</key>
+	<string>shouldReplaceTernary</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticdetail</key>
+	<string>granularstream</string>
+	<key>opaqueTabBar</key>
+	<string>emitbutton</string>
+	<key>replaceposition</key>
+	<string>staticdescriptionright</string>
+	<key>secondcolumn</key>
+	<string>canShowMatrix</string>
+	<key>shouldEndLoss</key>
+	<string>interfacebehavior</string>
+	<key>shouldFinishSubpixel</key>
+	<string>kernelOpacity</string>
+	<key>shouldUnmountMission</key>
+	<string>intensityInterpreter</string>
+	<key>shoulddeserializemedia</key>
+	<string>fixedEvent</string>
+	<key>standaloneEquivalent</key>
+	<string>subsequentRepository</string>
+	<key>variantCenter</key>
+	<string>unlockDependency</string>
+</dict>
+</plist>

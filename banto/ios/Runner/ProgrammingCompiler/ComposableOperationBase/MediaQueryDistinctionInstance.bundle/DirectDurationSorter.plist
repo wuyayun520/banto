@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityinset</key>
+	<string>smallException</string>
+	<key>evolutionrotation</key>
+	<string>operationLocation</string>
+	<key>hasDecoration</key>
+	<string>observerpadding</string>
+	<key>resizableTimeline</key>
+	<string>configurationTag</string>
+	<key>sequentiallocalizationstate</key>
+	<string>spriteForm</string>
+	<key>transformfeature</key>
+	<string>dependencystrategytint</string>
+	<key>zonevisibility</key>
+	<string>mobileRadius</string>
+</dict>
+</plist>

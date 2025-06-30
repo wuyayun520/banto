@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTabBar</key>
+	<string>backwardSensor</string>
+	<key>beginnerStream</key>
+	<string>petTension</string>
+	<key>enabledWidget</key>
+	<string>transitionrequest</string>
+	<key>handleexception</key>
+	<string>textfieldorproxy</string>
+	<key>lastNorm</key>
+	<string>firstView</string>
+	<key>parallelNorm</key>
+	<string>standaloneFinder</string>
+	<key>shouldLayoutRow</key>
+	<string>shouldValidateSensor</string>
+</dict>
+</plist>

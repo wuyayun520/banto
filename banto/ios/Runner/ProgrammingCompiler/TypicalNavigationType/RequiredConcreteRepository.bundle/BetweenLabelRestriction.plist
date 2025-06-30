@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSlash</key>
+	<string>decodeRoute</string>
+	<key>criticalResult</key>
+	<string>canPrepareSpecifier</string>
+	<key>delicatePager</key>
+	<string>intermediateTabView</string>
+	<key>detectortheme</key>
+	<string>mediaqueryAdapter</string>
+	<key>iterativeCapacities</key>
+	<string>beginnerCell</string>
+	<key>momentumTransparency</key>
+	<string>delicateAlignment</string>
+	<key>numericalDispatcher</key>
+	<string>canMountedMediaQuery</string>
+	<key>tappableStorage</key>
+	<string>presenteroutsidekind</string>
+</dict>
+</plist>

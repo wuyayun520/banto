@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>floatindicator</key>
+	<string>enabledlistener</string>
+	<key>logarithmmementofeedback</key>
+	<string>synchronousScale</string>
+	<key>nextCreator</key>
+	<string>heaplevelposition</string>
+	<key>protectedSpecifier</key>
+	<string>shouldFinishMonster</string>
+	<key>scrollableEvolution</key>
+	<string>disconnectFlex</string>
+	<key>subscriptionsound</key>
+	<string>shouldListenContraction</string>
+</dict>
+</plist>

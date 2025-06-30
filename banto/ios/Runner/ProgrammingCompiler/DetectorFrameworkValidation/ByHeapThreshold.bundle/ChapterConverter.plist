@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeButton</key>
+	<string>componentVisibility</string>
+	<key>playbackhandler</key>
+	<string>restoretangent</string>
+	<key>primarySemantics</key>
+	<string>vectorCenter</string>
+	<key>shouldAttachCharacter</key>
+	<string>routeOptimizer</string>
+	<key>shouldFormatController</key>
+	<string>renderCard</string>
+	<key>sinkwithoutaction</key>
+	<string>limitradius</string>
+	<key>skintext</key>
+	<string>equalizationState</string>
+</dict>
+</plist>

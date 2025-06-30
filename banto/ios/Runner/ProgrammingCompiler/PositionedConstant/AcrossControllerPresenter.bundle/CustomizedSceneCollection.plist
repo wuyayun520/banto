@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindcontroller</key>
+	<string>baselineright</string>
+	<key>finderAppearance</key>
+	<string>liteMesh</string>
+	<key>hardRange</key>
+	<string>intuitiveShader</string>
+	<key>shouldListenCustomPaint</key>
+	<string>synchronousNotation</string>
+	<key>shouldPublishDialogs</key>
+	<string>characteristicVisible</string>
+	<key>uniqueStatus</key>
+	<string>shouldProcessExtension</string>
+</dict>
+</plist>

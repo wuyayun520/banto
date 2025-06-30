@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediumTicker</key>
+	<string>statethroughphase</string>
+	<key>ongifttap</key>
+	<string>pageviewDuration</string>
+	<key>shouldDeserializeMedia</key>
+	<string>delegaterow</string>
+	<key>shouldNotifySession</key>
+	<string>delegateResponse</string>
+	<key>statefulBox</key>
+	<string>usedImage</string>
+</dict>
+</plist>

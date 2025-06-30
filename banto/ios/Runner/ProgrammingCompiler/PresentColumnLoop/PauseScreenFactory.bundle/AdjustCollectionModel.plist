@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentFlags</key>
+	<string>scrollableLoss</string>
+	<key>cellresilience</key>
+	<string>imageWork</string>
+	<key>firstInjection</key>
+	<string>scaffoldSpeed</string>
+	<key>navigationatmode</key>
+	<string>backwardGram</string>
+	<key>smartresponseoffset</key>
+	<string>expandedstate</string>
+	<key>tappableTraversal</key>
+	<string>shouldAttachVariant</string>
+</dict>
+</plist>

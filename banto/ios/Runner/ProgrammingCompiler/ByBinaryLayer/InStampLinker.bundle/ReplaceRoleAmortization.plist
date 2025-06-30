@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicDescription</key>
+	<string>connectSizedBox</string>
+	<key>callbackLocation</key>
+	<string>symbolAction</string>
+	<key>documentstyle</key>
+	<string>petValidation</string>
+	<key>requiredNotification</key>
+	<string>canListenNavigator</string>
+	<key>shouldYieldSwitch</key>
+	<string>retainedPainter</string>
+	<key>statefulMargin</key>
+	<string>processAnchor</string>
+	<key>subtleJoiner</key>
+	<string>columnPlatform</string>
+	<key>textactivityinterval</key>
+	<string>subscriptionoccasion</string>
+</dict>
+</plist>

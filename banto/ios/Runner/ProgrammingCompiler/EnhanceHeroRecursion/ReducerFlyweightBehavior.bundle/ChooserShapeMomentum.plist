@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contrastOrigin</key>
+	<string>canHandleBitrate</string>
+	<key>disabledOverlay</key>
+	<string>semanticCanvas</string>
+	<key>ephemeralRow</key>
+	<string>conformallocator</string>
+	<key>histogramtype</key>
+	<string>featuredata</string>
+	<key>hyperbolicCube</key>
+	<string>shouldProcessSign</string>
+	<key>notificationBrightness</key>
+	<string>canDeserializeThread</string>
+	<key>otherExtension</key>
+	<string>shouldObserveSkin</string>
+	<key>reactiveFormat</key>
+	<string>freeRepository</string>
+	<key>shouldPresentUnary</key>
+	<string>dimensionAdapter</string>
+	<key>uniformGrayscale</key>
+	<string>activetopic</string>
+</dict>
+</plist>

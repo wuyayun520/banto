@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinenumberspacing</key>
+	<string>dimensionMediator</string>
+	<key>configurationfilter</key>
+	<string>canStartClipper</string>
+	<key>materialModal</key>
+	<string>shouldconnectcanvas</string>
+	<key>membermaterial</key>
+	<string>cartesianPolygon</string>
+	<key>sessionaboutvar</key>
+	<string>viewAlignment</string>
+	<key>smallProgressBar</key>
+	<string>projectionTint</string>
+</dict>
+</plist>

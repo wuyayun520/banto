@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeVolume</key>
+	<string>clusterRotation</string>
+	<key>resilientPolygon</key>
+	<string>mutableFrame</string>
+	<key>sanitizemanager</key>
+	<string>mediocreProvider</string>
+	<key>seekmetadata</key>
+	<string>aspectSpeed</string>
+	<key>selectedBaseline</key>
+	<string>unmountHeap</string>
+</dict>
+</plist>

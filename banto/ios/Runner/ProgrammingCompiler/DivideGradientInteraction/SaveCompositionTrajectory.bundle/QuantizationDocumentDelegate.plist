@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarconfiguration</key>
+	<string>taskfromstate</string>
+	<key>basictentative</key>
+	<string>serializeStack</string>
+	<key>checklistVelocity</key>
+	<string>hardFactory</string>
+	<key>consultativeSink</key>
+	<string>delegateInterface</string>
+	<key>dimensionSize</key>
+	<string>polygonfeedback</string>
+	<key>shouldMountedMobile</key>
+	<string>hashvertex</string>
+</dict>
+</plist>

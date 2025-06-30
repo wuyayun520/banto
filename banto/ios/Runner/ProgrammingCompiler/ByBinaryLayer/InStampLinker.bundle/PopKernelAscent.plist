@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationHue</key>
+	<string>declarativebloc</string>
+	<key>mapperContrast</key>
+	<string>prevInformation</string>
+	<key>mobileCoordinator</key>
+	<string>triggertop</string>
+	<key>operationInterval</key>
+	<string>desktopScale</string>
+	<key>shouldRouteCube</key>
+	<string>permissiveThreshold</string>
+	<key>stroketop</key>
+	<string>factorymode</string>
+</dict>
+</plist>

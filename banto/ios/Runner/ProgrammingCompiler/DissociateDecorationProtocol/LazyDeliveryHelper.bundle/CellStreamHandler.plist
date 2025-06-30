@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstNode</key>
+	<string>hyperbolicInjection</string>
+	<key>mediocreStatus</key>
+	<string>moveTransformer</string>
+	<key>permutationdelay</key>
+	<string>imageinjection</string>
+	<key>persistentFeature</key>
+	<string>makeLoop</string>
+	<key>robustBaseline</key>
+	<string>freeMetadata</string>
+	<key>shouldLayoutDropdownButton</key>
+	<string>statefulModel</string>
+	<key>shouldMountedStoryboard</key>
+	<string>unmountedaccessory</string>
+</dict>
+</plist>

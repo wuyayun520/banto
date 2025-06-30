@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentSprite</key>
+	<string>nativeIsolate</string>
+	<key>maprectangle</key>
+	<string>containerinformation</string>
+	<key>moduleTail</key>
+	<string>backwardthreadspacing</string>
+	<key>shouldDeserializeBuilder</key>
+	<string>ternaryEnvironment</string>
+</dict>
+</plist>

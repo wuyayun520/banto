@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedButton</key>
+	<string>aperturejobbehavior</string>
+	<key>callbackstatetheme</key>
+	<string>popNotifier</string>
+	<key>observerhandler</key>
+	<string>shouldStopMember</string>
+	<key>selectedCharacter</key>
+	<string>decorationuntilscope</string>
+	<key>sessionVelocity</key>
+	<string>missiondensity</string>
+</dict>
+</plist>

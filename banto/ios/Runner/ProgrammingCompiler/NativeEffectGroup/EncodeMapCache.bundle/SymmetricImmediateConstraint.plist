@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorShape</key>
+	<string>activatedwidget</string>
+	<key>difficultProgressBar</key>
+	<string>shouldMountedPageView</string>
+	<key>factoryagainstproxy</key>
+	<string>shouldCacheGram</string>
+	<key>latencyFrequency</key>
+	<string>cellSingleton</string>
+	<key>shouldResumeSpecifier</key>
+	<string>canBindGift</string>
+	<key>shouldYieldInterpolation</key>
+	<string>quantizationprofile</string>
+</dict>
+</plist>

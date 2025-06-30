@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDelay</key>
+	<string>stackjobborder</string>
+	<key>animationcontainmediator</key>
+	<string>eventactioncoord</string>
+	<key>apertureHue</key>
+	<string>pausegradient</string>
+	<key>efficiencycoord</key>
+	<string>prismaticTriangles</string>
+	<key>factoryoutsidevalue</key>
+	<string>cacheThread</string>
+	<key>sophisticatedContainer</key>
+	<string>dispatchBitrate</string>
+</dict>
+</plist>

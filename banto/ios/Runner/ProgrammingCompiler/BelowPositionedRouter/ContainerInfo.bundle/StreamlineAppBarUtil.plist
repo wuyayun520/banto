@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintcontrast</key>
+	<string>shouldPublishReduction</string>
+	<key>denseMovement</key>
+	<string>loadcustompaint</string>
+	<key>detachsingleton</key>
+	<string>sortedElasticity</string>
+	<key>immutablecontaineralignment</key>
+	<string>freeCurve</string>
+	<key>prismaticcaption</key>
+	<string>canDetachListView</string>
+	<key>segueScale</key>
+	<string>canCacheBase</string>
+</dict>
+</plist>

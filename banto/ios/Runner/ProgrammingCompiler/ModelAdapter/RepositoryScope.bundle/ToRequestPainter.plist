@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCell</key>
+	<string>shouldpaintmonster</string>
+	<key>baseflags</key>
+	<string>originalTrigger</string>
+	<key>hyperbolicPresenter</key>
+	<string>performReducer</string>
+	<key>insteadcell</key>
+	<string>sequentialAnalyzer</string>
+	<key>linkerInteraction</key>
+	<string>cancelDropdownButton</string>
+	<key>listeneralignment</key>
+	<string>easySchema</string>
+	<key>reactiveText</key>
+	<string>immutableTool</string>
+	<key>temporaryReplica</key>
+	<string>registerTopic</string>
+</dict>
+</plist>

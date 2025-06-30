@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterDelay</key>
+	<string>shouldEmitGraphic</string>
+	<key>custompaintName</key>
+	<string>canRestartMedia</string>
+	<key>ephemeralHero</key>
+	<string>reusableCompleter</string>
+	<key>geometricPolyfill</key>
+	<string>borderPattern</string>
+	<key>loopMomentum</key>
+	<string>monstercyclevalidation</string>
+	<key>shouldObserveBox</key>
+	<string>scheduleMetadata</string>
+</dict>
+</plist>

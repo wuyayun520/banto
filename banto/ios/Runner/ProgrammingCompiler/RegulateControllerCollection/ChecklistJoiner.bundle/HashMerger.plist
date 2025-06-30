@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeConstraint</key>
+	<string>endTouch</string>
+	<key>fixedMedia</key>
+	<string>enumerateListener</string>
+	<key>intermediateticker</key>
+	<string>invisibleMethod</string>
+	<key>shouldEmitLoss</key>
+	<string>shouldNotifyRoute</string>
+	<key>signflyweightdirection</key>
+	<string>stopProfile</string>
+</dict>
+</plist>

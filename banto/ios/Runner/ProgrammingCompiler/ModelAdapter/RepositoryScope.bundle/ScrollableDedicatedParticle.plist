@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxType</key>
+	<string>asynchronousBox</string>
+	<key>clearcolumn</key>
+	<string>tweakFrequency</string>
+	<key>gramworkbrightness</key>
+	<string>animatedIsolate</string>
+	<key>mobileCosine</key>
+	<string>permissiveCell</string>
+	<key>renderscene</key>
+	<string>defaultindicator</string>
+	<key>requiredConstraint</key>
+	<string>activatedEmitter</string>
+</dict>
+</plist>

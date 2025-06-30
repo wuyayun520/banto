@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalChecklist</key>
+	<string>directMerger</string>
+	<key>intuitiveManager</key>
+	<string>shouldNotifyPlayback</string>
+	<key>localEfficiency</key>
+	<string>shouldSaveSymbol</string>
+	<key>missionthroughput</key>
+	<string>canTrainCanvas</string>
+	<key>shouldPublishCursor</key>
+	<string>embraceLabel</string>
+	<key>shouldRouteSign</key>
+	<string>shouldDecodePet</string>
+	<key>shoulddismissstateless</key>
+	<string>annotateRadius</string>
+	<key>similarstamp</key>
+	<string>unsortedProvider</string>
+	<key>specifySkirt</key>
+	<string>localizationHue</string>
+	<key>substantialLifecycle</key>
+	<string>canPublishLoss</string>
+</dict>
+</plist>

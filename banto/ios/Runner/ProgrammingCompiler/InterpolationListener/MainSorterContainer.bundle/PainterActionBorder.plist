@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnercatalysttag</key>
+	<string>shouldSubscribeBaseline</string>
+	<key>cartesianElasticity</key>
+	<string>provideError</string>
+	<key>intermediateDecoration</key>
+	<string>functionalpaddingalignment</string>
+	<key>optionFlags</key>
+	<string>navigatePriority</string>
+	<key>shouldCreateProject</key>
+	<string>tweakTransparency</string>
+	<key>shouldFinishMobile</key>
+	<string>shouldUpdateRole</string>
+</dict>
+</plist>

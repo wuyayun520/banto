@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerNode</key>
+	<string>shouldAttachBorder</string>
+	<key>fusedThreshold</key>
+	<string>sceneshapename</string>
+	<key>groupValidation</key>
+	<string>standaloneHeap</string>
+	<key>lazyPolyfill</key>
+	<string>canDisposeEqualization</string>
+	<key>rapidradio</key>
+	<string>shouldListenCupertino</string>
+	<key>retainedTransition</key>
+	<string>symmetricGesture</string>
+	<key>shouldFinishCharacter</key>
+	<string>updatetext</string>
+	<key>significantAnimator</key>
+	<string>canDispatchGraphic</string>
+	<key>singleDelegate</key>
+	<string>iterativeTentative</string>
+</dict>
+</plist>

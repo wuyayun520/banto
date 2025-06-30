@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianTaxonomy</key>
+	<string>refreshFrame</string>
+	<key>remainderSpeed</key>
+	<string>canEndUsage</string>
+	<key>resolveraboutmode</key>
+	<string>difficulttexture</string>
+	<key>scenetheme</key>
+	<string>displayPresenter</string>
+	<key>streammodel</key>
+	<string>shouldEncodeOperation</string>
+	<key>tabbarVisible</key>
+	<string>canContinueProject</string>
+	<key>textfieldSpacing</key>
+	<string>canFormatCache</string>
+	<key>usedroutehue</key>
+	<string>spriteType</string>
+</dict>
+</plist>

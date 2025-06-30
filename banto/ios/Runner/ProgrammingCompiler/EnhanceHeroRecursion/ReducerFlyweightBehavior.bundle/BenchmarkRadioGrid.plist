@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directviewmargin</key>
+	<string>overlaytemplescale</string>
+	<key>easyConsumption</key>
+	<string>tappableMargin</string>
+	<key>liteStep</key>
+	<string>decodeCheckbox</string>
+	<key>shouldEncodeCatalyst</key>
+	<string>explicitEffect</string>
+	<key>shouldPublishFuture</key>
+	<string>dependencyInterpreter</string>
+	<key>shouldmountinstruction</key>
+	<string>restrictionstatus</string>
+	<key>specifyLifecycle</key>
+	<string>fixedconstrainttint</string>
+	<key>taxonomyVisibility</key>
+	<string>canKeepPoint</string>
+</dict>
+</plist>

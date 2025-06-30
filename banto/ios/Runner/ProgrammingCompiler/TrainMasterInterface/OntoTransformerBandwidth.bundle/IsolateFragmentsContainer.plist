@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionforlevel</key>
+	<string>canEmitTernary</string>
+	<key>creatorCenter</key>
+	<string>imperativestream</string>
+	<key>multimend</key>
+	<string>geometricSubscription</string>
+	<key>opaqueSchema</key>
+	<string>fetchTernary</string>
+	<key>parallelRouter</key>
+	<string>eventProxy</string>
+	<key>prevmultiplicationposition</key>
+	<string>updateSwitch</string>
+	<key>shouldDispatchTextField</key>
+	<string>behaviorAction</string>
+</dict>
+</plist>

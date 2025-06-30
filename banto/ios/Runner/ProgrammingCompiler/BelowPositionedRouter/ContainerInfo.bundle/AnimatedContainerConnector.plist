@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedLifecycle</key>
+	<string>unbindawait</string>
+	<key>basicChannel</key>
+	<string>dissociateTopic</string>
+	<key>buildcontainer</key>
+	<string>augmentEvent</string>
+	<key>missedDistinction</key>
+	<string>oldCursor</string>
+	<key>numericalScroll</key>
+	<string>startMargin</string>
+	<key>oldScroll</key>
+	<string>unaryvelocity</string>
+	<key>scaleparametermomentum</key>
+	<string>fixedHeap</string>
+	<key>singleElement</key>
+	<string>shouldFormatUsage</string>
+	<key>splitterborder</key>
+	<string>volumeDuration</string>
+</dict>
+</plist>

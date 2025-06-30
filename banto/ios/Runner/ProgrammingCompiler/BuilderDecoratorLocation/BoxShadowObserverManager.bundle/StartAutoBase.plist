@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderopacity</key>
+	<string>schedulerTheme</string>
+	<key>comprehensiveasyncforce</key>
+	<string>shouldPrepareSizedBox</string>
+	<key>crudeUsage</key>
+	<string>shouldEmitGridView</string>
+	<key>discardedInkWell</key>
+	<string>draggableMap</string>
+	<key>missionSaturation</key>
+	<string>decorationsensor</string>
+	<key>primaryIntegrity</key>
+	<string>usedprecision</string>
+	<key>primarycupertino</key>
+	<string>conformMetadata</string>
+	<key>sequentialresourcestate</key>
+	<string>dedicatedMomentum</string>
+</dict>
+</plist>
