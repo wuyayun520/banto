@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionsincesystem</key>
+	<string>requiredAccessory</string>
+	<key>cupertinoSegue</key>
+	<string>geometricMetrics</string>
+	<key>indicatornearproxy</key>
+	<string>capacitiesLevel</string>
+	<key>keyCapacity</key>
+	<string>shouldCancelTransition</string>
+	<key>lazyInteraction</key>
+	<string>spineParam</string>
+	<key>onmembertap</key>
+	<string>giftFormat</string>
+	<key>pinchableError</key>
+	<string>canEndView</string>
+	<key>shouldCacheBorder</key>
+	<string>statusFeedback</string>
+	<key>updatepainter</key>
+	<string>canFetchSubpixel</string>
+</dict>
+</plist>

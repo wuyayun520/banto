@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentprovider</key>
+	<string>canValidateMultiplication</string>
+	<key>charactermethodfrequency</key>
+	<string>adaptivePermutation</string>
+	<key>heroDuration</key>
+	<string>tangentDensity</string>
+	<key>shouldBuildEqualization</key>
+	<string>composableListener</string>
+	<key>shouldEndMaterial</key>
+	<string>popScreen</string>
+	<key>throughputTop</key>
+	<string>substantialPopup</string>
+</dict>
+</plist>

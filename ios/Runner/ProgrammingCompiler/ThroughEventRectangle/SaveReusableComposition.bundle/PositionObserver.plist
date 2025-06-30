@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasdespitemethod</key>
+	<string>shouldAnimatePromise</string>
+	<key>composabletexture</key>
+	<string>timeTail</string>
+	<key>descentForce</key>
+	<string>aspectratiolevelborder</string>
+	<key>equipmentSkewX</key>
+	<string>releaseMenu</string>
+	<key>fragmentthanshape</key>
+	<string>activityBrightness</string>
+	<key>gateColor</key>
+	<string>detectorCount</string>
+	<key>progressbarquaternion</key>
+	<string>replaceSlash</string>
+	<key>selectedDocument</key>
+	<string>inheritedPadding</string>
+	<key>unsortedGrid</key>
+	<string>objectFeedback</string>
+	<key>writeprecision</key>
+	<string>canTransformBaseline</string>
+</dict>
+</plist>

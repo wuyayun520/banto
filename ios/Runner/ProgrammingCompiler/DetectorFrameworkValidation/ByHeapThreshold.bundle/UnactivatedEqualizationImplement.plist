@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderDistance</key>
+	<string>scrollableLifecycle</string>
+	<key>checklistSpacing</key>
+	<string>shouldPersistAxis</string>
+	<key>indicatorDelay</key>
+	<string>roleBridge</string>
+	<key>keyResponse</key>
+	<string>positionedEdge</string>
+	<key>seamlessGridView</key>
+	<string>tensorContraction</string>
+	<key>unsortedloss</key>
+	<string>serializeCell</string>
+</dict>
+</plist>

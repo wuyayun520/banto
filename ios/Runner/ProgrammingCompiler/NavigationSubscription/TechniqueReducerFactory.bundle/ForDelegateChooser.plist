@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedScheduler</key>
+	<string>interceptEvent</string>
+	<key>arithmeticPlayback</key>
+	<string>slashBehavior</string>
+	<key>hyperbolicprioritykind</key>
+	<string>sessionStrategy</string>
+	<key>protectedBinary</key>
+	<string>easyScroll</string>
+	<key>scrollableAnalyzer</key>
+	<string>synchronousTicker</string>
+	<key>statelessProgressBar</key>
+	<string>canEmitTangent</string>
+	<key>tensorMobile</key>
+	<string>deferredpopup</string>
+	<key>uniformCube</key>
+	<string>behaviorOrigin</string>
+</dict>
+</plist>

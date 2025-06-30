@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAnimation</key>
+	<string>menuresponse</string>
+	<key>crudeAlignment</key>
+	<string>canPauseSpine</string>
+	<key>debugoffset</key>
+	<string>retrieveTask</string>
+	<key>listenermechanism</key>
+	<string>animateTimer</string>
+	<key>mobilecallback</key>
+	<string>loadCapacities</string>
+	<key>objectedge</key>
+	<string>ephemeralSound</string>
+	<key>smallRemediation</key>
+	<string>associatedFormat</string>
+	<key>tentativetype</key>
+	<string>cachedirection</string>
+</dict>
+</plist>

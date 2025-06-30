@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindcubit</key>
+	<string>completedExpanded</string>
+	<key>interactiveCupertino</key>
+	<string>taskBrightness</string>
+	<key>mediumcapsulecontrast</key>
+	<string>mediaqueryFormat</string>
+	<key>numericalMonster</key>
+	<string>taxonomyPosition</string>
+	<key>relationalCustomPaint</key>
+	<string>sophisticatedCustomPaint</string>
+	<key>shouldfinishmaster</key>
+	<string>concreteSample</string>
+</dict>
+</plist>

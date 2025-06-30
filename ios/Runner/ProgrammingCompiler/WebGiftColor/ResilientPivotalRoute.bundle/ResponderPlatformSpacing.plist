@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutioninsideframework</key>
+	<string>baselineIndex</string>
+	<key>diversifiedProtocol</key>
+	<string>disconnectgrayscale</string>
+	<key>emitterTag</key>
+	<string>shouldFormatIndicator</string>
+	<key>euclideanTexture</key>
+	<string>routerOpacity</string>
+	<key>gesturerange</key>
+	<string>viewscale</string>
+	<key>shouldLayoutGraphic</key>
+	<string>precisionHead</string>
+	<key>shouldresumegate</key>
+	<string>requestQueue</string>
+	<key>smallException</key>
+	<string>temporaryPreview</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitSchema</key>
+	<string>prevData</string>
+	<key>firstNavigation</key>
+	<string>factoryMode</string>
+	<key>reducermodel</key>
+	<string>hashVariable</string>
+	<key>shouldStartObserver</key>
+	<string>diversifiedLifecycle</string>
+	<key>skirtcommandlocation</key>
+	<string>buffersaturation</string>
+	<key>visibleStore</key>
+	<string>enabledAspect</string>
+</dict>
+</plist>

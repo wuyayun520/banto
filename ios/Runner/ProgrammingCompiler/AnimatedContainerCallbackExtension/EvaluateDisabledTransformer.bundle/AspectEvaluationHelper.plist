@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addstamp</key>
+	<string>selectedboxshadow</string>
+	<key>imperativeLoop</key>
+	<string>gradientbrightness</string>
+	<key>lostFrame</key>
+	<string>segueviabridge</string>
+	<key>masterAppearance</key>
+	<string>canRebuildBinary</string>
+	<key>mediumTriangles</key>
+	<string>canSetStateWidget</string>
+	<key>otherScenario</key>
+	<string>columnamongstrategy</string>
+	<key>samplePadding</key>
+	<string>desktopThroughput</string>
+	<key>strengthcount</key>
+	<string>canHandleImage</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildcaption</key>
+	<string>rebuildColumn</string>
+	<key>functionalComposition</key>
+	<string>canObserveBinary</string>
+	<key>gridDensity</key>
+	<string>inheritedBase</string>
+	<key>notifyspot</key>
+	<string>decodeRow</string>
+	<key>renderinteractor</key>
+	<string>momentumTop</string>
+	<key>textduringtask</key>
+	<string>canKeepSwitch</string>
+</dict>
+</plist>

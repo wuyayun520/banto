@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerCapacities</key>
+	<string>shouldfetchinkwell</string>
+	<key>detailvelocity</key>
+	<string>advancedEquivalent</string>
+	<key>documentlistener</key>
+	<string>composableGift</string>
+	<key>elasticTrigger</key>
+	<string>chapterCoord</string>
+	<key>materialSink</key>
+	<string>shouldSkipCollection</string>
+	<key>prismaticBox</key>
+	<string>canContinueScroll</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarDensity</key>
+	<string>canCreateTask</string>
+	<key>associatedParticle</key>
+	<string>canPaintScroll</string>
+	<key>asynchronousparticlefeedback</key>
+	<string>shouldNotifyBoxShadow</string>
+	<key>iterativeChooser</key>
+	<string>canUnmountedContraction</string>
+	<key>masterBottom</key>
+	<string>deserializeInkWell</string>
+	<key>sampleDirection</key>
+	<string>substantialOccasion</string>
+	<key>shouldStartCapsule</key>
+	<string>obtainResult</string>
+	<key>synchronousProvision</key>
+	<string>yieldPositioned</string>
+</dict>
+</plist>

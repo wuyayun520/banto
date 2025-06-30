@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorSkewY</key>
+	<string>smallThreshold</string>
+	<key>firstCurve</key>
+	<string>segueevent</string>
+	<key>shouldHandleSine</key>
+	<string>inactiveTechnique</string>
+	<key>shouldstartdecoration</key>
+	<string>sliderSkewX</string>
+</dict>
+</plist>

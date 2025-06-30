@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinePosition</key>
+	<string>thresholdPressure</string>
+	<key>capturecurve</key>
+	<string>immediateInterface</string>
+	<key>composableAspect</key>
+	<string>eraseView</string>
+	<key>curveplatformleft</key>
+	<string>shouldStreamGrayscale</string>
+	<key>listviewMomentum</key>
+	<string>optionHead</string>
+	<key>sinkIndex</key>
+	<string>materialProgressBar</string>
+	<key>symmetricSubscriber</key>
+	<string>tweakTop</string>
+	<key>tensorTitle</key>
+	<string>smallError</string>
+</dict>
+</plist>

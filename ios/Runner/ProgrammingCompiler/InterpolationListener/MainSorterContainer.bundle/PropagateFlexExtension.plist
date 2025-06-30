@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvaswithwork</key>
+	<string>shouldLoadDelegate</string>
+	<key>delicateanimation</key>
+	<string>hastouch</string>
+	<key>uniqueTexture</key>
+	<string>shouldHandleDuration</string>
+	<key>usedCoordinator</key>
+	<string>replicateTicker</string>
+</dict>
+</plist>

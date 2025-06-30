@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedOccasion</key>
+	<string>composableSemantics</string>
+	<key>bufferalongmethod</key>
+	<string>basicSwitch</string>
+	<key>explicitEvaluation</key>
+	<string>accelerateSize</string>
+	<key>normnode</key>
+	<string>strengthduration</string>
+	<key>resizableSubpixel</key>
+	<string>resizableProtocol</string>
+	<key>respectivecheckliststyle</key>
+	<string>canValidatePrecision</string>
+	<key>selectedTask</key>
+	<string>greatGestureDetector</string>
+	<key>shouldParseSpine</key>
+	<string>mendvisibility</string>
+	<key>shouldSubscribeSample</key>
+	<string>lazyRestriction</string>
+</dict>
+</plist>

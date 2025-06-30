@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evaluateroute</key>
+	<string>accessibleCapacity</string>
+	<key>mobileAnimation</key>
+	<string>pivotalReduction</string>
+	<key>shouldBuildSession</key>
+	<string>navigatorvisible</string>
+	<key>stampAlignment</key>
+	<string>shouldCacheBox</string>
+	<key>substantialcomposition</key>
+	<string>canResumeWorkflow</string>
+</dict>
+</plist>

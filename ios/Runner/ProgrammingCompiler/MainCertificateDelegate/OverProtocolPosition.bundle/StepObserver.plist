@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commoncompleter</key>
+	<string>denseProvision</string>
+	<key>detectorHue</key>
+	<string>seamlessRenderer</string>
+	<key>listenstorage</key>
+	<string>routeNotifier</string>
+	<key>positionedHead</key>
+	<string>canStartColumn</string>
+	<key>radioInterval</key>
+	<string>contractionFlags</string>
+	<key>radioStatus</key>
+	<string>completedSine</string>
+	<key>shouldBuildSwitch</key>
+	<string>declarativeGroup</string>
+	<key>sustainableVariant</key>
+	<string>usedLogarithm</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleScheduler</key>
+	<string>actionInteraction</string>
+	<key>gramefficiency</key>
+	<string>loadMargin</string>
+	<key>rangeMode</key>
+	<string>canPersistScaffold</string>
+	<key>requestTransparency</key>
+	<string>aspectratioMemento</string>
+	<key>reusableIsolate</key>
+	<string>renderMaterial</string>
+	<key>seamlessIcon</key>
+	<string>shouldReplaceCursor</string>
+	<key>themeerror</key>
+	<string>asynchronousMetrics</string>
+	<key>visibleMend</key>
+	<string>autoCompleter</string>
+</dict>
+</plist>

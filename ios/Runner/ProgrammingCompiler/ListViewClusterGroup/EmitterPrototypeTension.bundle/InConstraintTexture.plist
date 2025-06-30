@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonprototypehead</key>
+	<string>functionalThroughput</string>
+	<key>hardDropdownButton</key>
+	<string>displayChannel</string>
+	<key>isdialogs</key>
+	<string>processOverlay</string>
+	<key>monsterSpeed</key>
+	<string>dropdownbuttoncontrast</string>
+	<key>routejobmomentum</key>
+	<string>canAttachResource</string>
+	<key>routeragainstdecorator</key>
+	<string>selectedOverlay</string>
+	<key>shouldFetchRow</key>
+	<string>shouldConnectTabView</string>
+	<key>viewTension</key>
+	<string>encodeGrayscale</string>
+</dict>
+</plist>

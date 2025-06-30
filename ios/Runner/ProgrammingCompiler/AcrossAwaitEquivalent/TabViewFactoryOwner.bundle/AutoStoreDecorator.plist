@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containervariableoffset</key>
+	<string>columnLayer</string>
+	<key>intermediatePosition</key>
+	<string>navigateIndicator</string>
+	<key>robustScalability</key>
+	<string>descriptorresponse</string>
+	<key>similarSelector</key>
+	<string>processscale</string>
+</dict>
+</plist>

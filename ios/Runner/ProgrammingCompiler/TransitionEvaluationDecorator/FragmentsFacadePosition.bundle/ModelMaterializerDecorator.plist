@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratetint</key>
+	<string>loadstate</string>
+	<key>fixedSpine</key>
+	<string>shouldRouteCharacter</string>
+	<key>fusedSpecifier</key>
+	<string>pinchableAxis</string>
+	<key>materialtransitionsaturation</key>
+	<string>dispatcherType</string>
+	<key>newestStack</key>
+	<string>canDismissDropdownButton</string>
+	<key>shouldUnmountedInterpolation</key>
+	<string>syncprovider</string>
+	<key>singletonAppearance</key>
+	<string>sustainableSchema</string>
+</dict>
+</plist>

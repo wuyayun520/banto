@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionSkewY</key>
+	<string>disconnectCompletion</string>
+	<key>cubitborder</key>
+	<string>resizableEfficiency</string>
+	<key>euclideanColor</key>
+	<string>gateAlignment</string>
+	<key>handlerworkalignment</key>
+	<string>inflateKernel</string>
+	<key>shouldDisposeGesture</key>
+	<string>customDropdownButton</string>
+	<key>standaloneSorter</key>
+	<string>storefinder</string>
+	<key>typicalTicker</key>
+	<string>meshKind</string>
+</dict>
+</plist>

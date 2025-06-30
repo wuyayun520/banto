@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxInterval</key>
+	<string>defaultresource</string>
+	<key>desktopDimension</key>
+	<string>gateEnvironment</string>
+	<key>nativeLifecycle</key>
+	<string>performException</string>
+	<key>nextSingleton</key>
+	<string>canMountedAperture</string>
+	<key>shouldRestartProjection</key>
+	<string>arithmeticIntensity</string>
+	<key>storageprovision</key>
+	<string>factoryoffset</string>
+</dict>
+</plist>

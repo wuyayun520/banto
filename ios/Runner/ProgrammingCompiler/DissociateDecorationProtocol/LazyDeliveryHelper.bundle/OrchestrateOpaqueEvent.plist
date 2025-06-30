@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnconverter</key>
+	<string>shouldPersistSkirt</string>
+	<key>ignoredTransition</key>
+	<string>iconTension</string>
+	<key>operationwrapper</key>
+	<string>shouldYieldMission</string>
+	<key>shouldMountedDrawer</key>
+	<string>sophisticatedStrength</string>
+</dict>
+</plist>

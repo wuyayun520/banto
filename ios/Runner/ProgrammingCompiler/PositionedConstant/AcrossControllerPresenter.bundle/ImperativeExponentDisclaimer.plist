@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedLatency</key>
+	<string>canCancelPlate</string>
+	<key>euclideanPosition</key>
+	<string>mobileTrigger</string>
+	<key>firstOffset</key>
+	<string>painterInteraction</string>
+	<key>infrastructureMomentum</key>
+	<string>tensorIntegrity</string>
+	<key>labelspeed</key>
+	<string>canContinueOperation</string>
+	<key>lazyAscent</key>
+	<string>configureAnimation</string>
+	<key>mapperskewy</key>
+	<string>enumerateaperture</string>
+	<key>paddingindex</key>
+	<string>canYieldMovement</string>
+	<key>sortedGraphic</key>
+	<string>primaryentity</string>
+</dict>
+</plist>

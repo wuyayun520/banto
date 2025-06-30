@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSwitch</key>
+	<string>currentPositioned</string>
+	<key>asynchronousGem</key>
+	<string>radiusSkewX</string>
+	<key>hardMomentum</key>
+	<string>entropyDuration</string>
+	<key>invisibleLoader</key>
+	<string>parseNotification</string>
+	<key>mediumaccessory</key>
+	<string>hardPadding</string>
+	<key>transformrect</key>
+	<string>mainLayer</string>
+</dict>
+</plist>

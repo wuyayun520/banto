@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderMargin</key>
+	<string>propagateprovider</string>
+	<key>resizablePosition</key>
+	<string>currentbox</string>
+	<key>shouldShowSegment</key>
+	<string>labelBound</string>
+	<key>shouldUnmountedCharacter</key>
+	<string>canObserveLog</string>
+</dict>
+</plist>

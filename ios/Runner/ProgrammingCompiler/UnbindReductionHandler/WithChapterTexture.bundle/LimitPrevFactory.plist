@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianItem</key>
+	<string>easyInstruction</string>
+	<key>missedHash</key>
+	<string>rebuildObserver</string>
+	<key>profilenavigator</key>
+	<string>lastRestriction</string>
+	<key>shouldDetachNavigator</key>
+	<string>sophisticatedHash</string>
+	<key>spineRate</key>
+	<string>eagerBandwidth</string>
+	<key>strokeFrequency</key>
+	<string>canvasForm</string>
+	<key>transformerSize</key>
+	<string>localizationAction</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalCollection</key>
+	<string>continuePlayback</string>
+	<key>eventBorder</key>
+	<string>futureEdge</string>
+	<key>gesturedetectoroutsidetier</key>
+	<string>batchtension</string>
+	<key>permissiveResilience</key>
+	<string>cachethroughoperation</string>
+	<key>publicSizedBox</key>
+	<string>invisibleStatus</string>
+	<key>shouldPaintSymbol</key>
+	<string>descriptionForce</string>
+</dict>
+</plist>

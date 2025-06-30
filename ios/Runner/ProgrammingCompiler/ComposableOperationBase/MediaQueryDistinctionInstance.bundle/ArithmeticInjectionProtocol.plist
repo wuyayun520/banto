@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedinkwell</key>
+	<string>canKeepSession</string>
+	<key>clusterDensity</key>
+	<string>canPrepareBehavior</string>
+	<key>giftBound</key>
+	<string>scaffoldVariable</string>
+	<key>publishsize</key>
+	<string>protectedactivitykind</string>
+	<key>scaleSkewY</key>
+	<string>immediateTool</string>
+	<key>sineVisible</key>
+	<string>layoutcontextkind</string>
+	<key>statusskewy</key>
+	<string>shouldKeepLayout</string>
+	<key>tangentBorder</key>
+	<string>parallelresolver</string>
+</dict>
+</plist>

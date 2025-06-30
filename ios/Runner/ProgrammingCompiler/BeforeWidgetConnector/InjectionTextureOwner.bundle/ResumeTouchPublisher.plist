@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateconfiguration</key>
+	<string>decodeservice</string>
+	<key>clipperTop</key>
+	<string>shouldRebuildSpine</string>
+	<key>continuebutton</key>
+	<string>revisitChannel</string>
+	<key>easyChecklist</key>
+	<string>immediateUseCase</string>
+	<key>fixedQuaternion</key>
+	<string>emitMomentum</string>
+	<key>hardLayout</key>
+	<string>skipHistogram</string>
+	<key>imperativeroutestyle</key>
+	<string>canvasProcess</string>
+	<key>keyAlert</key>
+	<string>textureSpeed</string>
+	<key>mobileDocument</key>
+	<string>appbarBottom</string>
+	<key>uniqueDelivery</key>
+	<string>entityValidation</string>
+</dict>
+</plist>

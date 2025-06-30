@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerTangent</key>
+	<string>labelSystem</string>
+	<key>brushthannumber</key>
+	<string>writeInterface</string>
+	<key>dedicatedDetector</key>
+	<string>wrapPopup</string>
+	<key>desktopTransformer</key>
+	<string>shouldReplaceTouch</string>
+	<key>enabledSlider</key>
+	<string>publicCombiner</string>
+	<key>endprovider</key>
+	<string>imperativeSensor</string>
+	<key>presenterlikememento</key>
+	<string>batchSize</string>
+	<key>sortedFrame</key>
+	<string>shouldDetachWidget</string>
+	<key>specifyPicker</key>
+	<string>explicitTexture</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectcontextinset</key>
+	<string>accessoryFormat</string>
+	<key>maplevelmomentum</key>
+	<string>subpixelSize</string>
+	<key>parsecache</key>
+	<string>pointPattern</string>
+	<key>priorStack</key>
+	<string>euclideanPoint</string>
+	<key>resolverBrightness</key>
+	<string>informationPosition</string>
+	<key>sharedBinder</key>
+	<string>splitterStatus</string>
+	<key>shouldDetachDelegate</key>
+	<string>canRestartSignature</string>
+	<key>shouldReplaceThread</key>
+	<string>injectionObserver</string>
+</dict>
+</plist>

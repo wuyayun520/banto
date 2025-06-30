@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentsfrequency</key>
+	<string>canPersistBaseline</string>
+	<key>sensorappearance</key>
+	<string>retainedCapsule</string>
+	<key>shouldPopTask</key>
+	<string>deactivateWidget</string>
+</dict>
+</plist>

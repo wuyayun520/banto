@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveExtension</key>
+	<string>intermediateSwift</string>
+	<key>capacityForce</key>
+	<string>detachCell</string>
+	<key>currentappbar</key>
+	<string>resizableStroke</string>
+	<key>dataDuration</key>
+	<string>uniqueCoordinator</string>
+	<key>finderVisibility</key>
+	<string>seamlessPermutation</string>
+	<key>pinchableSubscriber</key>
+	<string>synchronousDescent</string>
+	<key>titleinset</key>
+	<string>canContinueSensor</string>
+</dict>
+</plist>

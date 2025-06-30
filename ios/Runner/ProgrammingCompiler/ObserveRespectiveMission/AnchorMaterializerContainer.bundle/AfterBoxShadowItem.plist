@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateFuture</key>
+	<string>shouldConnectRadio</string>
+	<key>hardUseCase</key>
+	<string>unaryEnvironment</string>
+	<key>immutableRectangle</key>
+	<string>vectorizeConfiguration</string>
+	<key>materialCache</key>
+	<string>taskWork</string>
+	<key>meshleft</key>
+	<string>lazyDecoration</string>
+	<key>notationlocation</key>
+	<string>delicateRichText</string>
+	<key>shouldCreateController</key>
+	<string>responsiveduration</string>
+	<key>shouldMountedInkWell</key>
+	<string>agileduration</string>
+	<key>shouldNavigateSensor</key>
+	<string>shouldContinueBatch</string>
+</dict>
+</plist>

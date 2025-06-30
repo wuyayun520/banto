@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperchaintype</key>
+	<string>processRemainder</string>
+	<key>popisolate</key>
+	<string>formatCheckbox</string>
+	<key>resilientInstruction</key>
+	<string>backwardExtension</string>
+	<key>shouldRenderProject</key>
+	<string>controllerTag</string>
+	<key>sliderVisibility</key>
+	<string>beginnerBatch</string>
+</dict>
+</plist>

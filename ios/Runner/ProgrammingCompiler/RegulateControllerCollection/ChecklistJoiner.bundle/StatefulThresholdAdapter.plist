@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerstrategyhue</key>
+	<string>easyGrid</string>
+	<key>iterativeProvision</key>
+	<string>resourceRate</string>
+	<key>matrixkind</key>
+	<string>chartShape</string>
+	<key>nextTask</key>
+	<string>replicatePopup</string>
+	<key>originaleffect</key>
+	<string>makeprovider</string>
+	<key>resizegraph</key>
+	<string>shouldDetachView</string>
+	<key>sequentialTitle</key>
+	<string>interceptZone</string>
+	<key>shouldShowCustomPaint</key>
+	<string>canvasInterpreter</string>
+	<key>substantialMapper</key>
+	<string>concurrentSlash</string>
+</dict>
+</plist>

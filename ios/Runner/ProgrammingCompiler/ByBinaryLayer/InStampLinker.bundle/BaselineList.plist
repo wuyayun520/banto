@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricLoader</key>
+	<string>alignmentComposite</string>
+	<key>infrastructurespacing</key>
+	<string>responsiveTolerance</string>
+	<key>lazyAnimation</key>
+	<string>shouldEndTable</string>
+	<key>reductionTension</key>
+	<string>builderParam</string>
+	<key>shouldPublishTouch</key>
+	<string>ephemeralfuturelocation</string>
+	<key>uniformDropdownButton</key>
+	<string>handlerposition</string>
+</dict>
+</plist>

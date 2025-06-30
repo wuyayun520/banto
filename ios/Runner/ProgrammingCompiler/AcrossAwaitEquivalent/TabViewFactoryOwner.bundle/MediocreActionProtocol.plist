@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedRect</key>
+	<string>unactivatedtool</string>
+	<key>buffermediatorstatus</key>
+	<string>canPauseTouch</string>
+	<key>defaultButton</key>
+	<string>backwardMaterial</string>
+	<key>robustContainer</key>
+	<string>typicalSlider</string>
+	<key>tappableClipper</key>
+	<string>shouldDetachStep</string>
+	<key>unsortedIndicator</key>
+	<string>searchQueue</string>
+</dict>
+</plist>

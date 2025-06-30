@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilePrecision</key>
+	<string>inflateTween</string>
+	<key>buffermediatorbehavior</key>
+	<string>commonTouch</string>
+	<key>chooserstyle</key>
+	<string>multiProcessor</string>
+	<key>cupertinoinset</key>
+	<string>staticResponse</string>
+	<key>difficultAsset</key>
+	<string>functionalSignature</string>
+	<key>directlyMovement</key>
+	<string>transformMission</string>
+	<key>inflaterect</key>
+	<string>missedSign</string>
+	<key>shouldBuildDropdownButton</key>
+	<string>restoreState</string>
+	<key>statestate</key>
+	<string>taskCommand</string>
+</dict>
+</plist>

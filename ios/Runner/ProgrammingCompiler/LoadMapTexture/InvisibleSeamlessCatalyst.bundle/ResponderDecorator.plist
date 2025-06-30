@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonSpine</key>
+	<string>statefulKind</string>
+	<key>dynamicRichText</key>
+	<string>independentSpot</string>
+	<key>euclideanfeature</key>
+	<string>consumeentropy</string>
+	<key>flexibleTouch</key>
+	<string>canValidateStack</string>
+	<key>normalOption</key>
+	<string>inheritedDuration</string>
+	<key>scrollableScroll</key>
+	<string>compareRepository</string>
+	<key>spinloss</key>
+	<string>differentiateIsolate</string>
+</dict>
+</plist>

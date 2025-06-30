@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencydistance</key>
+	<string>splitterskewy</string>
+	<key>featureBorder</key>
+	<string>mediocreIsolate</string>
+	<key>firstIntensity</key>
+	<string>canStopMedia</string>
+	<key>imperativeExpanded</key>
+	<string>canPopMobile</string>
+	<key>specifyVariant</key>
+	<string>shouldBuildSign</string>
+	<key>subtlerepositoryedge</key>
+	<string>reliabilityLeft</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredConverter</key>
+	<string>trajectoryAppearance</string>
+	<key>difficultChapter</key>
+	<string>isduration</string>
+	<key>featurecontainstyle</key>
+	<string>usecaseOffset</string>
+	<key>interactiveprogressbarhead</key>
+	<string>setstateCell</string>
+	<key>mediocreBoxShadow</key>
+	<string>tensorrectdelay</string>
+	<key>nodeOrigin</key>
+	<string>unaryopacity</string>
+	<key>shouldDetachResource</key>
+	<string>featureVariable</string>
+</dict>
+</plist>

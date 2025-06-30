@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveResponse</key>
+	<string>interpolationValue</string>
+	<key>greatDetector</key>
+	<string>onsymboltap</string>
+	<key>intermediateAspect</key>
+	<string>webSine</string>
+	<key>persistentAnalogy</key>
+	<string>saveNotifier</string>
+	<key>petTheme</key>
+	<string>reusableTicker</string>
+	<key>shouldsetstatepoint</key>
+	<string>featureEdge</string>
+</dict>
+</plist>

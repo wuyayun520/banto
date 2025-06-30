@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>infoOpacity</key>
+	<string>combineCubit</string>
+	<key>kernelAppearance</key>
+	<string>otherTool</string>
+	<key>mitigatelayout</key>
+	<string>resizableMusic</string>
+	<key>provideexception</key>
+	<string>ignoredNorm</string>
+	<key>resilientStateless</key>
+	<string>listenBrush</string>
+	<key>shouldStreamCosine</key>
+	<string>disabledTexture</string>
+	<key>synchronizefragment</key>
+	<string>resetEntity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerResponder</key>
+	<string>functionalTransition</string>
+	<key>concreteCursor</key>
+	<string>unaryview</string>
+	<key>shaderBrightness</key>
+	<string>alphaCoord</string>
+	<key>splitterStyle</key>
+	<string>transitionbloc</string>
+	<key>subsequentColor</key>
+	<string>baseFlyweight</string>
+</dict>
+</plist>

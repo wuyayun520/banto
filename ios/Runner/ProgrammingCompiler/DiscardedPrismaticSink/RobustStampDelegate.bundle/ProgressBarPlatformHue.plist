@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaforce</key>
+	<string>processframe</string>
+	<key>expandedInteraction</key>
+	<string>criticalBatch</string>
+	<key>iconinteraction</key>
+	<string>managershape</string>
+	<key>multiCollection</key>
+	<string>sortedBox</string>
+	<key>numericalcheckbox</key>
+	<string>enumerateCubit</string>
+	<key>reactiveInjection</key>
+	<string>yieldprecision</string>
+	<key>retainedTangent</key>
+	<string>shouldUpdateSine</string>
+	<key>shouldNotifyGesture</key>
+	<string>primaryGraphic</string>
+	<key>sorterMomentum</key>
+	<string>canPersistRemainder</string>
+	<key>subscribepoint</key>
+	<string>actionbridgecenter</string>
+</dict>
+</plist>

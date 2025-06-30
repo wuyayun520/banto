@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletAlignment</key>
+	<string>holdTask</string>
+	<key>hierarchicalException</key>
+	<string>transformStep</string>
+	<key>notificationType</key>
+	<string>autoTimer</string>
+	<key>shouldUnbindInteger</key>
+	<string>subpixelBound</string>
+</dict>
+</plist>

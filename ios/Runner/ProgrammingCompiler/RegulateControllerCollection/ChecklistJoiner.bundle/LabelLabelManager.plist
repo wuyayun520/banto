@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphatweak</key>
+	<string>canReplaceMobile</string>
+	<key>beginnerDelegate</key>
+	<string>observeCollection</string>
+	<key>checkboxInteraction</key>
+	<string>notifierHead</string>
+	<key>delicateGrain</key>
+	<string>providerfrequency</string>
+	<key>diffableConverter</key>
+	<string>shouldTrainCoordinator</string>
+	<key>directlyCanvas</key>
+	<string>canStopMonster</string>
+	<key>reducervisible</key>
+	<string>toolCommand</string>
+	<key>shouldKeepDropdownButton</key>
+	<string>denseZone</string>
+	<key>smallProtocol</key>
+	<string>semanticsthanbuffer</string>
+</dict>
+</plist>

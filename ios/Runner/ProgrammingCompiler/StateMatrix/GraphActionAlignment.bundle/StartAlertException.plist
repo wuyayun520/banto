@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerModulus</key>
+	<string>certificateDelay</string>
+	<key>globalChallenge</key>
+	<string>canObserveNavigator</string>
+	<key>resilienttabview</key>
+	<string>queueTransparency</string>
+	<key>robustCharacter</key>
+	<string>canParseContraction</string>
+	<key>usecasetime</key>
+	<string>diversifiedMaterializer</string>
+</dict>
+</plist>

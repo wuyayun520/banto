@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>opaqueIndicator</key>
+	<string>kernelPattern</string>
+	<key>promiseInset</key>
+	<string>shouldNotifyBatch</string>
+	<key>singleTitle</key>
+	<string>injectRadius</string>
+	<key>synchronousFilter</key>
+	<string>fixedLayer</string>
+	<key>usecaseaspect</key>
+	<string>canLoadSample</string>
+</dict>
+</plist>

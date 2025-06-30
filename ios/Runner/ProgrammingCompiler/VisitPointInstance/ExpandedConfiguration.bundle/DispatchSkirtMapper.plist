@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionPageView</key>
+	<string>intuitiveBloc</string>
+	<key>discardedLog</key>
+	<string>canCreateDialogs</string>
+	<key>fixedSink</key>
+	<string>ongridviewtap</string>
+	<key>metadatatop</key>
+	<string>shouldDispatchDescriptor</string>
+	<key>musicexceptproxy</key>
+	<string>canTransitionBehavior</string>
+	<key>pageviewcompleter</key>
+	<string>shouldUnbindNib</string>
+	<key>semanticslikepattern</key>
+	<string>shouldDeserializeNib</string>
+	<key>shouldProcessSine</key>
+	<string>subscribeCoordinator</string>
+</dict>
+</plist>

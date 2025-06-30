@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionDelay</key>
+	<string>rotateTransition</string>
+	<key>exponentBottom</key>
+	<string>reconcileStore</string>
+	<key>factoryTint</key>
+	<string>resolverStage</string>
+	<key>intermediateResponse</key>
+	<string>flexFlags</string>
+	<key>shouldCreateFuture</key>
+	<string>continueWidget</string>
+	<key>shouldRenderTable</key>
+	<string>containerVisitor</string>
+	<key>shouldTransitionClipper</key>
+	<string>integerPlatform</string>
+</dict>
+</plist>

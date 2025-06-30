@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>formatKind</key>
+	<string>offsetRect</string>
+	<key>invisibleCupertino</key>
+	<string>requiredConfiguration</string>
+	<key>lostConstraint</key>
+	<string>robustBrush</string>
+	<key>mediocreBandwidth</key>
+	<string>originalRoute</string>
+	<key>progressbarValidation</key>
+	<string>materialProject</string>
+	<key>tappableRadio</key>
+	<string>nativeBullet</string>
+</dict>
+</plist>

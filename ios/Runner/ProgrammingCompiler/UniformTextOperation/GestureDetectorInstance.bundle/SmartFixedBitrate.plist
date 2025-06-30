@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousmetadata</key>
+	<string>shouldFetchFuture</string>
+	<key>blocpressure</key>
+	<string>enabledDependency</string>
+	<key>concreteMaterializer</key>
+	<string>shouldDecodeEqualization</string>
+	<key>coordinatorRight</key>
+	<string>assetState</string>
+	<key>elasticCollection</key>
+	<string>movementopacity</string>
+	<key>normalAscent</key>
+	<string>samplemodel</string>
+	<key>statelessElasticity</key>
+	<string>canNotifyController</string>
+</dict>
+</plist>

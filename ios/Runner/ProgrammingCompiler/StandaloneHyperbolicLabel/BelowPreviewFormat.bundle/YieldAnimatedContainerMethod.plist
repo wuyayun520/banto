@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAppearance</key>
+	<string>canDisconnectNib</string>
+	<key>delicateStream</key>
+	<string>analyzeMenu</string>
+	<key>mediainteraction</key>
+	<string>showNavigator</string>
+	<key>playbackrate</key>
+	<string>canTrainConstraint</string>
+	<key>shouldMountedSlash</key>
+	<string>modelRight</string>
+	<key>shouldPopDuration</key>
+	<string>scrollableMerger</string>
+	<key>statelessbase</key>
+	<string>factorytrigger</string>
+	<key>symmetricGram</key>
+	<string>pauseScroll</string>
+</dict>
+</plist>

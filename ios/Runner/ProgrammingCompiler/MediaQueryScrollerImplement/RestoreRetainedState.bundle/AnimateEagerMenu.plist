@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectiongrain</key>
+	<string>maxCanvas</string>
+	<key>controllerinsidescope</key>
+	<string>canNavigateContraction</string>
+	<key>delicateCustomPaint</key>
+	<string>flexibleAxis</string>
+	<key>dependencyVisibility</key>
+	<string>handleSwitch</string>
+	<key>publicPadding</key>
+	<string>compareOffset</string>
+	<key>shouldHandleCaption</key>
+	<string>ignoredbehaviorfrequency</string>
+	<key>shouldSkipDropdownButton</key>
+	<string>shouldobservecontainer</string>
+	<key>streamcluster</key>
+	<string>canEmitCharacter</string>
+</dict>
+</plist>

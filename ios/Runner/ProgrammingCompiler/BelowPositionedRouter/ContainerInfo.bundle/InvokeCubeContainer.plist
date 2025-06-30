@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectDuration</key>
+	<string>lossMargin</string>
+	<key>interactoragainstparameter</key>
+	<string>shouldYieldCoordinator</string>
+	<key>shouldattachinteger</key>
+	<string>regulateController</string>
+	<key>singleNotation</key>
+	<string>connectorInterval</string>
+</dict>
+</plist>

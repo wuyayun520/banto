@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCapacities</key>
+	<string>restoreaction</string>
+	<key>allocatorShape</key>
+	<string>inheritedMedia</string>
+	<key>currentMission</key>
+	<string>layerObserver</string>
+	<key>cycleDepth</key>
+	<string>metadataTransparency</string>
+	<key>explicitChecklist</key>
+	<string>autoTabBar</string>
+	<key>lazysubscriber</key>
+	<string>shouldBuildAlert</string>
+	<key>missedpositionduration</key>
+	<string>captionTag</string>
+	<key>shouldDecodePoint</key>
+	<string>crudeSwift</string>
+</dict>
+</plist>

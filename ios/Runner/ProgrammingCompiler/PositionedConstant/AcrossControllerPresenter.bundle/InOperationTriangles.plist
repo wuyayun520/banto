@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticZone</key>
+	<string>staticcycle</string>
+	<key>interactivegesture</key>
+	<string>optimizerTail</string>
+	<key>reducescene</key>
+	<string>behaviorMediator</string>
+	<key>serviceDuration</key>
+	<string>fragmentsLeft</string>
+	<key>shouldMountProtocol</key>
+	<string>synchronousModal</string>
+	<key>shoulddisposealpha</key>
+	<string>multiMomentum</string>
+</dict>
+</plist>

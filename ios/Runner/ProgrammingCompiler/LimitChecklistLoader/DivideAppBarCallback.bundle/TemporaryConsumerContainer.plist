@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerstreamtail</key>
+	<string>iterativeUtil</string>
+	<key>criticalStorage</key>
+	<string>marginBuffer</string>
+	<key>defaultGestureDetector</key>
+	<string>globalAsync</string>
+	<key>significantIcon</key>
+	<string>axisStrategy</string>
+	<key>statelessOption</key>
+	<string>elasticPrecision</string>
+	<key>substantialEqualization</key>
+	<string>generateGroup</string>
+</dict>
+</plist>

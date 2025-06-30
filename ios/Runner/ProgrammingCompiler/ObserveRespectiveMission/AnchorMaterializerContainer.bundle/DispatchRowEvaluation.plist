@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyController</key>
+	<string>globalObserver</string>
+	<key>flexibleSwift</key>
+	<string>crudeSensor</string>
+	<key>futuretweak</key>
+	<string>escalateLoop</string>
+	<key>logCoord</key>
+	<string>draggableChannels</string>
+	<key>modalwithoutplatform</key>
+	<string>bufferdensity</string>
+	<key>navigatorDistance</key>
+	<string>emitHeap</string>
+	<key>positiontaskcolor</key>
+	<string>smartRect</string>
+	<key>prioroptionskewy</key>
+	<string>lastPermutation</string>
+	<key>responsiveSizedBox</key>
+	<string>vectorizeProgressBar</string>
+	<key>shouldStartDuration</key>
+	<string>originalStateful</string>
+</dict>
+</plist>

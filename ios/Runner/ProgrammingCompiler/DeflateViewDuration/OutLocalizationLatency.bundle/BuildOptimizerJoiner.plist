@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentNavigation</key>
+	<string>cartesianContrast</string>
+	<key>displayableGesture</key>
+	<string>requestpadding</string>
+	<key>holdnotifier</key>
+	<string>memberTop</string>
+	<key>interpolationDuration</key>
+	<string>deflateWidget</string>
+	<key>mutableSegment</key>
+	<string>crudeCapacities</string>
+	<key>normalCompletion</key>
+	<string>processReference</string>
+	<key>pinchableVideo</key>
+	<string>dataforce</string>
+	<key>robustFuture</key>
+	<string>singletonPrototype</string>
+	<key>sizealignment</key>
+	<string>diffablerichtext</string>
+	<key>skinValidation</key>
+	<string>shouldSubscribeGrayscale</string>
+</dict>
+</plist>

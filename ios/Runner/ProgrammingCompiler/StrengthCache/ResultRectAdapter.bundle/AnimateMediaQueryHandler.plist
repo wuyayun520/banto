@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertrow</key>
+	<string>checkboxStatus</string>
+	<key>chapterShape</key>
+	<string>pagerLocation</string>
+	<key>chooserDensity</key>
+	<string>synchronousMusic</string>
+	<key>methoddistance</key>
+	<string>transformGradient</string>
+	<key>remainderInterval</key>
+	<string>requiredReceiver</string>
+	<key>shouldBindSemantics</key>
+	<string>functionalInteger</string>
+	<key>shouldCreateGem</key>
+	<string>disconnectCubit</string>
+	<key>shouldHandleBorder</key>
+	<string>createCanvas</string>
+	<key>shouldUnmountKernel</key>
+	<string>oldmodal</string>
+</dict>
+</plist>

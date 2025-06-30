@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gramprocessor</key>
+	<string>embedLabel</string>
+	<key>interactiveexponentbehavior</key>
+	<string>rowtentative</string>
+	<key>modalOrigin</key>
+	<string>inactiveThreshold</string>
+	<key>originalTriangles</key>
+	<string>shouldRenderSpot</string>
+	<key>primaryCapsule</key>
+	<string>rolepressure</string>
+	<key>similarClipper</key>
+	<string>nibSingleton</string>
+	<key>splitterMode</key>
+	<string>canStreamGridView</string>
+</dict>
+</plist>

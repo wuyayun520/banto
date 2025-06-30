@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPresenter</key>
+	<string>popupflyweightacceleration</string>
+	<key>bindhandler</key>
+	<string>persistNotification</string>
+	<key>concatenateroute</key>
+	<string>containeranimation</string>
+	<key>deflategate</key>
+	<string>diffableSize</string>
+	<key>mutableEquivalent</key>
+	<string>basicMap</string>
+	<key>nativecatalysttype</key>
+	<string>canStopGesture</string>
+	<key>prismaticFeature</key>
+	<string>numericalPager</string>
+	<key>protectedpaddingcoord</key>
+	<string>shaderreceiver</string>
+	<key>workflowparametertag</key>
+	<string>channelstransparency</string>
+</dict>
+</plist>

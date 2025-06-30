@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousDimension</key>
+	<string>handleButton</string>
+	<key>firstLifecycle</key>
+	<string>filllistview</string>
+	<key>hyperbolicSegue</key>
+	<string>primaryBorder</string>
+	<key>pointbound</key>
+	<string>eagerMomentum</string>
+	<key>registertween</key>
+	<string>infoForce</string>
+	<key>sampleMomentum</key>
+	<string>denseBase</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comparetask</key>
+	<string>schedulerLeft</string>
+	<key>emitterBottom</key>
+	<string>lazyRoute</string>
+	<key>robustdescription</key>
+	<string>flexibleNavigator</string>
+	<key>semanticsPressure</key>
+	<string>iterativeelasticity</string>
+	<key>shouldPublishProfile</key>
+	<string>seekDuration</string>
+	<key>shouldTransitionCertificate</key>
+	<string>spineProxy</string>
+	<key>similarbehaviorpressure</key>
+	<string>canPausePainter</string>
+</dict>
+</plist>

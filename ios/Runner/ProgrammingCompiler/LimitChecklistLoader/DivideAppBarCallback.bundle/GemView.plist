@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listentangent</key>
+	<string>persistentModulus</string>
+	<key>navigationincludeactivity</key>
+	<string>intuitiveIndicator</string>
+	<key>shouldShowBloc</key>
+	<string>alertContext</string>
+	<key>triggerRotation</key>
+	<string>geometricUnary</string>
+	<key>uniqueElement</key>
+	<string>screenPrototype</string>
+</dict>
+</plist>

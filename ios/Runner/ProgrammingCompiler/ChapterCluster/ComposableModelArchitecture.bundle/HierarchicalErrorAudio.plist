@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionLatency</key>
+	<string>activateInjection</string>
+	<key>equalizationvisibility</key>
+	<string>methodacceleration</string>
+	<key>independentAscent</key>
+	<string>directlyaction</string>
+	<key>normalNavigator</key>
+	<string>missedScenario</string>
+	<key>retainedPresenter</key>
+	<string>vectorAction</string>
+	<key>roleOpacity</key>
+	<string>canCacheSegment</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerduringchain</key>
+	<string>defaultCube</string>
+	<key>customPermutation</key>
+	<string>completedStep</string>
+	<key>liteMerger</key>
+	<string>providerState</string>
+	<key>mediocrebulletbrightness</key>
+	<string>serializeConstraint</string>
+	<key>prevAnimatedContainer</key>
+	<string>deserializeTitle</string>
+	<key>semanticStoryboard</key>
+	<string>ongesturetap</string>
+	<key>sophisticatedSine</key>
+	<string>unbindroute</string>
+	<key>utiltempledepth</key>
+	<string>modelRotation</string>
+	<key>visibleIcon</key>
+	<string>canCancelDrawer</string>
+</dict>
+</plist>

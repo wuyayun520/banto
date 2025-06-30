@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hasContainer</key>
+	<string>cardTail</string>
+	<key>intermediateResponse</key>
+	<string>symmetricAnimator</string>
+	<key>invisiblemap</key>
+	<string>descentDuration</string>
+	<key>multipreviewname</key>
+	<string>iconAdapter</string>
+	<key>permanentBaseline</key>
+	<string>standalonePosition</string>
+	<key>replicatewidget</key>
+	<string>statelessscopevisibility</string>
+	<key>richtextBehavior</key>
+	<string>canBindEquipment</string>
+	<key>staticConnector</key>
+	<string>multiContainer</string>
+</dict>
+</plist>

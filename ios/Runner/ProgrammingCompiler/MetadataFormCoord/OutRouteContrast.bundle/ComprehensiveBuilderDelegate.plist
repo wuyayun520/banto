@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentStyle</key>
+	<string>dismissGroup</string>
+	<key>euclideanCharacteristic</key>
+	<string>canLoadSpine</string>
+	<key>interactiveQueue</key>
+	<string>augmentTicker</string>
+	<key>prioritySkewX</key>
+	<string>shouldObserveSample</string>
+	<key>prioritytimer</key>
+	<string>smallScope</string>
+	<key>shoulddisconnectshader</key>
+	<string>specifyTweak</string>
+	<key>tensorBatch</key>
+	<string>holdResult</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudePrecision</key>
+	<string>documentStage</string>
+	<key>equivalentHead</key>
+	<string>layoutdensity</string>
+	<key>loaderTransparency</key>
+	<string>canCreateRichText</string>
+	<key>mobileTable</key>
+	<string>nextInteraction</string>
+	<key>retainedChooser</key>
+	<string>functionalIcon</string>
+	<key>similarStream</key>
+	<string>protocolStyle</string>
+	<key>unaryduration</key>
+	<string>pendingConstraint</string>
+</dict>
+</plist>

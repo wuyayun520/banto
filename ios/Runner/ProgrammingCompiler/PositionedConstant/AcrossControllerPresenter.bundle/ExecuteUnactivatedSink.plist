@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencySpacing</key>
+	<string>musicVelocity</string>
+	<key>difficultHero</key>
+	<string>convolutionbound</string>
+	<key>factoryappearance</key>
+	<string>tangentAdapter</string>
+	<key>hasTouch</key>
+	<string>tensorPositioned</string>
+	<key>protocolrange</key>
+	<string>canInflateTangent</string>
+	<key>resilientFeature</key>
+	<string>consumerSaturation</string>
+	<key>skipcapacities</key>
+	<string>navigatorFeedback</string>
+	<key>usedinterfacealignment</key>
+	<string>euclideanGate</string>
+</dict>
+</plist>

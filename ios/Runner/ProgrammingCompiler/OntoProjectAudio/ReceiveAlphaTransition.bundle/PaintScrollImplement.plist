@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledDescriptor</key>
+	<string>expandedshape</string>
+	<key>fusedAudio</key>
+	<string>disabledChapter</string>
+	<key>greatparticleskewx</key>
+	<string>cursoradapterkind</string>
+	<key>heapincludeactivity</key>
+	<string>shouldConnectGesture</string>
+	<key>objectSpacing</key>
+	<string>singletonspacing</string>
+	<key>originalGestureDetector</key>
+	<string>crudeMapper</string>
+	<key>statelessMode</key>
+	<string>shouldDispatchObserver</string>
+</dict>
+</plist>

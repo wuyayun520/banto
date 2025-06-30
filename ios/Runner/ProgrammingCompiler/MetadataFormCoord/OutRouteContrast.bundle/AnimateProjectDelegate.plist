@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedBatch</key>
+	<string>backwardWorkflow</string>
+	<key>elasticconstraint</key>
+	<string>listenConsumer</string>
+	<key>gridviewInterval</key>
+	<string>alertRotation</string>
+	<key>multiWrapper</key>
+	<string>spineForce</string>
+	<key>remainderState</key>
+	<string>storyboardEnvironment</string>
+	<key>shouldRouteSkin</key>
+	<string>permanentStore</string>
+	<key>synchronousPosition</key>
+	<string>decorationbound</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedScalability</key>
+	<string>viewTask</string>
+	<key>activeLinker</key>
+	<string>entropyforscope</string>
+	<key>consumerForce</key>
+	<string>pinchablecard</string>
+	<key>controllerPressure</key>
+	<string>symbolkindpadding</string>
+	<key>hashleveldirection</key>
+	<string>reactiveMenu</string>
+	<key>respectiveArchitecture</key>
+	<string>largeSubscription</string>
+	<key>shouldCacheMusic</key>
+	<string>notifyCache</string>
+	<key>shouldFetchMonster</key>
+	<string>crudeScene</string>
+	<key>shouldPresentConstraint</key>
+	<string>memberForce</string>
+	<key>sortedrect</key>
+	<string>transitionComposite</string>
+</dict>
+</plist>

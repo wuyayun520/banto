@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseTheme</key>
+	<string>accordionPosition</string>
+	<key>momentumbehavior</key>
+	<string>nativeAmortization</string>
+	<key>projectionFormat</key>
+	<string>wrapAsync</string>
+	<key>shouldPauseAspectRatio</key>
+	<string>subtlePoint</string>
+	<key>shouldyieldscreen</key>
+	<string>shouldTransitionContraction</string>
+	<key>stackcreator</key>
+	<string>meshAlignment</string>
+</dict>
+</plist>

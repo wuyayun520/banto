@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveResponse</key>
+	<string>paintResource</string>
+	<key>currentProcessor</key>
+	<string>endTernary</string>
+	<key>lazyService</key>
+	<string>lossinteraction</string>
+	<key>moduluspadding</key>
+	<string>disconnectNode</string>
+	<key>permanentKernel</key>
+	<string>resourceperfunction</string>
+	<key>resourceallocator</key>
+	<string>loopShade</string>
+	<key>sortedResponder</key>
+	<string>hierarchicalObject</string>
+	<key>standaloneAnalogy</key>
+	<string>emitBrush</string>
+</dict>
+</plist>

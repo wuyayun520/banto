@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedLoader</key>
+	<string>localizationDepth</string>
+	<key>inactiveIntegration</key>
+	<string>canSaveFragment</string>
+	<key>modulusEdge</key>
+	<string>gesturedetectorawait</string>
+	<key>shouldDisconnectPadding</key>
+	<string>accessoryShape</string>
+	<key>symbolDuration</key>
+	<string>revisitTask</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directchannelsshape</key>
+	<string>canCreateCertificate</string>
+	<key>easyItem</key>
+	<string>smallAsset</string>
+	<key>gradientfunctiontint</key>
+	<string>pushEqualization</string>
+	<key>independentgridbound</key>
+	<string>interpolateMenu</string>
+	<key>requiredVertex</key>
+	<string>marginMemento</string>
+	<key>semanticcatalystshape</key>
+	<string>localizationAcceleration</string>
+</dict>
+</plist>

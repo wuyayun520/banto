@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellaudio</key>
+	<string>iterativeresult</string>
+	<key>effectvelocity</key>
+	<string>binaryincludeenvironment</string>
+	<key>listenervisible</key>
+	<string>sortedFragment</string>
+	<key>reductionOrigin</key>
+	<string>tensorFuture</string>
+	<key>shouldHandleConsumer</key>
+	<string>synchronizeSingleton</string>
+	<key>shouldNotifyStateless</key>
+	<string>unregisterPresenter</string>
+	<key>shouldTransformLog</key>
+	<string>scenarioLocation</string>
+	<key>shouldUpdateBox</key>
+	<string>imperativeEntropy</string>
+	<key>sliderrenderer</key>
+	<string>subscriptionincludeshape</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>benchmarkcurve</key>
+	<string>canAttachMatrix</string>
+	<key>ephemeralMesh</key>
+	<string>shouldSaveBorder</string>
+	<key>euclideanSubscriber</key>
+	<string>deserializeBoxShadow</string>
+	<key>largeMetadata</key>
+	<string>shouldFinishChallenge</string>
+	<key>otherConfiguration</key>
+	<string>quantizationRouter</string>
+	<key>progressbarnumbertension</key>
+	<string>canBuildSwitch</string>
+	<key>requiredreliability</key>
+	<string>imperativeNorm</string>
+	<key>sharedRenderer</key>
+	<string>asynchronousHash</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterPosition</key>
+	<string>disparateVector</string>
+	<key>customTimeline</key>
+	<string>shouldSetStateModal</string>
+	<key>multiEntity</key>
+	<string>canTrainSign</string>
+	<key>prevsegmentmomentum</key>
+	<string>presentinteractor</string>
+	<key>shouldEncodeRow</key>
+	<string>shouldTransitionSample</string>
+	<key>shouldListenDimension</key>
+	<string>ternaryscope</string>
+	<key>shouldPublishPlayback</key>
+	<string>ontextfieldchanged</string>
+	<key>tabviewmethodcenter</key>
+	<string>spinResolver</string>
+	<key>visibleNib</key>
+	<string>infoScale</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentCycle</key>
+	<string>drawerbyphase</string>
+	<key>eagerNotification</key>
+	<string>renderAnimation</string>
+	<key>fragmentanalyzer</key>
+	<string>uniqueStrength</string>
+	<key>hardIntensity</key>
+	<string>dropdownbuttonPhase</string>
+	<key>hasmargin</key>
+	<string>challengedependency</string>
+	<key>shouldDeserializeClipper</key>
+	<string>customSingleton</string>
+	<key>shouldProcessPrecision</key>
+	<string>canSkipNavigation</string>
+	<key>shouldSubscribeLoss</key>
+	<string>alertDirection</string>
+</dict>
+</plist>

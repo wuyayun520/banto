@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerBatch</key>
+	<string>autoStack</string>
+	<key>cacheHue</key>
+	<string>unactivatedCosine</string>
+	<key>compositionalImpression</key>
+	<string>asyncskewy</string>
+	<key>locatetext</key>
+	<string>sequentialRenderer</string>
+	<key>missedStamp</key>
+	<string>canParseBuilder</string>
+	<key>presenterScale</key>
+	<string>robustTolerance</string>
+	<key>rapidOffset</key>
+	<string>shouldUpdateTouch</string>
+	<key>sensorfeedback</key>
+	<string>injectDelegate</string>
+	<key>webView</key>
+	<string>movementBehavior</string>
+</dict>
+</plist>

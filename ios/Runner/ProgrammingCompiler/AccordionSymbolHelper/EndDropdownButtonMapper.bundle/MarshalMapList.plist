@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalLayer</key>
+	<string>scrollableCubit</string>
+	<key>keymenu</key>
+	<string>mountboxshadow</string>
+	<key>mobileTabBar</key>
+	<string>prevCompletion</string>
+	<key>shouldPauseEntropy</key>
+	<string>liteBaseline</string>
+	<key>sophisticatedColor</key>
+	<string>visitGroup</string>
+</dict>
+</plist>

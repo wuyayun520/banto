@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyKernel</key>
+	<string>localBuilder</string>
+	<key>prepareprofile</key>
+	<string>movementAction</string>
+	<key>shouldobservenavigation</key>
+	<string>canPresentImage</string>
+	<key>subscriptionFormat</key>
+	<string>transposepreview</string>
+	<key>uniformMetrics</key>
+	<string>layoutProtocol</string>
+	<key>webdropdownbuttoncenter</key>
+	<string>finishStep</string>
+</dict>
+</plist>

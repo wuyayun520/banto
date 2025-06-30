@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveFuture</key>
+	<string>advancedCard</string>
+	<key>autoBuffer</key>
+	<string>globalBuffer</string>
+	<key>interactiveEquivalent</key>
+	<string>shouldShowSwitch</string>
+	<key>responsiveIntensity</key>
+	<string>releaseText</string>
+	<key>scaleShape</key>
+	<string>difficultcupertinoduration</string>
+	<key>spinestagevalidation</key>
+	<string>spriteActivity</string>
+</dict>
+</plist>

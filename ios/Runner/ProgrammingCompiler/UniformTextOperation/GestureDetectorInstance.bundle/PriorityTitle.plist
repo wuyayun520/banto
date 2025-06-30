@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnEdge</key>
+	<string>transposeAwait</string>
+	<key>concreteItem</key>
+	<string>concreteError</string>
+	<key>gateState</key>
+	<string>navigatorBehavior</string>
+	<key>mapstyle</key>
+	<string>createProgressBar</string>
+	<key>parallelSubscription</key>
+	<string>interactionStyle</string>
+	<key>remediationMomentum</key>
+	<string>visualizeLayer</string>
+	<key>shouldDismissPriority</key>
+	<string>sanitizePosition</string>
+	<key>signShape</key>
+	<string>shouldInflateSession</string>
+	<key>webTexture</key>
+	<string>embedcycle</string>
+	<key>zoneTag</key>
+	<string>permissiveBox</string>
+</dict>
+</plist>

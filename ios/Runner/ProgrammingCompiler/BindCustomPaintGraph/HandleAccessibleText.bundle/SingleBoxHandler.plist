@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectiontypetheme</key>
+	<string>singleData</string>
+	<key>interpolationBorder</key>
+	<string>attachSpot</string>
+	<key>lazyMerger</key>
+	<string>modelSpacing</string>
+	<key>metadataforprocess</key>
+	<string>efficiencySize</string>
+	<key>pivotalchallenge</key>
+	<string>cubitOrientation</string>
+	<key>reusableEffect</key>
+	<string>shouldResumeBitrate</string>
+	<key>singleCapacities</key>
+	<string>customDetector</string>
+	<key>specifyArchitecture</key>
+	<string>euclideanRemediation</string>
+	<key>typicalSink</key>
+	<string>curvecoord</string>
+</dict>
+</plist>

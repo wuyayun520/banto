@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basesensor</key>
+	<string>recursionSpacing</string>
+	<key>buttonLocation</key>
+	<string>originalStateless</string>
+	<key>imperativeTheme</key>
+	<string>measureSink</string>
+	<key>largeKernel</key>
+	<string>canMountTool</string>
+	<key>parallelMetrics</key>
+	<string>customConverter</string>
+	<key>shouldObserveView</key>
+	<string>canBindMediaQuery</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardmenu</key>
+	<string>moveAsync</string>
+	<key>baseOpacity</key>
+	<string>gesturedetectorOpacity</string>
+	<key>creatorRate</key>
+	<string>stateactionbound</string>
+	<key>criticalStream</key>
+	<string>particleTemple</string>
+	<key>crudeUsage</key>
+	<string>immediateUseCase</string>
+	<key>lastProtocol</key>
+	<string>boxPhase</string>
+	<key>shouldRebuildCupertino</key>
+	<string>decodeUsage</string>
+	<key>usageorigin</key>
+	<string>cancelBaseline</string>
+</dict>
+</plist>

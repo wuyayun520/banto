@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeRadius</key>
+	<string>processRichText</string>
+	<key>arithmeticResolver</key>
+	<string>sanitizeFeature</string>
+	<key>offsetTop</key>
+	<string>sustainableMultiplication</string>
+	<key>profilebloc</key>
+	<string>prismaticMaterial</string>
+	<key>richtextscene</key>
+	<string>indicatorCommand</string>
+	<key>significantProgressBar</key>
+	<string>detachMatrix</string>
+	<key>staticProgressBar</key>
+	<string>descriptionStatus</string>
+	<key>symmetricStateless</key>
+	<string>dismissAsync</string>
+	<key>taxonomyShade</key>
+	<string>handleRole</string>
+	<key>tensorusecase</key>
+	<string>accessorysubscriber</string>
+</dict>
+</plist>

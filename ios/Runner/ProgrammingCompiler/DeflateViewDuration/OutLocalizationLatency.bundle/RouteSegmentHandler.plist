@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectFeedback</key>
+	<string>symmetricReference</string>
+	<key>combinerfeedback</key>
+	<string>distinctionPressure</string>
+	<key>cupertinoError</key>
+	<string>missionInset</string>
+	<key>losslikekind</key>
+	<string>canUnmountMatrix</string>
+	<key>mobileanimationspacing</key>
+	<string>accordionDetector</string>
+	<key>moduleShape</key>
+	<string>gesturedetectorHue</string>
+	<key>rectformat</key>
+	<string>arithmeticProgressBar</string>
+	<key>secondTechnique</key>
+	<string>hyperbolicDrawer</string>
+	<key>semanticentropycolor</key>
+	<string>resetsine</string>
+	<key>sinehue</key>
+	<string>bulletCommand</string>
+</dict>
+</plist>

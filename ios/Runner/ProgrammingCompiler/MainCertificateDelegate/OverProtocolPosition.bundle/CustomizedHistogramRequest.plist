@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAlignment</key>
+	<string>titleDistance</string>
+	<key>aspectratioOrigin</key>
+	<string>canDetachRadio</string>
+	<key>bitrateFlags</key>
+	<string>shouldSubscribeMatrix</string>
+	<key>concreteElasticity</key>
+	<string>declarativeExtension</string>
+	<key>delicateMetrics</key>
+	<string>sophisticatedButton</string>
+	<key>newestRect</key>
+	<string>pivotalSubscriber</string>
+	<key>shouldMountedFuture</key>
+	<string>shouldRestartBitrate</string>
+	<key>skirtScale</key>
+	<string>channelMode</string>
+</dict>
+</plist>

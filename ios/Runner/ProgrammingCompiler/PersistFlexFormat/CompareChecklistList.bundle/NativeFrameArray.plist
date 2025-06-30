@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedCube</key>
+	<string>buttonname</string>
+	<key>permissiveRemediation</key>
+	<string>priorScroll</string>
+	<key>routerbound</key>
+	<string>executeAnimation</string>
+	<key>shouldYieldDimension</key>
+	<string>refactorRouter</string>
+</dict>
+</plist>

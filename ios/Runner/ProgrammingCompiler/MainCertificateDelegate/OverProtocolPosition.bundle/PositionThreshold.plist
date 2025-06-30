@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseFeature</key>
+	<string>shouldDismissEntropy</string>
+	<key>difficultDropdownButton</key>
+	<string>semanticsexceptparam</string>
+	<key>literesourceborder</key>
+	<string>tensorMultiplication</string>
+	<key>mediocreScalability</key>
+	<string>imperativeGestureDetector</string>
+	<key>shouldDispatchStateless</key>
+	<string>canDismissEqualization</string>
+	<key>shouldSetStateBloc</key>
+	<string>cellBehavior</string>
+	<key>statefulChooser</key>
+	<string>shouldUnbindDropdownButton</string>
+	<key>sustainableSize</key>
+	<string>parseTextField</string>
+</dict>
+</plist>

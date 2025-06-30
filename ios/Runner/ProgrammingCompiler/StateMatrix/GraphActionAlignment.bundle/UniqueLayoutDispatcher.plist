@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnTransparency</key>
+	<string>activeScalability</string>
+	<key>concurrentSizedBox</key>
+	<string>basicThreshold</string>
+	<key>currentImage</key>
+	<string>shouldUnbindDuration</string>
+	<key>flexOffset</key>
+	<string>durationsearcher</string>
+	<key>integerEdge</key>
+	<string>statefulobservermargin</string>
+	<key>richtextFlags</key>
+	<string>rapidFilter</string>
+	<key>shouldDetachCompletion</key>
+	<string>mediumEffect</string>
+	<key>shouldnotifyoption</key>
+	<string>shouldlayoutaxis</string>
+</dict>
+</plist>

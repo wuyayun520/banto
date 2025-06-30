@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorlinker</key>
+	<string>poolParticle</string>
+	<key>dedicateddependencydelay</key>
+	<string>transformDescription</string>
+	<key>emitterDelay</key>
+	<string>aspectratioRotation</string>
+	<key>intermediateSine</key>
+	<string>methodMediator</string>
+	<key>invisibleCursor</key>
+	<string>canAnimateDrawer</string>
+	<key>permanentTriangles</key>
+	<string>updateFuture</string>
+	<key>shouldUnbindImage</key>
+	<string>lostMultiplication</string>
+	<key>transformerjoiner</key>
+	<string>defaultExpanded</string>
+</dict>
+</plist>

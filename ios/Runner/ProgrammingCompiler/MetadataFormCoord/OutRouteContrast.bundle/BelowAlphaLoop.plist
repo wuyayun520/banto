@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSkin</key>
+	<string>disposePageView</string>
+	<key>expandedpicker</key>
+	<string>oldCompleter</string>
+	<key>immediateAsset</key>
+	<string>resultOrigin</string>
+	<key>othertask</key>
+	<string>materialpromise</string>
+	<key>segmentaroundtask</key>
+	<string>pushNib</string>
+	<key>shouldProcessBorder</key>
+	<string>instantiatemodel</string>
+	<key>skinhash</key>
+	<string>annotateOffset</string>
+	<key>slashusecase</key>
+	<string>visitModel</string>
+	<key>titleEdge</key>
+	<string>deflatedependency</string>
+</dict>
+</plist>

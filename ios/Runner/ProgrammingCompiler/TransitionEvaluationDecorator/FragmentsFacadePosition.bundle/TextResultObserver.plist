@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalTransformer</key>
+	<string>requiredPlayback</string>
+	<key>decorationfrequency</key>
+	<string>aspectvariablesize</string>
+	<key>diffableInteger</key>
+	<string>unbindBrush</string>
+	<key>granularStateless</key>
+	<string>advancedStream</string>
+	<key>stateversusobserver</key>
+	<string>createCoordinator</string>
+	<key>storyboardRotation</key>
+	<string>persistentPrecision</string>
+</dict>
+</plist>

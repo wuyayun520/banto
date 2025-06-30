@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSpot</key>
+	<string>defaultlabel</string>
+	<key>cardacceleration</key>
+	<string>publishvector</string>
+	<key>compositioninterface</key>
+	<string>toolPosition</string>
+	<key>equalizationInterval</key>
+	<string>resizablelatency</string>
+	<key>implementsize</key>
+	<string>provisionBound</string>
+	<key>shouldHandleSkirt</key>
+	<string>shouldUnmountSwitch</string>
+	<key>sineTint</key>
+	<string>shouldDisconnectBase</string>
+	<key>singleTime</key>
+	<string>unaryconsumption</string>
+	<key>sliderperjob</key>
+	<string>statelessExtension</string>
+</dict>
+</plist>

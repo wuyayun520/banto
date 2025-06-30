@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledProfile</key>
+	<string>basicShape</string>
+	<key>menuFrequency</key>
+	<string>greatFinder</string>
+	<key>promisedelay</key>
+	<string>normalOption</string>
+	<key>shouldResumeDescriptor</key>
+	<string>webScenario</string>
+	<key>standaloneAllocator</key>
+	<string>intermediateWorkflow</string>
+</dict>
+</plist>

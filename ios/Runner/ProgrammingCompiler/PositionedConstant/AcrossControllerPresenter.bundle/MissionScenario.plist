@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interfaceMode</key>
+	<string>boxDistance</string>
+	<key>lazyvector</key>
+	<string>gifthead</string>
+	<key>logarithmLocation</key>
+	<string>keyDispatcher</string>
+	<key>monsterPadding</key>
+	<string>intermediateMerger</string>
+	<key>semanticIntegrity</key>
+	<string>stepDuration</string>
+</dict>
+</plist>

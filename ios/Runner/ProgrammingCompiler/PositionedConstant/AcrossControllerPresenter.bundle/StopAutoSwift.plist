@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleMovement</key>
+	<string>mediumFeature</string>
+	<key>actioncolor</key>
+	<string>missionuntilcontext</string>
+	<key>blocbesidedecorator</key>
+	<string>makeSlider</string>
+	<key>clipperTint</key>
+	<string>disabledAspect</string>
+	<key>keyPlayback</key>
+	<string>themeAppearance</string>
+	<key>respondgrid</key>
+	<string>commonMovement</string>
+	<key>resumeservice</key>
+	<string>shouldpushmission</string>
+	<key>subsequentModule</key>
+	<string>canStopClipper</string>
+</dict>
+</plist>

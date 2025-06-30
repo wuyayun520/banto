@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentSignature</key>
+	<string>directlyPainter</string>
+	<key>protectedSubscription</key>
+	<string>secondScheduler</string>
+	<key>queuestyle</key>
+	<string>unsortedDocument</string>
+	<key>resizableItem</key>
+	<string>shouldBuildEffect</string>
+	<key>selectedCache</key>
+	<string>touchNode</string>
+	<key>selectedanchor</key>
+	<string>requestReducer</string>
+	<key>shouldStopRow</key>
+	<string>persistPoint</string>
+	<key>startoption</key>
+	<string>dimensionMode</string>
+	<key>unactivatedSlider</key>
+	<string>inheritedTimeline</string>
+</dict>
+</plist>

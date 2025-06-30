@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultModal</key>
+	<string>inactiveCubit</string>
+	<key>deferredEntity</key>
+	<string>pushMember</string>
+	<key>discardedduration</key>
+	<string>eventspeed</string>
+	<key>relationalFilter</key>
+	<string>hastextfield</string>
+	<key>resilientPicker</key>
+	<string>adaptiveTouch</string>
+	<key>responsiveSwift</key>
+	<string>toolMethod</string>
+	<key>scalabilityPadding</key>
+	<string>subsequentinteractorleft</string>
+</dict>
+</plist>

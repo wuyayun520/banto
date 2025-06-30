@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintstatus</key>
+	<string>shouldLoadDecoration</string>
+	<key>instructionwithoutmediator</key>
+	<string>webUtil</string>
+	<key>permanentOption</key>
+	<string>connectsine</string>
+	<key>schemaMargin</key>
+	<string>flexOffset</string>
+</dict>
+</plist>

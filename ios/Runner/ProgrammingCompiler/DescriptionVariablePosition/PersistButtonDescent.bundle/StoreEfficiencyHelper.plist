@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>escalateerror</key>
+	<string>interactiveLoop</string>
+	<key>functionalState</key>
+	<string>easyDescriptor</string>
+	<key>priorAwait</key>
+	<string>subsequentGesture</string>
+	<key>reactiveRestriction</key>
+	<string>sampleCommand</string>
+	<key>scaffoldFeedback</key>
+	<string>advancedScope</string>
+	<key>sortedText</key>
+	<string>diffableDetail</string>
+</dict>
+</plist>

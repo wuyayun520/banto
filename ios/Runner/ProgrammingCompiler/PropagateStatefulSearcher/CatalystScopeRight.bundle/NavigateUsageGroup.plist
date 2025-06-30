@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedelegate</key>
+	<string>startChecklist</string>
+	<key>difficultPoint</key>
+	<string>pushentity</string>
+	<key>documentRight</key>
+	<string>canMountTable</string>
+	<key>mobileExtension</key>
+	<string>releaseRadius</string>
+	<key>movecursor</key>
+	<string>intermediateSchema</string>
+	<key>notifycontainer</key>
+	<string>connectimage</string>
+	<key>shouldProcessSpot</key>
+	<string>bindMaster</string>
+	<key>unactivatedAccessory</key>
+	<string>displayableInstruction</string>
+</dict>
+</plist>

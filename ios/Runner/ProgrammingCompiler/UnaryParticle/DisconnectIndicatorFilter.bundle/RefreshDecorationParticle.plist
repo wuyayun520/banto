@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedInterface</key>
+	<string>shouldTransitionStream</string>
+	<key>enabledCupertino</key>
+	<string>dropoutProvider</string>
+	<key>largestorageresponse</key>
+	<string>immediateCube</string>
+	<key>prevText</key>
+	<string>constraintCoord</string>
+	<key>servicetop</key>
+	<string>shouldInflateCharacter</string>
+	<key>sharedMobile</key>
+	<string>emitterstate</string>
+	<key>shouldFinishBehavior</key>
+	<string>hassemantics</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncMargin</key>
+	<string>cubitTail</string>
+	<key>chapterscale</key>
+	<string>resizableDrawer</string>
+	<key>crudeMap</key>
+	<string>utilInset</string>
+	<key>intuitiveElement</key>
+	<string>cacheloop</string>
+	<key>otherMatrix</key>
+	<string>loadSpine</string>
+	<key>prismaticSubpixel</key>
+	<string>singleSizedBox</string>
+	<key>reducernumberskewx</key>
+	<string>easyTolerance</string>
+	<key>repositoryDistance</key>
+	<string>statefulgraphic</string>
+	<key>scrollableCallback</key>
+	<string>similarAnimation</string>
+</dict>
+</plist>

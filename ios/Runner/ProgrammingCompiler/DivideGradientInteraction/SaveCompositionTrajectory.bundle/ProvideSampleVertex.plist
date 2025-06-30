@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentDelivery</key>
+	<string>singletonStyle</string>
+	<key>firstmargin</key>
+	<string>dispatchSpine</string>
+	<key>lostManager</key>
+	<string>defaultalpha</string>
+	<key>positionedjoiner</key>
+	<string>spineprovider</string>
+	<key>routervelocity</key>
+	<string>missedIsolate</string>
+	<key>sliderconnector</key>
+	<string>keepMonster</string>
+</dict>
+</plist>

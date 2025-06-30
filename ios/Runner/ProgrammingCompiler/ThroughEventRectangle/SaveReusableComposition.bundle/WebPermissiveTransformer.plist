@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintSkewX</key>
+	<string>encodeTool</string>
+	<key>explicitTolerance</key>
+	<string>isolateTask</string>
+	<key>greatReduction</key>
+	<string>canDisconnectVariant</string>
+	<key>invisibleMenu</key>
+	<string>associatedcompletionbrightness</string>
+	<key>nativeTask</key>
+	<string>accessibleMenu</string>
+	<key>respectiveProjection</key>
+	<string>adaptiveAscent</string>
+	<key>reusableSprite</key>
+	<string>slashBridge</string>
+	<key>subtleNorm</key>
+	<string>expandedOffset</string>
+	<key>tickerinterval</key>
+	<string>usecaseforcontext</string>
+</dict>
+</plist>

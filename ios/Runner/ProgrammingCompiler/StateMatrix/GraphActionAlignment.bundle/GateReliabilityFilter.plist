@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicIndicator</key>
+	<string>localLoss</string>
+	<key>gesturedetectorHue</key>
+	<string>respectiveFilter</string>
+	<key>mediocreAperture</key>
+	<string>reusableComponent</string>
+	<key>parallelsliderbehavior</key>
+	<string>alphaValidation</string>
+	<key>sizeCoord</key>
+	<string>lostcatalystskewx</string>
+</dict>
+</plist>

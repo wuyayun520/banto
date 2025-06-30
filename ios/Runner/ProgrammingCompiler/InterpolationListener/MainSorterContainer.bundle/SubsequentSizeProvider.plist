@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedExtension</key>
+	<string>newestCapacity</string>
+	<key>custompolygon</key>
+	<string>compareSubscription</string>
+	<key>multiloss</key>
+	<string>multiLoop</string>
+	<key>nextHistogram</key>
+	<string>customizedChecklist</string>
+	<key>referenceFeedback</key>
+	<string>provideGrid</string>
+	<key>shouldDeserializeProtocol</key>
+	<string>canNavigateOption</string>
+</dict>
+</plist>

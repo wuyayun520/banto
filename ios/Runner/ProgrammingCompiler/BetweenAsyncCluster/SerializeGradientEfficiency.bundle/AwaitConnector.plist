@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousInteraction</key>
+	<string>notifyBinary</string>
+	<key>commonStorage</key>
+	<string>shouldDismissDecoration</string>
+	<key>diffableRoute</key>
+	<string>canUnbindButton</string>
+	<key>framecontaincycle</key>
+	<string>disabledIntegrity</string>
+	<key>permissiveEquipment</key>
+	<string>swiftAdapter</string>
+	<key>shouldPrepareAnchor</key>
+	<string>priorityalongsystem</string>
+	<key>unactivatedPicker</key>
+	<string>usedRouter</string>
+</dict>
+</plist>

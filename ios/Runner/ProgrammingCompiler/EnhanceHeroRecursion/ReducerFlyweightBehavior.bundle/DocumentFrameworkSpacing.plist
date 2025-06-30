@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentCaption</key>
+	<string>projectCenter</string>
+	<key>discoversize</key>
+	<string>displayableNavigator</string>
+	<key>fusedHero</key>
+	<string>aspectPlatform</string>
+	<key>interfacecolor</key>
+	<string>streamLevel</string>
+	<key>permanentLoop</key>
+	<string>independentMaster</string>
+	<key>pinchableCursor</key>
+	<string>dispatcherKind</string>
+	<key>rapidScaffold</key>
+	<string>exponentaroundtype</string>
+	<key>seamlessCaption</key>
+	<string>yieldInterpolation</string>
+</dict>
+</plist>

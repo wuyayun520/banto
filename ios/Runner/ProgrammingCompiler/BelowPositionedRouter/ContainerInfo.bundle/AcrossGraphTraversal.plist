@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistHue</key>
+	<string>mediaFunction</string>
+	<key>materialScalability</key>
+	<string>shapeTag</string>
+	<key>playbackstate</key>
+	<string>protectedInstruction</string>
+	<key>resizableDispatcher</key>
+	<string>checklistincludevalue</string>
+	<key>smallMovement</key>
+	<string>unscheduleController</string>
+	<key>spinallocator</key>
+	<string>coordinatorIndex</string>
+	<key>temporaryGesture</key>
+	<string>animationaction</string>
+</dict>
+</plist>

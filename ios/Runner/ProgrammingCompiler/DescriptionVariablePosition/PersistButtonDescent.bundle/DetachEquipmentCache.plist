@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalShader</key>
+	<string>overrideTitle</string>
+	<key>constantFeedback</key>
+	<string>canInflateController</string>
+	<key>crudeMend</key>
+	<string>shouldpublishbaseline</string>
+	<key>custompaintTheme</key>
+	<string>checkboxVisible</string>
+	<key>layoutfacademargin</key>
+	<string>encapsulateBuilder</string>
+	<key>responsematrix</key>
+	<string>canTransitionBatch</string>
+	<key>scaffoldTransparency</key>
+	<string>mainListView</string>
+	<key>shouldKeepSizedBox</key>
+	<string>skipscreen</string>
+</dict>
+</plist>

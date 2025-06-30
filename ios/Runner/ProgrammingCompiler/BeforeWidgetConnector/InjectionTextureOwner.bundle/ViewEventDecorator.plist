@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureimpact</key>
+	<string>enabledDescent</string>
+	<key>completionDuration</key>
+	<string>reconcileTimer</string>
+	<key>dedicatedDescent</key>
+	<string>cacheusecase</string>
+	<key>dialogsappearance</key>
+	<string>directlyDuration</string>
+	<key>missedAnchor</key>
+	<string>inheritedCompleter</string>
+	<key>statecompositeduration</key>
+	<string>advancedMaterializer</string>
+</dict>
+</plist>

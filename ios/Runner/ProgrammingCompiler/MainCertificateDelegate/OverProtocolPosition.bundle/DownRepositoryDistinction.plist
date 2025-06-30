@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheTop</key>
+	<string>loopdepth</string>
+	<key>checkboxIndex</key>
+	<string>heapagainstprototype</string>
+	<key>configurationcontainstage</key>
+	<string>discoverLoop</string>
+	<key>draggablePlayback</key>
+	<string>numericalEntity</string>
+	<key>geometricAsset</key>
+	<string>globalView</string>
+	<key>sizeTag</key>
+	<string>standaloneShape</string>
+</dict>
+</plist>

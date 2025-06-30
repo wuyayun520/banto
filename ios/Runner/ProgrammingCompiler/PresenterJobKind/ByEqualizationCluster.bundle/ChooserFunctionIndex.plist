@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>prismaticEquivalent</key>
+	<string>captureTween</string>
+	<key>prismaticScene</key>
+	<string>deployinstruction</string>
+	<key>shouldObserveDuration</key>
+	<string>permissiveCheckbox</string>
+	<key>subtleRecursion</key>
+	<string>canBuildAlert</string>
+</dict>
+</plist>

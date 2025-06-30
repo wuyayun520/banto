@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonFormat</key>
+	<string>interactiveAscent</string>
+	<key>disabledConverter</key>
+	<string>functionalBehavior</string>
+	<key>iconframe</key>
+	<string>criticalSingleton</string>
+	<key>painterrotation</key>
+	<string>connectNib</string>
+	<key>pushticker</key>
+	<string>difficultBloc</string>
+	<key>subtlesteptop</key>
+	<string>functionalLoader</string>
+	<key>topicDuration</key>
+	<string>behaviorcompleter</string>
+</dict>
+</plist>

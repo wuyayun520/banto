@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableScale</key>
+	<string>accessibleprojectcount</string>
+	<key>custompaintoffset</key>
+	<string>commonVariant</string>
+	<key>discardeddescriptiontension</key>
+	<string>draggablePublisher</string>
+	<key>intermediateChannel</key>
+	<string>debugScene</string>
+	<key>shearaction</key>
+	<string>alignmentchainbrightness</string>
+	<key>shouldConnectSegue</key>
+	<string>beginnerTime</string>
+	<key>shouldDeserializeBuilder</key>
+	<string>sharedSensor</string>
+	<key>switchevaluation</key>
+	<string>dataDelay</string>
+</dict>
+</plist>

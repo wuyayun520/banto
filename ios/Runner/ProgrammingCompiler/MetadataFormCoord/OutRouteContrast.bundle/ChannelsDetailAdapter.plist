@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheLocation</key>
+	<string>comprehensivethreadoffset</string>
+	<key>dedicatedcombiner</key>
+	<string>requiredEmitter</string>
+	<key>flexibleScale</key>
+	<string>modalLayer</string>
+	<key>masterofsingleton</key>
+	<string>mainresolverdirection</string>
+	<key>subtleFilter</key>
+	<string>shouldDisconnectCache</string>
+</dict>
+</plist>

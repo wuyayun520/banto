@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildrichtext</key>
+	<string>functionalpreview</string>
+	<key>hascompletion</key>
+	<string>opaqueListener</string>
+	<key>isSkin</key>
+	<string>asyncComposite</string>
+	<key>renamematrix</key>
+	<string>ignoredflex</string>
+	<key>respectiveGradient</key>
+	<string>shouldTrainActivity</string>
+	<key>seamlessprovider</key>
+	<string>backwardProgressBar</string>
+	<key>shouldLoadTabBar</key>
+	<string>permissiveChooser</string>
+</dict>
+</plist>

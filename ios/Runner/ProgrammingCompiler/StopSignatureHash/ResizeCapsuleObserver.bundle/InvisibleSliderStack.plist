@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeMap</key>
+	<string>canPersistOption</string>
+	<key>localizationpatternformat</key>
+	<string>stopImage</string>
+	<key>platewithaction</key>
+	<string>sceneCycle</string>
+	<key>rectangleoffset</key>
+	<string>performObserver</string>
+	<key>screennumberkind</key>
+	<string>checkboxNumber</string>
+	<key>shouldRouteHeap</key>
+	<string>canResumeInkWell</string>
+	<key>sophisticatedoffsetfrequency</key>
+	<string>autoPlayback</string>
+</dict>
+</plist>

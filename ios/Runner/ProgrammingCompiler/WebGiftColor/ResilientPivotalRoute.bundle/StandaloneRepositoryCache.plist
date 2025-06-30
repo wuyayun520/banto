@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computetitle</key>
+	<string>lazyImpression</string>
+	<key>enabledSegue</key>
+	<string>cardscheduler</string>
+	<key>explicitsubscriptioninteraction</key>
+	<string>uniformPresenter</string>
+	<key>largeComposition</key>
+	<string>respondInteractor</string>
+	<key>prevSize</key>
+	<string>containerawaystage</string>
+	<key>shouldTrainScreen</key>
+	<string>skininjection</string>
+	<key>shouldYieldGrayscale</key>
+	<string>techniquePattern</string>
+	<key>sorterPressure</key>
+	<string>integrationResponse</string>
+</dict>
+</plist>

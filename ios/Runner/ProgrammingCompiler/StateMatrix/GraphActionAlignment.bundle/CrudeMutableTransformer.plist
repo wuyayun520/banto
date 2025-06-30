@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateSkewX</key>
+	<string>lostCombiner</string>
+	<key>euclideanPolyfill</key>
+	<string>shouldYieldCompletion</string>
+	<key>metadatapressure</key>
+	<string>subsequentEmitter</string>
+	<key>missedProjection</key>
+	<string>updateAperture</string>
+	<key>shouldLoadSpecifier</key>
+	<string>constraintuntildecorator</string>
+</dict>
+</plist>

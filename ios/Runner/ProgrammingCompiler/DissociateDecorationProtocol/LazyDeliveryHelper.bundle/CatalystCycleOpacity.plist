@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseagainstnumber</key>
+	<string>canEmitRichText</string>
+	<key>concurrentVolume</key>
+	<string>dispatchKernel</string>
+	<key>lastevent</key>
+	<string>adjustaction</string>
+	<key>mainGraphic</key>
+	<string>deferredInteraction</string>
+	<key>painterOffset</key>
+	<string>efficiencySpacing</string>
+	<key>permissivePainter</key>
+	<string>sessionOpacity</string>
+	<key>precisionbottom</key>
+	<string>consultativeEvent</string>
+	<key>shouldCancelGrayscale</key>
+	<string>tweenMargin</string>
+	<key>stackorientation</key>
+	<string>geometricAlpha</string>
+</dict>
+</plist>

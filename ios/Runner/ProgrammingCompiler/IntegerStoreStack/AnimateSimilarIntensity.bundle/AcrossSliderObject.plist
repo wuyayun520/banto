@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorVisibility</key>
+	<string>previnfo</string>
+	<key>isshader</key>
+	<string>disparateBrush</string>
+	<key>materialLinker</key>
+	<string>mediocreTween</string>
+	<key>resilienceRotation</key>
+	<string>explicitInteractor</string>
+	<key>secondProcessor</key>
+	<string>cartesianMesh</string>
+	<key>smalllabelorigin</key>
+	<string>ephemeralPoint</string>
+	<key>subscriberKind</key>
+	<string>priorityFeedback</string>
+</dict>
+</plist>

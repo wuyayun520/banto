@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintInset</key>
+	<string>dependencystrategyposition</string>
+	<key>hardMetrics</key>
+	<string>transformaction</string>
+	<key>hyperbolicThreshold</key>
+	<string>lostEvolution</string>
+	<key>injectchannel</key>
+	<string>instructionmode</string>
+	<key>lazystorage</key>
+	<string>pushSegue</string>
+</dict>
+</plist>

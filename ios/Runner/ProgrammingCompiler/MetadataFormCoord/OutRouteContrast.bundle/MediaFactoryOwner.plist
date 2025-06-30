@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedmetrics</key>
+	<string>publicChannels</string>
+	<key>cartesianBullet</key>
+	<string>polygonShade</string>
+	<key>composableSine</key>
+	<string>canYieldStateful</string>
+	<key>crucialpager</key>
+	<string>replaceeffect</string>
+	<key>enabledMomentum</key>
+	<string>toolStatus</string>
+	<key>oldComposition</key>
+	<string>cupertinoSymbol</string>
+	<key>oldResult</key>
+	<string>vectorizeProgressBar</string>
+	<key>projectSpeed</key>
+	<string>canInflateProvider</string>
+	<key>shouldCacheSwift</key>
+	<string>canPushTable</string>
+	<key>substantialResource</key>
+	<string>deprecateAlignment</string>
+</dict>
+</plist>

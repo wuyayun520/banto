@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedStateless</key>
+	<string>statelessCatalyst</string>
+	<key>immediateVector</key>
+	<string>destroyLocalization</string>
+	<key>popreducer</key>
+	<string>nativeListener</string>
+	<key>resizabletaskvalidation</key>
+	<string>inflateAnimatedContainer</string>
+	<key>streamOffset</key>
+	<string>missionLayer</string>
+	<key>tensorRecursion</key>
+	<string>resizeHash</string>
+</dict>
+</plist>

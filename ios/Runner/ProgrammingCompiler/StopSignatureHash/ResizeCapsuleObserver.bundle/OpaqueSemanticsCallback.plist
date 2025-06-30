@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultgate</key>
+	<string>appbartop</string>
+	<key>localBoxShadow</key>
+	<string>staticGrain</string>
+	<key>reliabilitydistance</key>
+	<string>switchParameter</string>
+	<key>shouldCancelRoute</key>
+	<string>disconnectMaterial</string>
+</dict>
+</plist>

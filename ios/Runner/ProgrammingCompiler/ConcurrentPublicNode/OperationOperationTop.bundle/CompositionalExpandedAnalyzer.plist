@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedaxisforce</key>
+	<string>certificateAction</string>
+	<key>fusedSign</key>
+	<string>canValidateDialogs</string>
+	<key>missioncontainer</key>
+	<string>denseZone</string>
+	<key>numericalSine</key>
+	<string>autoSemantics</string>
+	<key>shouldEmitRow</key>
+	<string>shouldPauseLog</string>
+	<key>shouldResumeView</key>
+	<string>fragmentBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartdepth</key>
+	<string>shouldRenderDialogs</string>
+	<key>globalWrapper</key>
+	<string>chartKind</string>
+	<key>hyperbolicAspect</key>
+	<string>actioncolor</string>
+	<key>immediateconverter</key>
+	<string>localizationRate</string>
+	<key>robustTouch</key>
+	<string>discardedSignature</string>
+	<key>segmentright</key>
+	<string>matrixposition</string>
+	<key>spotSaturation</key>
+	<string>usecaseResponse</string>
+	<key>standaloneMapper</key>
+	<string>cartesianGestureDetector</string>
+	<key>threadDirection</key>
+	<string>eagerPublisher</string>
+</dict>
+</plist>

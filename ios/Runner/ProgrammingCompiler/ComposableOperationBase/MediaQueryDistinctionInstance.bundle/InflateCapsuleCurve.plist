@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateBuffer</key>
+	<string>bitratewithfunction</string>
+	<key>fusedTime</key>
+	<string>sortedAllocator</string>
+	<key>partitiongraph</key>
+	<string>persistModal</string>
+	<key>sizetype</key>
+	<string>pointfrominterpreter</string>
+	<key>staticIcon</key>
+	<string>blocduration</string>
+</dict>
+</plist>

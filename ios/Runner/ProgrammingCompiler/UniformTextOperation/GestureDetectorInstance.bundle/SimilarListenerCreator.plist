@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentgesture</key>
+	<string>clearmaster</string>
+	<key>euclideanRestriction</key>
+	<string>curveTier</string>
+	<key>masterdirection</key>
+	<string>skirtBuffer</string>
+	<key>mixinlayer</key>
+	<string>shouldPersistTangent</string>
+	<key>prevGesture</key>
+	<string>unbindMovement</string>
+	<key>priorVertex</key>
+	<string>canConnectTransition</string>
+	<key>relationalStamp</key>
+	<string>heapObserver</string>
+	<key>rotatechapter</key>
+	<string>resourcecoord</string>
+	<key>statefulgrid</key>
+	<string>paddingtransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopFragment</key>
+	<string>deactivateInjection</string>
+	<key>fixedScene</key>
+	<string>currenttable</string>
+	<key>interfaceOrientation</key>
+	<string>interpolationStage</string>
+	<key>overlayBound</key>
+	<string>substantialRenderer</string>
+	<key>robustTechnique</key>
+	<string>mediaState</string>
+	<key>singletoninsidetier</key>
+	<string>informationTransparency</string>
+	<key>subtleTextField</key>
+	<string>sceneProcess</string>
+</dict>
+</plist>

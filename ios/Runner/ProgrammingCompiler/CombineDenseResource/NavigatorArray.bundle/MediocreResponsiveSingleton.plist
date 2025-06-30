@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedSprite</key>
+	<string>usedIsolate</string>
+	<key>descriptionchooser</key>
+	<string>cartesianSpot</string>
+	<key>interpolateinterface</key>
+	<string>skipDrawer</string>
+	<key>permissiveOperation</key>
+	<string>checklistInteraction</string>
+	<key>shouldCachePrecision</key>
+	<string>seekTween</string>
+	<key>shouldPersistStack</key>
+	<string>rectVelocity</string>
+	<key>shouldSaveCard</key>
+	<string>immediateTask</string>
+	<key>substantialNotation</key>
+	<string>multiMethod</string>
+</dict>
+</plist>

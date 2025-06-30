@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderColor</key>
+	<string>routerestriction</string>
+	<key>compositionsingleton</key>
+	<string>finishCollection</string>
+	<key>dedicatedtransformertint</key>
+	<string>shouldStreamNib</string>
+	<key>mediaColor</key>
+	<string>serviceborder</string>
+	<key>monsterStyle</key>
+	<string>shouldShowSensor</string>
+	<key>pinchableScene</key>
+	<string>canStopIcon</string>
+	<key>pivotalMargin</key>
+	<string>reactiveAspect</string>
+	<key>secondusecaseposition</key>
+	<string>uniformCluster</string>
+	<key>shouldRestartTouch</key>
+	<string>shouldRenderLoss</string>
+</dict>
+</plist>

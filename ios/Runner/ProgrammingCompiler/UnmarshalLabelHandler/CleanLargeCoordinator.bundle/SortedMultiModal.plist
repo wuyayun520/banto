@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeScene</key>
+	<string>hardPolygon</string>
+	<key>keyCatalyst</key>
+	<string>modelSystem</string>
+	<key>navigatebehavior</key>
+	<string>criticalfeature</string>
+	<key>shadertheme</key>
+	<string>delegatecenter</string>
+	<key>shouldAttachProjection</key>
+	<string>paddingContrast</string>
+	<key>shouldKeepCompletion</key>
+	<string>storyboardColor</string>
+	<key>shouldProcessSwitch</key>
+	<string>shouldDismissStack</string>
+	<key>shouldSetStateReduction</key>
+	<string>primaryTable</string>
+	<key>smartSubpixel</key>
+	<string>subsequentStream</string>
+	<key>transitionresilience</key>
+	<string>actionformat</string>
+</dict>
+</plist>

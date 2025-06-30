@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredPreview</key>
+	<string>reductionSaturation</string>
+	<key>paintercallback</key>
+	<string>statefulDescriptor</string>
+	<key>previewmementooffset</key>
+	<string>toleranceColor</string>
+	<key>shouldDisposeCapsule</key>
+	<string>bindstoryboard</string>
+	<key>staticCupertino</key>
+	<string>optimizerActivity</string>
+	<key>zoneInteraction</key>
+	<string>intensityMethod</string>
+</dict>
+</plist>

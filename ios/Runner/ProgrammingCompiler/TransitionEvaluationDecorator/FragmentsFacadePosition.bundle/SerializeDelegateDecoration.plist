@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulebound</key>
+	<string>resourceActivity</string>
+	<key>catalystfrequency</key>
+	<string>mountCell</string>
+	<key>interactionFormat</key>
+	<string>shouldAttachCollection</string>
+	<key>newestSymbol</key>
+	<string>shouldPublishPoint</string>
+	<key>permanentSensor</key>
+	<string>canObserveNotification</string>
+	<key>shouldContinueSegment</key>
+	<string>cacheCheckbox</string>
+	<key>shouldskipconstraint</key>
+	<string>cacheDirection</string>
+	<key>shouldunbindhistogram</key>
+	<string>prevController</string>
+	<key>variantlocalization</key>
+	<string>marginversusbuffer</string>
+</dict>
+</plist>

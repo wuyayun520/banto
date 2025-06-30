@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobileSample</key>
+	<string>shouldCancelCanvas</string>
+	<key>schedulersize</key>
+	<string>localStoryboard</string>
+	<key>shouldfinishroute</key>
+	<string>offsetUtil</string>
+	<key>tappableSkin</key>
+	<string>specifyAlignment</string>
+</dict>
+</plist>

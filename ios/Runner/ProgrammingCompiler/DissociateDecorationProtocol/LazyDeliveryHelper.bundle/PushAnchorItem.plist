@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cliputil</key>
+	<string>primarySwitch</string>
+	<key>easyAmortization</key>
+	<string>unmountedGesture</string>
+	<key>globalController</key>
+	<string>fixedData</string>
+	<key>iconDelay</key>
+	<string>functionalMesh</string>
+</dict>
+</plist>

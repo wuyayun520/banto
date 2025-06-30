@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnFormat</key>
+	<string>denseAudio</string>
+	<key>draggableRow</key>
+	<string>sharedCharacteristic</string>
+	<key>invisibleNotifier</key>
+	<string>draggableLifecycle</string>
+	<key>oldPresenter</key>
+	<string>shouldPauseCosine</string>
+	<key>relationalDimension</key>
+	<string>unactivatedPosition</string>
+	<key>serializeticker</key>
+	<string>asynchronousLoader</string>
+	<key>shouldBindPositioned</key>
+	<string>rendererinset</string>
+	<key>shouldEmitCoordinator</key>
+	<string>mainBitrate</string>
+	<key>shouldLoadMap</key>
+	<string>difficultstamptension</string>
+	<key>swiftamongtier</key>
+	<string>consultativeQueue</string>
+</dict>
+</plist>

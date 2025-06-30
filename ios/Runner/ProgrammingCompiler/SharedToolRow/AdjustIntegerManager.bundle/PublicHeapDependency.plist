@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelrow</key>
+	<string>backwardSelector</string>
+	<key>delegateOrigin</key>
+	<string>mountAperture</string>
+	<key>desktopRequest</key>
+	<string>sequentialFeature</string>
+	<key>discardedTouch</key>
+	<string>lastExponent</string>
+	<key>globalRectangle</key>
+	<string>isradio</string>
+	<key>observecontraction</key>
+	<string>primaryPrecision</string>
+	<key>prevvectorscale</key>
+	<string>segmentPattern</string>
+	<key>shouldCreateAxis</key>
+	<string>seekEvent</string>
+	<key>videoRotation</key>
+	<string>descriptorCenter</string>
+</dict>
+</plist>

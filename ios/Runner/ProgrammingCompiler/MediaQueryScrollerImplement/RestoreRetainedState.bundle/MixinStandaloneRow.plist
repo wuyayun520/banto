@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionrenderer</key>
+	<string>refreshResolver</string>
+	<key>dynamiccheckbox</key>
+	<string>greatListener</string>
+	<key>ephemeralDistinction</key>
+	<string>delegateTop</string>
+	<key>multiCard</key>
+	<string>canPresentMaster</string>
+	<key>shouldUnmountCycle</key>
+	<string>subpixelSystem</string>
+</dict>
+</plist>

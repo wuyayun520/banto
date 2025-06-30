@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveResource</key>
+	<string>shouldAnimateReference</string>
+	<key>crudeStroke</key>
+	<string>iterativeSingleton</string>
+	<key>equalizationcontrast</key>
+	<string>clearInteractor</string>
+	<key>mediaqueryInterval</key>
+	<string>columnTint</string>
+	<key>shouldUpdateMovement</key>
+	<string>unregisterPopup</string>
+	<key>shouldsavegate</key>
+	<string>parallelPicker</string>
+</dict>
+</plist>

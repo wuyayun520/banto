@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentexpanded</key>
+	<string>missionCenter</string>
+	<key>difficultHandler</key>
+	<string>logForce</string>
+	<key>distinctionValidation</key>
+	<string>graphsingletonflags</string>
+	<key>independentAsset</key>
+	<string>consumeAction</string>
+	<key>interactoranimator</key>
+	<string>fusedMap</string>
+	<key>isolateBehavior</key>
+	<string>playAsync</string>
+	<key>shouldRenderInterpolation</key>
+	<string>shouldPresentNavigation</string>
+	<key>statefulChecklist</key>
+	<string>cupertinoSensor</string>
+	<key>viewmatrix</key>
+	<string>canBuildSubpixel</string>
+</dict>
+</plist>

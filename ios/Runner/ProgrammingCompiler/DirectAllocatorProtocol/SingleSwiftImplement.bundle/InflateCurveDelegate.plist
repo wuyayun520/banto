@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeCell</key>
+	<string>cacheReduction</string>
+	<key>dynamicHistogram</key>
+	<string>resourceDirection</string>
+	<key>euclideanEfficiency</key>
+	<string>mediumReducer</string>
+	<key>isSubpixel</key>
+	<string>storeParam</string>
+	<key>parallelInfrastructure</key>
+	<string>shaderEdge</string>
+	<key>prevProvision</key>
+	<string>rapidVariant</string>
+	<key>sanitizeheap</key>
+	<string>unaryPressure</string>
+	<key>signdata</key>
+	<string>concurrentLog</string>
+</dict>
+</plist>

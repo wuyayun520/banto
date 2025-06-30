@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCell</key>
+	<string>independentcoordinator</string>
+	<key>commonChannels</key>
+	<string>globalPolygon</string>
+	<key>connectorSkewX</key>
+	<string>sorterleft</string>
+	<key>mechanismlocation</key>
+	<string>agileMedia</string>
+	<key>modelAlignment</key>
+	<string>elasticGem</string>
+	<key>opaqueReference</key>
+	<string>serviceStatus</string>
+	<key>shouldPresentScroll</key>
+	<string>usecasethanmediator</string>
+	<key>significantradius</key>
+	<string>streampadding</string>
+	<key>unsortedMechanism</key>
+	<string>usedLogarithm</string>
+</dict>
+</plist>

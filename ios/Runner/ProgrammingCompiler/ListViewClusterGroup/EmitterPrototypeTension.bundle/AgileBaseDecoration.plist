@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeExtension</key>
+	<string>largeAnalyzer</string>
+	<key>defaultsign</key>
+	<string>orchestrateHandler</string>
+	<key>layerRate</key>
+	<string>scrollerFeedback</string>
+	<key>requiredDecoration</key>
+	<string>syncPopup</string>
+	<key>routeaction</key>
+	<string>dispatchCupertino</string>
+	<key>shouldmountsegment</key>
+	<string>cacheboxshadow</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainOperation</key>
+	<string>stackBridge</string>
+	<key>publicInfrastructure</key>
+	<string>wrapperStyle</string>
+	<key>reactiveGrid</key>
+	<string>elasticInkWell</string>
+	<key>removetimer</key>
+	<string>difficultGraph</string>
+	<key>shouldValidateFuture</key>
+	<string>shouldemitslash</string>
+	<key>tableFormat</key>
+	<string>composableTouch</string>
+</dict>
+</plist>

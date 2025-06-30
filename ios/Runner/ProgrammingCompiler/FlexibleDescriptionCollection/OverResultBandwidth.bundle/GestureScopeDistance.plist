@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsacceleration</key>
+	<string>ascentSaturation</string>
+	<key>defaultNotification</key>
+	<string>lastTouch</string>
+	<key>nativeTraversal</key>
+	<string>originalRole</string>
+	<key>nextNavigator</key>
+	<string>firstUsage</string>
+	<key>normFeedback</key>
+	<string>createZone</string>
+	<key>robustdescent</key>
+	<string>tabbarForm</string>
+	<key>statefulVertex</key>
+	<string>validateStoryboard</string>
+	<key>unactivatedLocalization</key>
+	<string>hyperbolicAllocator</string>
+</dict>
+</plist>

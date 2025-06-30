@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationTag</key>
+	<string>componentHue</string>
+	<key>hardSlider</key>
+	<string>shouldRebuildChannels</string>
+	<key>mutableTransition</key>
+	<string>listenerSpacing</string>
+	<key>shouldPresentExtension</key>
+	<string>shouldCancelCollection</string>
+	<key>shouldReplacePrecision</key>
+	<string>managerBridge</string>
+</dict>
+</plist>

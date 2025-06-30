@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeColumn</key>
+	<string>sortedradiomode</string>
+	<key>backwardOffset</key>
+	<string>processorPosition</string>
+	<key>commonEfficiency</key>
+	<string>resourceformat</string>
+	<key>detailLocation</key>
+	<string>multikernelrotation</string>
+	<key>previewcolor</key>
+	<string>accessibleTopic</string>
+	<key>rowSize</key>
+	<string>inheritedCheckbox</string>
+	<key>shouldpublishcontraction</key>
+	<string>reducerspacing</string>
+</dict>
+</plist>

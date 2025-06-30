@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitscale</key>
+	<string>canBuildChallenge</string>
+	<key>detachtween</key>
+	<string>visibleCustomPaint</string>
+	<key>liteSpecifier</key>
+	<string>shouldYieldListView</string>
+	<key>loaderDelay</key>
+	<string>deliveryShape</string>
+	<key>materialPageView</key>
+	<string>projectionincludevisitor</string>
+	<key>numericalInterpolation</key>
+	<string>unmarshalAnimation</string>
+	<key>priorIntegrity</key>
+	<string>secondModel</string>
+	<key>rendererPressure</key>
+	<string>chartJob</string>
+</dict>
+</plist>

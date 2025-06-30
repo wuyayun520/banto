@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerAcceleration</key>
+	<string>clearDependency</string>
+	<key>deferredTentative</key>
+	<string>nativeProvision</string>
+	<key>dynamicSelector</key>
+	<string>shouldDetachSignature</string>
+	<key>protocolAcceleration</key>
+	<string>concurrentPlayback</string>
+	<key>scopecount</key>
+	<string>equipmentDistance</string>
+	<key>subtleExpanded</key>
+	<string>cartesianTaxonomy</string>
+	<key>taxonomyCoord</key>
+	<string>capacityShade</string>
+</dict>
+</plist>

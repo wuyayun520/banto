@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartVelocity</key>
+	<string>blocTag</string>
+	<key>delicatePopup</key>
+	<string>cancelBox</string>
+	<key>enabledThroughput</key>
+	<string>storeOrigin</string>
+	<key>materializerBrightness</key>
+	<string>canPauseProvider</string>
+	<key>persistentData</key>
+	<string>scenetexture</string>
+	<key>sharedAscent</key>
+	<string>prismaticlabel</string>
+	<key>shouldStartDialogs</key>
+	<string>unbindloop</string>
+</dict>
+</plist>

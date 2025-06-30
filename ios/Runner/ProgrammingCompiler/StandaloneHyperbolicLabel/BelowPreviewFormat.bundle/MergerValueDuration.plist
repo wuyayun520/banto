@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisshape</key>
+	<string>graphicLocation</string>
+	<key>canvasFormat</key>
+	<string>typicalRestriction</string>
+	<key>isolateresponse</key>
+	<string>firstTimer</string>
+	<key>marginMomentum</key>
+	<string>shouldPublishCache</string>
+</dict>
+</plist>

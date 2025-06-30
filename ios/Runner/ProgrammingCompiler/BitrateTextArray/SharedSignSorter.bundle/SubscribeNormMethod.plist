@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowaboutstage</key>
+	<string>displayableInterface</string>
+	<key>cartesianDimension</key>
+	<string>reducerShape</string>
+	<key>connectorPressure</key>
+	<string>temporarynodevisibility</string>
+	<key>elasticScheduler</key>
+	<string>delegateimage</string>
+	<key>sharedloop</key>
+	<string>sizedboxFrequency</string>
+	<key>smallconfiguration</key>
+	<string>advancedCallback</string>
+</dict>
+</plist>

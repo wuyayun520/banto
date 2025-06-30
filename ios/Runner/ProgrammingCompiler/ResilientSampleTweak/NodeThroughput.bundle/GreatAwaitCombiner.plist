@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customClipper</key>
+	<string>consultativePlate</string>
+	<key>desktopEmitter</key>
+	<string>inkwellFacade</string>
+	<key>geometricExpanded</key>
+	<string>canUnbindNorm</string>
+	<key>parallelEntity</key>
+	<string>imperativeTechnique</string>
+	<key>rangeCoord</key>
+	<string>disconnectExtension</string>
+	<key>servicebehavior</key>
+	<string>interactiveSingleton</string>
+	<key>sessionhandler</key>
+	<string>optionHead</string>
+	<key>sophisticatedScheduler</key>
+	<string>beginneroverlay</string>
+	<key>usedPadding</key>
+	<string>canStartCaption</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteLifecycle</key>
+	<string>unmountedComposition</string>
+	<key>sampleforce</key>
+	<string>builderintegrity</string>
+	<key>shouldunbindchannels</key>
+	<string>streamthroughprocess</string>
+</dict>
+</plist>

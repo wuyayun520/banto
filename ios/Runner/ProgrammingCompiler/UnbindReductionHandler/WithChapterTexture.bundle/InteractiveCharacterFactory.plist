@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedPlayback</key>
+	<string>materialChain</string>
+	<key>concreteSorter</key>
+	<string>pushradius</string>
+	<key>explicitDispatcher</key>
+	<string>sustainableWorkflow</string>
+	<key>histogramcount</key>
+	<string>numericalTaxonomy</string>
+	<key>isolatemodecoord</key>
+	<string>lifecycleSpacing</string>
+	<key>shouldencodespine</key>
+	<string>mobileUseCase</string>
+	<key>sortedSchema</key>
+	<string>shouldPresentSlider</string>
+</dict>
+</plist>

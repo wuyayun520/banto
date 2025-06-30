@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerindex</key>
+	<string>enabledGift</string>
+	<key>expandedflags</key>
+	<string>gramStructure</string>
+	<key>materialPosition</key>
+	<string>mediumAnimator</string>
+	<key>referencemargin</key>
+	<string>stopGradient</string>
+	<key>shouldBuildTabBar</key>
+	<string>asynchronousInjection</string>
+	<key>specifyResponder</key>
+	<string>exceptionnumberresponse</string>
+</dict>
+</plist>

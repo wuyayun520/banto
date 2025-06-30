@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedStatus</key>
+	<string>freeResolver</string>
+	<key>explicitTraversal</key>
+	<string>rendererlocation</string>
+	<key>gridofparameter</key>
+	<string>tableOpacity</string>
+	<key>interfacerotation</key>
+	<string>shouldstopindicator</string>
+	<key>monsterDistance</key>
+	<string>findSize</string>
+	<key>originalAwait</key>
+	<string>prismaticMonster</string>
+	<key>textureconverter</key>
+	<string>throughputleft</string>
+</dict>
+</plist>

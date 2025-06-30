@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedPosition</key>
+	<string>pauseStamp</string>
+	<key>cardVisible</key>
+	<string>columnObserver</string>
+	<key>concreteTechnique</key>
+	<string>kernelVisitor</string>
+	<key>managerPressure</key>
+	<string>discardedDetector</string>
+	<key>primaryDocument</key>
+	<string>concurrentOverlay</string>
+	<key>renderervelocity</key>
+	<string>displayablePositioned</string>
+	<key>requiredsinkorientation</key>
+	<string>originalVector</string>
+	<key>routeorientation</key>
+	<string>shouldEncodeDuration</string>
+	<key>scaleFormat</key>
+	<string>resultTail</string>
+	<key>threadIndex</key>
+	<string>crudedescription</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSemantics</key>
+	<string>interactiveSine</string>
+	<key>advancedRenderer</key>
+	<string>attachCatalyst</string>
+	<key>composableScheduler</key>
+	<string>disposeSemantics</string>
+	<key>impressionkind</key>
+	<string>hierarchicalBatch</string>
+	<key>oldPrecision</key>
+	<string>canYieldEntropy</string>
+	<key>robustMovement</key>
+	<string>displayableProgressBar</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyType</key>
+	<string>channelsDecorator</string>
+	<key>animatedFactory</key>
+	<string>sustainableGrayscale</string>
+	<key>awaitspeed</key>
+	<string>canSkipGradient</string>
+	<key>deferredModel</key>
+	<string>featureCenter</string>
+	<key>disabledoperationtint</key>
+	<string>saveBase</string>
+	<key>eagerPosition</key>
+	<string>shouldEmitCatalyst</string>
+	<key>orchestratenorm</key>
+	<string>customizeddurationleft</string>
+	<key>roleDuration</key>
+	<string>logtrigger</string>
+	<key>shouldPushCertificate</key>
+	<string>priorFilter</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedElement</key>
+	<string>similarCapacity</string>
+	<key>discoverprovider</key>
+	<string>touchBottom</string>
+	<key>embedeffect</key>
+	<string>dismissLabel</string>
+	<key>largeSpine</key>
+	<string>notifySign</string>
+	<key>timelineInterval</key>
+	<string>mediaqueryKind</string>
+</dict>
+</plist>

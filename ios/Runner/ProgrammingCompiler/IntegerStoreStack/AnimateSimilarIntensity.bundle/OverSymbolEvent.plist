@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawlogarithm</key>
+	<string>canReplaceChallenge</string>
+	<key>hasscroll</key>
+	<string>navigationTop</string>
+	<key>lostIsolate</key>
+	<string>equalOffset</string>
+	<key>quantizationcoordinator</key>
+	<string>musicProxy</string>
+	<key>reducertag</key>
+	<string>lastMapper</string>
+	<key>respectiveresultflags</key>
+	<string>discardedController</string>
+	<key>shouldcontinueanimatedcontainer</key>
+	<string>markChapter</string>
+</dict>
+</plist>

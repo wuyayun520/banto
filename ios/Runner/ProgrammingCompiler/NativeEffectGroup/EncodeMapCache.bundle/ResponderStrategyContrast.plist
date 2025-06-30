@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarborder</key>
+	<string>materializeAction</string>
+	<key>concurrentHeap</key>
+	<string>shouldPushHeap</string>
+	<key>customizedCatalyst</key>
+	<string>registerUseCase</string>
+	<key>efficiencyOrigin</key>
+	<string>interactionMargin</string>
+	<key>invisibletriangles</key>
+	<string>splitterFormat</string>
+	<key>shouldtrainwidget</key>
+	<string>materialCurve</string>
+	<key>sineplatformshade</key>
+	<string>associatedMerger</string>
+</dict>
+</plist>

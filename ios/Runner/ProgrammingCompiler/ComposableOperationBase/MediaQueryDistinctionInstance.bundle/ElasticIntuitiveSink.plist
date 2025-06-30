@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedAscent</key>
+	<string>labelscopeinset</string>
+	<key>associatednode</key>
+	<string>greatCluster</string>
+	<key>equipmentamongnumber</key>
+	<string>gridviewMargin</string>
+	<key>flexibleLoader</key>
+	<string>canTrainMonster</string>
+	<key>quitasync</key>
+	<string>sinkanalogy</string>
+	<key>slashAcceleration</key>
+	<string>shouldReplaceAnchor</string>
+	<key>strokecontrast</key>
+	<string>characterComposite</string>
+</dict>
+</plist>

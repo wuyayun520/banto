@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnticker</key>
+	<string>localconstant</string>
+	<key>cupertinoOrientation</key>
+	<string>hierarchicalDispatcher</string>
+	<key>dropdownbuttonticker</key>
+	<string>threadFramework</string>
+	<key>inheritedTabView</key>
+	<string>nextDescription</string>
+	<key>mobiletimeline</key>
+	<string>secondScaffold</string>
+	<key>navigatorwithjob</key>
+	<string>filterDensity</string>
+	<key>resizableStream</key>
+	<string>animatemanager</string>
+	<key>routeconfiguration</key>
+	<string>buildMission</string>
+	<key>sortedFilter</key>
+	<string>wrapText</string>
+	<key>temporaryPrecision</key>
+	<string>comprehensivedecorationtheme</string>
+</dict>
+</plist>

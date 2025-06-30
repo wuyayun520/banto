@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderspeed</key>
+	<string>shouldCancelNavigator</string>
+	<key>criticalSwift</key>
+	<string>buildgrid</string>
+	<key>currentInteractor</key>
+	<string>denseLocalization</string>
+	<key>discardedLinker</key>
+	<string>autoLifecycle</string>
+	<key>gridfunctionhead</key>
+	<string>petspeed</string>
+	<key>monsterRight</key>
+	<string>inheritedPager</string>
+	<key>pageviewCount</key>
+	<string>registerOffset</string>
+	<key>persistentDescription</key>
+	<string>subtleSingleton</string>
+	<key>positionedincludevar</key>
+	<string>activatednotation</string>
+	<key>shouldBindImage</key>
+	<string>keyscale</string>
+</dict>
+</plist>

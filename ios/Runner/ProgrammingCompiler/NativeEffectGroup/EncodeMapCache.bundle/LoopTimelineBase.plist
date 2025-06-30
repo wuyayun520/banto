@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationtension</key>
+	<string>maintainPresenter</string>
+	<key>intuitiveBuilder</key>
+	<string>easyLoader</string>
+	<key>lastNotifier</key>
+	<string>wrapRoute</string>
+	<key>precisionTheme</key>
+	<string>completionTransparency</string>
+	<key>resolveraroundnumber</key>
+	<string>widgetappearance</string>
+	<key>shouldtransformpositioned</key>
+	<string>expandedbandwidth</string>
+	<key>unsortedevolution</key>
+	<string>canFinishProject</string>
+</dict>
+</plist>

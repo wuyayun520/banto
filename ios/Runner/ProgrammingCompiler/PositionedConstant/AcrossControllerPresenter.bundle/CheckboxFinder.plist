@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterInset</key>
+	<string>responsiveWorkflow</string>
+	<key>imperativeShader</key>
+	<string>usedUseCase</string>
+	<key>inactiveScroll</key>
+	<string>rangeEdge</string>
+	<key>presentdescription</key>
+	<string>exceptionRate</string>
+	<key>shouldRouteSemantics</key>
+	<string>emitMargin</string>
+	<key>significantAlert</key>
+	<string>firstModule</string>
+	<key>unactivatedSine</key>
+	<string>stopLayout</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledElement</key>
+	<string>restartslider</string>
+	<key>explicitboxshadowbound</key>
+	<string>precisionOrigin</string>
+	<key>materialdepth</key>
+	<string>fragmentinteraction</string>
+	<key>robustTentative</key>
+	<string>webStamp</string>
+	<key>selectedmonster</key>
+	<string>constraintincludeproxy</string>
+	<key>shouldPresentAnimatedContainer</key>
+	<string>navigationinset</string>
+	<key>visibleOptimizer</key>
+	<string>vertexTail</string>
+	<key>webStack</key>
+	<string>allocateFactory</string>
+</dict>
+</plist>

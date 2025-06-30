@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futurevisitorpadding</key>
+	<string>pinchableHash</string>
+	<key>localConnector</key>
+	<string>findLayout</string>
+	<key>missedPopup</key>
+	<string>shouldLoadAperture</string>
+	<key>originalCoordinator</key>
+	<string>asynchronousVideo</string>
+	<key>shouldEncodeRoute</key>
+	<string>subscribeNotifier</string>
+</dict>
+</plist>

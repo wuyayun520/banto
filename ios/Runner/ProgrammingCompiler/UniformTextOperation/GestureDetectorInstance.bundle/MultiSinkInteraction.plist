@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityposition</key>
+	<string>overrideloss</string>
+	<key>brushshade</key>
+	<string>gesturedetectorBehavior</string>
+	<key>enabledConsumer</key>
+	<string>shouldUnbindSymbol</string>
+	<key>iconbehavior</key>
+	<string>persistentMonster</string>
+	<key>resultfornumber</key>
+	<string>injectionTension</string>
+	<key>scaffoldnode</key>
+	<string>shouldTransitionSymbol</string>
+	<key>sequentialConstant</key>
+	<string>appbarStructure</string>
+	<key>statefulExtension</key>
+	<string>shouldStreamSpecifier</string>
+	<key>subtleDispatcher</key>
+	<string>liteChannel</string>
+</dict>
+</plist>

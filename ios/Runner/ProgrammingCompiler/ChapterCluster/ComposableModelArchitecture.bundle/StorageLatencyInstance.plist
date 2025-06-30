@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialRouter</key>
+	<string>symmetricBuilder</string>
+	<key>decorationAlignment</key>
+	<string>resizableLatency</string>
+	<key>directlyResponder</key>
+	<string>grainOperation</string>
+	<key>dropoutalignment</key>
+	<string>sophisticatedPopup</string>
+	<key>greatDrawer</key>
+	<string>disparateAppBar</string>
+	<key>navigationFeedback</key>
+	<string>gestureactivityposition</string>
+	<key>opaqueEntropy</key>
+	<string>analogydelay</string>
+	<key>popupInteraction</key>
+	<string>shouldRouteScroll</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlypopup</key>
+	<string>hierarchicalIntegrity</string>
+	<key>rebuildsegue</key>
+	<string>denseCache</string>
+	<key>rectinteraction</key>
+	<string>usecasesystemtag</string>
+	<key>startcoordinator</key>
+	<string>sustainableBandwidth</string>
+</dict>
+</plist>

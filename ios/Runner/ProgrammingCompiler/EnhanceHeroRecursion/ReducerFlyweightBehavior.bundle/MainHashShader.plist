@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleHistogram</key>
+	<string>metadataAppearance</string>
+	<key>ignoredAlignment</key>
+	<string>loadDecoration</string>
+	<key>independentCard</key>
+	<string>shouldDeserializeStep</string>
+	<key>layoutbrightness</key>
+	<string>debugTexture</string>
+	<key>particleoffset</key>
+	<string>kerneldelay</string>
+	<key>pinchableEvent</key>
+	<string>conformprotocol</string>
+	<key>respectiveRenderer</key>
+	<string>roleperstrategy</string>
+	<key>scaffoldconstraint</key>
+	<string>mountPositioned</string>
+	<key>shouldtransitiongraphic</key>
+	<string>backwardbuffer</string>
+</dict>
+</plist>

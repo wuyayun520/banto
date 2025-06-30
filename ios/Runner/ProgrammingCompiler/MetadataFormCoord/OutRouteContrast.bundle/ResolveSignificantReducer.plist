@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addtexture</key>
+	<string>storeFunction</string>
+	<key>bufferFormat</key>
+	<string>ignoredSign</string>
+	<key>crudeOccasion</key>
+	<string>releaseLayout</string>
+	<key>refreshsize</key>
+	<string>capsulecenter</string>
+	<key>smartgesture</key>
+	<string>handleCallback</string>
+</dict>
+</plist>

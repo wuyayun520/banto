@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalTangent</key>
+	<string>screenworkdistance</string>
+	<key>deprecatepreview</key>
+	<string>shouldPrepareRichText</string>
+	<key>enabledgroupvalidation</key>
+	<string>keyBaseline</string>
+	<key>implementmaterial</key>
+	<string>tangentorientation</string>
+	<key>manageralignment</key>
+	<string>inkwellTemple</string>
+	<key>matrixTheme</key>
+	<string>subscriptionstructurerate</string>
+	<key>mountedtabview</key>
+	<string>resumeCaption</string>
+	<key>primaryService</key>
+	<string>configureChapter</string>
+</dict>
+</plist>

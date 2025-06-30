@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertmatrix</key>
+	<string>gestureTag</string>
+	<key>arithmeticIcon</key>
+	<string>scrollableLocalization</string>
+	<key>baselinedata</key>
+	<string>canDeserializeProfile</string>
+	<key>curvebesidemethod</key>
+	<string>lockDependency</string>
+	<key>gradientRotation</key>
+	<string>localizationVisitor</string>
+	<key>notificationTag</key>
+	<string>adaptiveCaption</string>
+	<key>resilientConvolution</key>
+	<string>fixedDetector</string>
+	<key>shouldSkipArithmetic</key>
+	<string>displayableRow</string>
+</dict>
+</plist>

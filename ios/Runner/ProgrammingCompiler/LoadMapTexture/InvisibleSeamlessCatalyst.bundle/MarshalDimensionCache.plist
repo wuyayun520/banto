@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinealignment</key>
+	<string>trajectoryOffset</string>
+	<key>currentFilter</key>
+	<string>configurePreview</string>
+	<key>functionalSubscriber</key>
+	<string>themeSpacing</string>
+	<key>handlerSaturation</key>
+	<string>similarRoute</string>
+	<key>parallelSine</key>
+	<string>bitrateFeedback</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticThread</key>
+	<string>restartScroll</string>
+	<key>containeramongadapter</key>
+	<string>dynamicSymbol</string>
+	<key>currentItem</key>
+	<string>loaderTheme</string>
+	<key>interpolationRotation</key>
+	<string>inheritedselector</string>
+	<key>materialdelegatesize</key>
+	<string>directlyAsset</string>
+	<key>optimizerSaturation</key>
+	<string>optionworktail</string>
+	<key>providerTension</key>
+	<string>cancelAnchor</string>
+</dict>
+</plist>

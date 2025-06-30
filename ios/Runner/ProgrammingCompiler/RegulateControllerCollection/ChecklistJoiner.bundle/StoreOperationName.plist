@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lazycontroller</key>
+	<string>notifyGrid</string>
+	<key>liteduration</key>
+	<string>collectionDensity</string>
+	<key>missedThreshold</key>
+	<string>numericalPolyfill</string>
+	<key>newestDecoration</key>
+	<string>obtainFuture</string>
+	<key>priorImpact</key>
+	<string>crucialLoader</string>
+	<key>replicaResponse</key>
+	<string>subtleLocalization</string>
+	<key>scrollableVertex</key>
+	<string>canLoadController</string>
+	<key>smartReliability</key>
+	<string>shouldEndEntropy</string>
+	<key>unactivatedGraphic</key>
+	<string>minComposition</string>
+</dict>
+</plist>

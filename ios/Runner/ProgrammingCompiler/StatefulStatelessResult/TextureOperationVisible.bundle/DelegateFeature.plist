@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customAllocator</key>
+	<string>smartFeature</string>
+	<key>expandedanimation</key>
+	<string>globalEmitter</string>
+	<key>finderFlags</key>
+	<string>unmountIndicator</string>
+	<key>isswift</key>
+	<string>methodLeft</string>
+	<key>mobilePromise</key>
+	<string>localText</string>
+	<key>shouldValidateScale</key>
+	<string>visibleCapacity</string>
+	<key>shouldpaintconstraint</key>
+	<string>nativealert</string>
+</dict>
+</plist>

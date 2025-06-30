@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>impressionVisible</key>
+	<string>displayablepromise</string>
+	<key>notificationRate</key>
+	<string>nibVisitor</string>
+	<key>prevRepository</key>
+	<string>activeCoordinator</string>
+	<key>protocollistener</key>
+	<string>introspectSize</string>
+	<key>scaffoldresource</key>
+	<string>converterhead</string>
+	<key>shouldUnbindNib</key>
+	<string>immediateCache</string>
+	<key>shouldmountstoryboard</key>
+	<string>rendercallback</string>
+	<key>typicalResolver</key>
+	<string>materializerResponse</string>
+</dict>
+</plist>

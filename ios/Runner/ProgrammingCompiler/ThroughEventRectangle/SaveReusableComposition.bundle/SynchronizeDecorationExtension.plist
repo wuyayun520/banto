@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarfactory</key>
+	<string>concreteScroller</string>
+	<key>autoDependency</key>
+	<string>oldAscent</string>
+	<key>cardobserver</key>
+	<string>requestBridge</string>
+	<key>localOccasion</key>
+	<string>beginnerFragments</string>
+	<key>resolverInterval</key>
+	<string>customizedcell</string>
+	<key>shouldPushTextField</key>
+	<string>substantialCursor</string>
+	<key>unactivatedicon</key>
+	<string>publicStateless</string>
+	<key>utiltraversal</key>
+	<string>publicTentative</string>
+	<key>websingleton</key>
+	<string>smallAperture</string>
+</dict>
+</plist>

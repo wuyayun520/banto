@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsamortization</key>
+	<string>resilientBuilder</string>
+	<key>cursorSpacing</key>
+	<string>greatDialogs</string>
+	<key>deferredDocument</key>
+	<string>shouldPushRoute</string>
+	<key>dispatcherVisibility</key>
+	<string>uniqueContainer</string>
+	<key>mobilesegmentcolor</key>
+	<string>mediocrelayout</string>
+	<key>opaquechartmargin</key>
+	<string>activityColor</string>
+	<key>readgift</key>
+	<string>checklistactivityborder</string>
+	<key>resourceTail</key>
+	<string>substantialModule</string>
+	<key>standaloneSegment</key>
+	<string>entropyduringfunction</string>
+</dict>
+</plist>

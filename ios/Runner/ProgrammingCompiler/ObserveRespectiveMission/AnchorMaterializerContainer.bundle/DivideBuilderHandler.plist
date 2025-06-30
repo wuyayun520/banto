@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveEntropy</key>
+	<string>configurationinteraction</string>
+	<key>constraintdescent</key>
+	<string>reactiveHeap</string>
+	<key>dividegraphic</key>
+	<string>materialalongstyle</string>
+	<key>futureforfacade</key>
+	<string>independentSkirt</string>
+	<key>globalinteractoredge</key>
+	<string>otherSlider</string>
+	<key>pivotaloffsetalignment</key>
+	<string>euclideanAppBar</string>
+	<key>sinkEdge</key>
+	<string>challengeAlignment</string>
+</dict>
+</plist>

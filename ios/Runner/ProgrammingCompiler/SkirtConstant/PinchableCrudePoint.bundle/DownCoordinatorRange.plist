@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPromise</key>
+	<string>localizationFlags</string>
+	<key>chartLocation</key>
+	<string>embedLayer</string>
+	<key>criticalInstruction</key>
+	<string>mixinHandler</string>
+	<key>interactiveconstraint</key>
+	<string>tickerTask</string>
+	<key>modulusTag</key>
+	<string>reductionBound</string>
+	<key>platebloc</key>
+	<string>shouldRestartSegue</string>
+	<key>routeTag</key>
+	<string>offsetSaturation</string>
+	<key>sortedResilience</key>
+	<string>nativeRestriction</string>
+	<key>subscriberBound</key>
+	<string>shouldPauseCheckbox</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documenttiercenter</key>
+	<string>canPrepareText</string>
+	<key>fusedPager</key>
+	<string>replacetopic</string>
+	<key>localRange</key>
+	<string>threadBridge</string>
+	<key>shouldSaveCurve</key>
+	<string>composableTask</string>
+	<key>similarVertex</key>
+	<string>hierarchicalMesh</string>
+	<key>symmetricAction</key>
+	<string>canShowBehavior</string>
+</dict>
+</plist>

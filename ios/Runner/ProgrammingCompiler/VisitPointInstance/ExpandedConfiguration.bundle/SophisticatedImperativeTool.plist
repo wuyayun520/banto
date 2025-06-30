@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideantweak</key>
+	<string>requiredfuture</string>
+	<key>lazyActivity</key>
+	<string>taskworkfeedback</string>
+	<key>normalSlash</key>
+	<string>actionfrequency</string>
+	<key>scenarioTail</key>
+	<string>remediationIndex</string>
+	<key>specifyMethod</key>
+	<string>typicalHeap</string>
+	<key>workflowBorder</key>
+	<string>shouldTrainKernel</string>
+</dict>
+</plist>

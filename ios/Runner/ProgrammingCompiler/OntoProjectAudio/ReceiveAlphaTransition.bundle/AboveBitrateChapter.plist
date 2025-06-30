@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardBorder</key>
+	<string>requestintensity</string>
+	<key>bindequipment</key>
+	<string>boxshadowState</string>
+	<key>commonTimeline</key>
+	<string>canContinueNotifier</string>
+	<key>detailIndex</key>
+	<string>gemLevel</string>
+	<key>pickerKind</key>
+	<string>cartesianInjection</string>
+	<key>relationalTransition</key>
+	<string>frameBrightness</string>
+	<key>shouldDisposeBorder</key>
+	<string>selectortheme</string>
+	<key>shouldSetStateView</key>
+	<string>crudeslidershape</string>
+</dict>
+</plist>

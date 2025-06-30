@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorobserver</key>
+	<string>capacitiesabouttier</string>
+	<key>diversifiedsink</key>
+	<string>routeinsideform</string>
+	<key>flexibleTaxonomy</key>
+	<string>shouldContinueBullet</string>
+	<key>mobilecursorcount</key>
+	<string>shouldCacheNib</string>
+	<key>pointRotation</key>
+	<string>painterCenter</string>
+	<key>shouldPersistDecoration</key>
+	<string>subsequentChannel</string>
+	<key>singleresponsecenter</key>
+	<string>shouldReplaceSession</string>
+</dict>
+</plist>

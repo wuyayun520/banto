@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basecount</key>
+	<string>offsetPadding</string>
+	<key>eagerlinker</key>
+	<string>webArchitecture</string>
+	<key>elasticScheduler</key>
+	<string>trainheap</string>
+	<key>granularAllocator</key>
+	<string>canFinishController</string>
+	<key>layerTail</key>
+	<string>canAnimateListView</string>
+	<key>protectedMultiplication</key>
+	<string>iterativeResource</string>
+	<key>reusableScroll</key>
+	<string>smallDelegate</string>
+	<key>secondElasticity</key>
+	<string>shouldStreamMember</string>
+	<key>semanticContraction</key>
+	<string>evaluateTopic</string>
+</dict>
+</plist>

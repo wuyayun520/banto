@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardSprite</key>
+	<string>heroRate</string>
+	<key>captionState</key>
+	<string>canUnbindHistogram</string>
+	<key>controllerflyweightinterval</key>
+	<string>mediumTitle</string>
+	<key>graphDelay</key>
+	<string>elementSpeed</string>
+	<key>oldGate</key>
+	<string>continuecustompaint</string>
+	<key>smallTouch</key>
+	<string>amortizationOffset</string>
+</dict>
+</plist>

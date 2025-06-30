@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticScheduler</key>
+	<string>deferredObject</string>
+	<key>enabledMend</key>
+	<string>normalSelector</string>
+	<key>playbackrect</key>
+	<string>robustGrid</string>
+	<key>shouldCreateFuture</key>
+	<string>sustainableVideo</string>
+	<key>statefulSemantics</key>
+	<string>discoverUseCase</string>
+	<key>statusDensity</key>
+	<string>fixedRepository</string>
+	<key>subtleAccessory</key>
+	<string>rectifyNode</string>
+</dict>
+</plist>

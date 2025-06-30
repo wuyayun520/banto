@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBase</key>
+	<string>symmetricListView</string>
+	<key>capsuleskewx</key>
+	<string>bindRichText</string>
+	<key>directContrast</key>
+	<string>visibleTool</string>
+	<key>giftBehavior</key>
+	<string>traincollection</string>
+	<key>notifierchannel</key>
+	<string>checkSubscription</string>
+	<key>primaryImage</key>
+	<string>giftasync</string>
+	<key>resilienteventsize</key>
+	<string>nativeScope</string>
+</dict>
+</plist>

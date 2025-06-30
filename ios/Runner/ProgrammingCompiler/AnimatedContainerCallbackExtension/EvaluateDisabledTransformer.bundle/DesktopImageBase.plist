@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerLocation</key>
+	<string>missedLabel</string>
+	<key>handlerreplica</key>
+	<string>profileoffset</string>
+	<key>listenerInterval</key>
+	<string>displayableImage</string>
+	<key>lostBorder</key>
+	<string>imperativeDelegate</string>
+	<key>statefulAxis</key>
+	<string>logCenter</string>
+	<key>tensorTexture</key>
+	<string>originalLayer</string>
+	<key>utilhue</key>
+	<string>onshaderchanged</string>
+</dict>
+</plist>

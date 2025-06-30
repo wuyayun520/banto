@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheTension</key>
+	<string>taskObserver</string>
+	<key>crucialEffect</key>
+	<string>impactCoord</string>
+	<key>enabledCube</key>
+	<string>savePositioned</string>
+	<key>intermediateWorkflow</key>
+	<string>canEmitStream</string>
+	<key>shouldKeepSpot</key>
+	<string>expandedfactory</string>
+	<key>shoulddecodeprecision</key>
+	<string>shouldpersistinteger</string>
+	<key>unsortedcheckbox</key>
+	<string>accordionMesh</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedObject</key>
+	<string>canAttachLoss</string>
+	<key>criticalCapacities</key>
+	<string>canLayoutTable</string>
+	<key>diversifiedZone</key>
+	<string>materialLeft</string>
+	<key>reductionthroughvalue</key>
+	<string>subpixelOffset</string>
+	<key>responsiveTangent</key>
+	<string>canValidateFuture</string>
+	<key>shouldRebuildObserver</key>
+	<string>decodeSpine</string>
+	<key>singletransition</key>
+	<string>finishRow</string>
+</dict>
+</plist>

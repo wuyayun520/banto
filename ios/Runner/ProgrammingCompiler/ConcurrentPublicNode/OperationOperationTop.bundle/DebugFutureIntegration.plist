@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivethreadinteraction</key>
+	<string>singleAscent</string>
+	<key>agileStorage</key>
+	<string>shouldCancelTextField</string>
+	<key>animatedRoute</key>
+	<string>unactivatedtext</string>
+	<key>notifygate</key>
+	<string>drawerAppearance</string>
+	<key>observesession</key>
+	<string>canCacheStoryboard</string>
+	<key>parsehistogram</key>
+	<string>canDetachNavigation</string>
+	<key>sortedscene</key>
+	<string>elementHue</string>
+</dict>
+</plist>

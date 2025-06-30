@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterawayprototype</key>
+	<string>shouldStreamCaption</string>
+	<key>inheritedPlayback</key>
+	<string>quantizationZone</string>
+	<key>positionCoord</key>
+	<string>unactivatedDuration</string>
+	<key>significantFuture</key>
+	<string>boxanalyzer</string>
+	<key>transformtouch</key>
+	<string>euclideanCell</string>
+	<key>uniformSprite</key>
+	<string>shouldPaintAlpha</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintindex</key>
+	<string>sustainableCheckbox</string>
+	<key>matrixtasktail</key>
+	<string>batchatstage</string>
+	<key>resourceanimation</key>
+	<string>draggableInteraction</string>
+	<key>responseLocation</key>
+	<string>profileTheme</string>
+	<key>singlepicker</key>
+	<string>allocateCurve</string>
+</dict>
+</plist>

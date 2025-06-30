@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibletexture</key>
+	<string>awaitFramework</string>
+	<key>missedController</key>
+	<string>cancelDescriptor</string>
+	<key>respectiveOffset</key>
+	<string>rangePressure</string>
+	<key>shouldEndStep</key>
+	<string>accessiblenavigator</string>
+	<key>shouldPaintProjection</key>
+	<string>symmetricPublisher</string>
+	<key>shouldStreamMultiplication</key>
+	<string>gramSkewY</string>
+	<key>shouldcancelpainter</key>
+	<string>callbacklevelvisibility</string>
+	<key>shouldrebuildscale</key>
+	<string>sliderduringvariable</string>
+	<key>sinehandler</key>
+	<string>channelMediator</string>
+</dict>
+</plist>

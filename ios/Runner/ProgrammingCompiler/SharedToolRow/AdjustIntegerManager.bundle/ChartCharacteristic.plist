@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetFlags</key>
+	<string>canDismissChallenge</string>
+	<key>constanttop</key>
+	<string>ignoredrouteleft</string>
+	<key>consultativeRestriction</key>
+	<string>associateText</string>
+	<key>filterSaturation</key>
+	<string>unscheduleTransition</string>
+	<key>greatusecase</key>
+	<string>rectScope</string>
+	<key>immediateProvider</key>
+	<string>draggableProject</string>
+	<key>mutableScenario</key>
+	<string>tangentDelay</string>
+	<key>pausechart</key>
+	<string>shouldNavigateCursor</string>
+	<key>reusableVertex</key>
+	<string>offsetVelocity</string>
+	<key>tensorError</key>
+	<string>tabbarcontextdelay</string>
+</dict>
+</plist>

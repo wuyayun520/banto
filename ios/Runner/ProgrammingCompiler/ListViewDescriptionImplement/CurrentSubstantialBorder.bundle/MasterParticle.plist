@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeScheduler</key>
+	<string>canRenderSegue</string>
+	<key>disabledLayer</key>
+	<string>canTransitionCard</string>
+	<key>hyperbolicModal</key>
+	<string>spineVisibility</string>
+	<key>inactivestatevalidation</key>
+	<string>specifierOpacity</string>
+	<key>interactionright</key>
+	<string>sortedmenu</string>
+	<key>platekind</key>
+	<string>relationalAscent</string>
+	<key>shouldResumeCard</key>
+	<string>ephemeralAlpha</string>
+	<key>sophisticatedMaster</key>
+	<string>futureamortization</string>
+	<key>subtleDropdownButton</key>
+	<string>resourceFormat</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediatedecorationflags</key>
+	<string>draggableCollection</string>
+	<key>pushlistener</key>
+	<string>transitionTangent</string>
+	<key>sinkDensity</key>
+	<string>annotateChapter</string>
+	<key>widgetbound</key>
+	<string>freeStream</string>
+</dict>
+</plist>

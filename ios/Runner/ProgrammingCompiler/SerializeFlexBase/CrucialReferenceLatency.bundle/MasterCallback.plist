@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gemCount</key>
+	<string>textacceleration</string>
+	<key>infoSkewY</key>
+	<string>beginnerChannel</string>
+	<key>pinchableEvaluation</key>
+	<string>singletonaudio</string>
+</dict>
+</plist>

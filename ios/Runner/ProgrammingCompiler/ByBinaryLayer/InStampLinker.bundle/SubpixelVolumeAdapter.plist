@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factorysize</key>
+	<string>seguePrototype</string>
+	<key>harddependency</key>
+	<string>relationalviewcoord</string>
+	<key>imperativeRenderer</key>
+	<string>shouldCancelPoint</string>
+	<key>playbackobserver</key>
+	<string>encapsulateRect</string>
+	<key>radiusTail</key>
+	<string>checkProvider</string>
+	<key>remediationResponse</key>
+	<string>ternaryStage</string>
+	<key>shouldDeserializeGram</key>
+	<string>canPersistPainter</string>
+	<key>standaloneAnimation</key>
+	<string>connectChart</string>
+	<key>unbindboxshadow</key>
+	<string>liteFinder</string>
+</dict>
+</plist>

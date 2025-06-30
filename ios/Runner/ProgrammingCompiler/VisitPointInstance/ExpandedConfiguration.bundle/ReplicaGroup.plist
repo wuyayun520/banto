@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actioninset</key>
+	<string>stepVar</string>
+	<key>desktopAnalogy</key>
+	<string>marshalerror</string>
+	<key>iterativeChart</key>
+	<string>touchstatus</string>
+	<key>metadataName</key>
+	<string>interactiveResponse</string>
+	<key>overlayBehavior</key>
+	<string>prepareSample</string>
+	<key>sineindex</key>
+	<string>allocatorpadding</string>
+	<key>throughputPadding</key>
+	<string>canEncodeBinary</string>
+</dict>
+</plist>

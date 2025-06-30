@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createcollection</key>
+	<string>repositoryuntilfacade</string>
+	<key>explicitNode</key>
+	<string>clipChapter</string>
+	<key>hardDecoration</key>
+	<string>imageDistance</string>
+	<key>shouldRouteSemantics</key>
+	<string>notificationAdapter</string>
+	<key>volumespeed</key>
+	<string>activityMemento</string>
+</dict>
+</plist>

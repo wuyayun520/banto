@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedGraphic</key>
+	<string>shouldunmountedradio</string>
+	<key>appbarBorder</key>
+	<string>divideAsync</string>
+	<key>dynamicIntensity</key>
+	<string>captionspacing</string>
+	<key>eagerBoxShadow</key>
+	<string>canRenderRow</string>
+	<key>responsiveStroke</key>
+	<string>canPresentPadding</string>
+	<key>rowperphase</key>
+	<string>observeFactory</string>
+	<key>subsequentDisclaimer</key>
+	<string>denseMatrix</string>
+	<key>timelinePressure</key>
+	<string>shouldRebuildAspectRatio</string>
+	<key>transitionRotation</key>
+	<string>seamlessTernary</string>
+</dict>
+</plist>

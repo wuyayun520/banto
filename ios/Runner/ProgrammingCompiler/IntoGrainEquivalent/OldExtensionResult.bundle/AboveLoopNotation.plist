@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerTimeline</key>
+	<string>chartbyjob</string>
+	<key>contractionvertex</key>
+	<string>canShowDescriptor</string>
+	<key>enabledNotifier</key>
+	<string>transitionSpeed</string>
+	<key>gridviewStatus</key>
+	<string>batchtierlocation</string>
+	<key>infrastructureVisibility</key>
+	<string>tweakContrast</string>
+	<key>processorInterval</key>
+	<string>publishTangent</string>
+	<key>richtextduringstage</key>
+	<string>uniformItem</string>
+	<key>shapeSkewY</key>
+	<string>metadataTransparency</string>
+</dict>
+</plist>

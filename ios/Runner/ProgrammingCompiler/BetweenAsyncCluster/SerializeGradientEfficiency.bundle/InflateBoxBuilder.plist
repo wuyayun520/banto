@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>respectiveCurve</key>
+	<string>handletechnique</string>
+	<key>scaffoldlayer</key>
+	<string>usecaseFeedback</string>
+	<key>shouldUnbindActivity</key>
+	<string>shouldEndFuture</string>
+	<key>sinkEdge</key>
+	<string>cachenorm</string>
+	<key>uniformcache</key>
+	<string>fetchCosine</string>
+</dict>
+</plist>

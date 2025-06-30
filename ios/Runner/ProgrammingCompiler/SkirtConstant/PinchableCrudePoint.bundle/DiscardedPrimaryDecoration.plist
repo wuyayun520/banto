@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerThreshold</key>
+	<string>geometricalertinset</string>
+	<key>hyperbolicReference</key>
+	<string>prevConstraint</string>
+	<key>shouldUnbindMusic</key>
+	<string>canBindTheme</string>
+	<key>strokeBehavior</key>
+	<string>activatedDetector</string>
+	<key>subscriberLocation</key>
+	<string>permanentConsumer</string>
+	<key>synchronousStep</key>
+	<string>canRouteCharacter</string>
+</dict>
+</plist>

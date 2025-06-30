@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorvideo</key>
+	<string>autoPainter</string>
+	<key>deployhero</key>
+	<string>moveTimer</string>
+	<key>functionalInterpolation</key>
+	<string>parseSegment</string>
+	<key>progressbarBrightness</key>
+	<string>unschedulematerial</string>
+	<key>sequentialExpanded</key>
+	<string>robustBase</string>
+	<key>serviceCenter</key>
+	<string>flexibleMargin</string>
+	<key>shouldhandleextension</key>
+	<string>shouldFinishBox</string>
+	<key>subscriberFlags</key>
+	<string>materializeHandler</string>
+	<key>uniformScroller</key>
+	<string>beginnercompleter</string>
+</dict>
+</plist>

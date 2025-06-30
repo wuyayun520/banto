@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoController</key>
+	<string>divideTask</string>
+	<key>requiredResource</key>
+	<string>taskvalidation</string>
+	<key>routeTag</key>
+	<string>sanitizeRequest</string>
+	<key>throughputFeedback</key>
+	<string>orchestrateParticle</string>
+	<key>tickermethodforce</key>
+	<string>scrollableAsync</string>
+	<key>unactivatedMomentum</key>
+	<string>shouldSubscribeProfile</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalRichText</key>
+	<string>desktopnavigatorspeed</string>
+	<key>hardAnalogy</key>
+	<string>notifySpine</string>
+	<key>inkwellformspeed</key>
+	<string>contractionValidation</string>
+	<key>interpolationgrain</key>
+	<string>smallRadius</string>
+	<key>oldScene</key>
+	<string>responsiveCaption</string>
+	<key>publisherdirection</key>
+	<string>animatedAnimation</string>
+	<key>shouldResumeStateless</key>
+	<string>resourcemodecoord</string>
+	<key>statefulResult</key>
+	<string>inheritedVertex</string>
+	<key>timelineTag</key>
+	<string>logarithmTension</string>
+</dict>
+</plist>

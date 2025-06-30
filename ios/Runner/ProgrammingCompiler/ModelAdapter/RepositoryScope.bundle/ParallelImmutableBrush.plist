@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintnearmethod</key>
+	<string>granularQueue</string>
+	<key>currentModule</key>
+	<string>volumeMomentum</string>
+	<key>efficiencykind</key>
+	<string>texturelocation</string>
+	<key>lostGate</key>
+	<string>convertCoordinator</string>
+	<key>nextparticlefeedback</key>
+	<string>sharedResolver</string>
+	<key>replicateexponent</key>
+	<string>lastDropdownButton</string>
+	<key>shouldParseMobile</key>
+	<string>marginOpacity</string>
+	<key>strengthDistance</key>
+	<string>pinchableAction</string>
+	<key>thresholdPosition</key>
+	<string>shouldmountfuture</string>
+</dict>
+</plist>

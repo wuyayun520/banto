@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerMomentum</key>
+	<string>replaceChart</string>
+	<key>retainedGraph</key>
+	<string>triggerSaturation</string>
+	<key>schemaBottom</key>
+	<string>playbackLevel</string>
+	<key>signatureColor</key>
+	<string>certificatealignment</string>
+	<key>skirtState</key>
+	<string>staticCubit</string>
+</dict>
+</plist>

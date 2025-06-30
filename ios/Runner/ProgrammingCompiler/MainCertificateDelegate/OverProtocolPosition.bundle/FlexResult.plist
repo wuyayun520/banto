@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumemediaquery</key>
+	<string>accordionStamp</string>
+	<key>disabledSpot</key>
+	<string>limitinterpolation</string>
+	<key>elasticResult</key>
+	<string>modulusSystem</string>
+	<key>hasAxis</key>
+	<string>modaldistance</string>
+	<key>intuitiveusecase</key>
+	<string>canEmitCursor</string>
+	<key>largeScreen</key>
+	<string>exceptiondepth</string>
+	<key>oldCapacities</key>
+	<string>storeborder</string>
+	<key>persistentsearcher</key>
+	<string>canAnimateColumn</string>
+	<key>shapeResponse</key>
+	<string>significantutil</string>
+</dict>
+</plist>

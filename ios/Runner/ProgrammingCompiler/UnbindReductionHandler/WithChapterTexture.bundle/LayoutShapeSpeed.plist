@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customRemainder</key>
+	<string>scrollableRectangle</string>
+	<key>lostSemantics</key>
+	<string>prevManager</string>
+	<key>oldmesh</key>
+	<string>zoneLeft</string>
+	<key>shapeInteraction</key>
+	<string>mutablePosition</string>
+	<key>shouldLayoutAccessory</key>
+	<string>setstateModulus</string>
+	<key>shouldPaintMatrix</key>
+	<string>shoulddisposeentropy</string>
+	<key>shouldStopEffect</key>
+	<string>canSetStateSession</string>
+	<key>standaloneInformation</key>
+	<string>vectorTemple</string>
+</dict>
+</plist>

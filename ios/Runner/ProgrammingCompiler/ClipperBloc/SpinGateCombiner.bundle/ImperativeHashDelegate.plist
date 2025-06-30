@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorytaskspacing</key>
+	<string>vectorsensor</string>
+	<key>boxshadowmode</key>
+	<string>accessiblePolyfill</string>
+	<key>interfaceValidation</key>
+	<string>concurrentLoop</string>
+	<key>materialMomentum</key>
+	<string>interpolationFormat</string>
+	<key>secondModal</key>
+	<string>shouldDismissBaseline</string>
+	<key>shouldFinishLog</key>
+	<string>cleanView</string>
+	<key>sophisticatedTable</key>
+	<string>layerPrototype</string>
+	<key>toleranceVelocity</key>
+	<string>exceptiontypesaturation</string>
+	<key>utilDistance</key>
+	<string>usageOrientation</string>
+</dict>
+</plist>

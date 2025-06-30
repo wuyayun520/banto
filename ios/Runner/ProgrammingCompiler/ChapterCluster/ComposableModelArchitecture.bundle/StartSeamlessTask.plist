@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardBandwidth</key>
+	<string>tangentMode</string>
+	<key>endsine</key>
+	<string>canEncodeSine</string>
+	<key>responsivecurve</key>
+	<string>cupertinoradio</string>
+	<key>schedulerShape</key>
+	<string>slashstatus</string>
+	<key>statefulState</key>
+	<string>shouldDispatchResource</string>
+	<key>storyboardborder</key>
+	<string>sessionWork</string>
+	<key>tabviewresponder</key>
+	<string>capacityOrientation</string>
+	<key>usageShape</key>
+	<string>menutint</string>
+</dict>
+</plist>

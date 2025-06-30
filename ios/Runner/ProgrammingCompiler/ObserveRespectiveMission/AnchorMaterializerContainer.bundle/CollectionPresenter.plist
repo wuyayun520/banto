@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicappearance</key>
+	<string>smartItem</string>
+	<key>memberphasetension</key>
+	<string>refactorrow</string>
+	<key>replaceradius</key>
+	<string>sharedCube</string>
+	<key>shouldSkipOption</key>
+	<string>immutableSlash</string>
+	<key>shouldUpdatePriority</key>
+	<string>sustainableAlpha</string>
+	<key>unsortedRepository</key>
+	<string>shouldBindTouch</string>
+</dict>
+</plist>

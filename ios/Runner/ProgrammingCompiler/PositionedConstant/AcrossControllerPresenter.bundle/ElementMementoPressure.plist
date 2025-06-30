@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedMusic</key>
+	<string>semanticMetrics</string>
+	<key>formatTheme</key>
+	<string>singletonAppearance</string>
+	<key>globalLayer</key>
+	<string>canAnimateBorder</string>
+	<key>heapinset</key>
+	<string>shouldStopText</string>
+	<key>nativeSpecifier</key>
+	<string>fixedNavigation</string>
+	<key>shouldfinishsegment</key>
+	<string>alignmentAppearance</string>
+	<key>textrequest</key>
+	<string>visibleCoordinator</string>
+	<key>unactivatedradius</key>
+	<string>cupertinoArchitecture</string>
+	<key>usagepublisher</key>
+	<string>streamMaster</string>
+</dict>
+</plist>

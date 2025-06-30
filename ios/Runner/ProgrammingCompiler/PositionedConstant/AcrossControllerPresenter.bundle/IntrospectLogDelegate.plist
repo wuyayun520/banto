@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticasset</key>
+	<string>threadFlyweight</string>
+	<key>mainInteger</key>
+	<string>wrapSize</string>
+	<key>mendCount</key>
+	<string>canDisconnectInstruction</string>
+	<key>multiChannel</key>
+	<string>prevNotation</string>
+	<key>reactiveTouch</key>
+	<string>transitionGram</string>
+	<key>richtextmatrix</key>
+	<string>resizableProcessor</string>
+	<key>shouldReplaceUnary</key>
+	<string>futureStructure</string>
+	<key>shouldUpdateSensor</key>
+	<string>mitigateConstraint</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableOverlay</key>
+	<string>gestureFlags</string>
+	<key>durationLeft</key>
+	<string>shouldValidateMedia</string>
+	<key>fusedTrigger</key>
+	<string>modellikelayer</string>
+	<key>hasTechnique</key>
+	<string>pinchableprovider</string>
+	<key>hyperbolicInkWell</key>
+	<string>autoView</string>
+	<key>mutableHero</key>
+	<string>semanticRadio</string>
+	<key>pivotalConstraint</key>
+	<string>trainEqualization</string>
+</dict>
+</plist>

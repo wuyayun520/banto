@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorstatus</key>
+	<string>columnforce</string>
+	<key>elasticEvolution</key>
+	<string>autoProgressBar</string>
+	<key>progressbarLeft</key>
+	<string>originalloader</string>
+	<key>publisherVisible</key>
+	<string>navigatorcoord</string>
+	<key>symmetricPlayback</key>
+	<string>permutationCoord</string>
+</dict>
+</plist>

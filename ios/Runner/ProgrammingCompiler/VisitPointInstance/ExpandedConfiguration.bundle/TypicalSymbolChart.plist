@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customCharacter</key>
+	<string>integerresolver</string>
+	<key>decorationoutsidejob</key>
+	<string>activateButton</string>
+	<key>inactiveBuilder</key>
+	<string>permanentLoader</string>
+	<key>nextCollection</key>
+	<string>currentstoryboard</string>
+	<key>primaryMaterializer</key>
+	<string>clusterType</string>
+	<key>spotnearadapter</key>
+	<string>sampleJob</string>
+	<key>viewtypescale</key>
+	<string>uniqueStep</string>
+</dict>
+</plist>

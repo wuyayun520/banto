@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledContrast</key>
+	<string>consumerRotation</string>
+	<key>firstImpression</key>
+	<string>continueLayout</string>
+	<key>intensityposition</key>
+	<string>modalVelocity</string>
+	<key>scaffoldSpeed</key>
+	<string>otherScroller</string>
+	<key>smartImage</key>
+	<string>cancelMobile</string>
+	<key>unactivatedlogdelay</key>
+	<string>cartesianContraction</string>
+</dict>
+</plist>

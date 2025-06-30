@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedtopicinset</key>
+	<string>shouldBindBoxShadow</string>
+	<key>callbackresponse</key>
+	<string>boxshadowinteraction</string>
+	<key>geometricChannel</key>
+	<string>normCenter</string>
+	<key>nativeFinder</key>
+	<string>transformTouch</string>
+	<key>rapidPrecision</key>
+	<string>navigateBase</string>
+	<key>routerrate</key>
+	<string>bundleDelegate</string>
+	<key>shouldShowView</key>
+	<string>shouldReplaceBrush</string>
+</dict>
+</plist>

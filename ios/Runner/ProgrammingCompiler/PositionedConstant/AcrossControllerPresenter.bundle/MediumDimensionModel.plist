@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticSplitter</key>
+	<string>presentervelocity</string>
+	<key>finishinterface</key>
+	<string>fetchLog</string>
+	<key>fragmentsFrequency</key>
+	<string>singletonChain</string>
+	<key>modelstructurecoord</key>
+	<string>buttonbystrategy</string>
+	<key>navigatortypecoord</key>
+	<string>widgetOffset</string>
+	<key>shouldEndBullet</key>
+	<string>mixinHandler</string>
+	<key>shouldLoadCube</key>
+	<string>shouldTransformTransition</string>
+</dict>
+</plist>

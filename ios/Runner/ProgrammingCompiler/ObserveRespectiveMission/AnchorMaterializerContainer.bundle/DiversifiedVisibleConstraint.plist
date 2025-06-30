@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheInteraction</key>
+	<string>profileheap</string>
+	<key>groupKind</key>
+	<string>shouldSerializeDrawer</string>
+	<key>lostsignopacity</key>
+	<string>custompaintVar</string>
+	<key>pinchableprogressbar</key>
+	<string>unmountedcache</string>
+	<key>shouldTrainModal</key>
+	<string>fusedNotification</string>
+	<key>subtlePermutation</key>
+	<string>locatelistview</string>
+	<key>symmetricStateful</key>
+	<string>asyncposition</string>
+</dict>
+</plist>

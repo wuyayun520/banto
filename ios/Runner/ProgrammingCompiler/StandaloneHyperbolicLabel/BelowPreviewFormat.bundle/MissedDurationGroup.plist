@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeconnector</key>
+	<string>referenceFeedback</string>
+	<key>popupdelay</key>
+	<string>agilebloc</string>
+	<key>queuestate</key>
+	<string>canSerializePositioned</string>
+	<key>shouldFormatEffect</key>
+	<string>interpolationgraph</string>
+	<key>similarshader</key>
+	<string>createlogarithm</string>
+	<key>subtleDisclaimer</key>
+	<string>shouldLayoutRole</string>
+	<key>textenvironmentname</key>
+	<string>hasView</string>
+</dict>
+</plist>

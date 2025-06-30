@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralMend</key>
+	<string>mapperOrientation</string>
+	<key>explicitResolver</key>
+	<string>addInteractor</string>
+	<key>factoryflyweightspeed</key>
+	<string>criticalSearcher</string>
+	<key>invisibleElasticity</key>
+	<string>deferredRole</string>
+	<key>notifierType</key>
+	<string>localMend</string>
+	<key>otherDimension</key>
+	<string>staticScenario</string>
+	<key>publicSprite</key>
+	<string>shouldpreparecoordinator</string>
+	<key>shouldPersistOverlay</key>
+	<string>featureactionrate</string>
+	<key>timerstatus</key>
+	<string>sequentialStroke</string>
+</dict>
+</plist>

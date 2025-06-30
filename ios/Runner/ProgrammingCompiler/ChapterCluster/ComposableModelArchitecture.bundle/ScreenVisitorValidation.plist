@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intensityslider</key>
+	<string>permutationColor</string>
+	<key>layoutShade</key>
+	<string>checkHandler</string>
+	<key>reusableJoiner</key>
+	<string>semanticBox</string>
+	<key>shouldRouteMargin</key>
+	<string>shouldSubscribeView</string>
+	<key>subsequentStorage</key>
+	<string>delicateGrid</string>
+</dict>
+</plist>

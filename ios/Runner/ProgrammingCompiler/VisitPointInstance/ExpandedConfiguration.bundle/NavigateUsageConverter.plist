@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilemodal</key>
+	<string>directCheckbox</string>
+	<key>blocPressure</key>
+	<string>shouldRebuildInstruction</string>
+	<key>composableisolate</key>
+	<string>basemetrics</string>
+	<key>groupscopemargin</key>
+	<string>displayableChapter</string>
+	<key>interpolationStatus</key>
+	<string>canTransitionCoordinator</string>
+	<key>quantizercertificate</key>
+	<string>escalateResolver</string>
+	<key>queueBottom</key>
+	<string>equipmentJob</string>
+	<key>resilienceleft</key>
+	<string>documentJob</string>
+	<key>spotjoiner</key>
+	<string>brushDepth</string>
+</dict>
+</plist>

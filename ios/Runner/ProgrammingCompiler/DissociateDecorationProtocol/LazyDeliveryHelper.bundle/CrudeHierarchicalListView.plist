@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatestorage</key>
+	<string>resilientUseCase</string>
+	<key>cubeBorder</key>
+	<string>sharedAppBar</string>
+	<key>methodRight</key>
+	<string>listenershade</string>
+	<key>optionnearprocess</key>
+	<string>scrollableChapter</string>
+	<key>permanentImpression</key>
+	<string>firstModel</string>
+	<key>sampleForce</key>
+	<string>setstateMovement</string>
+	<key>statefulMatrix</key>
+	<string>secondChart</string>
+</dict>
+</plist>

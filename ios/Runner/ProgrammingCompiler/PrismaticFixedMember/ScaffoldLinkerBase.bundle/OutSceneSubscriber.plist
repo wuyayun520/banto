@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleview</key>
+	<string>modulusSpacing</string>
+	<key>immutableNorm</key>
+	<string>missionSkewX</string>
+	<key>liteHash</key>
+	<string>associatedProcessor</string>
+	<key>shouldStreamConstraint</key>
+	<string>onspinechanged</string>
+	<key>shouldSubscribeRole</key>
+	<string>routelocalization</string>
+	<key>titleTail</key>
+	<string>shouldListenRadio</string>
+	<key>uniformDuration</key>
+	<string>canStreamStream</string>
+</dict>
+</plist>

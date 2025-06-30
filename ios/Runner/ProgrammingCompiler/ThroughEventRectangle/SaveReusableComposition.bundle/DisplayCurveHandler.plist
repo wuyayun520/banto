@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableGroup</key>
+	<string>sortedElasticity</string>
+	<key>numericalResult</key>
+	<string>consultativeReceiver</string>
+	<key>shouldCancelSegue</key>
+	<string>memberBuffer</string>
+	<key>shouldEndMovement</key>
+	<string>reconcileSprite</string>
+	<key>shouldProcessOverlay</key>
+	<string>unmarshalPopup</string>
+	<key>shouldReplaceTouch</key>
+	<string>hasSkirt</string>
+	<key>swiftTension</key>
+	<string>mountEqualization</string>
+	<key>traversalAlignment</key>
+	<string>chaptertheme</string>
+</dict>
+</plist>

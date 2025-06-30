@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoQueue</key>
+	<string>topicAdapter</string>
+	<key>shouldDismissEqualization</key>
+	<string>permanentremediation</string>
+	<key>shouldEndCycle</key>
+	<string>firstSizedBox</string>
+	<key>smallMusic</key>
+	<string>lazyRow</string>
+	<key>sophisticatedDropdownButton</key>
+	<string>checkSlider</string>
+	<key>techniqueSpacing</key>
+	<string>chooserHead</string>
+	<key>temporaryBullet</key>
+	<string>temporarytweak</string>
+</dict>
+</plist>

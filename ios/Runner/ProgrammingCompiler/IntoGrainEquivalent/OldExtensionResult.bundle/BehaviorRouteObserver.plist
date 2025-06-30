@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customAccessory</key>
+	<string>canPushController</string>
+	<key>prioritytask</key>
+	<string>operationRotation</string>
+	<key>transitionOrientation</key>
+	<string>specifierBound</string>
+	<key>unactivatedSingleton</key>
+	<string>denseGestureDetector</string>
+	<key>widgetparticle</key>
+	<string>providerObserver</string>
+</dict>
+</plist>

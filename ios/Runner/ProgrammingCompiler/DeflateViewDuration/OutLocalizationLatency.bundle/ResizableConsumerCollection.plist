@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedNotification</key>
+	<string>sequentialOption</string>
+	<key>factoryviavariable</key>
+	<string>modalBehavior</string>
+	<key>menddistance</key>
+	<string>sliderfactory</string>
+	<key>projectMode</key>
+	<string>sceneContrast</string>
+	<key>reusableCell</key>
+	<string>canResumeAnimation</string>
+	<key>scenarioAlignment</key>
+	<string>sampleTension</string>
+	<key>shapeBorder</key>
+	<string>imperativeProfile</string>
+	<key>similarCheckbox</key>
+	<string>awaitMode</string>
+	<key>standalonelossmode</key>
+	<string>labelInterpreter</string>
+	<key>visibleDuration</key>
+	<string>shouldLoadMediaQuery</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchVisibility</key>
+	<string>shaderstructureflags</string>
+	<key>commonstate</key>
+	<string>backwardSegue</string>
+	<key>layoutshader</key>
+	<string>elasticInterface</string>
+	<key>missionBehavior</key>
+	<string>subscribeCapacities</string>
+	<key>shouldResumeRadio</key>
+	<string>canYieldMatrix</string>
+	<key>smartloop</key>
+	<string>updateSample</string>
+	<key>triggerOrientation</key>
+	<string>intermediateRecursion</string>
+	<key>unaryTension</key>
+	<string>roleContrast</string>
+</dict>
+</plist>

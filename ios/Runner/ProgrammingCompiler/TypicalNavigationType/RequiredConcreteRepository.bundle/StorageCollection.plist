@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleInfo</key>
+	<string>shouldNavigateTouch</string>
+	<key>blocintegrity</key>
+	<string>granularPopup</string>
+	<key>dialogsstatus</key>
+	<string>relationalsprite</string>
+	<key>encodemodulus</key>
+	<string>cellLeft</string>
+	<key>inheritedClipper</key>
+	<string>visibleCycle</string>
+	<key>logEdge</key>
+	<string>similarSwitch</string>
+	<key>persistentGraph</key>
+	<string>animatedcontainerDirection</string>
+	<key>rapidFinder</key>
+	<string>radioCycle</string>
+	<key>stackPressure</key>
+	<string>discoverText</string>
+</dict>
+</plist>

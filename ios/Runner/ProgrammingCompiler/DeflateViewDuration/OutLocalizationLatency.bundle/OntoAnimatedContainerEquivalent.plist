@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseduringstrategy</key>
+	<string>shouldUnbindSine</string>
+	<key>descriptionmodetop</key>
+	<string>canFinishBaseline</string>
+	<key>largestate</key>
+	<string>flexibleIntegrity</string>
+	<key>matrixshade</key>
+	<string>allocatorparametervisibility</string>
+	<key>permanentReliability</key>
+	<string>canDeserializeSignature</string>
+	<key>robustCallback</key>
+	<string>shouldunmountcontraction</string>
+	<key>shouldUnbindSpot</key>
+	<string>nodeofjob</string>
+	<key>textfieldshade</key>
+	<string>injectBuffer</string>
+	<key>timelineInteraction</key>
+	<string>permanentpoint</string>
+	<key>toleranceFlags</key>
+	<string>frameconsumer</string>
+</dict>
+</plist>

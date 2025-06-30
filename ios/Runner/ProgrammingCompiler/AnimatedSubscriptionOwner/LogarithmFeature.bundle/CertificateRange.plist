@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerInstruction</key>
+	<string>entitydrawer</string>
+	<key>concurrentLifecycle</key>
+	<string>granularAsset</string>
+	<key>delicateUseCase</key>
+	<string>shouldValidateLabel</string>
+	<key>opaqueRoute</key>
+	<string>informationEdge</string>
+	<key>profileTag</key>
+	<string>visibleoffsetshape</string>
+	<key>reactiveColumn</key>
+	<string>capacitySkewX</string>
+	<key>smalllistenerorientation</key>
+	<string>imperativetopicsize</string>
+</dict>
+</plist>

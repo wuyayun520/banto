@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardQueue</key>
+	<string>synchronousCanvas</string>
+	<key>giftSaturation</key>
+	<string>curveBehavior</string>
+	<key>immediateMovement</key>
+	<string>mobileIcon</string>
+	<key>immutableUseCase</key>
+	<string>subscribethread</string>
+	<key>primaryMedia</key>
+	<string>canBindMatrix</string>
+	<key>routeplatformname</key>
+	<string>canDecodeMap</string>
+	<key>spotbuffertint</key>
+	<string>shouldSaveDuration</string>
+	<key>taskFlags</key>
+	<string>shouldUnmountedPet</string>
+</dict>
+</plist>

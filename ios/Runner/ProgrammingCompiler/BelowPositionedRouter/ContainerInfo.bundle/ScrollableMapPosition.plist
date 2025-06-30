@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticThreshold</key>
+	<string>hardCharacteristic</string>
+	<key>intuitiveresolver</key>
+	<string>promiseSingleton</string>
+	<key>largemodelskewy</key>
+	<string>trainCoordinator</string>
+	<key>lifecycleVisibility</key>
+	<string>adjustText</string>
+	<key>newestSound</key>
+	<string>selectedprojection</string>
+	<key>poplabel</key>
+	<string>serializefuture</string>
+	<key>retainedReplica</key>
+	<string>mainCharacter</string>
+	<key>shouldNavigateAxis</key>
+	<string>enabledchooser</string>
+	<key>tableMomentum</key>
+	<string>texturereliability</string>
+</dict>
+</plist>

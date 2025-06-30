@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalScope</key>
+	<string>canCreateGesture</string>
+	<key>hasresource</key>
+	<string>startIcon</string>
+	<key>secondHero</key>
+	<string>diffabletexture</string>
+	<key>serviceopacity</key>
+	<string>pausesine</string>
+	<key>shouldattachvariant</key>
+	<string>diffablebuilderorigin</string>
+</dict>
+</plist>

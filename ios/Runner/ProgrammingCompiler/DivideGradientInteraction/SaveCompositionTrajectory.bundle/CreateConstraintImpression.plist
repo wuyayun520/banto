@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicMediaQuery</key>
+	<string>customizedTabBar</string>
+	<key>commonprocessor</key>
+	<string>commonSkin</string>
+	<key>errorprovider</key>
+	<string>lazyTweak</string>
+	<key>lastconsumer</key>
+	<string>adaptivegradienttransparency</string>
+	<key>rapidNavigator</key>
+	<string>mainThroughput</string>
+	<key>servicefromstage</key>
+	<string>nodeDecorator</string>
+</dict>
+</plist>

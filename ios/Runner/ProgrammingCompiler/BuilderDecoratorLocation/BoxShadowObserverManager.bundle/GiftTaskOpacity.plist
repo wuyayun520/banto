@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianWidget</key>
+	<string>comprehensiveSize</string>
+	<key>disabledslider</key>
+	<string>shouldPauseMatrix</string>
+	<key>dynamicParticle</key>
+	<string>tangentTransparency</string>
+	<key>methodmodevisibility</key>
+	<string>canEndSpine</string>
+	<key>nativeswitch</key>
+	<string>unbindvariant</string>
+	<key>ondropdownbuttontap</key>
+	<string>collectionSaturation</string>
+	<key>shouldParseSegment</key>
+	<string>canObserveRemainder</string>
+	<key>spineofcomposite</key>
+	<string>trajectoryinteraction</string>
+	<key>tensorIntensity</key>
+	<string>descriptorfrequency</string>
+</dict>
+</plist>

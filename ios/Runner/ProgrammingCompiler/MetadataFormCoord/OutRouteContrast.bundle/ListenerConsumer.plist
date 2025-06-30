@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureduration</key>
+	<string>lazyNode</string>
+	<key>capsulesplitter</key>
+	<string>commonTentative</string>
+	<key>commonEfficiency</key>
+	<string>tappableRow</string>
+	<key>consultativeOccasion</key>
+	<string>canLoadAnimation</string>
+	<key>materializerflags</key>
+	<string>streamlineLocalization</string>
+	<key>mounttransition</key>
+	<string>canLayoutMaster</string>
+	<key>shouldPrepareAccessory</key>
+	<string>materialopacity</string>
+	<key>shouldendmaster</key>
+	<string>shouldStopTransition</string>
+	<key>significantMobile</key>
+	<string>shouldFetchSlash</string>
+</dict>
+</plist>

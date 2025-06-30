@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedbutton</key>
+	<string>stackposition</string>
+	<key>consultativeDropdownButton</key>
+	<string>retainMethod</string>
+	<key>criticalReceiver</key>
+	<string>builderBuffer</string>
+	<key>diffableGraphic</key>
+	<string>viewfeedback</string>
+	<key>statefulElement</key>
+	<string>modelJob</string>
+	<key>substantialInkWell</key>
+	<string>canEmitReduction</string>
+	<key>webSpot</key>
+	<string>replicaDensity</string>
+</dict>
+</plist>

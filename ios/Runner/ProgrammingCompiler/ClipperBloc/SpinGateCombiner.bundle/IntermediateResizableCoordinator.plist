@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterrect</key>
+	<string>staticEvolution</string>
+	<key>fragmentscenter</key>
+	<string>offsetForm</string>
+	<key>mapSkewX</key>
+	<string>shouldDispatchSample</string>
+	<key>resilientBrush</key>
+	<string>uniqueSample</string>
+</dict>
+</plist>

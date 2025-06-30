@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeTime</key>
+	<string>hierarchicalProfile</string>
+	<key>geometricLinker</key>
+	<string>enabledmapper</string>
+	<key>interfaceopacity</key>
+	<string>threadAcceleration</string>
+	<key>nativeBrush</key>
+	<string>projectSpacing</string>
+	<key>seamlessBandwidth</key>
+	<string>formatKernel</string>
+	<key>sinkrotation</key>
+	<string>shouldConnectSignature</string>
+	<key>tappableLinker</key>
+	<string>accessibleMember</string>
+	<key>webhashalignment</key>
+	<string>respondAwait</string>
+</dict>
+</plist>

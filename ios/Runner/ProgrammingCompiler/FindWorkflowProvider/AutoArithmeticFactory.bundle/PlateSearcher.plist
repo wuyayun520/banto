@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintstate</key>
+	<string>cursorOpacity</string>
+	<key>greatScope</key>
+	<string>interactivebase</string>
+	<key>publishwidget</key>
+	<string>unsortedStack</string>
+	<key>remediationOrientation</key>
+	<string>inheritedVertex</string>
+	<key>setstateconstraint</key>
+	<string>discardedSwitch</string>
+	<key>shouldUnmountedSegment</key>
+	<string>shouldPresentGesture</string>
+</dict>
+</plist>

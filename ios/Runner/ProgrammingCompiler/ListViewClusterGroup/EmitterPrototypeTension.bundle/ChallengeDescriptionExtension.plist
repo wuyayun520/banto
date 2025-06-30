@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsvisible</key>
+	<string>otherPresenter</string>
+	<key>greatConfidentiality</key>
+	<string>mediumDuration</string>
+	<key>multiImage</key>
+	<string>hasThread</string>
+	<key>pivotalText</key>
+	<string>hardStateful</string>
+	<key>priorityMargin</key>
+	<string>rowMomentum</string>
+	<key>rectbound</key>
+	<string>hasTheme</string>
+	<key>resilientaperturedensity</key>
+	<string>handleCubit</string>
+	<key>shouldPrepareCanvas</key>
+	<string>scaleForce</string>
+	<key>standalonePrecision</key>
+	<string>showDropdownButton</string>
+</dict>
+</plist>

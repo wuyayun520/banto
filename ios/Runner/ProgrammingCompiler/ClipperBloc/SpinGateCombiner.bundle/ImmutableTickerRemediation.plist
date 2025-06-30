@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actiontheme</key>
+	<string>associatedPrecision</string>
+	<key>adaptiveScene</key>
+	<string>polyfillAppearance</string>
+	<key>animatedcontainerwidget</key>
+	<string>observePoint</string>
+	<key>constraintreceiver</key>
+	<string>canCacheConvolution</string>
+	<key>easyGraph</key>
+	<string>firstRadio</string>
+	<key>oldMechanism</key>
+	<string>binaryMediator</string>
+	<key>synchronousPainter</key>
+	<string>canPersistDialogs</string>
+	<key>tensorsplitter</key>
+	<string>stackBuffer</string>
+</dict>
+</plist>

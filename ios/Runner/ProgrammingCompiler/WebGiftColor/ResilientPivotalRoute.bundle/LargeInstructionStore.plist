@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeSegment</key>
+	<string>fixedHandler</string>
+	<key>gesturedetectortentative</key>
+	<string>concurrentDispatcher</string>
+	<key>graphicwithoutmemento</key>
+	<string>builderResponse</string>
+	<key>nativedrawer</key>
+	<string>canDecodeSample</string>
+	<key>vertexMomentum</key>
+	<string>ephemeraltabviewvisible</string>
+</dict>
+</plist>

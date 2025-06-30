@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentLocation</key>
+	<string>canAttachNib</string>
+	<key>blocFrequency</key>
+	<string>directlyPicker</string>
+	<key>largeProtocol</key>
+	<string>animatedcontainerCoord</string>
+	<key>meshKind</key>
+	<string>featureasstructure</string>
+	<key>protocolSpacing</key>
+	<string>shouldDisconnectSensor</string>
+	<key>roleinset</key>
+	<string>displayableFragment</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticEntropy</key>
+	<string>connectSizedBox</string>
+	<key>basicResponse</key>
+	<string>consumercount</string>
+	<key>customizedWidget</key>
+	<string>encapsulateInjection</string>
+	<key>eagerAlert</key>
+	<string>shouldProcessCheckbox</string>
+	<key>robustOverlay</key>
+	<string>layoutPlatform</string>
+	<key>symmetricSingleton</key>
+	<string>textfieldbuilder</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxfrequency</key>
+	<string>desktopRadio</string>
+	<key>criticalRestriction</key>
+	<string>rectAlignment</string>
+	<key>dispatcherBrightness</key>
+	<string>relationalCapacity</string>
+	<key>seamlessRequest</key>
+	<string>visitchecklist</string>
+	<key>shouldDecodeTheme</key>
+	<string>webFilter</string>
+	<key>singletonscopemomentum</key>
+	<string>mobileBitrate</string>
+	<key>tappableSize</key>
+	<string>gridviewerror</string>
+	<key>tweakScale</key>
+	<string>notifyConstraint</string>
+	<key>widgetstroke</key>
+	<string>ignoredBuffer</string>
+</dict>
+</plist>

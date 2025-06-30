@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentShape</key>
+	<string>paintSpot</string>
+	<key>fixedGate</key>
+	<string>listenStack</string>
+	<key>iterativeInterpolation</key>
+	<string>shouldConnectSegue</string>
+	<key>mobileScalability</key>
+	<string>chapterrectangle</string>
+	<key>respectiveTabView</key>
+	<string>animateChapter</string>
+	<key>shouldAttachAnchor</key>
+	<string>checklistLeft</string>
+	<key>shouldDecodeInterpolation</key>
+	<string>specifyAnimator</string>
+	<key>skinTheme</key>
+	<string>boxtransparency</string>
+</dict>
+</plist>

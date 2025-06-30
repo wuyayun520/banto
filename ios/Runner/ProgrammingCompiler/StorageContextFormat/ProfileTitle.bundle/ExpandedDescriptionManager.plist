@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>publicRange</key>
+	<string>animationreliability</string>
+	<key>searcherSkewY</key>
+	<string>intermediateDetector</string>
+	<key>shouldMountDocument</key>
+	<string>canFormatScale</string>
+	<key>subsequentDispatcher</key>
+	<string>invisibleTransformer</string>
+	<key>tappablesink</key>
+	<string>cardfeedback</string>
+	<key>videoTail</key>
+	<string>persistentMesh</string>
+</dict>
+</plist>

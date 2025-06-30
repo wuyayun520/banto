@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heapStyle</key>
+	<string>numericalAxis</string>
+	<key>protectedcanvas</key>
+	<string>bundleFuture</string>
+	<key>serviceMomentum</key>
+	<string>sophisticatedPageView</string>
+	<key>shouldParseTernary</key>
+	<string>accessibleModal</string>
+	<key>shouldRebuildCaption</key>
+	<string>unmountBrush</string>
+	<key>shouldStartHistogram</key>
+	<string>bindClipper</string>
+	<key>shouldTransitionKernel</key>
+	<string>newestAnimator</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentAnchor</key>
+	<string>projectionborder</string>
+	<key>coordinatorInteraction</key>
+	<string>synchronousOperation</string>
+	<key>descriptionrotation</key>
+	<string>canLayoutIndicator</string>
+	<key>gembridgemargin</key>
+	<string>canFetchStream</string>
+	<key>granularFrame</key>
+	<string>shouldConnectSign</string>
+	<key>interactiveMediaQuery</key>
+	<string>pendingFuture</string>
+	<key>radiusFrequency</key>
+	<string>canLoadCapacities</string>
+	<key>shouldContinueMargin</key>
+	<string>subtleCanvas</string>
+	<key>transitioncommandshade</key>
+	<string>durationfacadescale</string>
+</dict>
+</plist>

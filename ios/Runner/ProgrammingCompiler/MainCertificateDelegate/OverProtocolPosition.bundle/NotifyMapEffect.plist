@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerincludecomposite</key>
+	<string>canShowMonster</string>
+	<key>directformat</key>
+	<string>diversifiedNotation</string>
+	<key>routeBehavior</key>
+	<string>resolvecube</string>
+	<key>seamlessDetail</key>
+	<string>publisherMode</string>
+	<key>shouldMountedTouch</key>
+	<string>colorFlags</string>
+	<key>shouldRenderSession</key>
+	<string>animatedcontainerLayer</string>
+	<key>temporaryColumn</key>
+	<string>isolateLeft</string>
+	<key>uniqueiconorientation</key>
+	<string>canStopWidget</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeFactory</key>
+	<string>syncmethod</string>
+	<key>finishinterpolation</key>
+	<string>disconnectoperation</string>
+	<key>kernelSkewY</key>
+	<string>shouldDisconnectMission</string>
+	<key>previewenvironmentmargin</key>
+	<string>serializeChart</string>
+	<key>previewwithoutshape</key>
+	<string>shouldDeserializeSkin</string>
+	<key>requestMode</key>
+	<string>detachSpine</string>
+	<key>shouldKeepSegment</key>
+	<string>methodduration</string>
+	<key>shouldValidateAlpha</key>
+	<string>continueallocator</string>
+	<key>similarPoint</key>
+	<string>generateStream</string>
+</dict>
+</plist>

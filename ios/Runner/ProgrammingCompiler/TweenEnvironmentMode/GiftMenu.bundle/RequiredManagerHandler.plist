@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintformmode</key>
+	<string>keepStateful</string>
+	<key>controllerKind</key>
+	<string>enhanceticker</string>
+	<key>densenormforce</key>
+	<string>receivermargin</string>
+	<key>easySchema</key>
+	<string>gestureinset</string>
+	<key>notationRight</key>
+	<string>immediatescaffoldoffset</string>
+	<key>scrollpadding</key>
+	<string>addUtil</string>
+	<key>transformerinterpretershade</key>
+	<string>synchronizeManager</string>
+	<key>usedcontractioncolor</key>
+	<string>decoupleIntensity</string>
+</dict>
+</plist>

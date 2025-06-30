@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorprovider</key>
+	<string>missedMethod</string>
+	<key>inheritedSegue</key>
+	<string>particlecount</string>
+	<key>intuitiveRecursion</key>
+	<string>popBitrate</string>
+	<key>lastBitrate</key>
+	<string>lostAnalyzer</string>
+	<key>shouldTransitionIcon</key>
+	<string>euclideanGrain</string>
+	<key>unmountedcompletion</key>
+	<string>checklistAppearance</string>
+	<key>wrapperDuration</key>
+	<string>markStorage</string>
+</dict>
+</plist>

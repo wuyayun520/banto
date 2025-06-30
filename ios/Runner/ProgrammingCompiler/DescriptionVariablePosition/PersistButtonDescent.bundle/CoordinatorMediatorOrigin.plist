@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantDistance</key>
+	<string>movementMediator</string>
+	<key>isolateStyle</key>
+	<string>instantiateGrain</string>
+	<key>listviewstyle</key>
+	<string>canEncodeStream</string>
+	<key>observerstrength</key>
+	<string>asyncuntilmemento</string>
+	<key>playbackprototypetail</key>
+	<string>labelagainstadapter</string>
+	<key>shouldFormatProject</key>
+	<string>canMountedDrawer</string>
+	<key>specifyGram</key>
+	<string>endLoss</string>
+</dict>
+</plist>

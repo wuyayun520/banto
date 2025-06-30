@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatormode</key>
+	<string>shouldShowCupertino</string>
+	<key>dynamicTweak</key>
+	<string>painteruntilkind</string>
+	<key>effectatfacade</key>
+	<string>wrapscene</string>
+	<key>introspectprovider</key>
+	<string>pauseDocument</string>
+	<key>liteconsumer</key>
+	<string>generateDuration</string>
+	<key>lossHue</key>
+	<string>invokeStorage</string>
+	<key>priorityStyle</key>
+	<string>catalystShade</string>
+	<key>rapidNode</key>
+	<string>shouldSaveContraction</string>
+	<key>typicalTrajectory</key>
+	<string>shouldDetachStateless</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedCustomPaint</key>
+	<string>curvetempleshape</string>
+	<key>methodplatformsize</key>
+	<string>encodeStateless</string>
+	<key>roworientation</key>
+	<string>nibShape</string>
+</dict>
+</plist>

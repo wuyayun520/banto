@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedselector</key>
+	<string>activatedLog</string>
+	<key>dropdownbuttonlocation</key>
+	<string>shouldEncodeTouch</string>
+	<key>localtabview</key>
+	<string>hashsingletonbound</string>
+	<key>normalModel</key>
+	<string>shouldshowentropy</string>
+	<key>notifyprogressbar</key>
+	<string>presentthread</string>
+	<key>profilethroughscope</key>
+	<string>delegatelog</string>
+	<key>shouldInflateFragment</key>
+	<string>shaderCycle</string>
+	<key>shouldRestartBitrate</key>
+	<string>newestmediaquery</string>
+	<key>shouldValidateMultiplication</key>
+	<string>observeStateless</string>
+	<key>sorterValidation</key>
+	<string>alignmentLocation</string>
+</dict>
+</plist>

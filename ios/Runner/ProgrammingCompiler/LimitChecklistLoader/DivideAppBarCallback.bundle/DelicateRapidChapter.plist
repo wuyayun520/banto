@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindutil</key>
+	<string>readFrame</string>
+	<key>elasticAlpha</key>
+	<string>deliveryBound</string>
+	<key>inactiveCreator</key>
+	<string>lastResolver</string>
+	<key>mobileRecursion</key>
+	<string>seamlessDetector</string>
+	<key>scrollablemargin</key>
+	<string>menuoperationmode</string>
+	<key>standaloneSink</key>
+	<string>movementleft</string>
+</dict>
+</plist>

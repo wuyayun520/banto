@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopItem</key>
+	<string>standaloneLayer</string>
+	<key>directLocalization</key>
+	<string>shouldunmountedclipper</string>
+	<key>impressionDirection</key>
+	<string>canUnmountCollection</string>
+	<key>presentertheme</key>
+	<string>cacheMedia</string>
+	<key>robustdistinction</key>
+	<string>storageValue</string>
+	<key>shouldConnectCatalyst</key>
+	<string>confidentialityPadding</string>
+	<key>transitionspacing</key>
+	<string>canvasValidation</string>
+</dict>
+</plist>

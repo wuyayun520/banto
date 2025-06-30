@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartincludefacade</key>
+	<string>resilienceSaturation</string>
+	<key>delicateSize</key>
+	<string>lossDepth</string>
+	<key>finderDepth</key>
+	<string>canDismissMember</string>
+	<key>numericalAperture</key>
+	<string>zonescenario</string>
+	<key>shouldDecodeListView</key>
+	<string>overrideInteractor</string>
+	<key>subtleFrame</key>
+	<string>keyDescription</string>
+</dict>
+</plist>

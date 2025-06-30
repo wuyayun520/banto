@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalIntegrity</key>
+	<string>interceptzone</string>
+	<key>immediateAsync</key>
+	<string>requestTag</string>
+	<key>paddinglocalization</key>
+	<string>backwardMethod</string>
+	<key>scrollableRestriction</key>
+	<string>buildSlider</string>
+	<key>seguechainduration</key>
+	<string>lazyrectangle</string>
+	<key>selecteddimension</key>
+	<string>curveproxyformat</string>
+	<key>webDistinction</key>
+	<string>shouldDetachAlpha</string>
+</dict>
+</plist>

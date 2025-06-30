@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTraversal</key>
+	<string>executeListener</string>
+	<key>denseCombiner</key>
+	<string>overlayMemento</string>
+	<key>difficultPreview</key>
+	<string>colorvisibility</string>
+	<key>firstawait</key>
+	<string>newestGroup</string>
+	<key>frameduration</key>
+	<string>cellMethod</string>
+	<key>labelName</key>
+	<string>injectionMemento</string>
+	<key>protectedSound</key>
+	<string>liteAspectRatio</string>
+	<key>responsiveAperture</key>
+	<string>currentCustomPaint</string>
+	<key>screenwidget</key>
+	<string>shouldTransformCube</string>
+</dict>
+</plist>

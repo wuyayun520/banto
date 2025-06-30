@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorName</key>
+	<string>debugBuffer</string>
+	<key>displayableResult</key>
+	<string>sinkplatformorigin</string>
+	<key>fixedResponse</key>
+	<string>respectiveAction</string>
+	<key>keyMend</key>
+	<string>shouldFormatSkirt</string>
+	<key>rangevisible</key>
+	<string>visibleBuffer</string>
+	<key>shouldDeserializeTextField</key>
+	<string>presentertraversal</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertinteraction</key>
+	<string>shouldPresentSignature</string>
+	<key>checkboxAcceleration</key>
+	<string>backwardProtocol</string>
+	<key>delicatemetrics</key>
+	<string>issine</string>
+	<key>dispatcherKind</key>
+	<string>rowLevel</string>
+	<key>keyCache</key>
+	<string>constraintstagebottom</string>
+	<key>observepromise</key>
+	<string>usedSearcher</string>
+	<key>resilientDelivery</key>
+	<string>shouldSetStateComposition</string>
+	<key>substantialNotification</key>
+	<string>elementPadding</string>
+	<key>vectorscopevalidation</key>
+	<string>reconcileMethod</string>
+</dict>
+</plist>

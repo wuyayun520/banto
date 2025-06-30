@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarName</key>
+	<string>robustdisclaimer</string>
+	<key>autoAnalyzer</key>
+	<string>routechaincount</string>
+	<key>declarativeExpanded</key>
+	<string>shouldYieldNotification</string>
+	<key>groupPadding</key>
+	<string>mainnavigatorhead</string>
+	<key>immutableContraction</key>
+	<string>usedTween</string>
+	<key>memberDistance</key>
+	<string>lastZone</string>
+	<key>robustGrid</key>
+	<string>shouldRenderOperation</string>
+	<key>shouldConnectSegue</key>
+	<string>loopEdge</string>
+	<key>shouldFetchGate</key>
+	<string>cupertinoDecorator</string>
+	<key>similarTransformer</key>
+	<string>shouldEndSubpixel</string>
+</dict>
+</plist>

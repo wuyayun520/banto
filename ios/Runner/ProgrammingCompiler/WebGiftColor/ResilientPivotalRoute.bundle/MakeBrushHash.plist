@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotateexponent</key>
+	<string>crucialBuffer</string>
+	<key>descriptorInterval</key>
+	<string>navigatorappearance</string>
+	<key>explicitFactory</key>
+	<string>shouldPrepareArithmetic</string>
+	<key>respondervisible</key>
+	<string>showProjection</string>
+	<key>semanticChallenge</key>
+	<string>immediatescope</string>
+	<key>shouldListenContainer</key>
+	<string>mendtint</string>
+	<key>traversalDelay</key>
+	<string>startInteger</string>
+</dict>
+</plist>

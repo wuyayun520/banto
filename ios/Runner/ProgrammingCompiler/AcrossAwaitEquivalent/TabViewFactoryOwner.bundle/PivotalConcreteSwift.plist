@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentChooser</key>
+	<string>previewasstrategy</string>
+	<key>mediocreanimationpressure</key>
+	<string>substantialScale</string>
+	<key>protectedPicker</key>
+	<string>encapsulatecurve</string>
+	<key>retainedcoordinator</key>
+	<string>showMobile</string>
+	<key>shouldDispatchStack</key>
+	<string>channelsNumber</string>
+	<key>shouldLayoutMediaQuery</key>
+	<string>shouldShowRadio</string>
+	<key>smartsound</key>
+	<string>expandedSaturation</string>
+	<key>toleranceRate</key>
+	<string>numericalCube</string>
+</dict>
+</plist>

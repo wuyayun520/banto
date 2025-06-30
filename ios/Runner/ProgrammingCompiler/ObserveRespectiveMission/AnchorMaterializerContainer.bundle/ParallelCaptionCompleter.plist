@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSchema</key>
+	<string>originalRepository</string>
+	<key>cartesianExponent</key>
+	<string>featureJob</string>
+	<key>defaultcurve</key>
+	<string>mobileflags</string>
+	<key>informationValidation</key>
+	<string>calculateAlignment</string>
+	<key>shouldFetchMonster</key>
+	<string>independentImage</string>
+</dict>
+</plist>

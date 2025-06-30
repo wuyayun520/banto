@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioalignment</key>
+	<string>explicitAnimatedContainer</string>
+	<key>crudeInformation</key>
+	<string>shouldStreamUsage</string>
+	<key>inactiveNorm</key>
+	<string>numericalBrush</string>
+	<key>largeInformation</key>
+	<string>lastSemantics</string>
+	<key>nextmatrix</key>
+	<string>normalTitle</string>
+	<key>shouldPersistSlash</key>
+	<string>declarativeTraversal</string>
+	<key>shouldpaintnotifier</key>
+	<string>normtheme</string>
+</dict>
+</plist>

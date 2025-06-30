@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderVisibility</key>
+	<string>canStopTask</string>
+	<key>buttonPadding</key>
+	<string>animatorVelocity</string>
+	<key>draggableCupertino</key>
+	<string>disabledAnalyzer</string>
+	<key>fixedAmortization</key>
+	<string>widgetContext</string>
+	<key>fragmentDirection</key>
+	<string>restartSignature</string>
+	<key>immutableBuilder</key>
+	<string>scrollmode</string>
+	<key>routerDirection</key>
+	<string>composableentropy</string>
+	<key>statelessMedia</key>
+	<string>splitterTop</string>
+	<key>unsortedScenario</key>
+	<string>shouldResumeMaterial</string>
+</dict>
+</plist>

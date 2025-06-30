@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsShade</key>
+	<string>uniformScroller</string>
+	<key>compositionalRecursion</key>
+	<string>shouldUnmountedReduction</string>
+	<key>cubitCenter</key>
+	<string>unsortedAllocator</string>
+	<key>fragmentsShade</key>
+	<string>stepDepth</string>
+	<key>precisionForce</key>
+	<string>shouldUnmountPadding</string>
+	<key>scalabilityTransparency</key>
+	<string>activateddependencyvalidation</string>
+	<key>shouldRebuildGem</key>
+	<string>plateType</string>
+</dict>
+</plist>

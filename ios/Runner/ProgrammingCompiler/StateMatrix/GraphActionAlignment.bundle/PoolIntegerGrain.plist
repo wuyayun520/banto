@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubepopup</key>
+	<string>canNavigateCosine</string>
+	<key>difficultcreator</key>
+	<string>canSubscribeBinary</string>
+	<key>ephemeralMethod</key>
+	<string>reducerlinker</string>
+	<key>factorydecoratorvisible</key>
+	<string>materializerTint</string>
+	<key>imageContrast</key>
+	<string>sessionAppearance</string>
+	<key>isstoryboard</key>
+	<string>canInflateDimension</string>
+	<key>shouldParseMap</key>
+	<string>createAwait</string>
+	<key>specifiertheme</key>
+	<string>dropoutSlider</string>
+</dict>
+</plist>

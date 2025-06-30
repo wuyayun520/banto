@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerrate</key>
+	<string>concreteGrayscale</string>
+	<key>intuitiveDependency</key>
+	<string>shouldhandleconvolution</string>
+	<key>iterativeMaterializer</key>
+	<string>shouldpreparemobile</string>
+	<key>originalSemantics</key>
+	<string>rectframeworkshade</string>
+	<key>priorTable</key>
+	<string>builderproxyfrequency</string>
+</dict>
+</plist>

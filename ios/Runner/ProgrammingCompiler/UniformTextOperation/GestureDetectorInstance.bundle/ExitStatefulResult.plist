@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorFlags</key>
+	<string>cancelCapsule</string>
+	<key>cupertinoPoint</key>
+	<string>shouldLayoutPainter</string>
+	<key>pivotalDependency</key>
+	<string>webLoss</string>
+	<key>reactiveSensor</key>
+	<string>isbehavior</string>
+	<key>respectiveTolerance</key>
+	<string>trajectoryStyle</string>
+	<key>shouldFinishText</key>
+	<string>configurationAppearance</string>
+	<key>tablecenter</key>
+	<string>shouldCacheSpot</string>
+</dict>
+</plist>

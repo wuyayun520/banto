@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorFrequency</key>
+	<string>modelscale</string>
+	<key>mediocreAppBar</key>
+	<string>hierarchicalLifecycle</string>
+	<key>observeview</key>
+	<string>isolateincludeframework</string>
+	<key>pinchableLoss</key>
+	<string>shouldFormatSpot</string>
+	<key>shouldCacheSpecifier</key>
+	<string>ephemeralCombiner</string>
+	<key>streamthroughput</key>
+	<string>loadStateful</string>
+	<key>titleDelay</key>
+	<string>projectType</string>
+</dict>
+</plist>

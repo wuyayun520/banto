@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableoptimizervisibility</key>
+	<string>ternaryOperation</string>
+	<key>concreteLifecycle</key>
+	<string>canPopGrayscale</string>
+	<key>controllermodule</key>
+	<string>pivotalexception</string>
+	<key>delicateMetrics</key>
+	<string>scaleDelay</string>
+	<key>draggableInterface</key>
+	<string>managerSpacing</string>
+	<key>granularRequest</key>
+	<string>handleduration</string>
+	<key>handlerTag</key>
+	<string>cubitacceleration</string>
+	<key>nativeFinder</key>
+	<string>layoutScale</string>
+	<key>significantGrain</key>
+	<string>disparateDropdownButton</string>
+</dict>
+</plist>

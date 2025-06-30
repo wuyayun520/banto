@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionvelocity</key>
+	<string>shouldStartDelegate</string>
+	<key>mobileSkewY</key>
+	<string>animatedMission</string>
+	<key>prismaticRadius</key>
+	<string>equipmentEdge</string>
+	<key>shouldrebuildreference</key>
+	<string>canDetachSkin</string>
+	<key>sinkplatformtop</key>
+	<string>semanticsatsystem</string>
+	<key>titlemode</key>
+	<string>sinemethod</string>
+</dict>
+</plist>

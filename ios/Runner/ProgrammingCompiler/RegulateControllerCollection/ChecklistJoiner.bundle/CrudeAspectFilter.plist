@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialAccessory</key>
+	<string>bitrateValidation</string>
+	<key>disabledObserver</key>
+	<string>eagerSensor</string>
+	<key>iterativeProcessor</key>
+	<string>canRenderUsage</string>
+	<key>ondecorationtap</key>
+	<string>opaqueMenu</string>
+	<key>onternarychanged</key>
+	<string>enabledGate</string>
+	<key>shouldFinishSlider</key>
+	<string>hasCard</string>
+	<key>shouldPopPlayback</key>
+	<string>trianglesdepth</string>
+</dict>
+</plist>

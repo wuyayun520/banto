@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTolerance</key>
+	<string>shouldSubscribeMission</string>
+	<key>animatedMediaQuery</key>
+	<string>persistAxis</string>
+	<key>disabledStateful</key>
+	<string>basicComponent</string>
+	<key>eagerRichText</key>
+	<string>inactiveFuture</string>
+	<key>gemchart</key>
+	<string>formatSwift</string>
+	<key>labelpainter</key>
+	<string>operationJob</string>
+	<key>prismaticStoryboard</key>
+	<string>flexSingleton</string>
+	<key>selectedChallenge</key>
+	<string>beginnerLifecycle</string>
+	<key>shouldRebuildGesture</key>
+	<string>canCreatePoint</string>
+</dict>
+</plist>

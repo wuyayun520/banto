@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionName</key>
+	<string>elasticTheme</string>
+	<key>decoupleinjection</key>
+	<string>usecasevolume</string>
+	<key>enabledDocument</key>
+	<string>shouldRestartProfile</string>
+	<key>prepareasync</key>
+	<string>reducecallback</string>
+	<key>storyboardVelocity</key>
+	<string>semanticLifecycle</string>
+	<key>swiftformat</key>
+	<string>canvasPattern</string>
+	<key>unsortedBatch</key>
+	<string>shouldFormatListView</string>
+	<key>wrapcube</key>
+	<string>cancelChecklist</string>
+</dict>
+</plist>

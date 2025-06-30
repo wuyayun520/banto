@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileListener</key>
+	<string>marginshape</string>
+	<key>customizedScroll</key>
+	<string>restartFragment</string>
+	<key>dialogsfacadeformat</key>
+	<string>stackVisitor</string>
+	<key>lazyIntegrity</key>
+	<string>disabledReliability</string>
+	<key>reductionPressure</key>
+	<string>synchronousRow</string>
+	<key>shouldDetachSensor</key>
+	<string>clipperBorder</string>
+	<key>shouldunmountboxshadow</key>
+	<string>decodeBehavior</string>
+</dict>
+</plist>

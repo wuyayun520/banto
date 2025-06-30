@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredElasticity</key>
+	<string>explicitConfidentiality</string>
+	<key>exceptionSpacing</key>
+	<string>canContinueProfile</string>
+	<key>invisibleAscent</key>
+	<string>recursionvisible</string>
+	<key>mutableContainer</key>
+	<string>unsortedAlert</string>
+	<key>onoperationtap</key>
+	<string>permanentFragment</string>
+	<key>shouldEncodePadding</key>
+	<string>uniqueProject</string>
+</dict>
+</plist>

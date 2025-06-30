@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localStatus</key>
+	<string>publicInstruction</string>
+	<key>multiSample</key>
+	<string>publicTicker</string>
+	<key>publicAlignment</key>
+	<string>captureTitle</string>
+	<key>publicHandler</key>
+	<string>keepTernary</string>
+	<key>shouldStreamIndicator</key>
+	<string>quitIntensity</string>
+	<key>statefulReceiver</key>
+	<string>accessoryconsumption</string>
+</dict>
+</plist>

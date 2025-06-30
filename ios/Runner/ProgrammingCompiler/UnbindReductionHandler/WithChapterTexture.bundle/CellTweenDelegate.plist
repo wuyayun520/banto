@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopMultiplication</key>
+	<string>storageanimation</string>
+	<key>fusedPager</key>
+	<string>binaryoutsidecycle</string>
+	<key>nextCompleter</key>
+	<string>statefulOverlay</string>
+	<key>reliabilitycenter</key>
+	<string>sinkBorder</string>
+	<key>shouldDismissDrawer</key>
+	<string>requestformat</string>
+	<key>subsequentdispatcher</key>
+	<string>materializerContrast</string>
+</dict>
+</plist>

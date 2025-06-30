@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedGate</key>
+	<string>currentcompletion</string>
+	<key>marginColor</key>
+	<string>notifywidget</string>
+	<key>transpilesizedbox</key>
+	<string>inactiveZone</string>
+	<key>typicalTexture</key>
+	<string>pushdependency</string>
+</dict>
+</plist>

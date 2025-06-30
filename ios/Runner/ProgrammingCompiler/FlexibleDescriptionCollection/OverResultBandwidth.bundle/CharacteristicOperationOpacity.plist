@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyTernary</key>
+	<string>statefulHistogram</string>
+	<key>displayableVertex</key>
+	<string>grainStructure</string>
+	<key>enabledMaterial</key>
+	<string>hasMaster</string>
+	<key>layerState</key>
+	<string>assetFeedback</string>
+	<key>pivotalDrawer</key>
+	<string>protocolOrigin</string>
+	<key>primaryGrain</key>
+	<string>musicprocessvelocity</string>
+	<key>providervaluestatus</key>
+	<string>firstMusic</string>
+	<key>usedGestureDetector</key>
+	<string>canValidateInteger</string>
+</dict>
+</plist>

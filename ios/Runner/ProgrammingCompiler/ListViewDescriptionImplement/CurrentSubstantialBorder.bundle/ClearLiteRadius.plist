@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerparametertop</key>
+	<string>shouldUnmountedChecklist</string>
+	<key>entityRotation</key>
+	<string>cubitResponse</string>
+	<key>independentInfrastructure</key>
+	<string>normalStateless</string>
+	<key>iterativeConsumption</key>
+	<string>defaultnotifier</string>
+	<key>methodvaluebehavior</key>
+	<string>logarithmpershape</string>
+	<key>unbindgroup</key>
+	<string>shouldsetstatescroll</string>
+</dict>
+</plist>

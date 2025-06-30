@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianScreen</key>
+	<string>positionBound</string>
+	<key>draggableIntegration</key>
+	<string>notifyInterpolation</string>
+	<key>elementskewy</key>
+	<string>customizedIcon</string>
+	<key>flexibleAnimatedContainer</key>
+	<string>webResult</string>
+	<key>indicatorchannel</key>
+	<string>eagerSample</string>
+	<key>lazyIntegration</key>
+	<string>unaryColor</string>
+	<key>scenarioRight</key>
+	<string>shouldRenderGram</string>
+	<key>shouldReplaceDrawer</key>
+	<string>adaptiveResource</string>
+	<key>tensorObserver</key>
+	<string>rangeTint</string>
+</dict>
+</plist>

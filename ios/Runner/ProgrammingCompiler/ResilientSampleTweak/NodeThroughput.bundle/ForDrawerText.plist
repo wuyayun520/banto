@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturereliability</key>
+	<string>shouldUnbindSwift</string>
+	<key>hashOrigin</key>
+	<string>relationalReceiver</string>
+	<key>smallparticle</key>
+	<string>rapidJoiner</string>
+	<key>staticEvent</key>
+	<string>advancedDependency</string>
+</dict>
+</plist>

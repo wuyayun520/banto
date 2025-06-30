@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonBorder</key>
+	<string>richtextContext</string>
+	<key>kernelVisible</key>
+	<string>freeVector</string>
+	<key>shouldListenLoss</key>
+	<string>isolatetentative</string>
+	<key>shoulddisposecube</key>
+	<string>freeTexture</string>
+	<key>sustainableComponent</key>
+	<string>tappableEvolution</string>
+</dict>
+</plist>

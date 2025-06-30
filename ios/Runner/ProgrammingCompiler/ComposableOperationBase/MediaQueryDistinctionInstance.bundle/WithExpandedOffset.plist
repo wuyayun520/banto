@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleUsage</key>
+	<string>imperativeContrast</string>
+	<key>controllerposition</key>
+	<string>timeColor</string>
+	<key>ignoredBaseline</key>
+	<string>streamRate</string>
+	<key>shouldKeepPoint</key>
+	<string>createEquipment</string>
+	<key>shouldUnmountSwitch</key>
+	<string>infoVelocity</string>
+	<key>standaloneScheduler</key>
+	<string>grayscaleFormat</string>
+	<key>tabviewversusstage</key>
+	<string>concretetopicspeed</string>
+</dict>
+</plist>

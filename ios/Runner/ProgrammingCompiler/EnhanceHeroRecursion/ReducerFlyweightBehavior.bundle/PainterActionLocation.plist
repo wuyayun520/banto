@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitBrightness</key>
+	<string>retainedrectsaturation</string>
+	<key>benchmarksign</key>
+	<string>intuitiveEffect</string>
+	<key>crudeQuaternion</key>
+	<string>parsetask</string>
+	<key>dynamicSlider</key>
+	<string>inactivePreview</string>
+	<key>fixedExpanded</key>
+	<string>extensionShape</string>
+	<key>multiFormat</key>
+	<string>performSubscription</string>
+	<key>shouldStartScaffold</key>
+	<string>shouldTransformDrawer</string>
+	<key>tweenStyle</key>
+	<string>receiveGrid</string>
+</dict>
+</plist>

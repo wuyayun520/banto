@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerOrigin</key>
+	<string>shouldPersistHero</string>
+	<key>chapterduration</key>
+	<string>subtleGrain</string>
+	<key>crudeMapper</key>
+	<string>exceptionconsumer</string>
+	<key>lostOptimizer</key>
+	<string>asynchronousComponent</string>
+	<key>navigationState</key>
+	<string>popLocalization</string>
+	<key>shouldPopReduction</key>
+	<string>mobileQueue</string>
+	<key>shouldPushUnary</key>
+	<string>fetchBox</string>
+	<key>specifierRight</key>
+	<string>desktopBaseline</string>
+	<key>spinestate</key>
+	<string>canDecodeDescriptor</string>
+</dict>
+</plist>

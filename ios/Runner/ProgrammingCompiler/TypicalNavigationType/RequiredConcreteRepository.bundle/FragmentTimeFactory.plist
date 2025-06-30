@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentSize</key>
+	<string>compilemodel</string>
+	<key>associatedUseCase</key>
+	<string>publicmanager</string>
+	<key>buttonorigin</key>
+	<string>smallTexture</string>
+	<key>managertaskindex</key>
+	<string>layoutCard</string>
+	<key>resilientColumn</key>
+	<string>infrastructurecount</string>
+	<key>shouldContinueBuilder</key>
+	<string>keepflex</string>
+	<key>shouldStreamAperture</key>
+	<string>directRow</string>
+	<key>similarSpecifier</key>
+	<string>processvariant</string>
+</dict>
+</plist>

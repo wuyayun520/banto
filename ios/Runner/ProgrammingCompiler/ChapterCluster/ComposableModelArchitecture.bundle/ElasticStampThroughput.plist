@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAscent</key>
+	<string>decoupleEntity</string>
+	<key>animatedcontainerprototypestyle</key>
+	<string>euclideanProfile</string>
+	<key>beginnerPublisher</key>
+	<string>uniformTool</string>
+	<key>cacheVelocity</key>
+	<string>hardImage</string>
+	<key>cartesianExtension</key>
+	<string>flexibleAppBar</string>
+	<key>cartesianImage</key>
+	<string>localizationcycleshade</string>
+	<key>descriptoractionspacing</key>
+	<string>copyBuffer</string>
+	<key>dialogslabel</key>
+	<string>capacitydirection</string>
+	<key>shouldFinishPriority</key>
+	<string>channelsTag</string>
+	<key>shouldRestartCharacter</key>
+	<string>cacheCaption</string>
+</dict>
+</plist>

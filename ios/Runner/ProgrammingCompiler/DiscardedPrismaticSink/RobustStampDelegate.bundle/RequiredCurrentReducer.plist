@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentmediaquery</key>
+	<string>debugPresenter</string>
+	<key>imageAcceleration</key>
+	<string>dialogstransformer</string>
+	<key>intensityShape</key>
+	<string>readException</string>
+	<key>shouldRenderGesture</key>
+	<string>bitrateCommand</string>
+	<key>startresult</key>
+	<string>receiverinterval</string>
+	<key>utilresponder</key>
+	<string>obtainParticle</string>
+</dict>
+</plist>

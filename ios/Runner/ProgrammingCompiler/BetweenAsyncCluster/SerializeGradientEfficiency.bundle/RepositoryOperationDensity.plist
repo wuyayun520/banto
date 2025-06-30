@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartproxymode</key>
+	<string>streamCollection</string>
+	<key>commonLabel</key>
+	<string>shouldProcessSensor</string>
+	<key>durationName</key>
+	<string>nativeSorter</string>
+	<key>firstSensor</key>
+	<string>sophisticatedStream</string>
+	<key>fragmentBorder</key>
+	<string>canMountedSegue</string>
+	<key>immutableCell</key>
+	<string>newestUseCase</string>
+	<key>iterativeSensor</key>
+	<string>fragmentMode</string>
+	<key>responsebesidestage</key>
+	<string>dismissTangent</string>
+</dict>
+</plist>

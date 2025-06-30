@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityShade</key>
+	<string>displayableDisclaimer</string>
+	<key>composableGridView</key>
+	<string>progressbarinsidenumber</string>
+	<key>concurrentContainer</key>
+	<string>tweenHead</string>
+	<key>cursorTint</key>
+	<string>unscheduleGroup</string>
+	<key>drawerSpacing</key>
+	<string>observeGraphic</string>
+	<key>finderoffset</key>
+	<string>backwardCard</string>
+	<key>rapidTextField</key>
+	<string>retainedCapacity</string>
+	<key>statecontainsystem</key>
+	<string>scaffoldBridge</string>
+	<key>unsortedMediaQuery</key>
+	<string>visibleSpot</string>
+</dict>
+</plist>

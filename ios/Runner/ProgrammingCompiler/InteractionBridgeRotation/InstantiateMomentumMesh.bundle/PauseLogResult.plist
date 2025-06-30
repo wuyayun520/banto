@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalTask</key>
+	<string>activeManager</string>
+	<key>euclideanVolume</key>
+	<string>pointRate</string>
+	<key>formatName</key>
+	<string>introspectGraph</string>
+	<key>opaqueState</key>
+	<string>binaryType</string>
+	<key>prevLifecycle</key>
+	<string>interpolationJob</string>
+	<key>scaleValidation</key>
+	<string>canLayoutCanvas</string>
+	<key>subtleskinformat</key>
+	<string>canDecodeController</string>
+	<key>unsortedRemainder</key>
+	<string>secondReduction</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>distinctionBottom</key>
+	<string>observerhandler</string>
+	<key>eagerEntity</key>
+	<string>unlockEvent</string>
+	<key>publicDispatcher</key>
+	<string>uniqueScroll</string>
+	<key>scopeduration</key>
+	<string>receiverDelay</string>
+	<key>shouldStartSymbol</key>
+	<string>interpolatePosition</string>
+	<key>tickerMomentum</key>
+	<string>canMountedBitrate</string>
+</dict>
+</plist>

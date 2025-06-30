@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstTraversal</key>
+	<string>disparateFuture</string>
+	<key>joinerDelay</key>
+	<string>pauseMonster</string>
+	<key>marginRate</key>
+	<string>sequentialTask</string>
+	<key>requiredAlpha</key>
+	<string>yieldresolver</string>
+	<key>shouldBuildRadio</key>
+	<string>rotateInterface</string>
+	<key>shouldDetachClipper</key>
+	<string>flexibleKernel</string>
+	<key>subscriberkind</key>
+	<string>presentsubpixel</string>
+	<key>textopacity</key>
+	<string>inflatecell</string>
+</dict>
+</plist>

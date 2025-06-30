@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismisspoint</key>
+	<string>promiseFeedback</string>
+	<key>handlertag</key>
+	<string>semanticTriangles</string>
+	<key>largeVertex</key>
+	<string>techniqueFlyweight</string>
+	<key>mainProjection</key>
+	<string>shouldPrepareBehavior</string>
+	<key>mainSensor</key>
+	<string>invisibleDispatcher</string>
+	<key>overlayslider</key>
+	<string>draggableMesh</string>
+	<key>projectStyle</key>
+	<string>equipmentTail</string>
+	<key>protectedScene</key>
+	<string>spriteVisible</string>
+	<key>shouldPauseCube</key>
+	<string>exponentproxyskewy</string>
+	<key>shouldPushExpanded</key>
+	<string>captureCubit</string>
+</dict>
+</plist>

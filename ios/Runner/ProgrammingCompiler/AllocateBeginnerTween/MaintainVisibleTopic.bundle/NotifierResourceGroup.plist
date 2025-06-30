@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedreceiver</key>
+	<string>compositionalConnector</string>
+	<key>fetchmobile</key>
+	<string>canRestartCollection</string>
+	<key>imperativeModel</key>
+	<string>listenHistogram</string>
+	<key>pinchableEvaluation</key>
+	<string>storyboardvisibility</string>
+	<key>robustborder</key>
+	<string>navigateManager</string>
+	<key>shouldAttachEntropy</key>
+	<string>startSegment</string>
+	<key>showtext</key>
+	<string>canLayoutTask</string>
+	<key>sortedscreen</key>
+	<string>canNavigateConvolution</string>
+	<key>spineFrequency</key>
+	<string>animateMusic</string>
+	<key>subscriptionuntilbridge</key>
+	<string>canDisposeSegment</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorPosition</key>
+	<string>heropatternforce</string>
+	<key>directlyInkWell</key>
+	<string>pinchableProgressBar</string>
+	<key>operationLocation</key>
+	<string>sustainableBuffer</string>
+	<key>permanentSpot</key>
+	<string>originalBuilder</string>
+	<key>rowgroup</key>
+	<string>replicateGroup</string>
+</dict>
+</plist>

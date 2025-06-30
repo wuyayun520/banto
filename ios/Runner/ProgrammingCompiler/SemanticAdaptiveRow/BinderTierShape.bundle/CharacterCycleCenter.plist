@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalLinker</key>
+	<string>statelessSubscription</string>
+	<key>previewtint</key>
+	<string>toleranceInset</string>
+	<key>primaryTriangles</key>
+	<string>rebuildConstraint</string>
+	<key>retainedSound</key>
+	<string>webSign</string>
+	<key>shouldPaintIcon</key>
+	<string>materializerbound</string>
+	<key>singleCapacities</key>
+	<string>canAttachModal</string>
+</dict>
+</plist>

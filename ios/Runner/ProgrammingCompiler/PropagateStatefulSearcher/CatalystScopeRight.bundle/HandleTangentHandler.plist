@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintslider</key>
+	<string>crucialsize</string>
+	<key>pinchableMomentum</key>
+	<string>delegateinterval</string>
+	<key>shouldBuildProfile</key>
+	<string>significantWrapper</string>
+	<key>shouldMountedProvider</key>
+	<string>crucialScreen</string>
+	<key>validateplate</key>
+	<string>descriptorMargin</string>
+</dict>
+</plist>

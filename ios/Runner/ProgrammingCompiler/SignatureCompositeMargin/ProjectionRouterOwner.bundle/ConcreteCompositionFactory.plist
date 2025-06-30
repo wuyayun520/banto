@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperalignment</key>
+	<string>respectiveMission</string>
+	<key>expandedtransparency</key>
+	<string>annotateStore</string>
+	<key>firstText</key>
+	<string>canBindColumn</string>
+	<key>liteShader</key>
+	<string>eventparamfeedback</string>
+	<key>otherReduction</key>
+	<string>dismissTween</string>
+	<key>rapidScroller</key>
+	<string>exitDuration</string>
+	<key>shouldRestartCache</key>
+	<string>resolveTransformer</string>
+	<key>sizedboxvelocity</key>
+	<string>diffableFinder</string>
+	<key>unarybehavior</key>
+	<string>shouldhandleinstruction</string>
+</dict>
+</plist>

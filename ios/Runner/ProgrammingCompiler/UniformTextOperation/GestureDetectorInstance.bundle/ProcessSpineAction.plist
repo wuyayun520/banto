@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstconsumer</key>
+	<string>shoulddisposesine</string>
+	<key>fixedState</key>
+	<string>paintScreen</string>
+	<key>handlerwithfacade</key>
+	<string>extensionPhase</string>
+	<key>independentdependencybrightness</key>
+	<string>formatgraphic</string>
+	<key>mobileAnalogy</key>
+	<string>sortedinjection</string>
+	<key>primaryRestriction</key>
+	<string>reusableappbarresponse</string>
+	<key>shouldMountSine</key>
+	<string>shouldRestartPadding</string>
+	<key>shouldTrainOptimizer</key>
+	<string>publishButton</string>
+	<key>standaloneScale</key>
+	<string>customizeddependencyindex</string>
+</dict>
+</plist>

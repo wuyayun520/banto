@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionshade</key>
+	<string>disposenotification</string>
+	<key>convolutionHead</key>
+	<string>copyScene</string>
+	<key>createoffset</key>
+	<string>shouldBindNotifier</string>
+	<key>hyperbolicSprite</key>
+	<string>alignmentSpeed</string>
+	<key>localUsage</key>
+	<string>sanitizeTitle</string>
+	<key>mediocreConstraint</key>
+	<string>checklistalignment</string>
+	<key>nativeStroke</key>
+	<string>unactivatedCharacter</string>
+	<key>resultDensity</key>
+	<string>criticalFragment</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledhistogramindex</key>
+	<string>shouldPrepareOverlay</string>
+	<key>equipmentVisible</key>
+	<string>removeSprite</string>
+	<key>firstRequest</key>
+	<string>shouldencodecoordinator</string>
+	<key>ignoredCheckbox</key>
+	<string>standaloneBrush</string>
+	<key>precisionRate</key>
+	<string>seamlessMargin</string>
+	<key>protocolTop</key>
+	<string>primarycanvasopacity</string>
+	<key>shoulddetachinterpolation</key>
+	<string>statusTag</string>
+	<key>substantialNavigation</key>
+	<string>respectiveBinder</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentContrast</key>
+	<string>localobservercoord</string>
+	<key>cancelstamp</key>
+	<string>shouldBindCapsule</string>
+	<key>equalizationHue</key>
+	<string>baseTint</string>
+	<key>errorflyweightresponse</key>
+	<string>timeSkewX</string>
+	<key>flexibleoverlayvelocity</key>
+	<string>sizedboxFacade</string>
+	<key>opaqueSubpixel</key>
+	<string>canvasLocation</string>
+	<key>shouldunbindlayout</key>
+	<string>opaqueInterpolation</string>
+	<key>tangentforce</key>
+	<string>intermediateTaxonomy</string>
+</dict>
+</plist>

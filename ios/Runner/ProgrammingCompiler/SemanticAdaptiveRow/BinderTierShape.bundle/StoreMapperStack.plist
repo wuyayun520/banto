@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificatezone</key>
+	<string>litePreview</string>
+	<key>chartdispatcher</key>
+	<string>singleSpecifier</string>
+	<key>declarativeAmortization</key>
+	<string>routeRate</string>
+	<key>deploytransformer</key>
+	<string>fusedSlash</string>
+	<key>disparateDialogs</key>
+	<string>selectedcanvas</string>
+	<key>hardsound</key>
+	<string>shouldHandleRow</string>
+	<key>newestGrayscale</key>
+	<string>fixedResolver</string>
+	<key>unactivatedFinder</key>
+	<string>animatorFlags</string>
+	<key>vectorSkewY</key>
+	<string>yieldVariant</string>
+</dict>
+</plist>

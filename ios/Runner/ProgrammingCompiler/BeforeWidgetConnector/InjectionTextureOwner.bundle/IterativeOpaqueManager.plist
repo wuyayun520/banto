@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationmode</key>
+	<string>momentumIndex</string>
+	<key>fetchgroup</key>
+	<string>receiveLoop</string>
+	<key>managerlifecycle</key>
+	<string>canAttachResource</string>
+	<key>screencenter</key>
+	<string>canPublishSession</string>
+	<key>shouldAttachBullet</key>
+	<string>mechanismVisible</string>
+	<key>shouldemitternary</key>
+	<string>transformerProcess</string>
+</dict>
+</plist>

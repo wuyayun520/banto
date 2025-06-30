@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobileBatch</key>
+	<string>tensorProcessor</string>
+	<key>mobilethroughput</key>
+	<string>cupertinoProfile</string>
+	<key>prevprovider</key>
+	<string>memberactionbehavior</string>
+	<key>sequentialStatus</key>
+	<string>actionPattern</string>
+	<key>shouldObserveClipper</key>
+	<string>activityMode</string>
+	<key>sizedboxPadding</key>
+	<string>serviceStyle</string>
+	<key>subtlenotation</key>
+	<string>adaptiveSegue</string>
+</dict>
+</plist>

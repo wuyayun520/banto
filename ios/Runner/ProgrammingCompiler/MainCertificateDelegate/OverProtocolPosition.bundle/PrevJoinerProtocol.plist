@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedqueuemode</key>
+	<string>hierarchicalDetail</string>
+	<key>emitterTag</key>
+	<string>usageSpacing</string>
+	<key>hierarchicalUsage</key>
+	<string>subsequentInteraction</string>
+	<key>mobileresolvertag</key>
+	<string>tickeraspect</string>
+	<key>shouldPushInterpolation</key>
+	<string>shouldLoadRow</string>
+	<key>similarTool</key>
+	<string>shouldDisposePainter</string>
+</dict>
+</plist>

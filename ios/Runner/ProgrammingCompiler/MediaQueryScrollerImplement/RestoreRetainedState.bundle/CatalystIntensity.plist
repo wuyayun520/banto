@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicDescent</key>
+	<string>widgetOrigin</string>
+	<key>boxincludecycle</key>
+	<string>copyView</string>
+	<key>criticalRecursion</key>
+	<string>singleRenderer</string>
+	<key>curvestructureappearance</key>
+	<string>commonResolver</string>
+	<key>granularwidget</key>
+	<string>similarChannels</string>
+	<key>shouldDecodeModulus</key>
+	<string>invisibleBehavior</string>
+	<key>shouldInflateNotification</key>
+	<string>latencyBrightness</string>
+	<key>sliderStatus</key>
+	<string>shaderVisible</string>
+	<key>textfieldRotation</key>
+	<string>scheduleLayer</string>
+</dict>
+</plist>

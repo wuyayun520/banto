@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerobserver</key>
+	<string>intermediatefeature</string>
+	<key>dismissconfiguration</key>
+	<string>layoutArithmetic</string>
+	<key>hasscreen</key>
+	<string>delegateflyweightcoord</string>
+	<key>navigationTransparency</key>
+	<string>persistInstruction</string>
+	<key>persistentListener</key>
+	<string>shouldPublishCache</string>
+	<key>respectiveStrength</key>
+	<string>parallelTangent</string>
+	<key>sophisticatedUseCase</key>
+	<string>pushAlert</string>
+</dict>
+</plist>

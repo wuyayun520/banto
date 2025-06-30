@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertFrequency</key>
+	<string>performrepository</string>
+	<key>alphasplitter</key>
+	<string>disabledTween</string>
+	<key>animatedAction</key>
+	<string>sortedConsumer</string>
+	<key>coordinatorduration</key>
+	<string>mediaqueryCommand</string>
+	<key>delicateSink</key>
+	<string>popupuntilnumber</string>
+	<key>exponentstatus</key>
+	<string>globalPageView</string>
+	<key>moveanimation</key>
+	<string>handlerDirection</string>
+	<key>rowBottom</key>
+	<string>mobileswiftduration</string>
+	<key>viewResponse</key>
+	<string>shouldCacheBatch</string>
+	<key>webReduction</key>
+	<string>canUnmountDimension</string>
+</dict>
+</plist>

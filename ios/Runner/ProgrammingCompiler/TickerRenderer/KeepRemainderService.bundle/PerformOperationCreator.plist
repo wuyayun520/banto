@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteArithmetic</key>
+	<string>resolverContrast</string>
+	<key>crucialdescription</key>
+	<string>canContinueStep</string>
+	<key>functionalWidget</key>
+	<string>notifierRotation</string>
+	<key>labelversusparameter</key>
+	<string>metricsState</string>
+	<key>recttransformer</key>
+	<string>capacitiesLocation</string>
+	<key>responsiveStatus</key>
+	<string>concurrentTable</string>
+	<key>shouldBuildCapsule</key>
+	<string>canHandleTransition</string>
+	<key>shouldHandleSine</key>
+	<string>promiseRotation</string>
+</dict>
+</plist>

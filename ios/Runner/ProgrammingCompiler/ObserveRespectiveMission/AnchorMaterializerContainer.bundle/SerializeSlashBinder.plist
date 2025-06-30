@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsaudio</key>
+	<string>blocBorder</string>
+	<key>globalDistinction</key>
+	<string>dynamicmusic</string>
+	<key>publicAccessory</key>
+	<string>undertakeDescription</string>
+	<key>unsortedSpot</key>
+	<string>synchronizeSink</string>
+</dict>
+</plist>

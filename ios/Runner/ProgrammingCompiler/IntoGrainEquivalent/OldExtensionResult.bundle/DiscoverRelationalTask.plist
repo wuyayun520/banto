@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contrastCenter</key>
+	<string>removeQueue</string>
+	<key>convolutionMode</key>
+	<string>deserializeOptimizer</string>
+	<key>eagercontroller</key>
+	<string>partitionPreview</string>
+	<key>invisibleConnector</key>
+	<string>subsequentpreview</string>
+	<key>numericalEmitter</key>
+	<string>queueActivity</string>
+	<key>transformerrotation</key>
+	<string>computeLocalization</string>
+	<key>unaryRate</key>
+	<string>nibBorder</string>
+</dict>
+</plist>

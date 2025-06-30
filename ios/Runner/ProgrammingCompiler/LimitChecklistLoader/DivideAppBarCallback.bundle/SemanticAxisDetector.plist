@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultcard</key>
+	<string>sortedTask</string>
+	<key>fixedTicker</key>
+	<string>navigateTabBar</string>
+	<key>isTool</key>
+	<string>characteristicIndex</string>
+	<key>mutableData</key>
+	<string>minProfile</string>
+	<key>transitionbrightness</key>
+	<string>reductionVariable</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>scrollableCard</key>
+	<string>streamTint</string>
+	<key>sequentialFragment</key>
+	<string>dialogsStructure</string>
+	<key>spriteframeworkorientation</key>
+	<string>defaultconstraint</string>
+	<key>subtleDelivery</key>
+	<string>elasticActivity</string>
+	<key>taxonomyState</key>
+	<string>mountProvider</string>
+	<key>visibleLayout</key>
+	<string>profileManager</string>
+</dict>
+</plist>

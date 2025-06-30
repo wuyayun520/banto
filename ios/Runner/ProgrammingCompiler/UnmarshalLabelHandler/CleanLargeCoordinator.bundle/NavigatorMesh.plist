@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleBinary</key>
+	<string>eagerCard</string>
+	<key>callbackRotation</key>
+	<string>shouldDisposeGram</string>
+	<key>currentMonster</key>
+	<string>displayableOffset</string>
+	<key>disparateWidget</key>
+	<string>regulateChannel</string>
+	<key>formatcell</key>
+	<string>sortedMatrix</string>
+	<key>layoutdespitepattern</key>
+	<string>syncPreview</string>
+	<key>shouldEncodeScroll</key>
+	<string>lastCapacities</string>
+	<key>tensorBox</key>
+	<string>referenceFlags</string>
+</dict>
+</plist>

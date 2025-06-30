@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directPriority</key>
+	<string>subtleRenderer</string>
+	<key>immutableShader</key>
+	<string>shouldStartPoint</string>
+	<key>inkwellalonglayer</key>
+	<string>impressionDistance</string>
+	<key>listendependency</key>
+	<string>nextOption</string>
+	<key>processorFormat</key>
+	<string>durationScale</string>
+	<key>soundFormat</key>
+	<string>shouldCachePet</string>
+	<key>standaloneTool</key>
+	<string>custompaintlabel</string>
+	<key>titleResponse</key>
+	<string>imageState</string>
+</dict>
+</plist>

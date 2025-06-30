@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeLinker</key>
+	<string>attachFuture</string>
+	<key>appbarproxyleft</key>
+	<string>maingrayscale</string>
+	<key>controlleraboutstate</key>
+	<string>smartUseCase</string>
+	<key>diversifiedProgressBar</key>
+	<string>compositionalMetadata</string>
+	<key>retainedColumn</key>
+	<string>dedicatedBatch</string>
+	<key>semanticOptimizer</key>
+	<string>shouldTransitionDocument</string>
+	<key>shouldKeepSign</key>
+	<string>presentsprite</string>
+	<key>shouldUnmountedGraphic</key>
+	<string>scrollFacade</string>
+	<key>tabbarShape</key>
+	<string>originalCurve</string>
+</dict>
+</plist>

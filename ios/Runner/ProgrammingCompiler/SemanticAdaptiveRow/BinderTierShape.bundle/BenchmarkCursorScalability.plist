@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedNode</key>
+	<string>singleCubit</string>
+	<key>dynamicTicker</key>
+	<string>compositionCommand</string>
+	<key>finishgate</key>
+	<string>inactiveMaterializer</string>
+	<key>lazyCurve</key>
+	<string>usedallocator</string>
+	<key>singleSample</key>
+	<string>storealongaction</string>
+</dict>
+</plist>

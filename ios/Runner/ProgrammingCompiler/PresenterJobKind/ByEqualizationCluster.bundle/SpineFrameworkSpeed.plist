@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationSkewX</key>
+	<string>evaluateCubit</string>
+	<key>easyMultiplication</key>
+	<string>canContinueProvider</string>
+	<key>largeGate</key>
+	<string>materialInformation</string>
+	<key>modalAcceleration</key>
+	<string>cartesianMargin</string>
+	<key>requiredInterface</key>
+	<string>selectedcontroller</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>giftDuration</key>
+	<string>multiplyInjection</string>
+	<key>keyCell</key>
+	<string>nativeDisclaimer</string>
+	<key>keyRepository</key>
+	<string>oldMetadata</string>
+	<key>mobileRange</key>
+	<string>shouldUnbindRemainder</string>
+	<key>paddingSkewY</key>
+	<string>canUnmountedOverlay</string>
+	<key>remainderTransparency</key>
+	<string>shouldDetachNavigator</string>
+	<key>shouldTransformExtension</key>
+	<string>executeController</string>
+	<key>shoulddecodeaperture</key>
+	<string>secondOption</string>
+	<key>temporaryAspectRatio</key>
+	<string>concatenatesegment</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatevector</key>
+	<string>tensorRemainder</string>
+	<key>batchcolor</key>
+	<string>intensityParam</string>
+	<key>concurrentCombiner</key>
+	<string>slashNumber</string>
+	<key>criticalScene</key>
+	<string>shouldPushScaffold</string>
+	<key>delicateShader</key>
+	<string>shouldStreamGrayscale</string>
+	<key>memberorientation</key>
+	<string>bitrateDirection</string>
+	<key>protectedRepository</key>
+	<string>serializeSession</string>
+	<key>temporaryLocalization</key>
+	<string>localizationMargin</string>
+	<key>visualizeroute</key>
+	<string>canResumeDuration</string>
+</dict>
+</plist>

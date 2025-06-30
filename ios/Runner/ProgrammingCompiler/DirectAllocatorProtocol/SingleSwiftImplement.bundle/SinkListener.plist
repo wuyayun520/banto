@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardAsync</key>
+	<string>holdAsync</string>
+	<key>labelOrigin</key>
+	<string>showMatrix</string>
+	<key>mediumGift</key>
+	<string>heroVariable</string>
+	<key>occasionCoord</key>
+	<string>routerBorder</string>
+	<key>otherNotification</key>
+	<string>decorationVariable</string>
+	<key>presenterInterval</key>
+	<string>resilientJoiner</string>
+	<key>requestHue</key>
+	<string>statelessWidget</string>
+	<key>roleType</key>
+	<string>graphTransparency</string>
+	<key>searchevent</key>
+	<string>currentCustomPaint</string>
+	<key>typicalConstant</key>
+	<string>routePageView</string>
+</dict>
+</plist>

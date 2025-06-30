@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationdetail</key>
+	<string>geometricPicker</string>
+	<key>contractionlayertop</key>
+	<string>baseRight</string>
+	<key>explicitPriority</key>
+	<string>canFinishHero</string>
+	<key>frameappearance</key>
+	<string>localizationfortype</string>
+	<key>hierarchicalMember</key>
+	<string>parseSymbol</string>
+	<key>matrixmodel</key>
+	<string>asynchronousSensor</string>
+	<key>multiCallback</key>
+	<string>serviceLayer</string>
+	<key>seamlessExtension</key>
+	<string>usecaseBottom</string>
+	<key>shouldEndCompletion</key>
+	<string>canRenderIcon</string>
+	<key>signcommandflags</key>
+	<string>customAsync</string>
+</dict>
+</plist>

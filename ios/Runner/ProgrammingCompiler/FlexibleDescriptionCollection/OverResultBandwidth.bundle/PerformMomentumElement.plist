@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>metadataEdge</key>
+	<string>shouldProcessGridView</string>
+	<key>paintresolver</key>
+	<string>invisibleMovement</string>
+	<key>rapidTolerance</key>
+	<string>declarativeResponder</string>
+	<key>retainedEntropy</key>
+	<string>canLayoutBloc</string>
+	<key>subsequentEfficiency</key>
+	<string>secondContrast</string>
+</dict>
+</plist>

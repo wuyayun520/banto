@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedorprototype</key>
+	<string>loadBox</string>
+	<key>painterOrientation</key>
+	<string>canCancelCaption</string>
+	<key>protectedMission</key>
+	<string>mountedSign</string>
+	<key>sharedPriority</key>
+	<string>immutablestatus</string>
+</dict>
+</plist>

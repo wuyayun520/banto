@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitAllocator</key>
+	<string>permanentAction</string>
+	<key>greatProvision</key>
+	<string>inheritedTriangles</string>
+	<key>handlerofflyweight</key>
+	<string>shouldParseAlert</string>
+	<key>invisibleTheme</key>
+	<string>canEncodeBuilder</string>
+	<key>processinkwell</key>
+	<string>disconnectTechnique</string>
+	<key>shouldHandleExponent</key>
+	<string>sizedboxalongvar</string>
+	<key>shouldResumeContraction</key>
+	<string>shouldPopNavigator</string>
+</dict>
+</plist>

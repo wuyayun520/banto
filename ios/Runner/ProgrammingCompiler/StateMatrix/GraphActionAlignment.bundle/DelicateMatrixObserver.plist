@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTolerance</key>
+	<string>presentVariant</string>
+	<key>fixedData</key>
+	<string>mapVisible</string>
+	<key>logarithmproxyscale</key>
+	<string>cacheVisible</string>
+	<key>publiccubit</key>
+	<string>respectiveZone</string>
+	<key>rectscheduler</key>
+	<string>mainmapmomentum</string>
+	<key>shouldDisposeWorkflow</key>
+	<string>shouldLayoutOperation</string>
+	<key>shouldMountScale</key>
+	<string>setstatebatch</string>
+	<key>shouldNotifyContainer</key>
+	<string>mediumRectangle</string>
+	<key>shouldkeepcache</key>
+	<string>largeHandler</string>
+</dict>
+</plist>

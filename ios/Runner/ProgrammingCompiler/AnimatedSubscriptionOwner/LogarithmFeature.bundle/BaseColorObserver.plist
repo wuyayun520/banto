@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalReceiver</key>
+	<string>canSetStateNib</string>
+	<key>firstStamp</key>
+	<string>smallUseCase</string>
+	<key>multiShape</key>
+	<string>shouldPublishCustomPaint</string>
+	<key>ontooltap</key>
+	<string>localMesh</string>
+	<key>otherProvision</key>
+	<string>shouldPresentImage</string>
+	<key>pinchableMerger</key>
+	<string>canPersistController</string>
+	<key>reactivePlate</key>
+	<string>liteCurve</string>
+	<key>unsortedSprite</key>
+	<string>tentativeBottom</string>
+	<key>webChart</key>
+	<string>retainedDelivery</string>
+</dict>
+</plist>

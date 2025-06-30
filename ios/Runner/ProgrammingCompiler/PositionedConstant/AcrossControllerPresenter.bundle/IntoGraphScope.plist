@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertcurve</key>
+	<string>intuitiveUnary</string>
+	<key>allocatorFeedback</key>
+	<string>shouldPaintCursor</string>
+	<key>bundlecallback</key>
+	<string>shouldTrainAnchor</string>
+	<key>draggableEquipment</key>
+	<string>shouldParseMember</string>
+	<key>effectobservervelocity</key>
+	<string>endHeap</string>
+	<key>elasticShader</key>
+	<string>intensityleft</string>
+	<key>lossBorder</key>
+	<string>createIcon</string>
+	<key>navigatebaseline</key>
+	<string>sessionandactivity</string>
+</dict>
+</plist>

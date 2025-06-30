@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertsprite</key>
+	<string>routeSine</string>
+	<key>basicUnary</key>
+	<string>cartesianPolyfill</string>
+	<key>commonPolygon</key>
+	<string>shouldEndPageView</string>
+	<key>curvebufferpadding</key>
+	<string>captureManager</string>
+	<key>inactiveCompletion</key>
+	<string>gramPlatform</string>
+	<key>parallelModule</key>
+	<string>notifierKind</string>
+	<key>primaryCreator</key>
+	<string>techniqueParameter</string>
+	<key>sizedboxFeedback</key>
+	<string>entityreliability</string>
+	<key>topicVelocity</key>
+	<string>architectureMomentum</string>
+</dict>
+</plist>

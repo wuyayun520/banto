@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoprioritystatus</key>
+	<string>ephemeralModule</string>
+	<key>drawertail</key>
+	<string>uniformFlex</string>
+	<key>opaqueConsumption</key>
+	<string>lazyMusic</string>
+	<key>pivotalTabBar</key>
+	<string>scopeEdge</string>
+	<key>priorityversusadapter</key>
+	<string>mendDensity</string>
+	<key>scrollableappbaredge</key>
+	<string>observeTimer</string>
+</dict>
+</plist>

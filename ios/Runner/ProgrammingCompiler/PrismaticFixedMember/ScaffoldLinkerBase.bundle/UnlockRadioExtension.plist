@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopDelivery</key>
+	<string>mutableChallenge</string>
+	<key>hierarchicalBloc</key>
+	<string>symmetricJoiner</string>
+	<key>missedMap</key>
+	<string>granularIntegration</string>
+	<key>pinchableAnalyzer</key>
+	<string>compositionalInteractor</string>
+	<key>shouldAnimateMomentum</key>
+	<string>reactiveConnector</string>
+	<key>shouldPaintWidget</key>
+	<string>fixedImage</string>
+	<key>significantIntegration</key>
+	<string>integerSingleton</string>
+	<key>singleConverter</key>
+	<string>canPublishPriority</string>
+</dict>
+</plist>

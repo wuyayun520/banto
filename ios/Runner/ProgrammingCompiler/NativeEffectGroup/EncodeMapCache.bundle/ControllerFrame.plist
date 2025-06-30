@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyCupertino</key>
+	<string>transformerContrast</string>
+	<key>independentButton</key>
+	<string>ignoredOffset</string>
+	<key>resizableaspect</key>
+	<string>heaploader</string>
+	<key>shouldBindMultiplication</key>
+	<string>usedQuaternion</string>
+</dict>
+</plist>

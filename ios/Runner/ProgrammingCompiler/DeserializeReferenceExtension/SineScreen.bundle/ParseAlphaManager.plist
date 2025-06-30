@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalMargin</key>
+	<string>memberObserver</string>
+	<key>customizedDispatcher</key>
+	<string>audioTint</string>
+	<key>dedicatedchooser</key>
+	<string>canCancelInterpolation</string>
+	<key>graphicnumberspeed</key>
+	<string>staticIntensity</string>
+	<key>hashFlags</key>
+	<string>shouldUnmountBitrate</string>
+	<key>immutableMaterial</key>
+	<string>factoryrect</string>
+	<key>opaquecomposition</key>
+	<string>materialFuture</string>
+	<key>permissivePermutation</key>
+	<string>inheritedCell</string>
+	<key>precisionchainappearance</key>
+	<string>shouldsavetheme</string>
+	<key>scrollableReliability</key>
+	<string>skipSwitch</string>
+</dict>
+</plist>

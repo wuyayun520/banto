@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedLifecycle</key>
+	<string>normactivitytop</string>
+	<key>liteClipper</key>
+	<string>yieldCatalyst</string>
+	<key>meshSkewY</key>
+	<string>comprehensiveAction</string>
+	<key>primarydecoration</key>
+	<string>variantDirection</string>
+	<key>resilientBase</key>
+	<string>recursionBehavior</string>
+	<key>sliderDistance</key>
+	<string>managerDensity</string>
+	<key>tensorLabel</key>
+	<string>otherSprite</string>
+</dict>
+</plist>

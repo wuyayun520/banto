@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitLoss</key>
+	<string>seamlessSemantics</string>
+	<key>hasHero</key>
+	<string>videoTag</string>
+	<key>modalInteraction</key>
+	<string>shouldInflateCosine</string>
+	<key>profileHue</key>
+	<string>custompaintFacade</string>
+	<key>radiusTheme</key>
+	<string>shouldEmitModal</string>
+	<key>shouldTrainGem</key>
+	<string>fragmentLayer</string>
+	<key>tensorAlignment</key>
+	<string>parsecoordinator</string>
+</dict>
+</plist>

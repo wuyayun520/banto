@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticInterface</key>
+	<string>euclideanMultiplication</string>
+	<key>euclideanLayer</key>
+	<string>serializeCharacter</string>
+	<key>gateTint</key>
+	<string>transitionMaster</string>
+	<key>lifecycleDuration</key>
+	<string>stopIndicator</string>
+	<key>permissiveStatus</key>
+	<string>limitobserver</string>
+	<key>responsiveDispatcher</key>
+	<string>shouldKeepGate</string>
+	<key>responsivefilter</key>
+	<string>encodeArithmetic</string>
+	<key>sceneMargin</key>
+	<string>mainCache</string>
+	<key>visibleTitle</key>
+	<string>canInflateDecoration</string>
+</dict>
+</plist>

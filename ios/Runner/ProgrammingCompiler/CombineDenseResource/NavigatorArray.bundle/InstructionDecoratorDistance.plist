@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteProjection</key>
+	<string>handlerStatus</string>
+	<key>mergerFlags</key>
+	<string>toolDirection</string>
+	<key>plateValidation</key>
+	<string>numericalText</string>
+	<key>searcherDistance</key>
+	<string>associateHandler</string>
+	<key>statefulPriority</key>
+	<string>canDisconnectVariant</string>
+</dict>
+</plist>

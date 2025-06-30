@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultmusic</key>
+	<string>declarativeMatrix</string>
+	<key>implementgram</key>
+	<string>fixedMatrix</string>
+	<key>semanticsstate</key>
+	<string>overrideFactory</string>
+	<key>shouldBuildLog</key>
+	<string>formatSkirt</string>
+	<key>shouldReplaceNotifier</key>
+	<string>reusableDecoration</string>
+	<key>shouldUnmountRoute</key>
+	<string>sizeShade</string>
+</dict>
+</plist>

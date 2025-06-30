@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerinteraction</key>
+	<string>shouldUnmountReduction</string>
+	<key>drawerStyle</key>
+	<string>appbarBridge</string>
+	<key>globalThreshold</key>
+	<string>interactiveOperation</string>
+	<key>multiIntegrity</key>
+	<string>flexibleInterface</string>
+	<key>quitcontainer</key>
+	<string>normalCube</string>
+	<key>shouldPrepareComposition</key>
+	<string>symbolsystemshade</string>
+	<key>similarSplitter</key>
+	<string>evaluationTag</string>
+	<key>uniqueSplitter</key>
+	<string>configurationShade</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonCenter</key>
+	<string>serializeCaption</string>
+	<key>currentScope</key>
+	<string>primaryThroughput</string>
+	<key>defaultTechnique</key>
+	<string>fragmentsSkewY</string>
+	<key>moduleAlignment</key>
+	<string>checklistnumbertype</string>
+	<key>movementsubscriber</key>
+	<string>sequentialPadding</string>
+	<key>requiredSpecifier</key>
+	<string>createMethod</string>
+	<key>sorterDuration</key>
+	<string>executeDescription</string>
+</dict>
+</plist>

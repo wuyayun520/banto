@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerStyle</key>
+	<string>nativeSubpixel</string>
+	<key>cupertinoSine</key>
+	<string>gridskewx</string>
+	<key>fixedMember</key>
+	<string>quantizationIntensity</string>
+	<key>mediumProcessor</key>
+	<string>defaultTernary</string>
+	<key>shouldCancelPlayback</key>
+	<string>blocRate</string>
+	<key>spotCenter</key>
+	<string>subtleActivity</string>
+	<key>techniqueduringwork</key>
+	<string>sequentialCreator</string>
+</dict>
+</plist>

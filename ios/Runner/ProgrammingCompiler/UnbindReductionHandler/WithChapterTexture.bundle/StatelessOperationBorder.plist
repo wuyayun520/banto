@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalScreen</key>
+	<string>semanticsSingleton</string>
+	<key>deferredDetail</key>
+	<string>independentfutureinteraction</string>
+	<key>easyGem</key>
+	<string>allocatorvisible</string>
+	<key>immutableNotifier</key>
+	<string>optimizerFlags</string>
+	<key>notificationcurve</key>
+	<string>canPauseShader</string>
+	<key>radiusdrawer</key>
+	<string>processorskewy</string>
+	<key>screenlayerbehavior</key>
+	<string>fusedTraversal</string>
+	<key>shouldTransformCycle</key>
+	<string>augmentAllocator</string>
+	<key>stepName</key>
+	<string>canUnbindLabel</string>
+	<key>swiftInteraction</key>
+	<string>publishSwitch</string>
+</dict>
+</plist>

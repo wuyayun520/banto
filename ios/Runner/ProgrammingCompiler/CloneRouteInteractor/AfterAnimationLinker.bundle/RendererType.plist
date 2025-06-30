@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedNotifier</key>
+	<string>checkboxconsumption</string>
+	<key>diffableMetadata</key>
+	<string>requestborder</string>
+	<key>protectedScenario</key>
+	<string>configurationmesh</string>
+	<key>schemaOffset</key>
+	<string>durationSystem</string>
+	<key>shouldLayoutAspect</key>
+	<string>assetMemento</string>
+	<key>shouldUnmountedComposition</key>
+	<string>smallDrawer</string>
+	<key>smartIndicator</key>
+	<string>gemframe</string>
+	<key>usedListView</key>
+	<string>entitytension</string>
+</dict>
+</plist>

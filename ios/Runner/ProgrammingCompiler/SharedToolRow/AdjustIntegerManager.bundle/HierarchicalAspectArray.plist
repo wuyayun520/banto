@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionorigin</key>
+	<string>delegateListener</string>
+	<key>customScroller</key>
+	<string>resizableDescent</string>
+	<key>hierarchicalGrayscale</key>
+	<string>animatedcontainerprovision</string>
+	<key>isColumn</key>
+	<string>musictexture</string>
+	<key>originalTechnique</key>
+	<string>releaseView</string>
+	<key>resilientcurve</key>
+	<string>shouldContinueDescriptor</string>
+	<key>resourcestyle</key>
+	<string>workflowContext</string>
+	<key>searcherorientation</key>
+	<string>pendingUsage</string>
+	<key>temporaryLoader</key>
+	<string>releaseIsolate</string>
+</dict>
+</plist>

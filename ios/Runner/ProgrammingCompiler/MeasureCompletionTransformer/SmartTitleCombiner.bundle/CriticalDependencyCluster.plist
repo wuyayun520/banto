@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseBehavior</key>
+	<string>shouldSetStateCheckbox</string>
+	<key>capturehash</key>
+	<string>updateCompletion</string>
+	<key>drawerBorder</key>
+	<string>usedCupertino</string>
+	<key>memberInteraction</key>
+	<string>visitProvider</string>
+	<key>segmentstructureorigin</key>
+	<string>shouldKeepKernel</string>
+	<key>smartObserver</key>
+	<string>entityactionforce</string>
+	<key>stringifyasync</key>
+	<string>animatedcontainerHead</string>
+</dict>
+</plist>

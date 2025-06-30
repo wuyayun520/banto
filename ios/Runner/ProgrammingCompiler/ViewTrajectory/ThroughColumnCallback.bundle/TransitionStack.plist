@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBuffer</key>
+	<string>popInterface</string>
+	<key>arithmeticName</key>
+	<string>smartPublisher</string>
+	<key>boxphasesize</key>
+	<string>roleCycle</string>
+	<key>customcurvedensity</key>
+	<string>discardedmesh</string>
+	<key>cycleframe</key>
+	<string>shouldResumeEquipment</string>
+	<key>directWrapper</key>
+	<string>directlyCycle</string>
+	<key>discardedInterpolation</key>
+	<string>diversifiedmodalright</string>
+	<key>persistentTernary</key>
+	<string>nibShade</string>
+</dict>
+</plist>

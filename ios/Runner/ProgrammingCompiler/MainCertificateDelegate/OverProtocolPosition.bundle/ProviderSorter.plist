@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveSchema</key>
+	<string>shouldPersistAnimation</string>
+	<key>descriptorquaternion</key>
+	<string>timelineFrequency</string>
+	<key>ephemeralModel</key>
+	<string>canNotifyBitrate</string>
+	<key>responsivePublisher</key>
+	<string>presenterState</string>
+	<key>singleDescription</key>
+	<string>imperativeCallback</string>
+	<key>sustainablerect</key>
+	<string>selectednotifier</string>
+</dict>
+</plist>

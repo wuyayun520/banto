@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleTicker</key>
+	<string>discardedAppBar</string>
+	<key>permissiveLayout</key>
+	<string>shouldBuildAxis</string>
+	<key>shouldfetchswift</key>
+	<string>elementHead</string>
+	<key>smallConfidentiality</key>
+	<string>shouldKeepDrawer</string>
+	<key>specifierSpacing</key>
+	<string>movementtype</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystSkewY</key>
+	<string>bufferoutsidevariable</string>
+	<key>enhancesubpixel</key>
+	<string>saveLogarithm</string>
+	<key>iterativePrecision</key>
+	<string>resetcompleter</string>
+	<key>priorTrajectory</key>
+	<string>resumeTextField</string>
+</dict>
+</plist>

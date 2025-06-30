@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveutilacceleration</key>
+	<string>cartesianpaintershade</string>
+	<key>animatedTransformer</key>
+	<string>shouldStartLabel</string>
+	<key>bandwidthSize</key>
+	<string>masterOrigin</string>
+	<key>brushcontrast</key>
+	<string>secondTicker</string>
+	<key>explicitSemantics</key>
+	<string>shouldContinueUsage</string>
+	<key>impactTint</key>
+	<string>viewsystemoffset</string>
+	<key>rectIndex</key>
+	<string>normalLinker</string>
+	<key>responderFormat</key>
+	<string>certificateTransparency</string>
+</dict>
+</plist>

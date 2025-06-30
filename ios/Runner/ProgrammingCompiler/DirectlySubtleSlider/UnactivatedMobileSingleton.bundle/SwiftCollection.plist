@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledBullet</key>
+	<string>symbolFeedback</string>
+	<key>explicitTexture</key>
+	<string>attachmaster</string>
+	<key>granularstate</key>
+	<string>combineCubit</string>
+	<key>mapperleft</key>
+	<string>popAccessory</string>
+	<key>prismaticTrigger</key>
+	<string>playbacktype</string>
+	<key>similarHash</key>
+	<string>enhanceLocalization</string>
+	<key>sortedSwitch</key>
+	<string>cursorBuffer</string>
+</dict>
+</plist>

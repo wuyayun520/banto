@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableEmitter</key>
+	<string>associateZone</string>
+	<key>displayableGrid</key>
+	<string>agileIcon</string>
+	<key>lazyStatus</key>
+	<string>fragmentthanprocess</string>
+	<key>prismaticCard</key>
+	<string>completedDrawer</string>
+	<key>significantFinder</key>
+	<string>criticalResolver</string>
+	<key>spinetimeline</key>
+	<string>directFeature</string>
+	<key>taskrouter</key>
+	<string>loadScale</string>
+	<key>texturetint</key>
+	<string>cupertinoFactory</string>
+</dict>
+</plist>

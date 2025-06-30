@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredAudio</key>
+	<string>transpilePosition</string>
+	<key>firstResponder</key>
+	<string>tabbarneartask</string>
+	<key>logTint</key>
+	<string>shouldUnbindCoordinator</string>
+	<key>overridecubit</key>
+	<string>menuEnvironment</string>
+	<key>persistentChannel</key>
+	<string>operationquaternion</string>
+	<key>respectiveCheckbox</key>
+	<string>viewfrequency</string>
+	<key>topicworkpadding</key>
+	<string>bulletColor</string>
+</dict>
+</plist>

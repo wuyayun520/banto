@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalfeatureopacity</key>
+	<string>gateasobserver</string>
+	<key>lazyThroughput</key>
+	<string>measureDuration</string>
+	<key>lostResilience</key>
+	<string>statefulRouter</string>
+	<key>parallelPlayback</key>
+	<string>inactiveMechanism</string>
+	<key>publicListener</key>
+	<string>hardBitrate</string>
+	<key>quaternionRotation</key>
+	<string>primaryPoint</string>
+	<key>retainedInfo</key>
+	<string>immutableSymbol</string>
+	<key>reusableviewflags</key>
+	<string>shouldresumetable</string>
+	<key>shouldRebuildFlex</key>
+	<string>crudeparticle</string>
+	<key>substantialNib</key>
+	<string>tensorprofile</string>
+</dict>
+</plist>

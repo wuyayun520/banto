@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedaction</key>
+	<string>threadTint</string>
+	<key>declarativeMovement</key>
+	<string>canPauseAlert</string>
+	<key>invisibleSubscription</key>
+	<string>exceptionframeworkstate</string>
+	<key>provideresource</key>
+	<string>explicitMetrics</string>
+	<key>quaternionShape</key>
+	<string>pickerStyle</string>
+	<key>sanitizeevent</key>
+	<string>sortedSorter</string>
+	<key>shouldEndTheme</key>
+	<string>shouldPauseThread</string>
+	<key>shouldFinishBuilder</key>
+	<string>hyperbolicPadding</string>
+	<key>sustainablePolygon</key>
+	<string>storeOrigin</string>
+	<key>symmetricScreen</key>
+	<string>grainFunction</string>
+</dict>
+</plist>

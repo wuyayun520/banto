@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertShape</key>
+	<string>streamdrawer</string>
+	<key>collectionAcceleration</key>
+	<string>navigationKind</string>
+	<key>discardedNorm</key>
+	<string>spinIsolate</string>
+	<key>invokecurve</key>
+	<string>mediocreExpanded</string>
+	<key>pickerResponse</key>
+	<string>delegateHead</string>
+	<key>protocolinteraction</key>
+	<string>lastCurve</string>
+	<key>shouldCancelUnary</key>
+	<string>cancelReduction</string>
+	<key>tangentLocation</key>
+	<string>pageviewshade</string>
+</dict>
+</plist>

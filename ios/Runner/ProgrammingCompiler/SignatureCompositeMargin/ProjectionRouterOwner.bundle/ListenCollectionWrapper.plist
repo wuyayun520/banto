@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardResilience</key>
+	<string>directlyBandwidth</string>
+	<key>encodebuilder</key>
+	<string>equalizationbufferdirection</string>
+	<key>firstButton</key>
+	<string>processColumn</string>
+	<key>navigateevent</key>
+	<string>nextSample</string>
+	<key>otherReplica</key>
+	<string>expandedDensity</string>
+	<key>shouldSetStateOptimizer</key>
+	<string>tensorNode</string>
+	<key>sineInteraction</key>
+	<string>webCupertino</string>
+</dict>
+</plist>

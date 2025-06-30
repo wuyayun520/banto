@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachutil</key>
+	<string>tweakValidation</string>
+	<key>backwardInteractor</key>
+	<string>explicitCupertino</string>
+	<key>difficultFilter</key>
+	<string>selectedLogarithm</string>
+	<key>hierarchicalStateless</key>
+	<string>clipConfiguration</string>
+	<key>menuValidation</key>
+	<string>missedHandler</string>
+	<key>shouldPaintCursor</key>
+	<string>seguebesidephase</string>
+	<key>shouldUnmountIndicator</key>
+	<string>dynamicScope</string>
+</dict>
+</plist>

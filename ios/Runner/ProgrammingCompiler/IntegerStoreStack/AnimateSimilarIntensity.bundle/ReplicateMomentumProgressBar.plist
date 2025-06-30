@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customShader</key>
+	<string>cursoruntilproxy</string>
+	<key>executerect</key>
+	<string>canLayoutTextField</string>
+	<key>independentTimer</key>
+	<string>delegatePreview</string>
+	<key>resizableTolerance</key>
+	<string>apertureFrequency</string>
+	<key>respondpadding</key>
+	<string>canEmitGradient</string>
+	<key>shouldConnectConstraint</key>
+	<string>secondIntegration</string>
+</dict>
+</plist>

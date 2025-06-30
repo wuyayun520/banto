@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianSubscription</key>
+	<string>keyCubit</string>
+	<key>customizedShape</key>
+	<string>audioDepth</string>
+	<key>replaceimage</key>
+	<string>timerDelay</string>
+	<key>resumeternary</key>
+	<string>seamlessReference</string>
+	<key>shouldEncodeCursor</key>
+	<string>missedService</string>
+	<key>shouldFormatTable</key>
+	<string>visibleDelegate</string>
+	<key>uniqueSample</key>
+	<string>promiseOpacity</string>
+</dict>
+</plist>

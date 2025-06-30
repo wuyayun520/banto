@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicObserver</key>
+	<string>shouldDetachCanvas</string>
+	<key>extensionTail</key>
+	<string>encodeTable</string>
+	<key>extensionformduration</key>
+	<string>shouldStopSensor</string>
+	<key>lazyoperation</key>
+	<string>parseSignature</string>
+	<key>nextComposition</key>
+	<string>canDispatchSlider</string>
+</dict>
+</plist>

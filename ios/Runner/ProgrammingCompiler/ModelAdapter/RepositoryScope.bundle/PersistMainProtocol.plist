@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableDecoration</key>
+	<string>inheritedTolerance</string>
+	<key>diffableScenario</key>
+	<string>nativeTicker</string>
+	<key>euclideanDisclaimer</key>
+	<string>semanticdependency</string>
+	<key>notificationspeed</key>
+	<string>fragmentDepth</string>
+	<key>numericalTicker</key>
+	<string>instructionDistance</string>
+	<key>permissiveHeap</key>
+	<string>oldMerger</string>
+	<key>secondExtension</key>
+	<string>impressionvisibility</string>
+	<key>webDetector</key>
+	<string>canShowOverlay</string>
+</dict>
+</plist>

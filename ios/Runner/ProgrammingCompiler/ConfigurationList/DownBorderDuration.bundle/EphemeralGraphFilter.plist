@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorSkewX</key>
+	<string>navigationNumber</string>
+	<key>cupertinoDelegate</key>
+	<string>animateSingleton</string>
+	<key>functionalRecursion</key>
+	<string>intuitiveText</string>
+	<key>invisibleAnchor</key>
+	<string>delicateVideo</string>
+	<key>screenBound</key>
+	<string>statefulScreen</string>
+	<key>shouldListenMediaQuery</key>
+	<string>shouldEncodeObserver</string>
+	<key>shouldNotifyComposition</key>
+	<string>exceptionvalidation</string>
+	<key>subsequentPager</key>
+	<string>unactivatedObserver</string>
+	<key>temporarySession</key>
+	<string>shouldEmitDescriptor</string>
+	<key>variantvelocity</key>
+	<string>trainPromise</string>
+</dict>
+</plist>

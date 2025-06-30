@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerFrame</key>
+	<string>immutableMonster</string>
+	<key>primaryanimation</key>
+	<string>wrappreview</string>
+	<key>retainedStateful</key>
+	<string>interactiveResilience</string>
+	<key>roleDistance</key>
+	<string>apertureParam</string>
+	<key>shouldLoadPlate</key>
+	<string>tappableVariant</string>
+	<key>tappableMaterial</key>
+	<string>shouldBuildInteger</string>
+	<key>tappableReducer</key>
+	<string>shouldObserveMatrix</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorrect</key>
+	<string>sequentialmapper</string>
+	<key>basicScale</key>
+	<string>sharedObject</string>
+	<key>cachealignment</key>
+	<string>tablehead</string>
+	<key>controllershapeorientation</key>
+	<string>notifierparticle</string>
+	<key>defaultBox</key>
+	<string>shouldFinishMap</string>
+	<key>isolatePadding</key>
+	<string>animatedStateful</string>
+	<key>responsiveCurve</key>
+	<string>deflatebox</string>
+	<key>taskpreview</key>
+	<string>augmentGraph</string>
+</dict>
+</plist>

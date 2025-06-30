@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisname</key>
+	<string>shouldEncodeHistogram</string>
+	<key>cubitMode</key>
+	<string>parallelChallenge</string>
+	<key>intermediateAscent</key>
+	<string>equalizationMomentum</string>
+	<key>navigateslider</key>
+	<string>showBehavior</string>
+	<key>rectalignment</key>
+	<string>grainStyle</string>
+	<key>shouldPrepareTransition</key>
+	<string>canUnmountUnary</string>
+	<key>storeframe</key>
+	<string>originalCube</string>
+	<key>touchOpacity</key>
+	<string>exponentHead</string>
+</dict>
+</plist>

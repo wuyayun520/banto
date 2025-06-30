@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoEvent</key>
+	<string>subscribeConvolution</string>
+	<key>denseEquivalent</key>
+	<string>ignoredBinder</string>
+	<key>grainCoord</key>
+	<string>listviewDirection</string>
+	<key>invisibleThroughput</key>
+	<string>volumeRotation</string>
+	<key>shouldTransitionProvider</key>
+	<string>canRestartDrawer</string>
+	<key>signinteraction</key>
+	<string>transitionLayer</string>
+	<key>uniformConfiguration</key>
+	<string>channelFlyweight</string>
+</dict>
+</plist>

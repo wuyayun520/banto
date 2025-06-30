@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferaudio</key>
+	<string>concurrentOperation</string>
+	<key>dynamicRemainder</key>
+	<string>managerShape</string>
+	<key>missedPosition</key>
+	<string>canFinishSpot</string>
+	<key>nextBinary</key>
+	<string>brushtail</string>
+	<key>secondEquivalent</key>
+	<string>permanentCurve</string>
+	<key>shouldBindMonster</key>
+	<string>projectionPressure</string>
+</dict>
+</plist>

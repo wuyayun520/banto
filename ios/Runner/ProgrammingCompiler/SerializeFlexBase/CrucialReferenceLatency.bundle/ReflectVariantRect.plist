@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>largeSorter</key>
+	<string>shouldHandleCoordinator</string>
+	<key>lostDispatcher</key>
+	<string>canDeserializeGesture</string>
+	<key>shouldShowStoryboard</key>
+	<string>associatedmusicmomentum</string>
+	<key>subsequentCurve</key>
+	<string>stopMomentum</string>
+	<key>subsequentTween</key>
+	<string>extensionInterval</string>
+	<key>symmetricGraph</key>
+	<string>streamimpact</string>
+	<key>trainbase</key>
+	<string>shouldProcessGridView</string>
+</dict>
+</plist>

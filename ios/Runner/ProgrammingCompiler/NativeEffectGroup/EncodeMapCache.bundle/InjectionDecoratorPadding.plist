@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardIcon</key>
+	<string>shouldPersistGraphic</string>
+	<key>captionlayer</key>
+	<string>shouldunmountedbaseline</string>
+	<key>explicitTrigger</key>
+	<string>basiclayout</string>
+	<key>frameIndex</key>
+	<string>borderSpacing</string>
+	<key>interpolatestorage</key>
+	<string>switchname</string>
+	<key>optionwidget</key>
+	<string>rotateState</string>
+	<key>persistexception</key>
+	<string>aggregatemodel</string>
+	<key>sessiondelay</key>
+	<string>persistentTriangles</string>
+	<key>singletonappearance</key>
+	<string>firstUnary</string>
+	<key>sophisticatedAccessory</key>
+	<string>gradientOrientation</string>
+</dict>
+</plist>

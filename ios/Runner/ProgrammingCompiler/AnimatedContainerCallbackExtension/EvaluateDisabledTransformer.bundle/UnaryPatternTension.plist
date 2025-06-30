@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedInterpolation</key>
+	<string>shouldUnmountedImage</string>
+	<key>globalChecklist</key>
+	<string>statelessformshade</string>
+	<key>hierarchicalScale</key>
+	<string>continueAspectRatio</string>
+	<key>hyperbolicTernary</key>
+	<string>popanimatedcontainer</string>
+	<key>immutableTweak</key>
+	<string>shouldemitplate</string>
+	<key>inactiveQueue</key>
+	<string>advancedInkWell</string>
+	<key>reactiveMaster</key>
+	<string>typicalDelivery</string>
+	<key>shouldDismissStep</key>
+	<string>hardResource</string>
+	<key>shouldPushGradient</key>
+	<string>threadTop</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitivetopicdelay</key>
+	<string>autoTernary</string>
+	<key>managerShade</key>
+	<string>notificationPadding</string>
+	<key>mobileDependency</key>
+	<string>agileMetadata</string>
+	<key>shouldValidateStateless</key>
+	<string>baselineshader</string>
+	<key>subscriberLocation</key>
+	<string>mobileCreator</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackevaluation</key>
+	<string>observeWorkflow</string>
+	<key>grayscaleofnumber</key>
+	<string>notifyEffect</string>
+	<key>lossAcceleration</key>
+	<string>rebuildResource</string>
+	<key>shaderInteraction</key>
+	<string>shouldNavigatePageView</string>
+	<key>shouldCreateSpecifier</key>
+	<string>isPositioned</string>
+	<key>shouldResumeTask</key>
+	<string>orchestrateBuffer</string>
+	<key>videoDepth</key>
+	<string>usagePhase</string>
+</dict>
+</plist>

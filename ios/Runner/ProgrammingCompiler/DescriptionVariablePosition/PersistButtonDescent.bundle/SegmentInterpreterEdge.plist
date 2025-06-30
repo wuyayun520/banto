@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledColumn</key>
+	<string>isNavigator</string>
+	<key>priorityrepository</key>
+	<string>dropdownbuttonfrequency</string>
+	<key>prismaticchanneltheme</key>
+	<string>scrollableMedia</string>
+	<key>shouldFetchSwift</key>
+	<string>pushColumn</string>
+	<key>subsequentsprite</key>
+	<string>asynchronousSemantics</string>
+</dict>
+</plist>

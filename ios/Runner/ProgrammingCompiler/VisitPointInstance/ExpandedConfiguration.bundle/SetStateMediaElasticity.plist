@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addskin</key>
+	<string>kernelevolution</string>
+	<key>arithmeticcompositeshade</key>
+	<string>pageviewCycle</string>
+	<key>batchTheme</key>
+	<string>plateHead</string>
+	<key>cubeInterval</key>
+	<string>parallelCharacter</string>
+	<key>diffableButton</key>
+	<string>substantialTool</string>
+	<key>granularLayer</key>
+	<string>resilientTernary</string>
+	<key>pushcompleter</key>
+	<string>mendDuration</string>
+	<key>scaffoldshade</key>
+	<string>mediumScroller</string>
+</dict>
+</plist>

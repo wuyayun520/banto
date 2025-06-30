@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionallayout</key>
+	<string>layoutLeft</string>
+	<key>greatStorage</key>
+	<string>infoshape</string>
+	<key>layoutawaystage</key>
+	<string>seamlessTouch</string>
+	<key>protecteddimension</key>
+	<string>channelvariableleft</string>
+	<key>respectiveSizedBox</key>
+	<string>tweenimpact</string>
+	<key>roleasync</key>
+	<string>invisiblecycle</string>
+</dict>
+</plist>

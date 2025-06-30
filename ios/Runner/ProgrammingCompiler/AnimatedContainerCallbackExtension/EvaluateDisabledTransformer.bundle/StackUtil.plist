@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticLoop</key>
+	<string>priorBaseline</string>
+	<key>collectioninteraction</key>
+	<string>switchProcess</string>
+	<key>curveinformation</key>
+	<string>basicInfo</string>
+	<key>notationShape</key>
+	<string>permanentCluster</string>
+	<key>notificationMode</key>
+	<string>concreteScaffold</string>
+	<key>oldStateless</key>
+	<string>transformerAction</string>
+</dict>
+</plist>

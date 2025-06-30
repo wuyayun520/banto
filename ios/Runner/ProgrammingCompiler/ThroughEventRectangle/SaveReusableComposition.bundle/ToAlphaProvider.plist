@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificategraph</key>
+	<string>dismissNavigation</string>
+	<key>draggablesegment</key>
+	<string>timerinstate</string>
+	<key>easyElasticity</key>
+	<string>retainHash</string>
+	<key>equivalentSaturation</key>
+	<string>persistentScroll</string>
+	<key>skirtCenter</key>
+	<string>flexStage</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerInterval</key>
+	<string>interpolationParameter</string>
+	<key>declarativeReplica</key>
+	<string>curveLevel</string>
+	<key>integrationvelocity</key>
+	<string>shouldAnimateTool</string>
+	<key>modulusawaylevel</key>
+	<string>disconnectconfiguration</string>
+	<key>nextScope</key>
+	<string>diffableSubscription</string>
+	<key>nextWidget</key>
+	<string>musicfeature</string>
+</dict>
+</plist>

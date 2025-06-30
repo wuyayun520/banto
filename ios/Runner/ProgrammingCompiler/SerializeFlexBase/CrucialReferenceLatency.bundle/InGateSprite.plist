@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentFormat</key>
+	<string>mutableCertificate</string>
+	<key>bulletRotation</key>
+	<string>stateBorder</string>
+	<key>composableArithmetic</key>
+	<string>divideWidget</string>
+	<key>localizationRate</key>
+	<string>reflectRequest</string>
+	<key>moduleLeft</key>
+	<string>refactorDelegate</string>
+	<key>queueAlignment</key>
+	<string>attachBoxShadow</string>
+	<key>shouldBuildDimension</key>
+	<string>significantclipper</string>
+	<key>shouldObserveArithmetic</key>
+	<string>initializeRadius</string>
+</dict>
+</plist>

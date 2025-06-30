@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaulttable</key>
+	<string>precisionname</string>
+	<key>difficultequivalent</key>
+	<string>draggableGrain</string>
+	<key>inheritedTraversal</key>
+	<string>cacheremediation</string>
+	<key>multiMesh</key>
+	<string>primaryDropdownButton</string>
+	<key>unarystyle</key>
+	<string>filterPadding</string>
+</dict>
+</plist>

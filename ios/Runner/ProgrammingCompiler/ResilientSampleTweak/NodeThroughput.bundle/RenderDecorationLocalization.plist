@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeResponder</key>
+	<string>canSetStateCell</string>
+	<key>equalizationBehavior</key>
+	<string>touchAppearance</string>
+	<key>ignoredClipper</key>
+	<string>canEndPromise</string>
+	<key>latencyForce</key>
+	<string>lazyAsset</string>
+	<key>mapthanvalue</key>
+	<string>diversifiedNib</string>
+	<key>specifyqueue</key>
+	<string>tweakBottom</string>
+	<key>staticScaffold</key>
+	<string>cachedescription</string>
+	<key>widgetedge</key>
+	<string>lazySignature</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedLayout</key>
+	<string>mountedcapacities</string>
+	<key>dedicatedWidget</key>
+	<string>compositionalTentative</string>
+	<key>layoutlatency</key>
+	<string>canDetachRoute</string>
+	<key>mainScene</key>
+	<string>dependencyLeft</string>
+	<key>mediocreExtension</key>
+	<string>shouldSkipColumn</string>
+	<key>operationRate</key>
+	<string>offsetPresenter</string>
+	<key>shouldPublishCapsule</key>
+	<string>bufferEdge</string>
+	<key>sinkVisible</key>
+	<string>vectorPressure</string>
+	<key>slashOrigin</key>
+	<string>cupertinoLocation</string>
+	<key>sophisticatedMaterializer</key>
+	<string>fragmentconstraint</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticRestriction</key>
+	<string>rapidCustomPaint</string>
+	<key>completionShape</key>
+	<string>topictaskinterval</string>
+	<key>dismissconstraint</key>
+	<string>keyMovement</string>
+	<key>mobileExponent</key>
+	<string>shouldRouteScreen</string>
+	<key>normalgroupstatus</key>
+	<string>schedulerHue</string>
+	<key>remainderTheme</key>
+	<string>lastCreator</string>
+	<key>scaleinset</key>
+	<string>canLayoutSegue</string>
+	<key>searchresource</key>
+	<string>promiseticker</string>
+	<key>specifyrenderer</key>
+	<string>inflatePosition</string>
+</dict>
+</plist>

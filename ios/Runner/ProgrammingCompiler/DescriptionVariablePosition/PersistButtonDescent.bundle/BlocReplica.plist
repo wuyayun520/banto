@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredGestureDetector</key>
+	<string>declarativeLifecycle</string>
+	<key>disparateVolume</key>
+	<string>mediaqueryPadding</string>
+	<key>lostTool</key>
+	<string>explicitModel</string>
+	<key>optionOrigin</key>
+	<string>canStartInterpolation</string>
+	<key>unactivatedConfidentiality</key>
+	<string>visibleReliability</string>
+</dict>
+</plist>

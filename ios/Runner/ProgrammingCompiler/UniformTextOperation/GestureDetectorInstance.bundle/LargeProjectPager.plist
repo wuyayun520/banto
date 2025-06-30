@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffablenode</key>
+	<string>decodeDocument</string>
+	<key>granularTicker</key>
+	<string>shouldRestartFragment</string>
+	<key>integrationScale</key>
+	<string>canInflateCatalyst</string>
+	<key>processresult</key>
+	<string>mutableDetail</string>
+	<key>transformerSpeed</key>
+	<string>selectedReduction</string>
+</dict>
+</plist>

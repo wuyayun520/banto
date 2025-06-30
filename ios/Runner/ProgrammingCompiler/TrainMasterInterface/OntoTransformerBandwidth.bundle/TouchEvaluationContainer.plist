@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeInfo</key>
+	<string>shouldEmitGrayscale</string>
+	<key>buffercommandpadding</key>
+	<string>texturelatency</string>
+	<key>densePrecision</key>
+	<string>ternaryLocation</string>
+	<key>elasticCheckbox</key>
+	<string>intermediateConstraint</string>
+	<key>protectedPager</key>
+	<string>statefulalignmentkind</string>
+	<key>resizepositioned</key>
+	<string>effectconsumer</string>
+	<key>shouldEncodeEntropy</key>
+	<string>cacheFunction</string>
+	<key>visibleCollection</key>
+	<string>sharedObserver</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descentappearance</key>
+	<string>shouldCancelGridView</string>
+	<key>diversifiedPlate</key>
+	<string>nibTheme</string>
+	<key>flexiblegridinset</key>
+	<string>prevDelegate</string>
+	<key>hashindex</key>
+	<string>shouldDispatchPoint</string>
+	<key>mobileScene</key>
+	<string>canDispatchActivity</string>
+	<key>shouldYieldTouch</key>
+	<string>elementCount</string>
+	<key>usedSink</key>
+	<string>playbackDensity</string>
+</dict>
+</plist>

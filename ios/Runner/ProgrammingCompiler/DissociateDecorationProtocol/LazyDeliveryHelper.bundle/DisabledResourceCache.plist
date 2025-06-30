@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableFragments</key>
+	<string>rangePadding</string>
+	<key>easyCertificate</key>
+	<string>canCreateStack</string>
+	<key>multiFactory</key>
+	<string>activatedPet</string>
+	<key>retainnavigation</key>
+	<string>associatedOptimizer</string>
+	<key>shouldUnmountedNotification</key>
+	<string>transpileBuilder</string>
+	<key>synchronousProcessor</key>
+	<string>lazyStream</string>
+	<key>themeTheme</key>
+	<string>routeTernary</string>
+</dict>
+</plist>

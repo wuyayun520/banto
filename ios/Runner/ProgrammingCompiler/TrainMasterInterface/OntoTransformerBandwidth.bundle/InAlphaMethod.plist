@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerVisible</key>
+	<string>stampCommand</string>
+	<key>componentFormat</key>
+	<string>shouldSaveCache</string>
+	<key>immediateMesh</key>
+	<string>currentMomentum</string>
+	<key>parsemomentum</key>
+	<string>immutableMediaQuery</string>
+	<key>selectedcell</key>
+	<string>featurevalidation</string>
+	<key>shouldSubscribeBrush</key>
+	<string>clipperamongvisitor</string>
+	<key>shouldSubscribeLoss</key>
+	<string>canPaintContraction</string>
+	<key>smallInjection</key>
+	<string>ephemeralVector</string>
+	<key>stepSize</key>
+	<string>shouldSetStateExponent</string>
+</dict>
+</plist>

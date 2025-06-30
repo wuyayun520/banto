@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>publicAction</key>
+	<string>shouldSavePlate</string>
+	<key>requiredGestureDetector</key>
+	<string>parseProgressBar</string>
+	<key>selectedswift</key>
+	<string>seekPosition</string>
+	<key>shouldKeepBitrate</key>
+	<string>nativeModal</string>
+	<key>shouldLayoutSkirt</key>
+	<string>shouldLayoutSignature</string>
+	<key>subscriptioninterval</key>
+	<string>cachenavigation</string>
+	<key>synchronizegroup</key>
+	<string>releaseLayer</string>
+</dict>
+</plist>

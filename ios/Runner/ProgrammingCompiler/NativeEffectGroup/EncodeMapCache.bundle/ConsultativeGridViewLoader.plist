@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryVisible</key>
+	<string>textBehavior</string>
+	<key>deferredInteger</key>
+	<string>configurationthreshold</string>
+	<key>freecontraction</key>
+	<string>wrapallocator</string>
+	<key>intuitivebuilder</key>
+	<string>processEvent</string>
+	<key>measurecubit</key>
+	<string>interactorDensity</string>
+	<key>reducerVisibility</key>
+	<string>cupertinoReference</string>
+	<key>replicatealignment</key>
+	<string>profileSkewY</string>
+	<key>shouldCancelCharacter</key>
+	<string>mountAccessory</string>
+	<key>singleAnalogy</key>
+	<string>cycleDensity</string>
+	<key>typicalDisclaimer</key>
+	<string>canListenTechnique</string>
+</dict>
+</plist>

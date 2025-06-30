@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonparamshape</key>
+	<string>navigateInteger</string>
+	<key>gestureKind</key>
+	<string>requiredTaxonomy</string>
+	<key>matrixColor</key>
+	<string>canPaintTask</string>
+	<key>permanentBinary</key>
+	<string>canSerializeSample</string>
+	<key>skiptask</key>
+	<string>drawerEdge</string>
+	<key>subtleGrid</key>
+	<string>canObserveEntropy</string>
+	<key>unschedulegrain</key>
+	<string>remainderorproxy</string>
+</dict>
+</plist>

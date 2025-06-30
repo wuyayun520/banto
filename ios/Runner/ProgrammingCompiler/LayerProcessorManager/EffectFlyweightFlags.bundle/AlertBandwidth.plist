@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentState</key>
+	<string>granularMatrix</string>
+	<key>graphenvironmentvalidation</key>
+	<string>delicateGradient</string>
+	<key>inactiveAxis</key>
+	<string>switchTail</string>
+	<key>nextProcessor</key>
+	<string>canAttachMember</string>
+	<key>rebuildcallback</key>
+	<string>writeReducer</string>
+	<key>secondborder</key>
+	<string>mobileProcessor</string>
+	<key>shouldPublishStoryboard</key>
+	<string>transitionChallenge</string>
+</dict>
+</plist>

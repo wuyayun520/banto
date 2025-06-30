@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerFeedback</key>
+	<string>newestMethod</string>
+	<key>protocolstrategycoord</key>
+	<string>positionRight</string>
+	<key>shouldUnbindNavigator</key>
+	<string>animatepadding</string>
+	<key>tensorinjection</key>
+	<string>eagerCertificate</string>
+</dict>
+</plist>

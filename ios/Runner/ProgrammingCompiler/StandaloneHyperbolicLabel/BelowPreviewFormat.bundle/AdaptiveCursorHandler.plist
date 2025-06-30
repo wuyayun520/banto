@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSchema</key>
+	<string>iterativerepositorymode</string>
+	<key>commonDependency</key>
+	<string>concurrentPager</string>
+	<key>dynamicspothue</key>
+	<string>detachScroll</string>
+	<key>grainDirection</key>
+	<string>shouldUpdateSegue</string>
+	<key>shouldCancelTangent</key>
+	<string>shouldDecodePositioned</string>
+	<key>showcanvas</key>
+	<string>permissiveMerger</string>
+</dict>
+</plist>

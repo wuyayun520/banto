@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivealignmentdensity</key>
+	<string>attachInkWell</string>
+	<key>deprecatetabview</key>
+	<string>skirtBehavior</string>
+	<key>difficultAlpha</key>
+	<string>hashName</string>
+	<key>directlyListView</key>
+	<string>screenrect</string>
+	<key>scaledisclaimer</key>
+	<string>persistentslider</string>
+</dict>
+</plist>

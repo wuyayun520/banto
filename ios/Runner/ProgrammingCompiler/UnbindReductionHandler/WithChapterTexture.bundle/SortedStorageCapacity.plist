@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableUtil</key>
+	<string>canStartPlayback</string>
+	<key>liteChooser</key>
+	<string>inkwellindecorator</string>
+	<key>materialVideo</key>
+	<string>limitResponse</string>
+	<key>shouldDispatchResource</key>
+	<string>entitySaturation</string>
+	<key>shouldrenderskirt</key>
+	<string>containerskewy</string>
+	<key>unsortedCombiner</key>
+	<string>obtainmusic</string>
+</dict>
+</plist>

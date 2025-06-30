@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeconstraint</key>
+	<string>movementnumbertransparency</string>
+	<key>decorationCount</key>
+	<string>keyswitch</string>
+	<key>disconnecttextfield</key>
+	<string>shouldParseNotifier</string>
+	<key>distinctionname</key>
+	<string>scheduleCallback</string>
+	<key>intuitivecell</key>
+	<string>shouldPaintDocument</string>
+	<key>maporbridge</key>
+	<string>animatedcontainerActivity</string>
+	<key>numericalRepository</key>
+	<string>shouldBuildProjection</string>
+	<key>opaqueService</key>
+	<string>normAppearance</string>
+	<key>shouldSaveTernary</key>
+	<string>concurrentFuture</string>
+	<key>threadvardirection</key>
+	<string>composableBase</string>
+</dict>
+</plist>

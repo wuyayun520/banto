@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableSize</key>
+	<string>shouldAttachAlpha</string>
+	<key>gridAlignment</key>
+	<string>relationalMap</string>
+	<key>oncubetap</key>
+	<string>createLog</string>
+	<key>shouldPauseStoryboard</key>
+	<string>chapterequivalent</string>
+</dict>
+</plist>

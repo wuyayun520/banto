@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsbridgeappearance</key>
+	<string>shearFeature</string>
+	<key>configurationRotation</key>
+	<string>errorscope</string>
+	<key>inactivecanvasappearance</key>
+	<string>textfieldState</string>
+	<key>significantEmitter</key>
+	<string>pointSkewY</string>
+	<key>subpixelcontainwork</key>
+	<string>sortedVideo</string>
+	<key>usecasedetail</key>
+	<string>discardedfilter</string>
+</dict>
+</plist>

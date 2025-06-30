@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityDepth</key>
+	<string>shouldPopAxis</string>
+	<key>beginnerManager</key>
+	<string>completerPhase</string>
+	<key>endbox</key>
+	<string>sizeagainstnumber</string>
+	<key>numericalroute</key>
+	<string>checkboxMemento</string>
+	<key>presenterandbuffer</key>
+	<string>modelAdapter</string>
+	<key>rendercompleter</key>
+	<string>shouldConnectUnary</string>
+	<key>respectiveFragment</key>
+	<string>shouldAttachStamp</string>
+	<key>shouldStartSlash</key>
+	<string>completerTask</string>
+	<key>validateaccessory</key>
+	<string>shouldStreamKernel</string>
+</dict>
+</plist>

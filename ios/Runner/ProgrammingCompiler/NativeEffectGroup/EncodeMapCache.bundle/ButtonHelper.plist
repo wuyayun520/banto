@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customAllocator</key>
+	<string>smartSymbol</string>
+	<key>diffableConstraint</key>
+	<string>musicinactivity</string>
+	<key>directCharacter</key>
+	<string>animateStamp</string>
+	<key>litebuilder</key>
+	<string>sequentialUnary</string>
+	<key>tensorStorage</key>
+	<string>mediaPlatform</string>
+</dict>
+</plist>

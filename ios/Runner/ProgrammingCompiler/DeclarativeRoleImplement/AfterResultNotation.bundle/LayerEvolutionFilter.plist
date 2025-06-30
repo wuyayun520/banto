@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerPlayback</key>
+	<string>momentumVisitor</string>
+	<key>binaryFormat</key>
+	<string>formatPosition</string>
+	<key>deliveryPressure</key>
+	<string>composableGrayscale</string>
+	<key>detectorKind</key>
+	<string>persistentSchema</string>
+	<key>materializerDistance</key>
+	<string>integrityHead</string>
+	<key>publishview</key>
+	<string>numericalgraininterval</string>
+	<key>reconcilemodal</key>
+	<string>prepareCaption</string>
+	<key>sophisticatedRichText</key>
+	<string>provisionappearance</string>
+	<key>subsequentTabBar</key>
+	<string>triggerValidation</string>
+</dict>
+</plist>

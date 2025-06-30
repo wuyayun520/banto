@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectiontag</key>
+	<string>tweenmethodorientation</string>
+	<key>liteTransition</key>
+	<string>activatedInteraction</string>
+	<key>robustIntensity</key>
+	<string>imagedescent</string>
+	<key>stepcontainparam</key>
+	<string>spriteKind</string>
+	<key>tappablegrayscalerate</key>
+	<string>resizableShader</string>
+</dict>
+</plist>

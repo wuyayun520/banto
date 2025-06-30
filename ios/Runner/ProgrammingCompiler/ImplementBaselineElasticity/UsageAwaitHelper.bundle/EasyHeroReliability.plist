@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityShade</key>
+	<string>staticState</string>
+	<key>iconworkskewx</key>
+	<string>shaderInset</string>
+	<key>pivotalScene</key>
+	<string>mutableRow</string>
+	<key>progressbarappearance</key>
+	<string>intermediateMapper</string>
+	<key>sequentialArchitecture</key>
+	<string>usedPosition</string>
+	<key>shouldNavigateMission</key>
+	<string>priorLabel</string>
+	<key>visibleCache</key>
+	<string>smallTable</string>
+	<key>visibleInjection</key>
+	<string>unmountedbutton</string>
+</dict>
+</plist>

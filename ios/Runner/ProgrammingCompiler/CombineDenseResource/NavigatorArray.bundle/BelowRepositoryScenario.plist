@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistkind</key>
+	<string>webSegue</string>
+	<key>creatorDirection</key>
+	<string>timelineSkewY</string>
+	<key>dimensionSaturation</key>
+	<string>awaitconsumption</string>
+	<key>fragmentsBrightness</key>
+	<string>mountedgrain</string>
+	<key>precisioncapacity</key>
+	<string>canSkipMission</string>
+	<key>shouldDetachPrecision</key>
+	<string>integerParam</string>
+	<key>standaloneintensityvisible</key>
+	<string>rotateUtil</string>
+	<key>tabbarDepth</key>
+	<string>pauseSlider</string>
+	<key>throughputKind</key>
+	<string>captionFrequency</string>
+</dict>
+</plist>

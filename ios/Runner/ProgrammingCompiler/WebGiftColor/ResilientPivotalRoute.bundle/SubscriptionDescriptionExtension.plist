@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeInkWell</key>
+	<string>cycleTask</string>
+	<key>curvemerger</key>
+	<string>featureStatus</string>
+	<key>limitcontroller</key>
+	<string>remainderinformation</string>
+	<key>mechanismLeft</key>
+	<string>concurrentCallback</string>
+	<key>multiHandler</key>
+	<string>shaderRate</string>
+	<key>shouldAnimateTabView</key>
+	<string>basethanlayer</string>
+	<key>significantCaption</key>
+	<string>overrideLabel</string>
+	<key>significantdecoration</key>
+	<string>restartNotification</string>
+</dict>
+</plist>

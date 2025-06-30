@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxvariablecontrast</key>
+	<string>fragmentMethod</string>
+	<key>floatslider</key>
+	<string>compositionalHandler</string>
+	<key>isolatelayerspacing</key>
+	<string>schemaSize</string>
+	<key>operationviacycle</key>
+	<string>precisionParameter</string>
+	<key>reactiveTernary</key>
+	<string>cyclemodel</string>
+	<key>specifierBorder</key>
+	<string>requiredIcon</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedutilborder</key>
+	<string>bulletcomponent</string>
+	<key>arithmeticAperture</key>
+	<string>permanentPosition</string>
+	<key>mediaqueryvalidation</key>
+	<string>shouldPrepareDecoration</string>
+	<key>schedulerMomentum</key>
+	<string>lossBehavior</string>
+	<key>unactivatedTolerance</key>
+	<string>sinkOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeContainer</key>
+	<string>hierarchicalParticle</string>
+	<key>mobileSign</key>
+	<string>canUnmountRow</string>
+	<key>statelessAsync</key>
+	<string>oldMedia</string>
+</dict>
+</plist>

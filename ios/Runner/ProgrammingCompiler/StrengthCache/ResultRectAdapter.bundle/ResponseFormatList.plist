@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticNode</key>
+	<string>interactiveResponder</string>
+	<key>dimensionPadding</key>
+	<string>standaloneException</string>
+	<key>invisibleController</key>
+	<string>mountBorder</string>
+	<key>nextwidgetpressure</key>
+	<string>customizedShape</string>
+	<key>permanentCharacter</key>
+	<string>popcontroller</string>
+	<key>selectorState</key>
+	<string>nextResponder</string>
+	<key>shouldCreateOptimizer</key>
+	<string>aspectstyle</string>
+	<key>temporaryRect</key>
+	<string>declarativeInfrastructure</string>
+	<key>tensorTechnique</key>
+	<string>disposeCoordinator</string>
+</dict>
+</plist>

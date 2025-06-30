@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianCompleter</key>
+	<string>canKeepFuture</string>
+	<key>creatorRate</key>
+	<string>discardedIndicator</string>
+	<key>heapDensity</key>
+	<string>canResumeTransition</string>
+	<key>navigatorEdge</key>
+	<string>lockDependency</string>
+	<key>provideobserver</key>
+	<string>iconObserver</string>
+	<key>shouldStopSample</key>
+	<string>dismissMaster</string>
+	<key>strengthAcceleration</key>
+	<string>concurrentcurvebottom</string>
+	<key>tentativeSaturation</key>
+	<string>canMountedRole</string>
+</dict>
+</plist>

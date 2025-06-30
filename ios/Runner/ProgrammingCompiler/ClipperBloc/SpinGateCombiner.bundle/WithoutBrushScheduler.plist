@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialresolverlocation</key>
+	<string>pinchableContrast</string>
+	<key>crudetechniquetag</key>
+	<string>canUnmountedCharacter</string>
+	<key>defaultNavigation</key>
+	<string>popupcombiner</string>
+	<key>monsterSkewX</key>
+	<string>canAttachRow</string>
+	<key>shouldFinishEffect</key>
+	<string>toleranceBehavior</string>
+	<key>sustainableEmitter</key>
+	<string>switchpermode</string>
+</dict>
+</plist>

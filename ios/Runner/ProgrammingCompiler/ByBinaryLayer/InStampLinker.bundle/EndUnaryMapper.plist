@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatechart</key>
+	<string>visibleOption</string>
+	<key>contractionSaturation</key>
+	<string>invisibleroutescale</string>
+	<key>interactorValidation</key>
+	<string>slashinformation</string>
+	<key>respectiveDuration</key>
+	<string>visibleStateless</string>
+	<key>shouldPaintMatrix</key>
+	<string>clearConfiguration</string>
+	<key>shouldPopNotifier</key>
+	<string>parseCharacter</string>
+	<key>strokeforce</key>
+	<string>canPublishBox</string>
+	<key>visibleDrawer</key>
+	<string>sortedFilter</string>
+</dict>
+</plist>

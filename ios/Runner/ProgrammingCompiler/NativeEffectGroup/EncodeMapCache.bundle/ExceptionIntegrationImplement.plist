@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleInteractor</key>
+	<string>shouldYieldLabel</string>
+	<key>animatedcontainerbehavior</key>
+	<string>emitSink</string>
+	<key>bindtable</key>
+	<string>attachTheme</string>
+	<key>completerTail</key>
+	<string>labelvisible</string>
+	<key>embedprogressbar</key>
+	<string>logLeft</string>
+	<key>isOption</key>
+	<string>painteroperationinteraction</string>
+	<key>requiredScene</key>
+	<string>canMountMovement</string>
+	<key>richtextnumberdelay</key>
+	<string>tweenAcceleration</string>
+</dict>
+</plist>

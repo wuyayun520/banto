@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableScreen</key>
+	<string>inactiveCard</string>
+	<key>inkwellvertex</key>
+	<string>swiftVisible</string>
+	<key>publishslash</key>
+	<string>shouldLayoutModulus</string>
+	<key>reactiveprogressbarvisible</key>
+	<string>resolverFramework</string>
+	<key>retainedSubscriber</key>
+	<string>charactersubscription</string>
+	<key>shapeSkewY</key>
+	<string>kernelInteraction</string>
+	<key>statefulDispatcher</key>
+	<string>bundleTicker</string>
+	<key>subtleTweak</key>
+	<string>shouldRebuildCosine</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicChannel</key>
+	<string>hascertificate</string>
+	<key>inactiveRichText</key>
+	<string>scrollablePriority</string>
+	<key>matrixcompositerotation</key>
+	<string>descriptorProxy</string>
+	<key>positionedShade</key>
+	<string>subtlemonster</string>
+	<key>shouldRouteWorkflow</key>
+	<string>symmetricView</string>
+	<key>shouldupdatepadding</key>
+	<string>shouldpersistaxis</string>
+	<key>subsequentLayout</key>
+	<string>stephead</string>
+	<key>symmetricProtocol</key>
+	<string>updateMap</string>
+</dict>
+</plist>

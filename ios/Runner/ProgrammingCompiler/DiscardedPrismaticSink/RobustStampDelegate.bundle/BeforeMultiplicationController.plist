@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardfrequency</key>
+	<string>canSetStateNavigator</string>
+	<key>certificatejobvisible</key>
+	<string>subscriptionnearvalue</string>
+	<key>oldtouchlocation</key>
+	<string>asynchronousSensor</string>
+	<key>onconvolutiontap</key>
+	<string>declarativeTopic</string>
+	<key>onprioritytap</key>
+	<string>shouldMountedInterpolation</string>
+	<key>reusableReceiver</key>
+	<string>builderrotation</string>
+	<key>shouldPrepareVariant</key>
+	<string>alphaFrequency</string>
+</dict>
+</plist>

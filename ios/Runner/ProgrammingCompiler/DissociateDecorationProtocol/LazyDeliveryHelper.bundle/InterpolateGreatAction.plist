@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturebottom</key>
+	<string>toolEdge</string>
+	<key>arithmeticKind</key>
+	<string>robustResilience</string>
+	<key>beginnerintegrity</key>
+	<string>detectorScale</string>
+	<key>intuitiveFrame</key>
+	<string>smartTimeline</string>
+	<key>oldEvent</key>
+	<string>multiplyradius</string>
+	<key>scaffoldColor</key>
+	<string>canSetStateEntropy</string>
+	<key>smallConverter</key>
+	<string>notificationFormat</string>
+	<key>symbolresponder</key>
+	<string>entityTask</string>
+</dict>
+</plist>

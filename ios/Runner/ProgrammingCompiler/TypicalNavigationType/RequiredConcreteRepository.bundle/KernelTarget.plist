@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileReference</key>
+	<string>presenterEnvironment</string>
+	<key>flexibleDropdownButton</key>
+	<string>customFrame</string>
+	<key>functionalRichText</key>
+	<string>geometricUseCase</string>
+	<key>polyfillContrast</key>
+	<string>canRestartPageView</string>
+	<key>shouldEncodeCertificate</key>
+	<string>advancedPopup</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesindex</key>
+	<string>lazyInjection</string>
+	<key>inheritedException</key>
+	<string>publicRouter</string>
+	<key>layoutmomentum</key>
+	<string>executeCurve</string>
+	<key>materialCheckbox</key>
+	<string>managerPattern</string>
+	<key>missionscalability</key>
+	<string>shouldSaveDescriptor</string>
+	<key>otherRectangle</key>
+	<string>constructGrain</string>
+	<key>protectedDispatcher</key>
+	<string>canDecodeGesture</string>
+	<key>requiredQueue</key>
+	<string>nodeRight</string>
+	<key>zoneTransparency</key>
+	<string>shouldSetStateWorkflow</string>
+</dict>
+</plist>

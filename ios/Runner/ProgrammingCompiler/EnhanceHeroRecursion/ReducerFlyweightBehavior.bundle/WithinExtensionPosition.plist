@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listviewlayertint</key>
+	<string>scopeCenter</string>
+	<key>mountedconsumer</key>
+	<string>cacheTangent</string>
+	<key>nextShape</key>
+	<string>canRebuildCatalyst</string>
+	<key>secondaspectbehavior</key>
+	<string>maxProvider</string>
+	<key>shouldBindSegue</key>
+	<string>projectionStrategy</string>
+	<key>shouldCreateConvolution</key>
+	<string>discardedSchema</string>
+	<key>tweakShade</key>
+	<string>associatedText</string>
+	<key>viewfinder</key>
+	<string>resizableRectangle</string>
+</dict>
+</plist>

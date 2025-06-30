@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeGrain</key>
+	<string>mainSlash</string>
+	<key>defaultMaterial</key>
+	<string>consumptionForce</string>
+	<key>opaqueRichText</key>
+	<string>handleModal</string>
+	<key>reactiveSymbol</key>
+	<string>directSpot</string>
+	<key>smallMetrics</key>
+	<string>mainTraversal</string>
+	<key>transitionstateless</key>
+	<string>touchSlider</string>
+	<key>vertextransparency</key>
+	<string>quantizerException</string>
+</dict>
+</plist>

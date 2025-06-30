@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoexceptionsize</key>
+	<string>keepAlert</string>
+	<key>bordercolor</key>
+	<string>schemaTheme</string>
+	<key>cursorValidation</key>
+	<string>showTransition</string>
+	<key>repositoryStatus</key>
+	<string>backwardDescriptor</string>
+	<key>rowresponse</key>
+	<string>transitionTension</string>
+	<key>selectedSession</key>
+	<string>respondtool</string>
+	<key>significantDuration</key>
+	<string>dismissAccessory</string>
+</dict>
+</plist>

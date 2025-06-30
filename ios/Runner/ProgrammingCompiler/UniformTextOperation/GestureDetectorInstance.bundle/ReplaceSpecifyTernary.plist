@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iconcoord</key>
+	<string>declarativeConvolution</string>
+	<key>materialMobile</key>
+	<string>hierarchicalPageView</string>
+	<key>protocoldirection</key>
+	<string>originalPosition</string>
+</dict>
+</plist>

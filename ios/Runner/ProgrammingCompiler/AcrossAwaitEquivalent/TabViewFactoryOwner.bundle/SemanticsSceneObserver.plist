@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorFeedback</key>
+	<string>unsortedTransformer</string>
+	<key>hyperbolicShader</key>
+	<string>pointasset</string>
+	<key>keySubpixel</key>
+	<string>interactorpatternedge</string>
+	<key>scaleBehavior</key>
+	<string>reactiveCertificate</string>
+	<key>servicePressure</key>
+	<string>easyLatency</string>
+	<key>swiftzone</key>
+	<string>detailfrequency</string>
+	<key>techniqueOrigin</key>
+	<string>meshinteraction</string>
+</dict>
+</plist>

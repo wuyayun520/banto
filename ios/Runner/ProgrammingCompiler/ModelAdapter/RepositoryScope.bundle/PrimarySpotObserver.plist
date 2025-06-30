@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardQueue</key>
+	<string>createPlayback</string>
+	<key>heapFlags</key>
+	<string>taskActivity</string>
+	<key>imperativerolebrightness</key>
+	<string>cellPrototype</string>
+	<key>lastwidgetspacing</key>
+	<string>shouldRebuildOperation</string>
+	<key>nodeatcontext</key>
+	<string>significantWrapper</string>
+	<key>requiredFeature</key>
+	<string>animationsensor</string>
+	<key>shouldSkipModal</key>
+	<string>multiPositioned</string>
+</dict>
+</plist>

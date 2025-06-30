@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorSkewY</key>
+	<string>binderCoord</string>
+	<key>associatedlistener</key>
+	<string>vectorBridge</string>
+	<key>coordinatorBound</key>
+	<string>uniqueEqualization</string>
+	<key>gatecenter</key>
+	<string>responsivestack</string>
+	<key>localAllocator</key>
+	<string>kernelDecorator</string>
+	<key>onhistogramchanged</key>
+	<string>startSlider</string>
+	<key>sampleFrequency</key>
+	<string>timerParameter</string>
+	<key>smartsession</key>
+	<string>timerDuration</string>
+</dict>
+</plist>

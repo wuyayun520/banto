@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easytransitionvisible</key>
+	<string>denseSwitch</string>
+	<key>explicitdecorationsize</key>
+	<string>cycleMemento</string>
+	<key>smartListView</key>
+	<string>rendererCount</string>
+</dict>
+</plist>

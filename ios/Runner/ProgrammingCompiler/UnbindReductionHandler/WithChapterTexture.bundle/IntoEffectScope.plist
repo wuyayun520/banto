@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableBandwidth</key>
+	<string>notificationname</string>
+	<key>priorresolvercoord</key>
+	<string>prepareEquipment</string>
+	<key>storeedge</key>
+	<string>consultativeTextField</string>
+	<key>streamMode</key>
+	<string>grayscaleBuffer</string>
+	<key>streamlinemusic</key>
+	<string>mutableInterpolation</string>
+	<key>techniqueStatus</key>
+	<string>tabviewDelay</string>
+</dict>
+</plist>

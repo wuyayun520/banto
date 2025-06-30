@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentVolume</key>
+	<string>canPresentSlider</string>
+	<key>exponentFlags</key>
+	<string>visitRequest</string>
+	<key>inactivePadding</key>
+	<string>substantialIcon</string>
+	<key>movebase</key>
+	<string>shouldEndPadding</string>
+	<key>opaqueTrigger</key>
+	<string>robustTimer</string>
+	<key>pageviewStyle</key>
+	<string>singletonSkewY</string>
+	<key>shouldNavigateGem</key>
+	<string>soundLocation</string>
+	<key>shouldPrepareCoordinator</key>
+	<string>cubitCommand</string>
+	<key>shouldUnmountedAnchor</key>
+	<string>ignoredStoryboard</string>
+</dict>
+</plist>

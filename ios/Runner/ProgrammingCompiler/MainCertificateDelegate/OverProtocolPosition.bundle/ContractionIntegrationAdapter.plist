@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainSpecifier</key>
+	<string>shouldFinishDocument</string>
+	<key>offsetdetector</key>
+	<string>canUnmountInkWell</string>
+	<key>requestfragment</key>
+	<string>drawMenu</string>
+	<key>shouldProcessCoordinator</key>
+	<string>disparateSine</string>
+</dict>
+</plist>

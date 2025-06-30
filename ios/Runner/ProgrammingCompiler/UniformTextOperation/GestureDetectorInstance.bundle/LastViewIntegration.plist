@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthVisible</key>
+	<string>yieldScroll</string>
+	<key>functionalVertex</key>
+	<string>canUpdateDuration</string>
+	<key>isnavigation</key>
+	<string>missionVariable</string>
+	<key>missedInterpolation</key>
+	<string>canNavigateAccessory</string>
+	<key>reactiveDuration</key>
+	<string>dynamicScroller</string>
+	<key>shouldStartStep</key>
+	<string>sanitizeFeature</string>
+</dict>
+</plist>

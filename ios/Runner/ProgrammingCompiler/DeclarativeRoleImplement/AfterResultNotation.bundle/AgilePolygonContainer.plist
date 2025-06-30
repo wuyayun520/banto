@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityHue</key>
+	<string>brushSystem</string>
+	<key>creatorBehavior</key>
+	<string>shouldRebuildProtocol</string>
+	<key>cupertinoInstruction</key>
+	<string>ephemeralTentative</string>
+	<key>fragmentsContrast</key>
+	<string>canPauseDialogs</string>
+	<key>ignoredLocalization</key>
+	<string>gesturedetectorPhase</string>
+	<key>loadalignment</key>
+	<string>gridResponse</string>
+	<key>mediocreCaption</key>
+	<string>buttonInterpreter</string>
+	<key>originalClipper</key>
+	<string>assetfacadepressure</string>
+	<key>otherBox</key>
+	<string>shouldCancelMember</string>
+	<key>requiredscene</key>
+	<string>primaryreliability</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerSaturation</key>
+	<string>gridviewlayermomentum</string>
+	<key>createsymbol</key>
+	<string>prepareCapacities</string>
+	<key>disabledItem</key>
+	<string>pinchableInstruction</string>
+	<key>granularTheme</key>
+	<string>minFlex</string>
+	<key>shouldCachePlayback</key>
+	<string>beginnerSkin</string>
+</dict>
+</plist>

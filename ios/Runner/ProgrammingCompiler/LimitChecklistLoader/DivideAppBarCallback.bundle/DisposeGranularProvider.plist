@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaproxytransparency</key>
+	<string>symbolradius</string>
+	<key>controllercombiner</key>
+	<string>tweenOpacity</string>
+	<key>descriptionfrequency</key>
+	<string>sharedTimeline</string>
+	<key>greatShader</key>
+	<string>canStopBullet</string>
+	<key>otherDuration</key>
+	<string>animatedcontainerRate</string>
+	<key>pivotalTopic</key>
+	<string>shouldendmusic</string>
+	<key>reusableAccessory</key>
+	<string>layoutRoute</string>
+	<key>textbottom</key>
+	<string>mediumCapacity</string>
+</dict>
+</plist>

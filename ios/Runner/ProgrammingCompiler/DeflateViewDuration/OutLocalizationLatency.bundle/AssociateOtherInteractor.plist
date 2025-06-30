@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurevector</key>
+	<string>arithmeticStroke</string>
+	<key>easyVolume</key>
+	<string>inheritedUnary</string>
+	<key>joinerInset</key>
+	<string>shouldSetStateGram</string>
+	<key>lazyFlex</key>
+	<string>menuVelocity</string>
+	<key>mountedexpanded</key>
+	<string>discardedinjectioncoord</string>
+	<key>resolverPadding</key>
+	<string>consultativeTouch</string>
+	<key>shouldNavigateAnchor</key>
+	<string>inheritedSelector</string>
+	<key>statelessBaseline</key>
+	<string>globalCharacter</string>
+</dict>
+</plist>

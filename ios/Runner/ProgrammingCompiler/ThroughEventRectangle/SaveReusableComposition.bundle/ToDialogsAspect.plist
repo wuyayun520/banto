@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncviaaction</key>
+	<string>shouldSaveBaseline</string>
+	<key>densedrawer</key>
+	<string>shouldConnectProtocol</string>
+	<key>dynamicSound</key>
+	<string>eagerstreambottom</string>
+	<key>easyResult</key>
+	<string>textdelay</string>
+	<key>numericalPoint</key>
+	<string>shouldStartSemantics</string>
+</dict>
+</plist>

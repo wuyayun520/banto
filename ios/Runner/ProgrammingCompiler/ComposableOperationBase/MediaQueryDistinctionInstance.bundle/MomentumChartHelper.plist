@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeNavigator</key>
+	<string>processInteger</string>
+	<key>advancedAsset</key>
+	<string>compositionalSwift</string>
+	<key>emitterCount</key>
+	<string>hardBorder</string>
+	<key>fixedSplitter</key>
+	<string>objectScale</string>
+	<key>nativeFuture</key>
+	<string>unactivatedobservervelocity</string>
+	<key>statelessfromstage</key>
+	<string>repositoryVelocity</string>
+	<key>tappableBorder</key>
+	<string>criticalPicker</string>
+	<key>vectorVisible</key>
+	<string>directPolygon</string>
+</dict>
+</plist>

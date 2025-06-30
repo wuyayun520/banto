@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncDensity</key>
+	<string>skinVisibility</string>
+	<key>chooserTransparency</key>
+	<string>imageFlyweight</string>
+	<key>keyTitle</key>
+	<string>binaryValidation</string>
+	<key>shouldUnmountMaterial</key>
+	<string>oldSearcher</string>
+	<key>timelineHead</key>
+	<string>shouldCancelShader</string>
+</dict>
+</plist>

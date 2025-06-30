@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativebloc</key>
+	<string>destroyTexture</string>
+	<key>keeplistener</key>
+	<string>shouldTransformRoute</string>
+	<key>splitterright</key>
+	<string>executeParticle</string>
+	<key>stepAcceleration</key>
+	<string>canRouteGradient</string>
+	<key>substantialCell</key>
+	<string>eagerEqualization</string>
+</dict>
+</plist>

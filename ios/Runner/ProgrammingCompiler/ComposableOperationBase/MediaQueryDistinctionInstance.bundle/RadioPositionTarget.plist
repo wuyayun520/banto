@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturedata</key>
+	<string>touchevolution</string>
+	<key>beginnerConvolution</key>
+	<string>concurrentImpression</string>
+	<key>controllerrect</key>
+	<string>serializeAlpha</string>
+	<key>discardedAlignment</key>
+	<string>symmetricPageView</string>
+	<key>discardedDuration</key>
+	<string>autosegment</string>
+	<key>otherPageView</key>
+	<string>mountMonster</string>
+	<key>scrollerHue</key>
+	<string>playCompleter</string>
+	<key>shouldKeepColumn</key>
+	<string>controllerInterval</string>
+	<key>sizedboxelasticity</key>
+	<string>sophisticatedCharacteristic</string>
+</dict>
+</plist>

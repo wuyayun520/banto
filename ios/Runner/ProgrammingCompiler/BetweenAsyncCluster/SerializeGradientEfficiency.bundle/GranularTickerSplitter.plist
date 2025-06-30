@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiScroll</key>
+	<string>descriptorType</string>
+	<key>normalEquivalent</key>
+	<string>extendconfiguration</string>
+	<key>parsesample</key>
+	<string>easyFilter</string>
+	<key>protectedGrain</key>
+	<string>ephemeralZone</string>
+	<key>singlepromiseacceleration</key>
+	<string>sizeEdge</string>
+	<key>spriteAcceleration</key>
+	<string>tensorslideroffset</string>
+</dict>
+</plist>

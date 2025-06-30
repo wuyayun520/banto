@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalDimension</key>
+	<string>handlerFeedback</string>
+	<key>originalcreator</key>
+	<string>robustStamp</string>
+	<key>shouldBindCapsule</key>
+	<string>createdialogs</string>
+	<key>shouldloadmission</key>
+	<string>nibslider</string>
+	<key>touchlocalization</key>
+	<string>usedDisclaimer</string>
+</dict>
+</plist>

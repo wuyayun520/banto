@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyFrequency</key>
+	<string>canCacheButton</string>
+	<key>compositionalListView</key>
+	<string>convertLoop</string>
+	<key>displayableMechanism</key>
+	<string>mutableScalability</string>
+	<key>spriteShade</key>
+	<string>shouldMountMediaQuery</string>
+	<key>standaloneAccessory</key>
+	<string>permissiveMaterial</string>
+	<key>techniqueShape</key>
+	<string>globalmaterial</string>
+</dict>
+</plist>

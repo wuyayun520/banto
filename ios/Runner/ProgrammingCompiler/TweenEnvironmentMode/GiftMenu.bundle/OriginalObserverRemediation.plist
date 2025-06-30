@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorStatus</key>
+	<string>profilePopup</string>
+	<key>consumptionInteraction</key>
+	<string>shouldDeserializeCube</string>
+	<key>desktopTriangles</key>
+	<string>referenceanimation</string>
+	<key>exitlocalization</key>
+	<string>catalystconstant</string>
+	<key>otherStateless</key>
+	<string>primaryGift</string>
+	<key>shouldDecodeView</key>
+	<string>showIntensity</string>
+	<key>shouldPresentBase</key>
+	<string>descriptionshade</string>
+	<key>taxonomyState</key>
+	<string>navigatorduration</string>
+</dict>
+</plist>

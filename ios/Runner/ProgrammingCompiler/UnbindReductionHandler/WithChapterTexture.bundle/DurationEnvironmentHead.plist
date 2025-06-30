@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorflyweightcount</key>
+	<string>invisibleGraph</string>
+	<key>enabledFeature</key>
+	<string>scenePrototype</string>
+	<key>numericalAnalogy</key>
+	<string>tensorIndicator</string>
+	<key>prevAnimatedContainer</key>
+	<string>normalCharacter</string>
+	<key>seguetag</key>
+	<string>builderfinder</string>
+	<key>unbindbuffer</key>
+	<string>schemaskewy</string>
+	<key>uniqueGraphic</key>
+	<string>appbarPhase</string>
+</dict>
+</plist>

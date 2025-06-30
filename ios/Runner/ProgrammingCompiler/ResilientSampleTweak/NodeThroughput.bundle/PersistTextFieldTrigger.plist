@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSubpixel</key>
+	<string>compositionalReducer</string>
+	<key>hierarchicalGroup</key>
+	<string>directSample</string>
+	<key>mediaqueryuntiloperation</key>
+	<string>advancedMerger</string>
+	<key>reducerdelivery</key>
+	<string>interactiveCustomPaint</string>
+	<key>similarAlert</key>
+	<string>adaptiveMaterial</string>
+	<key>symbolexceptplatform</key>
+	<string>shouldParseProject</string>
+</dict>
+</plist>

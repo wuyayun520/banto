@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMonster</key>
+	<string>missedVolume</string>
+	<key>custompaintrate</key>
+	<string>signMomentum</string>
+	<key>delegatelabel</key>
+	<string>canUpdateDrawer</string>
+	<key>denseprogressbar</key>
+	<string>updateNotifier</string>
+	<key>flexibleChapter</key>
+	<string>equivalentDuration</string>
+	<key>operationState</key>
+	<string>skipWorkflow</string>
+	<key>shouldEndEqualization</key>
+	<string>discoverObserver</string>
+	<key>shouldobservepageview</key>
+	<string>shouldNotifyLabel</string>
+	<key>synchronousException</key>
+	<string>vectorizeInterface</string>
+</dict>
+</plist>

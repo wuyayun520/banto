@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedBorder</key>
+	<string>canUnbindSizedBox</string>
+	<key>celldependency</key>
+	<string>significantManager</string>
+	<key>compositionalAsync</key>
+	<string>listenerLeft</string>
+	<key>isolateornumber</key>
+	<string>canCacheTransition</string>
+	<key>oniconchanged</key>
+	<string>normalmomentumtransparency</string>
+	<key>respectiveVideo</key>
+	<string>canDismissTernary</string>
+	<key>shouldBuildSample</key>
+	<string>similarSubscriber</string>
+	<key>shouldObserveRichText</key>
+	<string>ignoredAxis</string>
+	<key>shouldResumeDuration</key>
+	<string>descentType</string>
+	<key>shouldShowPlayback</key>
+	<string>observeSlash</string>
+</dict>
+</plist>

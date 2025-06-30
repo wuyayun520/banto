@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianComponent</key>
+	<string>crudeTweak</string>
+	<key>crudeSkirt</key>
+	<string>publictransformer</string>
+	<key>indicatorSkewY</key>
+	<string>synchronizeFeature</string>
+	<key>itemType</key>
+	<string>requestlinker</string>
+	<key>onsemanticschanged</key>
+	<string>transitionMobile</string>
+	<key>pivotalListener</key>
+	<string>shouldDisposeSensor</string>
+	<key>shouldAttachEntropy</key>
+	<string>dissociateDelegate</string>
+	<key>textstate</key>
+	<string>cacheChain</string>
+</dict>
+</plist>

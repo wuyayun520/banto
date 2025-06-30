@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushTag</key>
+	<string>unlockpet</string>
+	<key>deferredPlate</key>
+	<string>channelvisitorstyle</string>
+	<key>descriptioncyclevisibility</key>
+	<string>canRenderSymbol</string>
+	<key>intuitiveDuration</key>
+	<string>appendDecoration</string>
+	<key>memberLocation</key>
+	<string>actiondecoratorsize</string>
+	<key>metadataimpression</key>
+	<string>aspectFeedback</string>
+	<key>robusttrigger</key>
+	<string>prismaticInteractor</string>
+	<key>shouldDeserializePlate</key>
+	<string>addstateless</string>
+	<key>shouldNotifyHeap</key>
+	<string>canUnmountDecoration</string>
+</dict>
+</plist>

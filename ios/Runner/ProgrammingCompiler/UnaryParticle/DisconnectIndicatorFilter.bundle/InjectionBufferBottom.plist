@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonFlags</key>
+	<string>schemaTransparency</string>
+	<key>keyInkWell</key>
+	<string>composablewrapper</string>
+	<key>monsterShade</key>
+	<string>gemtint</string>
+	<key>shouldDisconnectAspectRatio</key>
+	<string>completedModulus</string>
+	<key>shouldParseTechnique</key>
+	<string>mainSensor</string>
+	<key>symmetricCurve</key>
+	<string>rectcontrast</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorTension</key>
+	<string>canHandleCustomPaint</string>
+	<key>crudeconfiguration</key>
+	<string>convolutionSpeed</string>
+	<key>deferredVideo</key>
+	<string>scenestructurebehavior</string>
+	<key>gradientIndex</key>
+	<string>canEmitMomentum</string>
+	<key>iterativeTextField</key>
+	<string>renderSemantics</string>
+	<key>remainderwithoutstyle</key>
+	<string>insteadscreen</string>
+	<key>sequentialDelegate</key>
+	<string>relationalAnimator</string>
+	<key>shouldTransformCupertino</key>
+	<string>presentborder</string>
+</dict>
+</plist>

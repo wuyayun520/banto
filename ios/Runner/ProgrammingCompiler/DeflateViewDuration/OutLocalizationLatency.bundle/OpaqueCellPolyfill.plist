@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilePriority</key>
+	<string>observerIndex</string>
+	<key>gesturedetectorPressure</key>
+	<string>revisitResolver</string>
+	<key>grainRate</key>
+	<string>mountedCustomPaint</string>
+	<key>keyMomentum</key>
+	<string>shouldReplaceCycle</string>
+	<key>schedulerTop</key>
+	<string>liteAlert</string>
+	<key>scrollableTitle</key>
+	<string>compositionprocessbottom</string>
+	<key>topicanimation</key>
+	<string>hyperbolicEmitter</string>
+</dict>
+</plist>

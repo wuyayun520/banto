@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicnotifierpressure</key>
+	<string>oldMerger</string>
+	<key>fixedloop</key>
+	<string>renderRow</string>
+	<key>fusedpriority</key>
+	<string>baselineSaturation</string>
+	<key>listenerproxytension</key>
+	<string>fusedProtocol</string>
+	<key>materialDropdownButton</key>
+	<string>modelaudio</string>
+	<key>servicelistener</key>
+	<string>limitLayout</string>
+	<key>sharedEfficiency</key>
+	<string>prevtimeline</string>
+	<key>shouldPersistStateful</key>
+	<string>primarysorter</string>
+	<key>unactivatedawaittint</key>
+	<string>toolAdapter</string>
+</dict>
+</plist>

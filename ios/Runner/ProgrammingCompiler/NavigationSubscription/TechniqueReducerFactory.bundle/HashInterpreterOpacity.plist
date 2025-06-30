@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardequalizationappearance</key>
+	<string>fillAsset</string>
+	<key>bitrateVisibility</key>
+	<string>declarativerow</string>
+	<key>firstBandwidth</key>
+	<string>errorHue</string>
+	<key>intensityOrigin</key>
+	<string>shouldListenTheme</string>
+	<key>respectiveDistinction</key>
+	<string>agileStoryboard</string>
+	<key>scopeAcceleration</key>
+	<string>textDepth</string>
+	<key>shouldMountOverlay</key>
+	<string>regulateChapter</string>
+	<key>startmatrix</key>
+	<string>handleConfiguration</string>
+	<key>webcontroller</key>
+	<string>revisitfragment</string>
+	<key>workflowbymediator</key>
+	<string>shouldMountRole</string>
+</dict>
+</plist>

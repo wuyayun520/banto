@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisscope</key>
+	<string>robustGraph</string>
+	<key>channelsSpacing</key>
+	<string>canUnmountedRemainder</string>
+	<key>globalLayout</key>
+	<string>videoAlignment</string>
+	<key>lossCenter</key>
+	<string>hashMethod</string>
+	<key>markoverlay</key>
+	<string>stampStyle</string>
+	<key>multiReference</key>
+	<string>aspectRight</string>
+</dict>
+</plist>

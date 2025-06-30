@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateResponse</key>
+	<string>publicSession</string>
+	<key>paintdocument</key>
+	<string>criticalRequest</string>
+	<key>shouldMountTable</key>
+	<string>dropdownbuttonActivity</string>
+	<key>shouldTrainEffect</key>
+	<string>shouldPrepareMediaQuery</string>
+	<key>significantternary</key>
+	<string>loadBase</string>
+	<key>singlePicker</key>
+	<string>actionPadding</string>
+	<key>yieldresult</key>
+	<string>disparateLayout</string>
+</dict>
+</plist>

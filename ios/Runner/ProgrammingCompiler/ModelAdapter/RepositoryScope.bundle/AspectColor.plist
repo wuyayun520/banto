@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveScalability</key>
+	<string>completionContrast</string>
+	<key>allocatorState</key>
+	<string>tensorService</string>
+	<key>bufferitem</key>
+	<string>canDispatchScaffold</string>
+	<key>consumeralongcommand</key>
+	<string>shouldBuildBoxShadow</string>
+	<key>shouldBuildSkirt</key>
+	<string>shouldKeepCupertino</string>
+	<key>standaloneSensor</key>
+	<string>fixedmechanism</string>
+	<key>streambridgeorientation</key>
+	<string>ephemeralFragment</string>
+</dict>
+</plist>

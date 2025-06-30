@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directIntegration</key>
+	<string>shouldAttachCanvas</string>
+	<key>handlerresponse</key>
+	<string>endCaption</string>
+	<key>imagecenter</key>
+	<string>embedCompleter</string>
+	<key>originalCollection</key>
+	<string>convolutionMemento</string>
+	<key>shouldPersistInterpolation</key>
+	<string>soundspeed</string>
+	<key>viewvisitorskewy</key>
+	<string>declarativeAccessory</string>
+</dict>
+</plist>

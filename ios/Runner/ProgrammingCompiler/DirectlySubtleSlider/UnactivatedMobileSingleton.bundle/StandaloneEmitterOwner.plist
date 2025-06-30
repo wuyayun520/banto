@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionshader</key>
+	<string>unsortedSplitter</string>
+	<key>activatemodel</key>
+	<string>storeStorage</string>
+	<key>analyzershade</key>
+	<string>benchmarkFeature</string>
+	<key>concreteStateful</key>
+	<string>threadstate</string>
+	<key>graphkind</key>
+	<string>smartOffset</string>
+	<key>setupsample</key>
+	<string>spotfilter</string>
+	<key>taxonomyInteraction</key>
+	<string>richtextMethod</string>
+	<key>titleShape</key>
+	<string>consultativeUsage</string>
+</dict>
+</plist>

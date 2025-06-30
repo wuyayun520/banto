@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDescription</key>
+	<string>immediateimpression</string>
+	<key>controllerpressure</key>
+	<string>serviceActivity</string>
+	<key>customizedSkirt</key>
+	<string>evaluationDensity</string>
+	<key>elasticReduction</key>
+	<string>shouldlistenwidget</string>
+	<key>isScale</key>
+	<string>integerActivity</string>
+	<key>overlaystagedensity</key>
+	<string>resumeProtocol</string>
+	<key>popupMargin</key>
+	<string>tabviewTheme</string>
+	<key>rapidCell</key>
+	<string>standaloneIcon</string>
+	<key>shouldDetachFlex</key>
+	<string>dedicatedGestureDetector</string>
+	<key>shouldResumeNotification</key>
+	<string>dynamicsignaturestyle</string>
+</dict>
+</plist>

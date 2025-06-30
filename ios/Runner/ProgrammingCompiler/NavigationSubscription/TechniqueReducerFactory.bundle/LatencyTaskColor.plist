@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphShade</key>
+	<string>sophisticatedCapsule</string>
+	<key>normVisible</key>
+	<string>dynamicConfiguration</string>
+	<key>shouldInflateConvolution</key>
+	<string>channelFeedback</string>
+	<key>shouldYieldGridView</key>
+	<string>observeConvolution</string>
+	<key>shouldcreatevariant</key>
+	<string>saveBehavior</string>
+	<key>viewmodel</key>
+	<string>eagerisolate</string>
+</dict>
+</plist>

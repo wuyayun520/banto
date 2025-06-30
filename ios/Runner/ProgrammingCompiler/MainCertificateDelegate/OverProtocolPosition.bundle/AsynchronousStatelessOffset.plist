@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricScroll</key>
+	<string>updatemenu</string>
+	<key>mediocreevent</key>
+	<string>encodeHeap</string>
+	<key>multiMerger</key>
+	<string>seekFactory</string>
+	<key>parallelTabBar</key>
+	<string>oldParticle</string>
+	<key>rapidnavigatorhue</key>
+	<string>currentTicker</string>
+	<key>shouldLayoutDocument</key>
+	<string>reusableOverlay</string>
+	<key>shouldStopSwitch</key>
+	<string>fixedmaterializer</string>
+</dict>
+</plist>

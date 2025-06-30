@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedAmortization</key>
+	<string>cachepreview</string>
+	<key>mendRight</key>
+	<string>limitTicker</string>
+</dict>
+</plist>

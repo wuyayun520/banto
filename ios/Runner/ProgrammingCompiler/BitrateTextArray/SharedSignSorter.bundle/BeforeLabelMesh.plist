@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contrastforce</key>
+	<string>singleInfo</string>
+	<key>criticalInterface</key>
+	<string>otherTouch</string>
+	<key>multiNode</key>
+	<string>immediateScaffold</string>
+	<key>numericalGridView</key>
+	<string>imperativeOption</string>
+	<key>smartVector</key>
+	<string>captureAlignment</string>
+	<key>statelessMapper</key>
+	<string>capacityMode</string>
+	<key>threadOffset</key>
+	<string>statefullayout</string>
+</dict>
+</plist>

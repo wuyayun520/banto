@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticType</key>
+	<string>responsiveNotification</string>
+	<key>compositionType</key>
+	<string>inheritedRequest</string>
+	<key>crudeInfrastructure</key>
+	<string>unlockGraph</string>
+	<key>cursorHead</key>
+	<string>renderComposition</string>
+	<key>entityOffset</key>
+	<string>materialChallenge</string>
+	<key>fusedpainterhue</key>
+	<string>missedAlert</string>
+	<key>shouldPrepareCheckbox</key>
+	<string>unlockChart</string>
+	<key>subscriptiondisclaimer</key>
+	<string>graphicTier</string>
+</dict>
+</plist>

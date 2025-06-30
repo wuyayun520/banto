@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonStatus</key>
+	<string>streamCapacities</string>
+	<key>immutableCache</key>
+	<string>consumptionAppearance</string>
+	<key>intensityequivalent</key>
+	<string>enabledReliability</string>
+	<key>shouldAnimateCapsule</key>
+	<string>optimizeResolver</string>
+	<key>shouldEncodeSkin</key>
+	<string>handleStamp</string>
+	<key>significantFilter</key>
+	<string>flexbound</string>
+	<key>statelessUseCase</key>
+	<string>shouldResumeStateful</string>
+</dict>
+</plist>

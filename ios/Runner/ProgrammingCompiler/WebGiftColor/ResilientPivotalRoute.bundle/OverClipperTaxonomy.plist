@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalanimation</key>
+	<string>otherPreview</string>
+	<key>disabledDelivery</key>
+	<string>smallGraphic</string>
+	<key>grouptransparency</key>
+	<string>defaultunary</string>
+	<key>handlerCount</key>
+	<string>decodeTouch</string>
+	<key>popupstyle</key>
+	<string>shouldAttachOptimizer</string>
+</dict>
+</plist>

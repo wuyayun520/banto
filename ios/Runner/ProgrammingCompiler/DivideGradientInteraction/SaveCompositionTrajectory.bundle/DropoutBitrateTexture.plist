@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveVariant</key>
+	<string>consumeLoop</string>
+	<key>disabledLatency</key>
+	<string>awaittail</string>
+	<key>notifierpatterntop</key>
+	<string>configurationMode</string>
+	<key>persistentText</key>
+	<string>globalCupertino</string>
+	<key>reactivechaptervelocity</key>
+	<string>parallelCube</string>
+	<key>temporaryReference</key>
+	<string>shouldAnimateScale</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitleft</key>
+	<string>blocspacing</string>
+	<key>customEqualization</key>
+	<string>parseGradient</string>
+	<key>impactBorder</key>
+	<string>referenceInterval</string>
+	<key>relationalFormat</key>
+	<string>resourcecontextspeed</string>
+</dict>
+</plist>

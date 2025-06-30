@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchtransition</key>
+	<string>cupertinoshapeskewx</string>
+	<key>eagerExpanded</key>
+	<string>widgetTint</string>
+	<key>frameFrequency</key>
+	<string>crucialCustomPaint</string>
+	<key>hashState</key>
+	<string>enabledMedia</string>
+	<key>isProfile</key>
+	<string>conformplayback</string>
+	<key>liteoverlay</key>
+	<string>loopnumbershade</string>
+	<key>responsetype</key>
+	<string>shouldSerializeOption</string>
+	<key>reusableLinker</key>
+	<string>newestBorder</string>
+</dict>
+</plist>

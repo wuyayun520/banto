@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveZone</key>
+	<string>serializeScene</string>
+	<key>elasticityTransparency</key>
+	<string>completerpervariable</string>
+	<key>imageStyle</key>
+	<string>grayscaleForce</string>
+	<key>observerstatus</key>
+	<string>disabledinjectionacceleration</string>
+	<key>singleSwift</key>
+	<string>similarPainter</string>
+	<key>storecenter</key>
+	<string>effectcenter</string>
+	<key>uniqueWorkflow</key>
+	<string>baselineOpacity</string>
+	<key>unsortedGesture</key>
+	<string>disabledVariant</string>
+	<key>unsortedmobileoffset</key>
+	<string>flexibleBinary</string>
+</dict>
+</plist>

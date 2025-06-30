@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedspritedelay</key>
+	<string>explicitfuture</string>
+	<key>elasticAxis</key>
+	<string>mediocreTexture</string>
+	<key>handlerviaparam</key>
+	<string>sustainableModulus</string>
+	<key>precisiontype</key>
+	<string>interpolationRight</string>
+	<key>scrollablebaselinestatus</key>
+	<string>futureobserverborder</string>
+	<key>switchShape</key>
+	<string>lazyCupertino</string>
+	<key>unactivatedPadding</key>
+	<string>rapidAlpha</string>
+</dict>
+</plist>

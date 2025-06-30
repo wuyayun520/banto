@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalTweak</key>
+	<string>graphicstyleorientation</string>
+	<key>directtextureinterval</key>
+	<string>diversifiedCubit</string>
+	<key>memberRate</key>
+	<string>sliderinteractor</string>
+	<key>newestUsage</key>
+	<string>timerlikememento</string>
+	<key>numericalmaterializer</key>
+	<string>uniformGate</string>
+	<key>petResponse</key>
+	<string>otherScroll</string>
+	<key>shouldAnimatePageView</key>
+	<string>listenAnchor</string>
+	<key>transitionwithoutnumber</key>
+	<string>cubedelay</string>
+</dict>
+</plist>

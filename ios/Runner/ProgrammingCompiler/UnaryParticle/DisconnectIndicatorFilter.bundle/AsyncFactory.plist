@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSelector</key>
+	<string>disposeSwift</string>
+	<key>backwardTheme</key>
+	<string>textinfrastructure</string>
+	<key>checklistDirection</key>
+	<string>checkHandler</string>
+	<key>continuegridview</key>
+	<string>routebaseline</string>
+	<key>descentTail</key>
+	<string>validateImage</string>
+	<key>draggableTolerance</key>
+	<string>touchPrototype</string>
+	<key>layerMargin</key>
+	<string>sequentialInteger</string>
+	<key>observersound</key>
+	<string>largePriority</string>
+	<key>tensorService</key>
+	<string>storyboardType</string>
+</dict>
+</plist>

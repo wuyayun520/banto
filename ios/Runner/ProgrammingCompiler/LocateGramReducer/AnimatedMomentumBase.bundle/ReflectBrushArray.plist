@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertrestriction</key>
+	<string>standaloneQueue</string>
+	<key>baseSkewY</key>
+	<string>onspecifiertap</string>
+	<key>certificateShape</key>
+	<string>localgram</string>
+	<key>descentOffset</key>
+	<string>resultTint</string>
+	<key>elementIndex</key>
+	<string>navigatorright</string>
+	<key>granularoptionorigin</key>
+	<string>containertint</string>
+	<key>intuitiveRouter</key>
+	<string>remediationpressure</string>
+	<key>subpixelInset</key>
+	<string>instructionpresenter</string>
+</dict>
+</plist>

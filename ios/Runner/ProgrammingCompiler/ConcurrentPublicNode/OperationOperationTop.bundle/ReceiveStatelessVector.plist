@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintinterval</key>
+	<string>providerStage</string>
+	<key>easyAnalyzer</key>
+	<string>histogramPrototype</string>
+	<key>flexibleMaterial</key>
+	<string>transitionscreen</string>
+	<key>immediateConsumption</key>
+	<string>unscheduleLayer</string>
+	<key>isolatepressure</key>
+	<string>lostThreshold</string>
+	<key>loaderShape</key>
+	<string>sustainableComponent</string>
+	<key>priorCupertino</key>
+	<string>rowflyweightinteraction</string>
+	<key>relationalMethod</key>
+	<string>dispatchTransition</string>
+	<key>spriteshade</key>
+	<string>missedfinder</string>
+</dict>
+</plist>

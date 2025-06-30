@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedRestriction</key>
+	<string>chartSpeed</string>
+	<key>cartesianHandler</key>
+	<string>baselineMargin</string>
+	<key>convolutionstream</key>
+	<string>shouldPublishExpanded</string>
+	<key>layoutInset</key>
+	<string>scaleStyle</string>
+	<key>normalallocatoroffset</key>
+	<string>deserializeSensor</string>
+	<key>oldClipper</key>
+	<string>canShowClipper</string>
+	<key>relationalTechnique</key>
+	<string>concatenateTransition</string>
+	<key>shouldconnectbaseline</key>
+	<string>reactiveBrush</string>
+	<key>sinkResponse</key>
+	<string>canFormatSegment</string>
+	<key>staticHandler</key>
+	<string>unsortedAspectRatio</string>
+</dict>
+</plist>

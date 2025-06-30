@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentShade</key>
+	<string>clearRow</string>
+	<key>clusterDistance</key>
+	<string>subtlelabelcontrast</string>
+	<key>difficultResilience</key>
+	<string>viewversusshape</string>
+	<key>diversifiedtabbartail</key>
+	<string>selectedMobile</string>
+	<key>kernelBorder</key>
+	<string>setupPresenter</string>
+	<key>permissiveBrush</key>
+	<string>challengeMargin</string>
+	<key>shouldUnbindNorm</key>
+	<string>visitGraph</string>
+	<key>shouldsavebuilder</key>
+	<string>insteadBloc</string>
+	<key>significantThroughput</key>
+	<string>shouldRenderThread</string>
+</dict>
+</plist>

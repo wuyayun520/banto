@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionbloc</key>
+	<string>euclideanAlert</string>
+	<key>fixedspecifierindex</key>
+	<string>shouldStopEquipment</string>
+	<key>shouldStopCatalyst</key>
+	<string>precisioncompositepressure</string>
+	<key>statelesswithnumber</key>
+	<string>animateScene</string>
+	<key>textureatbridge</key>
+	<string>resolveProgressBar</string>
+	<key>timerOrientation</key>
+	<string>continueRadio</string>
+</dict>
+</plist>

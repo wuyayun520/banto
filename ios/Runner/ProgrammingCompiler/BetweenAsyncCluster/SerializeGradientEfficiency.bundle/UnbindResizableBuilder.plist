@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintagainstlayer</key>
+	<string>currentParticle</string>
+	<key>crudescrolldepth</key>
+	<string>offsetVisibility</string>
+	<key>deferredSensor</key>
+	<string>writePopup</string>
+	<key>largeDependency</key>
+	<string>agileVariant</string>
+	<key>radioHue</key>
+	<string>parallelResource</string>
+	<key>resolverthroughmediator</key>
+	<string>builderstylebottom</string>
+	<key>routersingletonskewy</key>
+	<string>canPresentEntropy</string>
+	<key>shouldConnectCapsule</key>
+	<string>respectiveZone</string>
+	<key>statefulsymbolposition</key>
+	<string>dialogsComposite</string>
+</dict>
+</plist>

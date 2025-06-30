@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gramfactory</key>
+	<string>canAttachDrawer</string>
+	<key>inactiveEntropy</key>
+	<string>mobileLayer</string>
+	<key>inheritedVideo</key>
+	<string>canPaintTable</string>
+	<key>keyQuaternion</key>
+	<string>cachebutton</string>
+	<key>pivotalLocalization</key>
+	<string>spinePressure</string>
+	<key>reducerSpacing</key>
+	<string>labelAlignment</string>
+	<key>shouldFinishReduction</key>
+	<string>shouldSkipRadio</string>
+	<key>vectorkind</key>
+	<string>pushgram</string>
+</dict>
+</plist>

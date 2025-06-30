@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializeinterface</key>
+	<string>shouldSetStateAnimatedContainer</string>
+	<key>informationCenter</key>
+	<string>shouldBindWidget</string>
+	<key>resilientBinder</key>
+	<string>accessoryBorder</string>
+	<key>shouldInflateCustomPaint</key>
+	<string>mediumPicker</string>
+	<key>shouldInflateKernel</key>
+	<string>disconnectbatch</string>
+</dict>
+</plist>

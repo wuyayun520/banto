@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalAspect</key>
+	<string>enumerateGrain</string>
+	<key>descentposition</key>
+	<string>builderpresenter</string>
+	<key>fusedMend</key>
+	<string>remediationEdge</string>
+	<key>globalEvaluation</key>
+	<string>deactivateQueue</string>
+	<key>lazyQueue</key>
+	<string>shouldRestartMusic</string>
+	<key>smartFinder</key>
+	<string>functionalInterpolation</string>
+	<key>tensorRemainder</key>
+	<string>liteSize</string>
+</dict>
+</plist>

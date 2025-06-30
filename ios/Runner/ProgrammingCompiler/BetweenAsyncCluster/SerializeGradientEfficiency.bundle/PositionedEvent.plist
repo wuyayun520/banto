@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSound</key>
+	<string>hashPadding</string>
+	<key>arithmeticOrientation</key>
+	<string>slashquaternion</string>
+	<key>customException</key>
+	<string>shouldAttachHero</string>
+	<key>customizedCache</key>
+	<string>futureDirection</string>
+	<key>declarativeLayout</key>
+	<string>independentRange</string>
+	<key>oldWidget</key>
+	<string>beginnerMultiplication</string>
+	<key>restartgridview</key>
+	<string>backwardNavigation</string>
+	<key>shouldMountedCharacter</key>
+	<string>staticAspectRatio</string>
+	<key>shouldProcessSpine</key>
+	<string>mountedController</string>
+	<key>unsortedAction</key>
+	<string>endspecifier</string>
+</dict>
+</plist>

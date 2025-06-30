@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateprocessflags</key>
+	<string>dependencyFlags</string>
+	<key>fixedBorder</key>
+	<string>formatChannels</string>
+	<key>loaderSize</key>
+	<string>canValidateInkWell</string>
+	<key>modelTint</key>
+	<string>standaloneParticle</string>
+	<key>normStatus</key>
+	<string>methodPattern</string>
+	<key>notificationallocator</key>
+	<string>zoneinset</string>
+	<key>resiliencePosition</key>
+	<string>shouldPrepareModal</string>
+	<key>subtleCursor</key>
+	<string>draggableNib</string>
+	<key>usagebloc</key>
+	<string>usedConstraint</string>
+	<key>webAscent</key>
+	<string>canNavigateStream</string>
+</dict>
+</plist>

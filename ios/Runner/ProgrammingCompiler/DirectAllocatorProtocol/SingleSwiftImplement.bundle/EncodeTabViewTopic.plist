@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoInfo</key>
+	<string>unmountedRadio</string>
+	<key>chartCenter</key>
+	<string>aspectratiolabel</string>
+	<key>crucialAlpha</key>
+	<string>gridviewLayer</string>
+	<key>distinctionAlignment</key>
+	<string>resultFunction</string>
+	<key>exitscene</key>
+	<string>fillTimer</string>
+	<key>interactorAlignment</key>
+	<string>sliderOffset</string>
+	<key>mediumFormat</key>
+	<string>pushDuration</string>
+	<key>priorAnimation</key>
+	<string>queueBound</string>
+	<key>reducerthreshold</key>
+	<string>upgradePreview</string>
+	<key>standalonecurve</key>
+	<string>canDisconnectTask</string>
+</dict>
+</plist>

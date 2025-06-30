@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalCollection</key>
+	<string>shouldMountCoordinator</string>
+	<key>decoupledecoration</key>
+	<string>singletonCenter</string>
+	<key>desktopCertificate</key>
+	<string>loadbinary</string>
+	<key>easyReliability</key>
+	<string>limitTicker</string>
+	<key>hardbutton</key>
+	<string>observeReducer</string>
+	<key>missedEvolution</key>
+	<string>giftlevelposition</string>
+	<key>shouldunbindfuture</key>
+	<string>disabledScheduler</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultNorm</key>
+	<string>intuitiveView</string>
+	<key>explicitroutebound</key>
+	<string>cupertinoBrush</string>
+	<key>iconInset</key>
+	<string>newestNavigation</string>
+	<key>interactivegraphlocation</key>
+	<string>labelActivity</string>
+	<key>parallelParticle</key>
+	<string>notationLocation</string>
+	<key>selectedactivity</key>
+	<string>equalLabel</string>
+	<key>shouldStopDocument</key>
+	<string>diffableMechanism</string>
+</dict>
+</plist>

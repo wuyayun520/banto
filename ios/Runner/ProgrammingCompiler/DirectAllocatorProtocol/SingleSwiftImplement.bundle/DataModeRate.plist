@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopCluster</key>
+	<string>offsetbrightness</string>
+	<key>integerTheme</key>
+	<string>binderDepth</string>
+	<key>onborderchanged</key>
+	<string>quantizationPreview</string>
+	<key>pinchableState</key>
+	<string>expandedBehavior</string>
+	<key>provisionShade</key>
+	<string>subtleConsumer</string>
+	<key>sampleBorder</key>
+	<string>shouldTrainCollection</string>
+	<key>shouldEmitPositioned</key>
+	<string>floatTask</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffershapevelocity</key>
+	<string>insteadtransition</string>
+	<key>containerSpeed</key>
+	<string>explicitRole</string>
+	<key>effectColor</key>
+	<string>webPageView</string>
+	<key>functionalPicker</key>
+	<string>shapeInterval</string>
+	<key>originalstoretype</key>
+	<string>markException</string>
+	<key>usecaseadapterbrightness</key>
+	<string>completedInkWell</string>
+	<key>visibleNib</key>
+	<string>shouldpausesemantics</string>
+</dict>
+</plist>

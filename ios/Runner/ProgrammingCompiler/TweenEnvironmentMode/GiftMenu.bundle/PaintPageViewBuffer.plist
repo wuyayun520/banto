@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resourceDensity</key>
+	<string>unarySpacing</string>
+	<key>segmentcoordinator</key>
+	<string>borderactionrotation</string>
+	<key>shoulddecodeusage</key>
+	<string>originalCache</string>
+	<key>timerreceiver</key>
+	<string>shouldLoadUsage</string>
+</dict>
+</plist>

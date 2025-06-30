@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPrecision</key>
+	<string>measureDelegate</string>
+	<key>crucialRoute</key>
+	<string>routeinkwell</string>
+	<key>customizedProgressBar</key>
+	<string>overrideAlignment</string>
+	<key>desktopvieworientation</key>
+	<string>secondprojectmode</string>
+	<key>elasticInteractor</key>
+	<string>shouldUnmountGestureDetector</string>
+	<key>mobileOrigin</key>
+	<string>keepBitrate</string>
+	<key>reactiveInterpolation</key>
+	<string>embraceText</string>
+</dict>
+</plist>

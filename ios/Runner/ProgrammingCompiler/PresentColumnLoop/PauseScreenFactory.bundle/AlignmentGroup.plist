@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioindex</key>
+	<string>offsetDirection</string>
+	<key>crucialCharacter</key>
+	<string>handleException</string>
+	<key>persistentPager</key>
+	<string>recursionName</string>
+	<key>protectedRichText</key>
+	<string>retainedFormat</string>
+	<key>resultamongsystem</key>
+	<string>canYieldComposition</string>
+	<key>rowbeyondstructure</key>
+	<string>ignoredbandwidth</string>
+</dict>
+</plist>

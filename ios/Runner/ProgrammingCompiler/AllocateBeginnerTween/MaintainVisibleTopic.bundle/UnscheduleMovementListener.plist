@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttoninterpretervisible</key>
+	<string>canPublishDocument</string>
+	<key>customCoordinator</key>
+	<string>shouldlistencell</string>
+	<key>fixedConfidentiality</key>
+	<string>synchronousResolver</string>
+	<key>kernelsensor</key>
+	<string>profileProxy</string>
+	<key>retainedRestriction</key>
+	<string>injectionDepth</string>
+	<key>selectedgate</key>
+	<string>canRestartStream</string>
+	<key>shouldFetchComposition</key>
+	<string>deferredMember</string>
+</dict>
+</plist>

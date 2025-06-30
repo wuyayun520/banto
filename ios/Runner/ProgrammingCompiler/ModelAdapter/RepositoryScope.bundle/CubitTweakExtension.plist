@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonPlayback</key>
+	<string>presentparticle</string>
+	<key>extendtask</key>
+	<string>usedGram</string>
+	<key>mainOverlay</key>
+	<string>matrixvisitorinteraction</string>
+	<key>previewstate</key>
+	<string>dispatchSlider</string>
+	<key>shouldMountGrayscale</key>
+	<string>textfieldDecorator</string>
+	<key>shouldResumeScaffold</key>
+	<string>reactiveScaffold</string>
+	<key>sortedInfrastructure</key>
+	<string>dynamicNotifier</string>
+</dict>
+</plist>

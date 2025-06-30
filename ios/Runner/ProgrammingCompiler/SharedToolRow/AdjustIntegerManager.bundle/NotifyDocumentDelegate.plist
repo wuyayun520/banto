@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxVisibility</key>
+	<string>introspectGroup</string>
+	<key>eventDuration</key>
+	<string>mediocreSample</string>
+	<key>explicitInstruction</key>
+	<string>canUpdateCanvas</string>
+	<key>integrationFormat</key>
+	<string>groupScope</string>
+	<key>operationwidget</key>
+	<string>stepContext</string>
+	<key>resizeobserver</key>
+	<string>primaryShader</string>
+	<key>rowinterpreterlocation</key>
+	<string>startBloc</string>
+	<key>shouldBindIndicator</key>
+	<string>nextSearcher</string>
+</dict>
+</plist>

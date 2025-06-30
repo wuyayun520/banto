@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTernary</key>
+	<string>shouldObserveAnimation</string>
+	<key>completionmenu</key>
+	<string>shouldContinueAccessory</string>
+	<key>delicateEquipment</key>
+	<string>streamdirection</string>
+	<key>navigationShape</key>
+	<string>saveEntropy</string>
+	<key>popmaster</key>
+	<string>comprehensiveIntegrity</string>
+	<key>secondConsumption</key>
+	<string>extendTimer</string>
+	<key>semanticSlider</key>
+	<string>shouldInflateLayout</string>
+	<key>shouldInflateBase</key>
+	<string>utilMomentum</string>
+	<key>shouldMountedCoordinator</key>
+	<string>navigateRichText</string>
+</dict>
+</plist>

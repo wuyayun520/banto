@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorTension</key>
+	<string>canUpdateCharacter</string>
+	<key>allocatoratcycle</key>
+	<string>streamThread</string>
+	<key>crudeMap</key>
+	<string>gesturedetectorForce</string>
+	<key>currentloopopacity</key>
+	<string>parallelConfidentiality</string>
+	<key>disclaimerTheme</key>
+	<string>handleBitrate</string>
+</dict>
+</plist>

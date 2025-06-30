@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentskewy</key>
+	<string>notationTail</string>
+	<key>analyzerScale</key>
+	<string>connectsegue</string>
+	<key>customIntegrity</key>
+	<string>logarithmContext</string>
+	<key>nibLocation</key>
+	<string>tappableMusic</string>
+	<key>tickerVelocity</key>
+	<string>replicaBorder</string>
+</dict>
+</plist>

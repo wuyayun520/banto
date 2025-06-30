@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayablePlate</key>
+	<string>regulatebuilder</string>
+	<key>logpatternskewy</key>
+	<string>originalbuilderpadding</string>
+	<key>statustheme</key>
+	<string>impactLocation</string>
+	<key>unactivatedStateful</key>
+	<string>activeMesh</string>
+</dict>
+</plist>

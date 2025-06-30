@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentLoop</key>
+	<string>canLoadGram</string>
+	<key>diversifiedPageView</key>
+	<string>constraintBuffer</string>
+	<key>localRestriction</key>
+	<string>mountedContainer</string>
+	<key>popintensity</key>
+	<string>videoTension</string>
+	<key>presentercontainscope</key>
+	<string>pushcell</string>
+	<key>scrollableGrain</key>
+	<string>animateNavigation</string>
+	<key>shouldStopSine</key>
+	<string>provideGrain</string>
+</dict>
+</plist>

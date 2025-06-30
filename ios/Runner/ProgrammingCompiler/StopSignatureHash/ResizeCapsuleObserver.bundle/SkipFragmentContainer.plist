@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFormat</key>
+	<string>sortedExponent</string>
+	<key>crucialBatch</key>
+	<string>enumerateResponse</string>
+	<key>expandedTheme</key>
+	<string>emitGraphic</string>
+	<key>notifierForce</key>
+	<string>keepoverlay</string>
+	<key>numericalScreen</key>
+	<string>dropdownbuttonAppearance</string>
+	<key>setstateaxis</key>
+	<string>standaloneWidget</string>
+</dict>
+</plist>

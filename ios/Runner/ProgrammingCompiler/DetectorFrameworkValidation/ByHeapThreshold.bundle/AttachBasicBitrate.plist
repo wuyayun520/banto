@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFormat</key>
+	<string>consultativequaternion</string>
+	<key>concurrentSpot</key>
+	<string>grainAdapter</string>
+	<key>controllermesh</key>
+	<string>shouldNotifyAspectRatio</string>
+	<key>isdimension</key>
+	<string>sensorplatformright</string>
+	<key>mapoperationlocation</key>
+	<string>allocateChart</string>
+	<key>notificationbound</key>
+	<string>latencyPosition</string>
+	<key>uniqueGridView</key>
+	<string>upgradecustompaint</string>
+</dict>
+</plist>

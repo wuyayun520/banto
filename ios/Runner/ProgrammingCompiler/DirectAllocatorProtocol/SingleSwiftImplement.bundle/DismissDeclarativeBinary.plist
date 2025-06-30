@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autointegration</key>
+	<string>unmarshalUseCase</string>
+	<key>hardPriority</key>
+	<string>mediocreLocalization</string>
+	<key>parallelStateful</key>
+	<string>maintaincontroller</string>
+	<key>shouldPaintNotifier</key>
+	<string>logarithmValue</string>
+</dict>
+</plist>

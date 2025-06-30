@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorForce</key>
+	<string>activatedTrigger</string>
+	<key>checklistpadding</key>
+	<string>cacheBullet</string>
+	<key>declarativeSymbol</key>
+	<string>shouldLayoutObserver</string>
+	<key>fusedWidget</key>
+	<string>cleanFrame</string>
+	<key>interfacepadding</key>
+	<string>logDensity</string>
+	<key>interpolationpadding</key>
+	<string>granularLatency</string>
+	<key>substantialPlate</key>
+	<string>handlerMemento</string>
+	<key>tensorActivity</key>
+	<string>specifierDepth</string>
+</dict>
+</plist>

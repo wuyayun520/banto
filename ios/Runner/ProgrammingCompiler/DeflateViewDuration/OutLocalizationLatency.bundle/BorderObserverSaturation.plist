@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeFilter</key>
+	<string>difficultCaption</string>
+	<key>associatedPainter</key>
+	<string>mobileLifecycle</string>
+	<key>customEmitter</key>
+	<string>spritemomentum</string>
+	<key>eventTheme</key>
+	<string>uniqueMethod</string>
+	<key>listenerFeedback</key>
+	<string>visibleAspectRatio</string>
+	<key>multiCoordinator</key>
+	<string>transitionMediaQuery</string>
+	<key>observerTheme</key>
+	<string>receiveConfiguration</string>
+	<key>shouldUnmountTextField</key>
+	<string>agileHash</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTool</key>
+	<string>canUpdateBitrate</string>
+	<key>asynchronousRow</key>
+	<string>offsetrectangle</string>
+	<key>desktopEmitter</key>
+	<string>augmentFactory</string>
+	<key>explicitmetadata</key>
+	<string>lastMenu</string>
+	<key>shouldPersistVariant</key>
+	<string>listenCapsule</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configureslider</key>
+	<string>cupertinoDescription</string>
+	<key>consumerInteraction</key>
+	<string>rebuildSlider</string>
+	<key>onaspectchanged</key>
+	<string>aspectratioBottom</string>
+	<key>replicaForce</key>
+	<string>buildSwift</string>
+	<key>shouldEndCoordinator</key>
+	<string>dedicatedInteger</string>
+	<key>shouldnotifydescriptor</key>
+	<string>displayableReceiver</string>
+</dict>
+</plist>

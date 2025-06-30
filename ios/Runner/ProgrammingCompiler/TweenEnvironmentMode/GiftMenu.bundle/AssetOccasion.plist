@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionscope</key>
+	<string>istabbar</string>
+	<key>deserializeshader</key>
+	<string>widgetLevel</string>
+	<key>inactiveRemainder</key>
+	<string>dispatchTool</string>
+	<key>localMovement</key>
+	<string>buttonorcommand</string>
+	<key>respectiveNorm</key>
+	<string>granularReceiver</string>
+	<key>shouldDecodeStateless</key>
+	<string>dropoutcycle</string>
+	<key>shouldRestartDocument</key>
+	<string>storageSaturation</string>
+	<key>stampshader</key>
+	<string>shouldDismissContraction</string>
+	<key>yieldchecklist</key>
+	<string>symmetricLayout</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaSkewX</key>
+	<string>gemOpacity</string>
+	<key>descriptorparticle</key>
+	<string>componentLocation</string>
+	<key>exponentindex</key>
+	<string>hardviewlocation</string>
+	<key>independentSpecifier</key>
+	<string>memberbesidecomposite</string>
+	<key>shouldReplaceSpecifier</key>
+	<string>basetransformer</string>
+	<key>smartError</key>
+	<string>transformReduction</string>
+</dict>
+</plist>

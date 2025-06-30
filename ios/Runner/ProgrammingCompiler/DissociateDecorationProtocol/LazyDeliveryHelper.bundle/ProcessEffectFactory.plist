@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleSchema</key>
+	<string>transitionProvider</string>
+	<key>logarithmschema</key>
+	<string>overrideInjection</string>
+	<key>parallelSession</key>
+	<string>multiplicationChain</string>
+	<key>seamlessLoader</key>
+	<string>mobileRoute</string>
+	<key>shouldCacheProjection</key>
+	<string>scenariovisible</string>
+</dict>
+</plist>

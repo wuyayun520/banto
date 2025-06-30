@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryTail</key>
+	<string>screenDepth</string>
+	<key>actionobservertint</key>
+	<string>buttonMethod</string>
+	<key>brushdetector</key>
+	<string>receiveMethod</string>
+	<key>completerBound</key>
+	<string>denseElasticity</string>
+	<key>delicateCustomPaint</key>
+	<string>newestRole</string>
+	<key>rowtypeshade</key>
+	<string>timernumbervelocity</string>
+	<key>shouldDetachShader</key>
+	<string>euclideanChannels</string>
+</dict>
+</plist>

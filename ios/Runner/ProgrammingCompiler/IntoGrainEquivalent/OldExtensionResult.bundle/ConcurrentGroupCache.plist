@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateresponse</key>
+	<string>scalecommandtype</string>
+	<key>cosinefeedback</key>
+	<string>contractioninteraction</string>
+	<key>elasticCallback</key>
+	<string>routeGraphic</string>
+	<key>monsterscenario</key>
+	<string>agileContainer</string>
+	<key>staticEffect</key>
+	<string>arithmeticPositioned</string>
+	<key>unsortedScroll</key>
+	<string>unscheduleStream</string>
+</dict>
+</plist>

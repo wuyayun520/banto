@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleRate</key>
+	<string>evaluateProgressBar</string>
+	<key>diffableIntegrity</key>
+	<string>easyCupertino</string>
+	<key>disconnectbullet</key>
+	<string>scrollTension</string>
+	<key>hardCreator</key>
+	<string>shouldfinishgrayscale</string>
+	<key>mediumCube</key>
+	<string>awaitDirection</string>
+	<key>tweakdistance</key>
+	<string>loadRole</string>
+	<key>visibleInstruction</key>
+	<string>shouldDismissAccessory</string>
+	<key>webMonster</key>
+	<string>canInflateScaffold</string>
+</dict>
+</plist>

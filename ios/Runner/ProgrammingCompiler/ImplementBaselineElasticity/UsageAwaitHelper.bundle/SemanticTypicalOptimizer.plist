@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layerSpacing</key>
+	<string>reactiveRectangle</string>
+	<key>renderchart</key>
+	<string>discardedTraversal</string>
+	<key>rowconsumer</key>
+	<string>primaryTime</string>
+	<key>sequentialTransformer</key>
+	<string>localizationStatus</string>
+</dict>
+</plist>

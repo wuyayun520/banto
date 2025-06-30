@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonImage</key>
+	<string>pivotalNotation</string>
+	<key>interactiveConfidentiality</key>
+	<string>composableCombiner</string>
+	<key>publicRestriction</key>
+	<string>positionedresilience</string>
+	<key>shouldPresentMobile</key>
+	<string>dynamicmaterial</string>
+	<key>shouldbuildbox</key>
+	<string>cartesianScene</string>
+	<key>skipsize</key>
+	<string>accessibleStroke</string>
+</dict>
+</plist>

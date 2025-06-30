@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationSpeed</key>
+	<string>desktopException</string>
+	<key>customizedSprite</key>
+	<string>menuAcceleration</string>
+	<key>documentStyle</key>
+	<string>hardStream</string>
+	<key>efficiencyRight</key>
+	<string>independentMobile</string>
+	<key>mediaqueryMode</key>
+	<string>connectMethod</string>
+	<key>protectedNotifier</key>
+	<string>statelessVertex</string>
+	<key>shouldCancelMultiplication</key>
+	<string>samplevarskewy</string>
+	<key>tickerContrast</key>
+	<string>concreteCharacter</string>
+	<key>visibleScale</key>
+	<string>shouldUnbindCache</string>
+</dict>
+</plist>

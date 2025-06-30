@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeTool</key>
+	<string>quantizationHandler</string>
+	<key>distinctionMode</key>
+	<string>commonPermutation</string>
+	<key>euclideanGrain</key>
+	<string>greatMonster</string>
+	<key>pushmultiplication</key>
+	<string>streamSkewX</string>
+	<key>radiusInteraction</key>
+	<string>cupertinoMesh</string>
+</dict>
+</plist>

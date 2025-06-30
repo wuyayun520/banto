@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableMonster</key>
+	<string>marshalFrame</string>
+	<key>controllerdistance</key>
+	<string>trajectoryDepth</string>
+	<key>imperativeRepository</key>
+	<string>prepareProtocol</string>
+	<key>scrollableAnalogy</key>
+	<string>globalFragment</string>
+	<key>seekdecoration</key>
+	<string>deactivateGraph</string>
+	<key>sequentialContrast</key>
+	<string>canPopThread</string>
+	<key>shouldEncodePrecision</key>
+	<string>canCreateModulus</string>
+</dict>
+</plist>

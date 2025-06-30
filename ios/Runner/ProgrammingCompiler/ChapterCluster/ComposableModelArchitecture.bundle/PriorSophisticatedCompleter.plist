@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensivePreview</key>
+	<string>resizableUsage</string>
+	<key>concurrentFuture</key>
+	<string>draggableActivity</string>
+	<key>granularRenderer</key>
+	<string>queueTheme</string>
+	<key>joinerRight</key>
+	<string>concurrentListView</string>
+	<key>navigationDuration</key>
+	<string>tickerduration</string>
+	<key>samplecomponent</key>
+	<string>entityStructure</string>
+	<key>sceneName</key>
+	<string>reduceAsset</string>
+	<key>shouldKeepTheme</key>
+	<string>cupertinoPhase</string>
+	<key>shouldNavigateSwift</key>
+	<string>responsebyshape</string>
+	<key>shouldpaintcolumn</key>
+	<string>queueBrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoVertex</key>
+	<string>conformUtil</string>
+	<key>backwardOffset</key>
+	<string>stepStrategy</string>
+	<key>dispatcherTag</key>
+	<string>petCoord</string>
+	<key>histogramTop</key>
+	<string>poolLocalization</string>
+	<key>nodeSpacing</key>
+	<string>controllerforce</string>
+	<key>normalService</key>
+	<string>lastBullet</string>
+	<key>opaquePreview</key>
+	<string>uniqueGraphic</string>
+	<key>receiverLeft</key>
+	<string>similarvectortype</string>
+	<key>remainderRotation</key>
+	<string>shouldBuildPositioned</string>
+	<key>uniformFuture</key>
+	<string>skinScope</string>
+</dict>
+</plist>

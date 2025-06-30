@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveSwitch</key>
+	<string>scenarioType</string>
+	<key>denseCapsule</key>
+	<string>impactBound</string>
+	<key>denseDropdownButton</key>
+	<string>completerColor</string>
+	<key>directTouch</key>
+	<string>shouldRouteArithmetic</string>
+	<key>lifecycleBottom</key>
+	<string>transitionTask</string>
+	<key>retainedefficiency</key>
+	<string>rectmend</string>
+	<key>shouldCreateModulus</key>
+	<string>emitSubscription</string>
+	<key>shouldDismissHistogram</key>
+	<string>shouldserializemaster</string>
+	<key>sinkperstage</key>
+	<string>presenterOffset</string>
+</dict>
+</plist>

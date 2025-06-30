@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoallocatorsize</key>
+	<string>imageMethod</string>
+	<key>backwardLoader</key>
+	<string>composableRange</string>
+	<key>callbackValidation</key>
+	<string>viewparameterappearance</string>
+	<key>desktopAnalyzer</key>
+	<string>intensityparambound</string>
+	<key>immediategesturevisibility</key>
+	<string>animatedLayer</string>
+	<key>normalCube</key>
+	<string>canCancelDropdownButton</string>
+	<key>shouldPushButton</key>
+	<string>observerphasetension</string>
+	<key>shouldsetstatecoordinator</key>
+	<string>fetchOptimizer</string>
+</dict>
+</plist>

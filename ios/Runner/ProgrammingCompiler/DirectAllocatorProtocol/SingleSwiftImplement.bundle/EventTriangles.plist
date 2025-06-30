@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectPadding</key>
+	<string>sineType</string>
+	<key>bulletVisibility</key>
+	<string>cachedepth</string>
+	<key>futurestructurelocation</key>
+	<string>startRadio</string>
+	<key>impactorientation</key>
+	<string>directEqualization</string>
+	<key>independentrow</key>
+	<string>respectiveText</string>
+	<key>layouttemplename</key>
+	<string>splitterLeft</string>
+	<key>providerpicker</key>
+	<string>customizedDescriptor</string>
+	<key>shouldBuildCupertino</key>
+	<string>canSubscribeGrayscale</string>
+	<key>smartHash</key>
+	<string>marginOffset</string>
+	<key>switchrotation</key>
+	<string>containerandframework</string>
+</dict>
+</plist>

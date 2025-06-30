@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTicker</key>
+	<string>resourceStage</string>
+	<key>concurrentSemantics</key>
+	<string>canUnbindSlider</string>
+	<key>cupertinoReliability</key>
+	<string>inactiveTrajectory</string>
+	<key>largeGem</key>
+	<string>dissociateMethod</string>
+	<key>oldComponent</key>
+	<string>builderTag</string>
+	<key>replacemember</key>
+	<string>hardSemantics</string>
+</dict>
+</plist>

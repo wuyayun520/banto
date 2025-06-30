@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTimeline</key>
+	<string>resolverMediator</string>
+	<key>checkscene</key>
+	<string>themevarvelocity</string>
+	<key>effecttentative</key>
+	<string>alignmentlinker</string>
+	<key>finishzone</key>
+	<string>equipmentProxy</string>
+	<key>navigationRight</key>
+	<string>certificateValidation</string>
+	<key>oncupertinochanged</key>
+	<string>implementRoute</string>
+	<key>semanticTable</key>
+	<string>shouldResumeCharacter</string>
+	<key>sharedDecoration</key>
+	<string>accelerateLayout</string>
+	<key>shouldPaintDimension</key>
+	<string>limitParticle</string>
+</dict>
+</plist>

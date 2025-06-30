@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicBitrate</key>
+	<string>benchmarkAnimation</string>
+	<key>fragmentleft</key>
+	<string>subsequentScheduler</string>
+	<key>heroContrast</key>
+	<string>grainrange</string>
+	<key>shouldNotifyView</key>
+	<string>responderOpacity</string>
+	<key>shouldResumeMusic</key>
+	<string>canEmitCompletion</string>
+	<key>stacklevelduration</key>
+	<string>reusableIsolate</string>
+	<key>synchronousChooser</key>
+	<string>masterprocessleft</string>
+</dict>
+</plist>

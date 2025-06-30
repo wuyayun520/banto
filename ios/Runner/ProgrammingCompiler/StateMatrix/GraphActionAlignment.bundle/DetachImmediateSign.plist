@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxforce</key>
+	<string>immutablethreaddirection</string>
+	<key>displayableNib</key>
+	<string>configurationLocation</string>
+	<key>interactiveComposition</key>
+	<string>transformerBridge</string>
+	<key>playloop</key>
+	<string>canSubscribeFragment</string>
+</dict>
+</plist>

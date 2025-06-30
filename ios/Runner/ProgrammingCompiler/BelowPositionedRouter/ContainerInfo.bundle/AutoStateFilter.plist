@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleConfiguration</key>
+	<string>criticalSign</string>
+	<key>invokesession</key>
+	<string>implementRoute</string>
+	<key>mediocreLayout</key>
+	<string>logarithmSkewY</string>
+	<key>positionstructuremargin</key>
+	<string>loglabel</string>
+	<key>shouldEmitResource</key>
+	<string>canValidateAspect</string>
+</dict>
+</plist>

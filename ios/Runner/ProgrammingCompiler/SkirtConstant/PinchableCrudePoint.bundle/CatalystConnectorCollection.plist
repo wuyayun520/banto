@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedContraction</key>
+	<string>shouldInflateCharacter</string>
+	<key>composableParticle</key>
+	<string>capsulerow</string>
+	<key>independentGem</key>
+	<string>requiredFragments</string>
+	<key>shoulddecodeduration</key>
+	<string>shouldUnbindCollection</string>
+</dict>
+</plist>

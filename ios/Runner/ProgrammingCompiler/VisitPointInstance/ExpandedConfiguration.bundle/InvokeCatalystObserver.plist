@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyProject</key>
+	<string>builderScale</string>
+	<key>floatroute</key>
+	<string>ignoredtask</string>
+	<key>graphInset</key>
+	<string>transformStoryboard</string>
+	<key>intermediateGesture</key>
+	<string>unschedulebatch</string>
+	<key>largeTool</key>
+	<string>textCenter</string>
+	<key>lastRemediation</key>
+	<string>displayableReference</string>
+	<key>mapOrigin</key>
+	<string>dropdownbuttonDecorator</string>
+	<key>shouldDisposeScreen</key>
+	<string>durationDelay</string>
+	<key>spinbuilder</key>
+	<string>pointtweak</string>
+	<key>symmetricCharacteristic</key>
+	<string>coordinatorinfo</string>
+</dict>
+</plist>

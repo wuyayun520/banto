@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileView</key>
+	<string>precisionspacing</string>
+	<key>configurationBrightness</key>
+	<string>easyrowbrightness</string>
+	<key>imperativeSize</key>
+	<string>actionVisibility</string>
+	<key>mountinterpolation</key>
+	<string>cacheTask</string>
+	<key>temporaryLabel</key>
+	<string>vectorFormat</string>
+	<key>visibleMovement</key>
+	<string>visibleTool</string>
+</dict>
+</plist>

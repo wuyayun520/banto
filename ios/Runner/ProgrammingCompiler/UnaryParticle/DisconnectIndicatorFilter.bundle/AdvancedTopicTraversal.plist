@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCapsule</key>
+	<string>shouldDecodeProject</string>
+	<key>consumerDistance</key>
+	<string>shouldFetchCache</string>
+	<key>currentvariant</key>
+	<string>routerForce</string>
+	<key>extendhandler</key>
+	<string>spriteSystem</string>
+	<key>ignoredStateful</key>
+	<string>singleRouter</string>
+	<key>priorOptimizer</key>
+	<string>masterTint</string>
+	<key>prismaticButton</key>
+	<string>associateddetail</string>
+	<key>resizableresilience</key>
+	<string>disconnectBinary</string>
+	<key>shouldDeserializeDuration</key>
+	<string>shouldObserveClipper</string>
+</dict>
+</plist>

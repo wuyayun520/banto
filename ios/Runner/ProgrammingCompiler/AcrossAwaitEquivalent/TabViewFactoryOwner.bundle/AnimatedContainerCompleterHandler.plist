@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationVelocity</key>
+	<string>vectorstyletail</string>
+	<key>draggableDropdownButton</key>
+	<string>shouldPaintStamp</string>
+	<key>lossslider</key>
+	<string>matrixVisible</string>
+	<key>nibSkewX</key>
+	<string>eagerswift</string>
+	<key>prevTopic</key>
+	<string>groupflyweighttension</string>
+	<key>shouldHandleTouch</key>
+	<string>singleRequest</string>
+	<key>touchmethod</key>
+	<string>dividecompleter</string>
+</dict>
+</plist>

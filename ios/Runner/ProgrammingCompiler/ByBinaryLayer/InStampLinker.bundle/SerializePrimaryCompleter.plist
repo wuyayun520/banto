@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicatebutton</key>
+	<string>autoTabBar</string>
+	<key>missedLatency</key>
+	<string>delegatewrapper</string>
+	<key>newestScale</key>
+	<string>scenarioFlags</string>
+	<key>relationalMerger</key>
+	<string>textadapterstate</string>
+	<key>segueAcceleration</key>
+	<string>commonInteractor</string>
+	<key>shouldMountSine</key>
+	<string>impactTag</string>
+	<key>shouldprocesschallenge</key>
+	<string>particleProcess</string>
+	<key>subtlePresenter</key>
+	<string>statefulSession</string>
+	<key>synchronousFormat</key>
+	<string>dimensionTask</string>
+</dict>
+</plist>

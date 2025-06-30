@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDelivery</key>
+	<string>resizeSlider</string>
+	<key>basicLabel</key>
+	<string>pointProxy</string>
+	<key>flexibleMaterial</key>
+	<string>overrideError</string>
+	<key>largelabel</key>
+	<string>fetchStamp</string>
+	<key>lazyChart</key>
+	<string>lossBuffer</string>
+	<key>mendBound</key>
+	<string>shouldBindTextField</string>
+	<key>modulusaction</key>
+	<string>crucialRenderer</string>
+	<key>searcherAppearance</key>
+	<string>containerWork</string>
+	<key>sharedStamp</key>
+	<string>associatedBehavior</string>
+	<key>titleDensity</key>
+	<string>fetchOptimizer</string>
+</dict>
+</plist>

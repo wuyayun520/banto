@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheasset</key>
+	<string>visiblePromise</string>
+	<key>fragmentTheme</key>
+	<string>alertPadding</string>
+	<key>immediateLayout</key>
+	<string>configureZone</string>
+	<key>injectionShade</key>
+	<string>shouldAnimateEqualization</string>
+	<key>normprovider</key>
+	<string>margincapacity</string>
+	<key>showthread</key>
+	<string>cloneDependency</string>
+</dict>
+</plist>

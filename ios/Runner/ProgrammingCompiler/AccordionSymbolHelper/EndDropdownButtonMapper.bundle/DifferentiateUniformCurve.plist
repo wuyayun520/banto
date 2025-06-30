@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticresponder</key>
+	<string>canCacheNib</string>
+	<key>hardTangent</key>
+	<string>releaseRepository</string>
+	<key>ignoredFlex</key>
+	<string>createCallback</string>
+	<key>localAnchor</key>
+	<string>scalabilityinset</string>
+	<key>mutableSplitter</key>
+	<string>themePlatform</string>
+	<key>schemaType</key>
+	<string>shouldObserveAspect</string>
+	<key>shouldEndSwitch</key>
+	<string>nativeEqualization</string>
+	<key>strokeRotation</key>
+	<string>deferredFragment</string>
+	<key>unactivatedPermutation</key>
+	<string>usedDependency</string>
+</dict>
+</plist>

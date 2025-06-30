@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationtop</key>
+	<string>yieldCoordinator</string>
+	<key>frameValidation</key>
+	<string>shouldLayoutRoute</string>
+	<key>geometricdialogsspacing</key>
+	<string>buttonrow</string>
+	<key>kernelMargin</key>
+	<string>canDisposeSubpixel</string>
+	<key>onswifttap</key>
+	<string>finderIndex</string>
+	<key>resilientmaterialedge</key>
+	<string>serializemobile</string>
+	<key>routeactiontension</key>
+	<string>customizedLoop</string>
+	<key>routertiertheme</key>
+	<string>shouldStartScaffold</string>
+	<key>shouldpreparestream</key>
+	<string>shouldSaveScale</string>
+</dict>
+</plist>

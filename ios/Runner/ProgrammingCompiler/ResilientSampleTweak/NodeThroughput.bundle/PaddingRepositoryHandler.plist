@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentEmitter</key>
+	<string>memberStatus</string>
+	<key>curveanimation</key>
+	<string>swiftPhase</string>
+	<key>elasticCanvas</key>
+	<string>elementInset</string>
+	<key>greatProcessor</key>
+	<string>findervisible</string>
+	<key>remainderduringphase</key>
+	<string>canNotifyStack</string>
+	<key>scaffoldMargin</key>
+	<string>permanentCell</string>
+	<key>statefulBandwidth</key>
+	<string>globalError</string>
+</dict>
+</plist>

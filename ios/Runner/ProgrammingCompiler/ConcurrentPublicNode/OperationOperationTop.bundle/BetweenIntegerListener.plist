@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiestheme</key>
+	<string>shouldpopborder</string>
+	<key>cyclehue</key>
+	<string>shouldHandleSubpixel</string>
+	<key>efficiencyOffset</key>
+	<string>numericalmodelpadding</string>
+	<key>interactiveGestureDetector</key>
+	<string>directlyStatus</string>
+	<key>interactiveNotation</key>
+	<string>playbackIndex</string>
+	<key>popupCount</key>
+	<string>notificationType</string>
+	<key>semanticsdispatcher</key>
+	<string>shouldNotifyGem</string>
+	<key>timerDelay</key>
+	<string>similarEvaluation</string>
+	<key>widgetvariabletheme</key>
+	<string>shouldHandleStoryboard</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionInset</key>
+	<string>shouldRestartScaffold</string>
+	<key>ascentForce</key>
+	<string>registerTransition</string>
+	<key>cupertinoSingleton</key>
+	<string>activatedService</string>
+	<key>displayableConstant</key>
+	<string>apertureNumber</string>
+	<key>findercenter</key>
+	<string>refreshService</string>
+	<key>missionValidation</key>
+	<string>statelessEquipment</string>
+	<key>musicBound</key>
+	<string>channellevelposition</string>
+	<key>nextMaster</key>
+	<string>widgetbrightness</string>
+	<key>shouldSkipCell</key>
+	<string>numericalCurve</string>
+</dict>
+</plist>

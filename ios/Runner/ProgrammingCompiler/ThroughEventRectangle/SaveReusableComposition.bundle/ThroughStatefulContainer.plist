@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubezone</key>
+	<string>liteGrayscale</string>
+	<key>draggableError</key>
+	<string>diversifiedWorkflow</string>
+	<key>iterativeDelegate</key>
+	<string>curveEdge</string>
+	<key>layerSpeed</key>
+	<string>onscreenchanged</string>
+	<key>secondBuffer</key>
+	<string>pauseOverlay</string>
+	<key>seguevaluetail</key>
+	<string>sequentialWrapper</string>
+	<key>shouldCacheStream</key>
+	<string>composableBaseline</string>
+	<key>tappableRestriction</key>
+	<string>discardedActivity</string>
+</dict>
+</plist>

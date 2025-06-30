@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleVector</key>
+	<string>copyView</string>
+	<key>builderdensity</key>
+	<string>explicitItem</string>
+	<key>mediumAudio</key>
+	<string>marginKind</string>
+	<key>normDuration</key>
+	<string>clearLabel</string>
+	<key>reusableResult</key>
+	<string>instantiateOffset</string>
+	<key>shouldPauseClipper</key>
+	<string>enabledPager</string>
+	<key>standaloneAscent</key>
+	<string>transitionproxyshape</string>
+	<key>substantialEquivalent</key>
+	<string>originalVolume</string>
+</dict>
+</plist>

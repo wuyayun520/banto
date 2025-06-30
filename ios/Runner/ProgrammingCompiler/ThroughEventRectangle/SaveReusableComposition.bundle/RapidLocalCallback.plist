@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartnumberposition</key>
+	<string>nativeKernel</string>
+	<key>disclaimertype</key>
+	<string>opaquedisclaimer</string>
+	<key>inheritedExponent</key>
+	<string>arithmeticStep</string>
+	<key>opaqueFormat</key>
+	<string>nodedepth</string>
+	<key>shouldEmitSemantics</key>
+	<string>shouldPersistContraction</string>
+	<key>similarNib</key>
+	<string>disabledGroup</string>
+	<key>skirtpatternrotation</key>
+	<string>tickerTension</string>
+</dict>
+</plist>

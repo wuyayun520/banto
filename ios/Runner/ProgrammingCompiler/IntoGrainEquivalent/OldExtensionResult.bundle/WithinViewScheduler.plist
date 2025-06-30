@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledLayout</key>
+	<string>shouldDetachSymbol</string>
+	<key>gemalignment</key>
+	<string>effectinteractor</string>
+	<key>geometricGridView</key>
+	<string>restoredecoration</string>
+	<key>normRight</key>
+	<string>accordionTriangles</string>
+	<key>seamlessAperture</key>
+	<string>elasticityBorder</string>
+	<key>secondscreenflags</key>
+	<string>asynccontaincommand</string>
+	<key>shouldEncodeDuration</key>
+	<string>restorePosition</string>
+	<key>shouldInflateChannels</key>
+	<string>parsehash</string>
+	<key>shouldPresentReference</key>
+	<string>visibleStep</string>
+</dict>
+</plist>

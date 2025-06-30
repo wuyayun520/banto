@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelFrequency</key>
+	<string>resilientRenderer</string>
+	<key>disabledRadio</key>
+	<string>shouldYieldCard</string>
+	<key>shouldConnectAccessory</key>
+	<string>canPrepareCosine</string>
+	<key>storyboardFormat</key>
+	<string>respectiveCombiner</string>
+</dict>
+</plist>

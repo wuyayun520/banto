@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAsset</key>
+	<string>arithmeticSegue</string>
+	<key>checkboxflags</key>
+	<string>subtlePageView</string>
+	<key>deferredItem</key>
+	<string>detachmap</string>
+	<key>imperativeLifecycle</key>
+	<string>pinchableGesture</string>
+	<key>localizationtint</key>
+	<string>expandedDepth</string>
+	<key>shouldSerializeCurve</key>
+	<string>crudepolygon</string>
+	<key>shouldcontinuemodulus</key>
+	<string>notificationInteraction</string>
+	<key>statefulfrominterpreter</key>
+	<string>shouldReplaceMomentum</string>
+</dict>
+</plist>

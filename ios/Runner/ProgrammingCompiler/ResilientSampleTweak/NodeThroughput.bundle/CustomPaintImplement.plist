@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoRestriction</key>
+	<string>replicaInteraction</string>
+	<key>hascard</key>
+	<string>canEncodeTabBar</string>
+	<key>interactivepager</key>
+	<string>requestSprite</string>
+	<key>publicexception</key>
+	<string>playSize</string>
+	<key>rectangleborder</key>
+	<string>shouldAttachMatrix</string>
+	<key>shouldCancelCosine</key>
+	<string>plateHead</string>
+	<key>throughputVisible</key>
+	<string>routeAlignment</string>
+</dict>
+</plist>

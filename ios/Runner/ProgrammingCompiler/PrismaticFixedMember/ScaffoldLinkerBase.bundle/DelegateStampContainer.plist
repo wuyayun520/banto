@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleCount</key>
+	<string>beginnerCheckbox</string>
+	<key>comprehensiveChooser</key>
+	<string>dimensionStatus</string>
+	<key>discardedLifecycle</key>
+	<string>detachconvolution</string>
+	<key>itemindex</key>
+	<string>floatentity</string>
+	<key>meshTheme</key>
+	<string>subscriptionVisibility</string>
+	<key>popupPosition</key>
+	<string>canValidateCycle</string>
+	<key>requiredTolerance</key>
+	<string>shouldStopFragment</string>
+	<key>shouldCacheFragment</key>
+	<string>normalOption</string>
+	<key>skirtPosition</key>
+	<string>shouldTransitionColumn</string>
+	<key>smartProvider</key>
+	<string>flexibleMission</string>
+</dict>
+</plist>

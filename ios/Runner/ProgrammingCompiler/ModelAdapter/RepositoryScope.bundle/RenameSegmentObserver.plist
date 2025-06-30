@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactordensity</key>
+	<string>saveSlider</string>
+	<key>kernelvisible</key>
+	<string>navigationFacade</string>
+	<key>primaryGrid</key>
+	<string>labelVisible</string>
+	<key>shouldstoprole</key>
+	<string>reductionPressure</string>
+	<key>staticSwitch</key>
+	<string>significantbrush</string>
+</dict>
+</plist>

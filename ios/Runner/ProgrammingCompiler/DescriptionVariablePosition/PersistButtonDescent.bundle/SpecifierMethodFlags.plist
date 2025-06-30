@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customprofilevisibility</key>
+	<string>commonSegment</string>
+	<key>flexTheme</key>
+	<string>shouldPauseBox</string>
+	<key>navigatoradapterlocation</key>
+	<string>repositoryshade</string>
+	<key>playbackResponse</key>
+	<string>mediocreCombiner</string>
+	<key>scalabilityDirection</key>
+	<string>deployRequest</string>
+	<key>shouldConnectSine</key>
+	<string>compileRow</string>
+	<key>stopmanager</key>
+	<string>unscheduleCompleter</string>
+</dict>
+</plist>

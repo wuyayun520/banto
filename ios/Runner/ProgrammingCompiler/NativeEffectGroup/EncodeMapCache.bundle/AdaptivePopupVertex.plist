@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePositioned</key>
+	<string>gesturedetectorEdge</string>
+	<key>publicLatency</key>
+	<string>comprehensiveAppBar</string>
+	<key>seguescale</key>
+	<string>shouldPublishPlate</string>
+	<key>shouldBindCanvas</key>
+	<string>canTransformSwift</string>
+	<key>shouldDetachAnimatedContainer</key>
+	<string>positionedfactory</string>
+	<key>shouldStartMargin</key>
+	<string>seamlessStateful</string>
+	<key>skirtInteraction</key>
+	<string>canAttachShader</string>
+	<key>sustainableAnalogy</key>
+	<string>insteadTitle</string>
+	<key>themecharacteristic</key>
+	<string>videoSkewX</string>
+</dict>
+</plist>

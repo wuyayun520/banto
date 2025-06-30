@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleCallback</key>
+	<string>shouldPresentDropdownButton</string>
+	<key>loopInterval</key>
+	<string>keepPrecision</string>
+	<key>metricsDelay</key>
+	<string>clipTopic</string>
+	<key>shouldContinueTable</key>
+	<string>compositionDistance</string>
+	<key>shouldFormatCurve</key>
+	<string>canListenTouch</string>
+</dict>
+</plist>

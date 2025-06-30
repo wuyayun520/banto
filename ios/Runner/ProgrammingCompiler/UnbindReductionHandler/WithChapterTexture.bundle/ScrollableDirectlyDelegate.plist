@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionQuaternion</key>
+	<string>customQuaternion</string>
+	<key>adaptiveConvolution</key>
+	<string>resetAllocator</string>
+	<key>backwardmediaquery</key>
+	<string>queueTail</string>
+	<key>distinctionColor</key>
+	<string>navigateScale</string>
+	<key>normalLifecycle</key>
+	<string>queueParam</string>
+	<key>robustTangent</key>
+	<string>isMovement</string>
+	<key>sequentialCapacities</key>
+	<string>zoneinset</string>
+	<key>transitionBottom</key>
+	<string>elasticAnchor</string>
+</dict>
+</plist>

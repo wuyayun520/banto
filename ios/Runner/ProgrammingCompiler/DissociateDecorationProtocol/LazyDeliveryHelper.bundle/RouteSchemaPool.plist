@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardComponent</key>
+	<string>groupasfunction</string>
+	<key>globalMesh</key>
+	<string>shaderStructure</string>
+	<key>multiText</key>
+	<string>yieldAnchor</string>
+	<key>observerselector</key>
+	<string>transformdecoration</string>
+	<key>responsiveConsumer</key>
+	<string>channelsAppearance</string>
+	<key>retainedPoint</key>
+	<string>canCacheReduction</string>
+	<key>transitionScale</key>
+	<string>usedDispatcher</string>
+</dict>
+</plist>

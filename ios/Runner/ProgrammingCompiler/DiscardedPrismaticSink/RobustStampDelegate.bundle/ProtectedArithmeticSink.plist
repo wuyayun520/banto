@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedOperation</key>
+	<string>hardindicator</string>
+	<key>basicError</key>
+	<string>decodeProgressBar</string>
+	<key>beginnerMechanism</key>
+	<string>ephemeralLifecycle</string>
+	<key>futureInterval</key>
+	<string>canSetStateMovement</string>
+	<key>significantRadio</key>
+	<string>requiredIcon</string>
+	<key>sortedCombiner</key>
+	<string>characterFrequency</string>
+</dict>
+</plist>

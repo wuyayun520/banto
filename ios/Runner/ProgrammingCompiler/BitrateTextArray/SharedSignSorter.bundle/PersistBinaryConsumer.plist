@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedMovement</key>
+	<string>paintSkin</string>
+	<key>discardedTrigger</key>
+	<string>rectEnvironment</string>
+	<key>permissivelabelindex</key>
+	<string>evaluateResource</string>
+	<key>segmentShade</key>
+	<string>adaptiveOverlay</string>
+	<key>shouldDisposeArithmetic</key>
+	<string>bitrateAdapter</string>
+</dict>
+</plist>

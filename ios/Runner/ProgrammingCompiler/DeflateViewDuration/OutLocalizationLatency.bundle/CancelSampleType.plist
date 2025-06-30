@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterright</key>
+	<string>entityassystem</string>
+	<key>cursorCount</key>
+	<string>quantizationHash</string>
+	<key>interfaceAlignment</key>
+	<string>clearGrid</string>
+	<key>secondEquivalent</key>
+	<string>navigateOffset</string>
+	<key>sequentialConfiguration</key>
+	<string>dedicatedStep</string>
+	<key>setupisolate</key>
+	<string>statefulTabView</string>
+	<key>shaderDuration</key>
+	<string>tangentOffset</string>
+	<key>smallappbar</key>
+	<string>comprehensiveContainer</string>
+	<key>smartarithmeticdepth</key>
+	<string>criticalBrush</string>
+	<key>uniqueStream</key>
+	<string>canYieldCharacter</string>
+</dict>
+</plist>

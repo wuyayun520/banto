@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystOrientation</key>
+	<string>reflectbuilder</string>
+	<key>deferredOccasion</key>
+	<string>featureEdge</string>
+	<key>immediateThread</key>
+	<string>canDisposePageView</string>
+	<key>invisibleRole</key>
+	<string>shouldDecodeTouch</string>
+	<key>shouldNotifyUnary</key>
+	<string>significantRadius</string>
+	<key>texturevisibility</key>
+	<string>spotSystem</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperInterval</key>
+	<string>canFormatCheckbox</string>
+	<key>completernearprototype</key>
+	<string>dataPressure</string>
+	<key>composableDistinction</key>
+	<string>screenProcess</string>
+	<key>monsterDirection</key>
+	<string>shouldDisposeCoordinator</string>
+	<key>otherModulus</key>
+	<string>shouldResumeCell</string>
+	<key>prevMovement</key>
+	<string>transformColumn</string>
+	<key>reactiveInteraction</key>
+	<string>directButton</string>
+	<key>synchronousResponder</key>
+	<string>prevCubit</string>
+</dict>
+</plist>

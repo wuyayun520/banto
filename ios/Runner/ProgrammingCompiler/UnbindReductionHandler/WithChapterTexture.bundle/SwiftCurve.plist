@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveClipper</key>
+	<string>heapHead</string>
+	<key>directlyVariant</key>
+	<string>shouldLoadOptimizer</string>
+	<key>precisionefficiency</key>
+	<string>lossVelocity</string>
+	<key>robustRichText</key>
+	<string>ignoredHero</string>
+	<key>shouldCacheCard</key>
+	<string>capacityStyle</string>
+	<key>shouldPaintCaption</key>
+	<string>canDeserializeMember</string>
+	<key>typicalSwift</key>
+	<string>presenterCycle</string>
+</dict>
+</plist>

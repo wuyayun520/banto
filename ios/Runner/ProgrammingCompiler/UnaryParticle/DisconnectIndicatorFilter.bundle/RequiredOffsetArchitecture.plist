@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAppearance</key>
+	<string>displayableConsumer</string>
+	<key>interactiveCatalyst</key>
+	<string>injectUseCase</string>
+	<key>repositoryVisible</key>
+	<string>directColumn</string>
+	<key>scrollablemetadata</key>
+	<string>shouldAnimateMember</string>
+	<key>shouldHandleBuilder</key>
+	<string>brushbloc</string>
+	<key>shouldNavigateStateful</key>
+	<string>uniqueRichText</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryHead</key>
+	<string>canStopSubpixel</string>
+	<key>listviewInteraction</key>
+	<string>mobileShade</string>
+	<key>marginTail</key>
+	<string>gesturedetectorSize</string>
+	<key>priorityutil</key>
+	<string>textureAction</string>
+	<key>shouldunmountdescriptor</key>
+	<string>intuitiveSizedBox</string>
+	<key>syncnavigation</key>
+	<string>rectifytabview</string>
+</dict>
+</plist>

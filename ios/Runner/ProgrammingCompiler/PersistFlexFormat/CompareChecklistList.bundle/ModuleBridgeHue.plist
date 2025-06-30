@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultPet</key>
+	<string>customInteger</string>
+	<key>featureKind</key>
+	<string>resolvestateful</string>
+	<key>globalpadding</key>
+	<string>canObserveMobile</string>
+	<key>methodDirection</key>
+	<string>richtextmethod</string>
+	<key>numericalOperation</key>
+	<string>hierarchicalroletype</string>
+	<key>trainbutton</key>
+	<string>stampDepth</string>
+</dict>
+</plist>

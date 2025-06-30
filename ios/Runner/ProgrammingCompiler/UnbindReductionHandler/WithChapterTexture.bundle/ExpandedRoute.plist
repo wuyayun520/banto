@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticProject</key>
+	<string>workflowCycle</string>
+	<key>assetfromoperation</key>
+	<string>dependencyCount</string>
+	<key>consultativesizedbox</key>
+	<string>activeCell</string>
+	<key>navigatorName</key>
+	<string>activesound</string>
+	<key>prevFeature</key>
+	<string>processtween</string>
+	<key>shouldAttachIcon</key>
+	<string>specifyTask</string>
+	<key>shouldPersistGridView</key>
+	<string>normTransparency</string>
+	<key>sustainableBandwidth</key>
+	<string>inactiveEfficiency</string>
+</dict>
+</plist>

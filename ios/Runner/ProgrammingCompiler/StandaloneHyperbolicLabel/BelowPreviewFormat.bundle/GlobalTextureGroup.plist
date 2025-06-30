@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterOrigin</key>
+	<string>resilientOverlay</string>
+	<key>denseAllocator</key>
+	<string>lockVector</string>
+	<key>difficultData</key>
+	<string>cloneNode</string>
+	<key>handlervariablestyle</key>
+	<string>shouldTransitionTouch</string>
+	<key>hasunary</key>
+	<string>aperturesystemtension</string>
+	<key>logarithmasstate</key>
+	<string>insteadStore</string>
+	<key>masterShape</key>
+	<string>executeSubscription</string>
+	<key>shouldTransitionOverlay</key>
+	<string>layoutrecursion</string>
+</dict>
+</plist>

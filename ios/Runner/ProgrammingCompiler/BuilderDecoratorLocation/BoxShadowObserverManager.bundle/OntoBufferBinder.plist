@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorVisibility</key>
+	<string>shouldStreamIcon</string>
+	<key>lostLayer</key>
+	<string>resumeGraphic</string>
+	<key>objectAlignment</key>
+	<string>heapMemento</string>
+	<key>opaqueTrigger</key>
+	<string>taxonomyInterval</string>
+	<key>visibleThreshold</key>
+	<string>currentObject</string>
+</dict>
+</plist>

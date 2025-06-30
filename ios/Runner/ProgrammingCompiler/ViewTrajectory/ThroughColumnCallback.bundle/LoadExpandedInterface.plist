@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonpolygon</key>
+	<string>unsortedIsolate</string>
+	<key>cursorpatternright</key>
+	<string>matrixMargin</string>
+	<key>rectchooser</key>
+	<string>asynchronousRadius</string>
+	<key>respectivePreview</key>
+	<string>draggableRestriction</string>
+	<key>shaderevolution</key>
+	<string>mendType</string>
+	<key>spotSkewX</key>
+	<string>multiAccessory</string>
+	<key>subsequentRichText</key>
+	<string>shouldLayoutProvider</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredPolyfill</key>
+	<string>asynchronousreliability</string>
+	<key>eagerReducer</key>
+	<string>inheritedGraph</string>
+	<key>firstBox</key>
+	<string>comprehensiveLayer</string>
+	<key>largeMedia</key>
+	<string>gestureVar</string>
+	<key>pickerduration</key>
+	<string>uniformRemediation</string>
+</dict>
+</plist>

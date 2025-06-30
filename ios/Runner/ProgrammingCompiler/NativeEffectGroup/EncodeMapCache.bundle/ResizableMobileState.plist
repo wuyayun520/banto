@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorInterval</key>
+	<string>positionOrigin</string>
+	<key>interceptsubscription</key>
+	<string>notifychart</string>
+	<key>matrixasprocess</key>
+	<string>similarContrast</string>
+	<key>shouldPauseComposition</key>
+	<string>frameoffset</string>
+	<key>shouldPauseDimension</key>
+	<string>documentSkewX</string>
+	<key>tangenthandler</key>
+	<string>maintainCubit</string>
+	<key>tensorResolver</key>
+	<string>matrixScale</string>
+	<key>variantmomentum</key>
+	<string>denseStroke</string>
+</dict>
+</plist>

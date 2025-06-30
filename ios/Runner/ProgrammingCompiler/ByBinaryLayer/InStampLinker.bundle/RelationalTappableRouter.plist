@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblehero</key>
+	<string>reusableCallback</string>
+	<key>concretePlayback</key>
+	<string>chooserShade</string>
+	<key>convolutionMargin</key>
+	<string>unsortedFrame</string>
+	<key>cosineColor</key>
+	<string>inactiveProjection</string>
+	<key>layerproxydistance</key>
+	<string>loadTask</string>
+	<key>mobileskewy</key>
+	<string>accessibleSwift</string>
+	<key>shouldHandleClipper</key>
+	<string>usedAnimator</string>
+	<key>statelessInterface</key>
+	<string>asynckind</string>
+	<key>usageCenter</key>
+	<string>consultativeOverlay</string>
+</dict>
+</plist>

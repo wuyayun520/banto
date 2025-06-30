@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetcompositeskewy</key>
+	<string>configurationDelay</string>
+	<key>concretetickerdelay</key>
+	<string>staterate</string>
+	<key>denseReducer</key>
+	<string>canRebuildSignature</string>
+	<key>gridPressure</key>
+	<string>skirtdelay</string>
+	<key>multiLogarithm</key>
+	<string>shouldCreateIndicator</string>
+	<key>seamlessController</key>
+	<string>nextNib</string>
+	<key>tappablechannelbrightness</key>
+	<string>mainProject</string>
+</dict>
+</plist>

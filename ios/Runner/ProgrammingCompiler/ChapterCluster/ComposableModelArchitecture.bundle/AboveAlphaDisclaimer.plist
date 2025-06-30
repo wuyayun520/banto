@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalTolerance</key>
+	<string>finishMission</string>
+	<key>dialogsorigin</key>
+	<string>activatesprite</string>
+	<key>discardedDelegate</key>
+	<string>relationalRange</string>
+	<key>ephemeralScale</key>
+	<string>shouldRenderCursor</string>
+	<key>framecontextvisibility</key>
+	<string>equivalentFlags</string>
+	<key>lazyevaluation</key>
+	<string>unmountedframe</string>
+	<key>requiredDrawer</key>
+	<string>lostPositioned</string>
+	<key>scrollableCube</key>
+	<string>beginnercontractionfrequency</string>
+	<key>shouldFetchPrecision</key>
+	<string>shouldNotifyGrayscale</string>
+	<key>shouldattachgesture</key>
+	<string>canAttachGrayscale</string>
+</dict>
+</plist>

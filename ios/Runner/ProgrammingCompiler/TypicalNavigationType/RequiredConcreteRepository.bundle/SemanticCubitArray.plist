@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantTheme</key>
+	<string>curveBottom</string>
+	<key>interactiveSubscription</key>
+	<string>shouldFinishStep</string>
+	<key>requiredError</key>
+	<string>requiredProgressBar</string>
+	<key>rotatequeue</key>
+	<string>shouldRouteShader</string>
+	<key>serviceState</key>
+	<string>shouldPresentMap</string>
+	<key>shouldPrepareKernel</key>
+	<string>strengthbound</string>
+	<key>shouldProcessProject</key>
+	<string>enabledRepository</string>
+</dict>
+</plist>

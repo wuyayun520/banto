@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionButton</key>
+	<string>trainSample</string>
+	<key>associatednavigatorcount</key>
+	<string>canRenderDialogs</string>
+	<key>awaitdelivery</key>
+	<string>activatedReduction</string>
+	<key>effectDuration</key>
+	<string>presentertheme</string>
+	<key>factoryhue</key>
+	<string>canBindIndicator</string>
+	<key>geometricSemantics</key>
+	<string>coordinatorevolution</string>
+	<key>pausedescriptor</key>
+	<string>blocmechanism</string>
+	<key>pushswitch</key>
+	<string>retainedSound</string>
+	<key>sequentialCubit</key>
+	<string>prismaticSpine</string>
+	<key>signatureFeedback</key>
+	<string>sustainableSpot</string>
+</dict>
+</plist>

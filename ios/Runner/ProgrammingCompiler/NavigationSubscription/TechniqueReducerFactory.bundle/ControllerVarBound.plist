@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constructplayback</key>
+	<string>clipEvent</string>
+	<key>deferredStore</key>
+	<string>appbarTask</string>
+	<key>formatvalidation</key>
+	<string>imperativeScroller</string>
+	<key>hardProgressBar</key>
+	<string>flexCycle</string>
+	<key>missedAsync</key>
+	<string>canStopScroll</string>
+	<key>missedSink</key>
+	<string>resolveSingleton</string>
+	<key>presenterappearance</key>
+	<string>dedicatedAwait</string>
+</dict>
+</plist>

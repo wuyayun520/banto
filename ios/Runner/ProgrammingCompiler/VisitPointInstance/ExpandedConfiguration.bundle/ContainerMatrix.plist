@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionQueue</key>
+	<string>parsePainter</string>
+	<key>draggablePopup</key>
+	<string>futurebound</string>
+	<key>errorvisibility</key>
+	<string>reactiveAsset</string>
+	<key>lazyScalability</key>
+	<string>statelessStream</string>
+	<key>missionDensity</key>
+	<string>callbackalongstrategy</string>
+	<key>seamlessImpression</key>
+	<string>composableFinder</string>
+	<key>tensortext</key>
+	<string>secondPolyfill</string>
+	<key>tweenBound</key>
+	<string>consumptionshape</string>
+</dict>
+</plist>

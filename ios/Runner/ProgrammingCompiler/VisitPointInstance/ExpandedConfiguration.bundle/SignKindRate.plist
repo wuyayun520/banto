@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonScreen</key>
+	<string>notationIndex</string>
+	<key>defaulttechnique</key>
+	<string>deferredFormat</string>
+	<key>euclideanDescent</key>
+	<string>missedMesh</string>
+	<key>gradientAlignment</key>
+	<string>shouldDecodeCapacities</string>
+	<key>shouldDecodeTabView</key>
+	<string>shouldPaintVariant</string>
+	<key>sliderbufferfrequency</key>
+	<string>localizationFlyweight</string>
+</dict>
+</plist>

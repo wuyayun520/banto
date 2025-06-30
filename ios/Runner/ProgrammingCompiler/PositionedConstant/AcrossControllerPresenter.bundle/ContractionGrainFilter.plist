@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnertimer</key>
+	<string>sortedHandler</string>
+	<key>binaryLeft</key>
+	<string>mechanismInterval</string>
+	<key>hardDescent</key>
+	<string>swiftOpacity</string>
+	<key>shouldValidateStoryboard</key>
+	<string>multiHash</string>
+	<key>standaloneEvent</key>
+	<string>shouldSubscribeSegue</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCell</key>
+	<string>canSerializeGift</string>
+	<key>backwardChannel</key>
+	<string>restoreCurve</string>
+	<key>commonStorage</key>
+	<string>immutableLayout</string>
+	<key>difficultTask</key>
+	<string>replaceSkirt</string>
+	<key>hyperbolicProvider</key>
+	<string>diversifiedSkirt</string>
+	<key>menuName</key>
+	<string>delicateProvision</string>
+	<key>persistentSegue</key>
+	<string>shouldShowWorkflow</string>
+	<key>protectedStamp</key>
+	<string>typicalAccessory</string>
+	<key>shouldRenderBorder</key>
+	<string>sizedboxstream</string>
+	<key>shouldprocessmodal</key>
+	<string>liteTimer</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioVisible</key>
+	<string>unsortedTrigger</string>
+	<key>framealongvariable</key>
+	<string>descentRotation</string>
+	<key>nibBottom</key>
+	<string>flexiblelistviewbrightness</string>
+	<key>responsiveEvaluation</key>
+	<string>factoryname</string>
+	<key>shouldStreamTangent</key>
+	<string>usedListView</string>
+</dict>
+</plist>

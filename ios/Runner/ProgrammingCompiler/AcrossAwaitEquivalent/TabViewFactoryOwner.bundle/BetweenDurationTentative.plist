@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectincludeframework</key>
+	<string>fusedConfidentiality</string>
+	<key>clipperLeft</key>
+	<string>uniqueRichText</string>
+	<key>commonResource</key>
+	<string>shouldBuildTable</string>
+	<key>difficultChecklist</key>
+	<string>transpileHandler</string>
+	<key>shouldStopCosine</key>
+	<string>transformmodulus</string>
+	<key>specifyequipment</key>
+	<string>emitterCenter</string>
+	<key>yieldbullet</key>
+	<string>referenceColor</string>
+</dict>
+</plist>

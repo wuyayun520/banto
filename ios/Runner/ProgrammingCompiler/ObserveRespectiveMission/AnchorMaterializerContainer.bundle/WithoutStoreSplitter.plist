@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicCosine</key>
+	<string>largethemesize</string>
+	<key>concurrenttrigger</key>
+	<string>mixinText</string>
+	<key>contrastDepth</key>
+	<string>sustainableThroughput</string>
+	<key>disparateDetector</key>
+	<string>compareHandler</string>
+	<key>equalasync</key>
+	<string>notifyEvent</string>
+	<key>exponentForce</key>
+	<string>delegateSink</string>
+	<key>savealignment</key>
+	<string>beginnerrecursion</string>
+</dict>
+</plist>

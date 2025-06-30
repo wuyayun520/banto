@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonThroughput</key>
+	<string>streamlineInteractor</string>
+	<key>currentGraph</key>
+	<string>pushGradient</string>
+	<key>imperativeWorkflow</key>
+	<string>subscribeContraction</string>
+	<key>semanticCubit</key>
+	<string>shouldsavespot</string>
+	<key>sequentialcursor</key>
+	<string>appbarofmethod</string>
+	<key>statefulInset</key>
+	<string>sequentialText</string>
+	<key>statelessMediaQuery</key>
+	<string>transformTransformer</string>
+</dict>
+</plist>

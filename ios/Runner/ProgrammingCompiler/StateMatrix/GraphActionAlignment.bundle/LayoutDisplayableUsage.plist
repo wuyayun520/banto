@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxoperation</key>
+	<string>regulateManager</string>
+	<key>cursorscroller</key>
+	<string>injectionastemple</string>
+	<key>gesturedetectorDelay</key>
+	<string>resetQueue</string>
+	<key>menuawaybridge</key>
+	<string>usagesize</string>
+	<key>shouldLayoutTool</key>
+	<string>streamArithmetic</string>
+	<key>smartInteraction</key>
+	<string>shouldFormatBase</string>
+	<key>sortedFinder</key>
+	<string>seamlessSelector</string>
+	<key>unactivatedTicker</key>
+	<string>pinchableScenario</string>
+</dict>
+</plist>

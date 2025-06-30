@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedcanvas</key>
+	<string>dividepet</string>
+	<key>cursorStatus</key>
+	<string>notationtag</string>
+	<key>materialChart</key>
+	<string>originalsamplespeed</string>
+	<key>prismaticRouter</key>
+	<string>currentInteger</string>
+	<key>sineOrientation</key>
+	<string>challengeRate</string>
+	<key>staticsubscription</key>
+	<string>unregisterHandler</string>
+</dict>
+</plist>

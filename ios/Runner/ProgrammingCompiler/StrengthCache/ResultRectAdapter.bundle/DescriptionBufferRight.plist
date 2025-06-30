@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerinsidephase</key>
+	<string>videoScale</string>
+	<key>customizedThreshold</key>
+	<string>setupMetadata</string>
+	<key>elasticModel</key>
+	<string>scrollablechallenge</string>
+	<key>iconSize</key>
+	<string>transformAlpha</string>
+	<key>shouldProcessPlate</key>
+	<string>seguemargin</string>
+	<key>specifyPreview</key>
+	<string>vectorcount</string>
+	<key>staticscenehue</key>
+	<string>priorityCoord</string>
+	<key>vertexvisible</key>
+	<string>resolveStream</string>
+</dict>
+</plist>

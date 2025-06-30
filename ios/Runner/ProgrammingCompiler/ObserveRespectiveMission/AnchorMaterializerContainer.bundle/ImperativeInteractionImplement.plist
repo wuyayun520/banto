@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureRate</key>
+	<string>visitLocalization</string>
+	<key>invisibleImpression</key>
+	<string>contrastStyle</string>
+	<key>iterativeComponent</key>
+	<string>shouldDecodeConsumer</string>
+	<key>responsiveCompleter</key>
+	<string>slashFlyweight</string>
+	<key>shouldParseCaption</key>
+	<string>checkboxScope</string>
+</dict>
+</plist>

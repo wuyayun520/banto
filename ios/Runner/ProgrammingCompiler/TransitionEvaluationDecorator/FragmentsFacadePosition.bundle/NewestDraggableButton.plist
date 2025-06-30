@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiessize</key>
+	<string>beginnerInformation</string>
+	<key>checklistMomentum</key>
+	<string>dynamicDrawer</string>
+	<key>ephemeralButton</key>
+	<string>pivotalChart</string>
+	<key>interfaceshader</key>
+	<string>dismissTabView</string>
+	<key>nativeAwait</key>
+	<string>topicSaturation</string>
+	<key>zonealongmemento</key>
+	<string>singleScene</string>
+</dict>
+</plist>

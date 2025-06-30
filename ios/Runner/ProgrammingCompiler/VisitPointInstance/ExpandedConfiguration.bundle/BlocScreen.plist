@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioResponse</key>
+	<string>timerTemple</string>
+	<key>callbackMargin</key>
+	<string>shouldstoplog</string>
+	<key>channeltrigger</key>
+	<string>respectivePriority</string>
+	<key>criticalRecursion</key>
+	<string>canObserveGradient</string>
+	<key>delegateleft</key>
+	<string>independentJoiner</string>
+	<key>onwidgetchanged</key>
+	<string>fragmentpatterndensity</string>
+	<key>shouldPublishBuilder</key>
+	<string>canRenderMaster</string>
+	<key>stampStatus</key>
+	<string>eventacceleration</string>
+</dict>
+</plist>

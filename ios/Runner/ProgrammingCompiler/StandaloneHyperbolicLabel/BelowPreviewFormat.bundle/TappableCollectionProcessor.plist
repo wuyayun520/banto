@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableTraversal</key>
+	<string>audioIndex</string>
+	<key>shouldParsePainter</key>
+	<string>updateGraph</string>
+	<key>specifyModal</key>
+	<string>searcherForce</string>
+	<key>stampTint</key>
+	<string>shouldValidateEntropy</string>
+	<key>statefulTask</key>
+	<string>reusableAscent</string>
+	<key>usedChapter</key>
+	<string>curveBound</string>
+</dict>
+</plist>

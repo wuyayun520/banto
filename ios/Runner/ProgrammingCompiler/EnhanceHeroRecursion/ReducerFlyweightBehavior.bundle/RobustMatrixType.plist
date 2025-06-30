@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableElasticity</key>
+	<string>herostyle</string>
+	<key>subsequentCache</key>
+	<string>ascentkind</string>
+	<key>subsequenttransformer</key>
+	<string>resizableGesture</string>
+	<key>tabbarmodekind</key>
+	<string>disabledTrigger</string>
+	<key>uniqueSingleton</key>
+	<string>embraceSlider</string>
+</dict>
+</plist>

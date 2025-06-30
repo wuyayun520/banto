@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentfilter</key>
+	<string>explicitMaster</string>
+	<key>assetAlignment</key>
+	<string>dependencycontrast</string>
+	<key>capsuleMode</key>
+	<string>sophisticatedSprite</string>
+	<key>flexibleFuture</key>
+	<string>sophisticatedInkWell</string>
+	<key>intermediateCosine</key>
+	<string>maxPadding</string>
+	<key>largeGestureDetector</key>
+	<string>originalCombiner</string>
+	<key>multiTentative</key>
+	<string>autoAnimatedContainer</string>
+	<key>permissiveTexture</key>
+	<string>synchronousCosine</string>
+	<key>shouldSetStateInteger</key>
+	<string>signatureRotation</string>
+</dict>
+</plist>

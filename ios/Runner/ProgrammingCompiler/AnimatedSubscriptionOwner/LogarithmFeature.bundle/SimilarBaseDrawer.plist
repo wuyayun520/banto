@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hasmomentum</key>
+	<string>customCard</string>
+	<key>missedDecoration</key>
+	<string>conformRect</string>
+	<key>shouldHandleCoordinator</key>
+	<string>computeAllocator</string>
+	<key>shouldRenderSymbol</key>
+	<string>mediaqueryrotation</string>
+	<key>similarProcessor</key>
+	<string>storyboardComposite</string>
+</dict>
+</plist>

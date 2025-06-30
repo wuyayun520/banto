@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMethod</key>
+	<string>meshdistance</string>
+	<key>lostDimension</key>
+	<string>intensityoffacade</string>
+	<key>permanentmissionedge</key>
+	<string>concurrentInfo</string>
+	<key>persistentVariant</key>
+	<string>layerrate</string>
+	<key>providerdespitekind</key>
+	<string>shouldCreateActivity</string>
+	<key>relationalMovement</key>
+	<string>currentcontroller</string>
+	<key>swiftoutsidesingleton</key>
+	<string>shouldDetachAnimatedContainer</string>
+	<key>usecasealongkind</key>
+	<string>pinchableConvolution</string>
+</dict>
+</plist>

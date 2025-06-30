@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableinteraction</key>
+	<string>numericalController</string>
+	<key>cupertinoMaterializer</key>
+	<string>isappbar</string>
+	<key>directImage</key>
+	<string>crucialschema</string>
+	<key>inactiveLoss</key>
+	<string>responsiveScene</string>
+	<key>materialTaxonomy</key>
+	<string>canSerializeSymbol</string>
+	<key>mediaOrigin</key>
+	<string>protectedExtension</string>
+	<key>prevanimationsaturation</key>
+	<string>sharedRadio</string>
+	<key>shouldNotifyGridView</key>
+	<string>activatebatch</string>
+</dict>
+</plist>

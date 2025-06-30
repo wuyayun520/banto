@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocspacing</key>
+	<string>asynchronousSubscription</string>
+	<key>consultativeModulus</key>
+	<string>formatIcon</string>
+	<key>disabledextension</key>
+	<string>menuIndex</string>
+	<key>interpolationasset</key>
+	<string>shouldPresentAnimation</string>
+	<key>numericalRecursion</key>
+	<string>shouldHandleMobile</string>
+	<key>resizableFragments</key>
+	<string>interactiveSelector</string>
+	<key>selectedfuture</key>
+	<string>notifierShade</string>
+	<key>sizedboxValidation</key>
+	<string>uniquecompletionvalidation</string>
+	<key>specifierEdge</key>
+	<string>substantialInterface</string>
+</dict>
+</plist>

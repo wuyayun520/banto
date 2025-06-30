@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeShape</key>
+	<string>similarImpact</string>
+	<key>futurereducer</key>
+	<string>delegateNumber</string>
+	<key>shouldPrepareComposition</key>
+	<string>primaryProfile</string>
+	<key>significantSensor</key>
+	<string>shouldRouteActivity</string>
+</dict>
+</plist>

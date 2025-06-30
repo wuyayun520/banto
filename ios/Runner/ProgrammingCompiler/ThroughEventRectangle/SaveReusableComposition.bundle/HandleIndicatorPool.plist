@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationVisibility</key>
+	<string>canShowCube</string>
+	<key>autoTween</key>
+	<string>multiSound</string>
+	<key>concreteVolume</key>
+	<string>progressbarsorter</string>
+	<key>denseSession</key>
+	<string>detectorPadding</string>
+	<key>densecapacity</key>
+	<string>flexiblecustompaintleft</string>
+	<key>litePosition</key>
+	<string>shouldCancelCosine</string>
+	<key>restartevent</key>
+	<string>movementJob</string>
+	<key>shouldPublishChannels</key>
+	<string>inheritedGrid</string>
+	<key>switchFeedback</key>
+	<string>activatedIcon</string>
+</dict>
+</plist>

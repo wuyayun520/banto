@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateLog</key>
+	<string>localScroller</string>
+	<key>invisibleFormat</key>
+	<string>shouldFetchWidget</string>
+	<key>iterativeRequest</key>
+	<string>canvasMargin</string>
+	<key>permutationType</key>
+	<string>canReplaceMaster</string>
+	<key>shouldEndChecklist</key>
+	<string>configureGrid</string>
+	<key>shouldInflateFlex</key>
+	<string>lastReliability</string>
+	<key>significantReducer</key>
+	<string>opaqueLifecycle</string>
+	<key>tensorStrength</key>
+	<string>certificateandobserver</string>
+	<key>viewTint</key>
+	<string>associatedPageView</string>
+</dict>
+</plist>

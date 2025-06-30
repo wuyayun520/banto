@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainDelegate</key>
+	<string>detachWidget</string>
+	<key>positionedFeedback</key>
+	<string>shouldUnbindScroll</string>
+	<key>responsiveresource</key>
+	<string>momentumtemplename</string>
+	<key>subpixelmaterializer</key>
+	<string>commonSegue</string>
+	<key>symbolShade</key>
+	<string>stateBridge</string>
+	<key>tappableMetrics</key>
+	<string>intermediateVolume</string>
+</dict>
+</plist>

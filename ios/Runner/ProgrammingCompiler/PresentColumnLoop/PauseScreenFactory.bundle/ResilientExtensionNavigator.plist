@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleIntensity</key>
+	<string>painterHue</string>
+	<key>marshalcaption</key>
+	<string>reconcileaspect</string>
+	<key>reducerrenderer</key>
+	<string>dynamicCupertino</string>
+	<key>sharedResource</key>
+	<string>retainedSensor</string>
+	<key>specifyBatch</key>
+	<string>activatedMember</string>
+</dict>
+</plist>

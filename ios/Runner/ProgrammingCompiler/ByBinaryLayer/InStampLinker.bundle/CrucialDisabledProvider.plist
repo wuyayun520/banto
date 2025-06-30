@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineMargin</key>
+	<string>shouldYieldStoryboard</string>
+	<key>diffableReplica</key>
+	<string>prismaticTween</string>
+	<key>discardedstatemargin</key>
+	<string>disconnectSubscription</string>
+	<key>easyCycle</key>
+	<string>challengeshade</string>
+	<key>loopInset</key>
+	<string>missedscreencount</string>
+	<key>managersensor</key>
+	<string>diffableImage</string>
+	<key>mobileOpacity</key>
+	<string>shouldUnmountedDocument</string>
+	<key>scenariodepth</key>
+	<string>relationalthread</string>
+</dict>
+</plist>

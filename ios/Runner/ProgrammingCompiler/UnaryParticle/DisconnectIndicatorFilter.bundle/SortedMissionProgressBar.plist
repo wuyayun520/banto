@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticMaterial</key>
+	<string>primaryrectangle</string>
+	<key>integerMode</key>
+	<string>agiletickername</string>
+	<key>largeOperation</key>
+	<string>implementLayer</string>
+	<key>nextInteractor</key>
+	<string>optimizeFuture</string>
+	<key>pointdensity</key>
+	<string>canDisconnectClipper</string>
+	<key>processprofile</key>
+	<string>grayscaleMargin</string>
+	<key>respectiveLocalization</key>
+	<string>scenarioScale</string>
+	<key>statefulOrigin</key>
+	<string>globalDisclaimer</string>
+	<key>tabbarmaterial</key>
+	<string>scalabilityRotation</string>
+	<key>usedgroup</key>
+	<string>mutableChapter</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginneraction</key>
+	<string>arithmeticUseCase</string>
+	<key>hardSkin</key>
+	<string>directDelegate</string>
+	<key>localNavigator</key>
+	<string>functionaltimer</string>
+	<key>modelframeworkedge</key>
+	<string>fillPosition</string>
+	<key>staticSample</key>
+	<string>keyStack</string>
+</dict>
+</plist>

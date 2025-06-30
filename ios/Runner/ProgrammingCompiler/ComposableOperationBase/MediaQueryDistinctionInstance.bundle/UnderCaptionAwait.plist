@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationdensity</key>
+	<string>difficultGraph</string>
+	<key>directlyListener</key>
+	<string>boxDensity</string>
+	<key>managerTint</key>
+	<string>interactiveReducer</string>
+	<key>persistentTechnique</key>
+	<string>resolveText</string>
+	<key>staticdecoration</key>
+	<string>shouldRouteOptimizer</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectdata</key>
+	<string>tentativeFlags</string>
+	<key>platePadding</key>
+	<string>canDeserializePainter</string>
+	<key>rendererTint</key>
+	<string>appendEvent</string>
+	<key>robustTechnique</key>
+	<string>clipNode</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopMetadata</key>
+	<string>prevTabBar</string>
+	<key>shouldFinishEffect</key>
+	<string>activeRow</string>
+	<key>statelessScenario</key>
+	<string>serviceParameter</string>
+	<key>triggeredge</key>
+	<string>converterFlags</string>
+</dict>
+</plist>

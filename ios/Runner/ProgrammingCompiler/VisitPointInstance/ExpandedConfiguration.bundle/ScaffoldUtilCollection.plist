@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalScope</key>
+	<string>permissivePager</string>
+	<key>interactormediatorrotation</key>
+	<string>buildconvolution</string>
+	<key>linkerPadding</key>
+	<string>reducetabbar</string>
+	<key>otherAnimator</key>
+	<string>exceptionShade</string>
+	<key>singleTimeline</key>
+	<string>shouldStopScroll</string>
+</dict>
+</plist>

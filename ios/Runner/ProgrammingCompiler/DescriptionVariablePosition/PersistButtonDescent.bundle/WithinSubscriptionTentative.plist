@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentpainter</key>
+	<string>divideResult</string>
+	<key>frameBehavior</key>
+	<string>selectedPageView</string>
+	<key>functionaloffsethue</key>
+	<string>accessoryBottom</string>
+	<key>gesturedetectormargin</key>
+	<string>showScaffold</string>
+	<key>shouldPersistIcon</key>
+	<string>provideResult</string>
+</dict>
+</plist>

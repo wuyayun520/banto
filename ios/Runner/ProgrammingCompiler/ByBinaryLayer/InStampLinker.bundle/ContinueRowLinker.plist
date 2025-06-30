@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMonster</key>
+	<string>greatSwift</string>
+	<key>constructcoordinator</key>
+	<string>synchronousSession</string>
+	<key>granularfactory</key>
+	<string>registerChapter</string>
+	<key>nativeLifecycle</key>
+	<string>shouldShowSpot</string>
+	<key>symmetricProgressBar</key>
+	<string>stateCoord</string>
+	<key>volumeCenter</key>
+	<string>arithmeticParameter</string>
+</dict>
+</plist>

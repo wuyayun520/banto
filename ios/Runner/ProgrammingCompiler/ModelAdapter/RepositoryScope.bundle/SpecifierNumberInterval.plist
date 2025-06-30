@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteRepository</key>
+	<string>builderIndex</string>
+	<key>currentInterpolation</key>
+	<string>hierarchicalTopic</string>
+	<key>currentProjection</key>
+	<string>visualizeTween</string>
+	<key>granularChooser</key>
+	<string>denseInfrastructure</string>
+	<key>imperativeSymbol</key>
+	<string>persistentColor</string>
+	<key>originalBase</key>
+	<string>semanticBehavior</string>
+	<key>reliabilityHue</key>
+	<string>tickerstate</string>
+	<key>similarSubscriber</key>
+	<string>streamNavigation</string>
+</dict>
+</plist>

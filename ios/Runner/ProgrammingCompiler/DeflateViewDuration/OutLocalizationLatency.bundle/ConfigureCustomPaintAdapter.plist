@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonfacadevisible</key>
+	<string>accessorythroughput</string>
+	<key>evaluatecallback</key>
+	<string>singleScenario</string>
+	<key>projectright</key>
+	<string>keepDimension</string>
+	<key>variantthroughshape</key>
+	<string>canConnectBase</string>
+</dict>
+</plist>

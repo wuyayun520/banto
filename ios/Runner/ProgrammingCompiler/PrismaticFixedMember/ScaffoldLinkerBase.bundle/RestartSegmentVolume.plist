@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveResource</key>
+	<string>markPreview</string>
+	<key>creatorBrightness</key>
+	<string>finishObserver</string>
+	<key>expandedappearance</key>
+	<string>textfieldrow</string>
+	<key>interactiveRequest</key>
+	<string>tappableresult</string>
+	<key>lazyTransition</key>
+	<string>projectionintensity</string>
+	<key>shouldCreateUnary</key>
+	<string>smartRoute</string>
+	<key>shouldValidateAperture</key>
+	<string>uniformConstant</string>
+</dict>
+</plist>

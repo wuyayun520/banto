@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorasnumber</key>
+	<string>staticQueue</string>
+	<key>discardedSymbol</key>
+	<string>responsiveImage</string>
+	<key>interfaceflyweightcontrast</key>
+	<string>handlerbystyle</string>
+	<key>pinchableSorter</key>
+	<string>isBuilder</string>
+	<key>rectVelocity</key>
+	<string>canDispatchMember</string>
+	<key>repositoryvisitorresponse</key>
+	<string>canUpdateMargin</string>
+	<key>robustPopup</key>
+	<string>baselineframeworktint</string>
+	<key>shouldSerializeNorm</key>
+	<string>disabledChannel</string>
+</dict>
+</plist>

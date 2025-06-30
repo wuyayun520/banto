@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainertaskrate</key>
+	<string>canEndConvolution</string>
+	<key>chapterrestriction</key>
+	<string>shouldContinueThread</string>
+	<key>hasCard</key>
+	<string>shouldEncodeCharacter</string>
+	<key>integrationScale</key>
+	<string>binderSkewY</string>
+	<key>intuitivedropdownbutton</key>
+	<string>persistentPositioned</string>
+	<key>mobileTween</key>
+	<string>streamDialogs</string>
+	<key>requiredmember</key>
+	<string>prismaticGram</string>
+	<key>routerBehavior</key>
+	<string>executeAnimation</string>
+	<key>singleRect</key>
+	<string>mutableChallenge</string>
+</dict>
+</plist>

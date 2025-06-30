@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableAppBar</key>
+	<string>shouldDisposeGem</string>
+	<key>missioncontextsize</key>
+	<string>themeOpacity</string>
+	<key>permanentbatchposition</key>
+	<string>statefulBuffer</string>
+	<key>semanticsBottom</key>
+	<string>intuitiveModule</string>
+</dict>
+</plist>

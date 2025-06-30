@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivemaster</key>
+	<string>canRenderContainer</string>
+	<key>crucialTransition</key>
+	<string>charactertail</string>
+	<key>queueTheme</key>
+	<string>concreteVariant</string>
+	<key>sizefeedback</key>
+	<string>advancedTimer</string>
+	<key>subscriptionformedge</key>
+	<string>largeVariant</string>
+	<key>symmetricTimer</key>
+	<string>disparateCluster</string>
+	<key>threadIndex</key>
+	<string>disabledEvolution</string>
+	<key>usageLocation</key>
+	<string>graphicDensity</string>
+	<key>volumeDelay</key>
+	<string>defaultmap</string>
+</dict>
+</plist>

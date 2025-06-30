@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeSkin</key>
+	<string>autoscenepressure</string>
+	<key>equalizationBottom</key>
+	<string>unmountedScaffold</string>
+	<key>interceptradio</key>
+	<string>advancedPublisher</string>
+	<key>occasionName</key>
+	<string>canTrainProject</string>
+	<key>permissiveNotification</key>
+	<string>basicimage</string>
+	<key>pinchableObject</key>
+	<string>concreteGestureDetector</string>
+	<key>popupprocessor</key>
+	<string>denseEntropy</string>
+	<key>shouldConnectPageView</key>
+	<string>textureSize</string>
+	<key>shouldkeepprovider</key>
+	<string>temporaryProfile</string>
+</dict>
+</plist>

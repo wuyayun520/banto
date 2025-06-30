@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTransformer</key>
+	<string>cellflyweightcontrast</string>
+	<key>adaptiveStateful</key>
+	<string>canRenderPageView</string>
+	<key>cacheResponse</key>
+	<string>converterSaturation</string>
+	<key>cartesianProvider</key>
+	<string>entropycubit</string>
+	<key>createnavigation</key>
+	<string>prismaticdropdownbutton</string>
+	<key>materialEvolution</key>
+	<string>globalRole</string>
+	<key>unarykindstatus</key>
+	<string>deferredCallback</string>
+	<key>utiltail</key>
+	<string>canProcessBatch</string>
+</dict>
+</plist>

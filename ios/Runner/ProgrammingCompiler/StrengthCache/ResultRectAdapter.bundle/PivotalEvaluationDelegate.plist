@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationMargin</key>
+	<string>isolateTier</string>
+	<key>columnContrast</key>
+	<string>otherNavigator</string>
+	<key>concurrentLayer</key>
+	<string>quantizerconfiguration</string>
+	<key>defaultButton</key>
+	<string>canHandleStack</string>
+	<key>delicateResponder</key>
+	<string>canPauseAnchor</string>
+	<key>prevMetrics</key>
+	<string>containerCommand</string>
+	<key>shouldskippoint</key>
+	<string>mountresource</string>
+	<key>spineequivalent</key>
+	<string>uniformAscent</string>
+	<key>subtleThroughput</key>
+	<string>keySound</string>
+	<key>unactivatedDescriptor</key>
+	<string>deferredCallback</string>
+</dict>
+</plist>

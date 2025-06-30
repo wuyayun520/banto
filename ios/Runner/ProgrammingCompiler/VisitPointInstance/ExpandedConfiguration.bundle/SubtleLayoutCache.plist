@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentmaterial</key>
+	<string>observeBase</string>
+	<key>explicitCapacities</key>
+	<string>nativeCatalyst</string>
+	<key>featureStatus</key>
+	<string>canBindSubpixel</string>
+	<key>newestviewvalidation</key>
+	<string>concreteZone</string>
+	<key>prevConverter</key>
+	<string>isroute</string>
+	<key>shouldAttachScroll</key>
+	<string>injectionKind</string>
+	<key>shouldLayoutPoint</key>
+	<string>poolResource</string>
+	<key>staticposition</key>
+	<string>dispatchCursor</string>
+	<key>substantialprovider</key>
+	<string>videoDirection</string>
+	<key>webHandler</key>
+	<string>offsetInterface</string>
+</dict>
+</plist>

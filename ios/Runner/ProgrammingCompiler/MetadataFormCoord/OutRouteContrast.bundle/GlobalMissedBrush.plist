@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCycle</key>
+	<string>catalystAppearance</string>
+	<key>architectureInterval</key>
+	<string>resourcelayeropacity</string>
+	<key>bundletask</key>
+	<string>allocatorTint</string>
+	<key>directlyExponent</key>
+	<string>gateTag</string>
+	<key>offsetShade</key>
+	<string>segmentActivity</string>
+	<key>originalAudio</key>
+	<string>crucialFeature</string>
+	<key>shouldConnectImage</key>
+	<string>touchTask</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSkirt</key>
+	<string>spinSprite</string>
+	<key>callbackOrientation</key>
+	<string>shouldserializeternary</string>
+	<key>comprehensiveTable</key>
+	<string>measureSingleton</string>
+	<key>greatScope</key>
+	<string>asynchronousResilience</string>
+	<key>permissiveCubit</key>
+	<string>usageCoord</string>
+	<key>priortangent</key>
+	<string>checklistRate</string>
+	<key>shouldContinueInkWell</key>
+	<string>interpolationDepth</string>
+	<key>shouldDeserializeTouch</key>
+	<string>shouldTransformLoss</string>
+</dict>
+</plist>

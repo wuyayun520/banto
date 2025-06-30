@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicHeap</key>
+	<string>staticCollection</string>
+	<key>customProject</key>
+	<string>materializerAcceleration</string>
+	<key>expandedRight</key>
+	<string>tabbarBottom</string>
+	<key>shoulddetachvariant</key>
+	<string>respondbehavior</string>
+	<key>tensorTolerance</key>
+	<string>boxresult</string>
+	<key>uniqueStamp</key>
+	<string>shouldReplaceShader</string>
+</dict>
+</plist>

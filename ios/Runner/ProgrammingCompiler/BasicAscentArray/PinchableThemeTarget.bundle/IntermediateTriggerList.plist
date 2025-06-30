@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulePressure</key>
+	<string>persistentTimeline</string>
+	<key>graphAppearance</key>
+	<string>asyncVisibility</string>
+	<key>intermediateLayer</key>
+	<string>ignoredBox</string>
+	<key>lastContraction</key>
+	<string>canDismissProjection</string>
+	<key>materialScheduler</key>
+	<string>nibMomentum</string>
+	<key>nativeChart</key>
+	<string>scaleTransparency</string>
+	<key>prismaticBase</key>
+	<string>custompaintDensity</string>
+</dict>
+</plist>

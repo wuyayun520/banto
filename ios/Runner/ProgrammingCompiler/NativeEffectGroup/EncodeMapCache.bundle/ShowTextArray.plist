@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTolerance</key>
+	<string>shouldPrepareCoordinator</string>
+	<key>comprehensiveAxis</key>
+	<string>equipmentFunction</string>
+	<key>dependencyColor</key>
+	<string>canUnmountedInterpolation</string>
+	<key>inactiveLinker</key>
+	<string>canDisconnectCatalyst</string>
+	<key>scaffoldcallback</key>
+	<string>catalystbehavior</string>
+	<key>sequentialTask</key>
+	<string>canSkipTransition</string>
+	<key>stampincludetemple</key>
+	<string>canRenderModal</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredChannel</key>
+	<string>alignmentFunction</string>
+	<key>inheritedEqualization</key>
+	<string>reductionParam</string>
+	<key>mediumChapter</key>
+	<string>canPauseTool</string>
+	<key>recursionCoord</key>
+	<string>canUpdateSignature</string>
+	<key>responsiveLifecycle</key>
+	<string>usecaseName</string>
+	<key>techniqueTint</key>
+	<string>canEndAccessory</string>
+	<key>tensorappbar</key>
+	<string>uniqueReduction</string>
+</dict>
+</plist>

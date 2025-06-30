@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationDirection</key>
+	<string>curveorientation</string>
+	<key>fixedBuilder</key>
+	<string>sustainableState</string>
+	<key>multiplycapsule</key>
+	<string>protectedLinker</string>
+	<key>responsejoiner</key>
+	<string>mediabufferdensity</string>
+	<key>shouldResumeLog</key>
+	<string>synchronousstate</string>
+	<key>statefullevelfrequency</key>
+	<string>canDecodeAlpha</string>
+	<key>storeskewy</key>
+	<string>blocChain</string>
+	<key>unmarshalfeature</key>
+	<string>topicTag</string>
+</dict>
+</plist>

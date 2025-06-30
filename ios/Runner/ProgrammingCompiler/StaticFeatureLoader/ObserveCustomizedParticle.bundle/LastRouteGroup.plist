@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopTheme</key>
+	<string>analyzeRouter</string>
+	<key>independentChecklist</key>
+	<string>switchstatetheme</string>
+	<key>mediumStateless</key>
+	<string>compileAnimation</string>
+	<key>mobileSpot</key>
+	<string>shouldBindOverlay</string>
+	<key>opaqueFeature</key>
+	<string>prismaticImpression</string>
+	<key>statelessqueue</key>
+	<string>semanticOffset</string>
+	<key>trainnavigation</key>
+	<string>parallelUtil</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionIndex</key>
+	<string>projectJob</string>
+	<key>geometricRange</key>
+	<string>semanticinteger</string>
+	<key>granularGate</key>
+	<string>largelabel</string>
+	<key>largeTheme</key>
+	<string>multitolerance</string>
+	<key>mobileswitch</key>
+	<string>resilientgroupskewx</string>
+	<key>rapidmesh</key>
+	<string>pushMission</string>
+	<key>shouldPersistMediaQuery</key>
+	<string>usedAsset</string>
+	<key>subsequentDisclaimer</key>
+	<string>shouldUnmountedAspectRatio</string>
+	<key>wrapperCount</key>
+	<string>normalEntity</string>
+</dict>
+</plist>

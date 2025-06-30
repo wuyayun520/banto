@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedChannels</key>
+	<string>publisherSize</string>
+	<key>disposepreview</key>
+	<string>onclipperchanged</string>
+	<key>permanentCycle</key>
+	<string>canLoadLog</string>
+	<key>recursionHead</key>
+	<string>currentAccessory</string>
+	<key>richtextpressure</key>
+	<string>asynchronousLayout</string>
+	<key>smallConnector</key>
+	<string>associatedCreator</string>
+</dict>
+</plist>

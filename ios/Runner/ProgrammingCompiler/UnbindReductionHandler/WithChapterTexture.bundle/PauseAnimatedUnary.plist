@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTask</key>
+	<string>scheduletext</string>
+	<key>geometricGraph</key>
+	<string>durationFormat</string>
+	<key>independentMesh</key>
+	<string>roledelivery</string>
+	<key>pageviewTop</key>
+	<string>routeworkcenter</string>
+	<key>shouldSavePet</key>
+	<string>enumerateInterface</string>
+	<key>shouldSetStateSemantics</key>
+	<string>advancedstream</string>
+	<key>shouldShowTechnique</key>
+	<string>characterCount</string>
+</dict>
+</plist>

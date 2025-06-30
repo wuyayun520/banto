@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleColor</key>
+	<string>shouldAttachPageView</string>
+	<key>cupertinoSensor</key>
+	<string>cellAdapter</string>
+	<key>custompaintfragments</key>
+	<string>canResumeBinary</string>
+	<key>displayablePreview</key>
+	<string>canPauseCharacter</string>
+	<key>entropyTheme</key>
+	<string>notationContrast</string>
+	<key>multiResilience</key>
+	<string>yieldDialogs</string>
+	<key>prevTransformer</key>
+	<string>resolverstaterotation</string>
+	<key>sortedThroughput</key>
+	<string>transformerValue</string>
+	<key>subscriberValidation</key>
+	<string>overlayRight</string>
+	<key>uniqueMaster</key>
+	<string>emitterSpacing</string>
+</dict>
+</plist>

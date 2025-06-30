@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionmargin</key>
+	<string>pinchableDelivery</string>
+	<key>gramTension</key>
+	<string>uniqueUsage</string>
+	<key>graphFrequency</key>
+	<string>playbackacceleration</string>
+	<key>persistentShader</key>
+	<string>modelInterval</string>
+	<key>protectedDecoration</key>
+	<string>embraceCurve</string>
+	<key>reactiveTangent</key>
+	<string>canMountTool</string>
+	<key>sessionAcceleration</key>
+	<string>canListenSizedBox</string>
+	<key>shadersubscriber</key>
+	<string>tweenLocation</string>
+	<key>vectorizebinary</key>
+	<string>widgetmerger</string>
+	<key>widgetframeworktail</key>
+	<string>cursorcontainactivity</string>
+</dict>
+</plist>

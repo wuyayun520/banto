@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedBloc</key>
+	<string>alertShape</string>
+	<key>futurebound</key>
+	<string>baselineTheme</string>
+	<key>masterright</key>
+	<string>errorcount</string>
+	<key>menuright</key>
+	<string>overlayFacade</string>
+	<key>persistentLinker</key>
+	<string>shouldBindContraction</string>
+	<key>protocolcenter</key>
+	<string>previewadapterforce</string>
+	<key>shouldPersistUsage</key>
+	<string>materialPopup</string>
+	<key>shouldunmountgradient</key>
+	<string>defaultTool</string>
+</dict>
+</plist>

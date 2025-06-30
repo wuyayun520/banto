@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>schemaCount</key>
+	<string>transitionLevel</string>
+	<key>signatureBehavior</key>
+	<string>handlertension</string>
+	<key>stopinstruction</key>
+	<string>shouldSkipStream</string>
+	<key>subtleMechanism</key>
+	<string>synchronousAllocator</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSlider</key>
+	<string>consultativeCompletion</string>
+	<key>hierarchicalDelivery</key>
+	<string>finderFrequency</string>
+	<key>largeResolver</key>
+	<string>layoutindex</string>
+	<key>mainScope</key>
+	<string>alphaFacade</string>
+	<key>pivotalScene</key>
+	<string>menuScope</string>
+	<key>priorityvector</key>
+	<string>shouldSavePageView</string>
+	<key>setstatebuffer</key>
+	<string>swiftasset</string>
+	<key>shouldRouteDuration</key>
+	<string>canDispatchMultiplication</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentMovement</key>
+	<string>canProcessNorm</string>
+	<key>lockview</key>
+	<string>layoutmanager</string>
+	<key>mapValidation</key>
+	<string>shouldHandlePageView</string>
+	<key>polyfillFeedback</key>
+	<string>stamporientation</string>
+	<key>providerappearance</key>
+	<string>originalIntegrity</string>
+	<key>shouldDisposePlayback</key>
+	<string>shouldDisposeNorm</string>
+</dict>
+</plist>

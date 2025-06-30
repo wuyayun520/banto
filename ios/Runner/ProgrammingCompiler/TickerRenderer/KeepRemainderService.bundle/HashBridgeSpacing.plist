@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedCollection</key>
+	<string>disparateSlider</string>
+	<key>intermediatenode</key>
+	<string>independentpresenter</string>
+	<key>richtextFrequency</key>
+	<string>globalDuration</string>
+	<key>tableName</key>
+	<string>canLayoutSession</string>
+	<key>upgradebutton</key>
+	<string>binderTail</string>
+</dict>
+</plist>

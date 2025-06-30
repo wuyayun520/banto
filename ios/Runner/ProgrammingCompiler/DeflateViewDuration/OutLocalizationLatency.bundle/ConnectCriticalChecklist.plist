@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleConnector</key>
+	<string>stopCube</string>
+	<key>bulletresolver</key>
+	<string>criticalEvaluation</string>
+	<key>multiSymbol</key>
+	<string>shouldMountSpine</string>
+	<key>onsegmentchanged</key>
+	<string>enhanceSize</string>
+	<key>synchronousReplica</key>
+	<string>dispatchGram</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultaperture</key>
+	<string>normalTextField</string>
+	<key>extensionfromaction</key>
+	<string>mechanismBorder</string>
+	<key>keyCombiner</key>
+	<string>groupfrequency</string>
+	<key>otherRemainder</key>
+	<string>encodePosition</string>
+	<key>shouldBuildCursor</key>
+	<string>intensitytension</string>
+	<key>textmementomargin</key>
+	<string>shouldDeserializeMaterial</string>
+	<key>unsortedPet</key>
+	<string>transposeTexture</string>
+</dict>
+</plist>

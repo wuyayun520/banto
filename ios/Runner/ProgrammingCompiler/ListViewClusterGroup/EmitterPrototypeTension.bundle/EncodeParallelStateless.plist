@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticscalability</key>
+	<string>selectorName</string>
+	<key>concretechart</key>
+	<string>configureIsolate</string>
+	<key>criticalTouch</key>
+	<string>keyMobile</string>
+	<key>exitbrush</key>
+	<string>dismissUseCase</string>
+	<key>lastMomentum</key>
+	<string>popupAlignment</string>
+	<key>mediumDescription</key>
+	<string>scrollableLayer</string>
+	<key>newestsprite</key>
+	<string>optimizePreview</string>
+	<key>prismaticItem</key>
+	<string>canReplaceBehavior</string>
+	<key>skinType</key>
+	<string>shoulddetachsign</string>
+	<key>vectorBehavior</key>
+	<string>performSlider</string>
+</dict>
+</plist>

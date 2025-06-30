@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveBandwidth</key>
+	<string>sinkInset</string>
+	<key>materialSprite</key>
+	<string>composableView</string>
+	<key>selectedcheckbox</key>
+	<string>statelessAsset</string>
+	<key>shouldstopalert</key>
+	<string>resizableOperation</string>
+	<key>usedSensor</key>
+	<string>deploytext</string>
+</dict>
+</plist>

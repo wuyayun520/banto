@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterHead</key>
+	<string>diffableDecoration</string>
+	<key>entityContrast</key>
+	<string>staticStroke</string>
+	<key>framevariablelocation</key>
+	<string>consumerview</string>
+	<key>handlerSpeed</key>
+	<string>canCancelGem</string>
+	<key>materialDelegate</key>
+	<string>volumeFormat</string>
+	<key>metricsCenter</key>
+	<string>stampContrast</string>
+	<key>sophisticatedprovider</key>
+	<string>canLayoutMap</string>
+	<key>specifyUsage</key>
+	<string>drawResource</string>
+</dict>
+</plist>

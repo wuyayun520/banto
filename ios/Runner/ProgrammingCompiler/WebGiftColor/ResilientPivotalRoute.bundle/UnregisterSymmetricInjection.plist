@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvaslayer</key>
+	<string>firstSensor</string>
+	<key>euclideanMultiplication</key>
+	<string>touchListener</string>
+	<key>reactiveStream</key>
+	<string>alignmentJob</string>
+	<key>resetticker</key>
+	<string>subscribersaturation</string>
+	<key>reusableScenario</key>
+	<string>selectedTransition</string>
+	<key>shouldFetchPoint</key>
+	<string>mainInterface</string>
+	<key>unactivatedstepacceleration</key>
+	<string>throughputCenter</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSlider</key>
+	<string>missedMultiplication</string>
+	<key>independenttimer</key>
+	<string>exponentfragments</string>
+	<key>missionVelocity</key>
+	<string>descentBottom</string>
+	<key>protectedTimeline</key>
+	<string>diffableNavigator</string>
+	<key>shouldSetStateReference</key>
+	<string>lastChart</string>
+	<key>shouldStartFlex</key>
+	<string>ephemeralOverlay</string>
+</dict>
+</plist>

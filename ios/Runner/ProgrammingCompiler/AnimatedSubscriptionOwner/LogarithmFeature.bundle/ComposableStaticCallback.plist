@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystStatus</key>
+	<string>tweenEnvironment</string>
+	<key>configuremovement</key>
+	<string>priorityMomentum</string>
+	<key>explicitInteractor</key>
+	<string>multiRequest</string>
+	<key>localizationpressure</key>
+	<string>paintAspectRatio</string>
+	<key>reductionasset</key>
+	<string>shouldDecodeEntropy</string>
+	<key>replicavalidation</key>
+	<string>persistentAppBar</string>
+	<key>shouldnavigatepoint</key>
+	<string>responseDepth</string>
+	<key>tensorNavigator</key>
+	<string>imageBound</string>
+</dict>
+</plist>

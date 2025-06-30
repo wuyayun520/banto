@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticBorder</key>
+	<string>informationInteraction</string>
+	<key>granularProfile</key>
+	<string>listenerChain</string>
+	<key>independentoptimizer</key>
+	<string>oldWorkflow</string>
+	<key>requestfunctiontransparency</key>
+	<string>benchmarkInjection</string>
+	<key>shouldResumeKernel</key>
+	<string>volumepressure</string>
+	<key>shouldYieldDropdownButton</key>
+	<string>unlockListener</string>
+</dict>
+</plist>

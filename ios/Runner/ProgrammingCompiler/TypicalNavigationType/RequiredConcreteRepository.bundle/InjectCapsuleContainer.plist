@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitoffset</key>
+	<string>segmentNumber</string>
+	<key>impactdepth</key>
+	<string>canConnectSemantics</string>
+	<key>mountunary</key>
+	<string>attachCubit</string>
+	<key>painterscopeforce</key>
+	<string>deserializeAlpha</string>
+	<key>significantGroup</key>
+	<string>spinGrain</string>
+	<key>sliderscopestate</key>
+	<string>accessibleCaption</string>
+	<key>variantbeyondtemple</key>
+	<string>shouldEmitStateless</string>
+</dict>
+</plist>

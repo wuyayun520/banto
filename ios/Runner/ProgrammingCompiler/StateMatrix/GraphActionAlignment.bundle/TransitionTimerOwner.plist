@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalBox</key>
+	<string>poolFuture</string>
+	<key>mediumCupertino</key>
+	<string>dependencyproxyindex</string>
+	<key>positionFormat</key>
+	<string>labelstyledistance</string>
+	<key>shouldListenAspect</key>
+	<string>shouldMountGrayscale</string>
+	<key>uniformScalability</key>
+	<string>mountedIcon</string>
+</dict>
+</plist>

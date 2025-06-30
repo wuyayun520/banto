@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocbeyondshape</key>
+	<string>decorationScale</string>
+	<key>configurationtheme</key>
+	<string>musicType</string>
+	<key>diffableAnimation</key>
+	<string>commonAspect</string>
+	<key>enabledRadio</key>
+	<string>saveMargin</string>
+	<key>navigatoraroundtype</key>
+	<string>diffableConstraint</string>
+	<key>pointtypelocation</key>
+	<string>unregisterParticle</string>
+	<key>stampmode</key>
+	<string>statelessConsumer</string>
+	<key>tableexceptprocess</key>
+	<string>unbindAccessory</string>
+</dict>
+</plist>

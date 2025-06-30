@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderalongprocess</key>
+	<string>inflateLocalization</string>
+	<key>displayableSwift</key>
+	<string>trainRoute</string>
+	<key>evaluationSize</key>
+	<string>timelineOrigin</string>
+	<key>iterativeusecase</key>
+	<string>mendState</string>
+	<key>keyScreen</key>
+	<string>rendererMargin</string>
+	<key>pivotalNib</key>
+	<string>statefulColor</string>
+	<key>shouldFormatCertificate</key>
+	<string>shouldsetstatepadding</string>
+	<key>shouldRenderPageView</key>
+	<string>normalAsset</string>
+	<key>shouldStopProject</key>
+	<string>nodeLayer</string>
+</dict>
+</plist>

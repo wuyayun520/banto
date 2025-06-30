@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleloader</key>
+	<string>attachModal</string>
+	<key>monsterPressure</key>
+	<string>herocenter</string>
+	<key>popupvaluedirection</key>
+	<string>loopResponse</string>
+	<key>requiredScene</key>
+	<string>shouldConnectAnimation</string>
+</dict>
+</plist>

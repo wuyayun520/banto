@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyMargin</key>
+	<string>stopCompletion</string>
+	<key>crucialVector</key>
+	<string>scenewithouttype</string>
+	<key>enabledconfidentiality</key>
+	<string>dropoutAction</string>
+	<key>evolutionRate</key>
+	<string>offsetDependency</string>
+	<key>largeChannel</key>
+	<string>interpolationintegration</string>
+	<key>requiredIntegrity</key>
+	<string>radiusTheme</string>
+	<key>shouldEncodeText</key>
+	<string>allocatorComposite</string>
+	<key>statefulpainter</key>
+	<string>reconcileEvent</string>
+	<key>vieworstrategy</key>
+	<string>canPublishPageView</string>
+	<key>volumeShape</key>
+	<string>canBindCosine</string>
+</dict>
+</plist>

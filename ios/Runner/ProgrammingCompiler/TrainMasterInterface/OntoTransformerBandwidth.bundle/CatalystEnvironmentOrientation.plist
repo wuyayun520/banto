@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticRestriction</key>
+	<string>renderAlpha</string>
+	<key>mendBorder</key>
+	<string>annotateTopic</string>
+	<key>parallelArithmetic</key>
+	<string>axisCenter</string>
+	<key>pivotalDisclaimer</key>
+	<string>shouldSetStateBuilder</string>
+	<key>shouldPaintMaster</key>
+	<string>cupertinopreview</string>
+	<key>transformersystembrightness</key>
+	<string>alertvariableshade</string>
+	<key>tweenSkewX</key>
+	<string>subtleObserver</string>
+	<key>unactivatedMonster</key>
+	<string>keeprequest</string>
+</dict>
+</plist>

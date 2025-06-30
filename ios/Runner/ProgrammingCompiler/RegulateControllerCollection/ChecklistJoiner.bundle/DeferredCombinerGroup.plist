@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>offsetbloc</key>
+	<string>shouldPublishSignature</string>
+	<key>priorCell</key>
+	<string>interpolateProvider</string>
+	<key>repositorylatency</key>
+	<string>subsequentPainter</string>
+	<key>shouldInflateAnchor</key>
+	<string>autoDetector</string>
+	<key>shouldNavigateSpot</key>
+	<string>lazyReceiver</string>
+	<key>sophisticatedFormat</key>
+	<string>basicSymbol</string>
+	<key>transitionexceptstage</key>
+	<string>promisePadding</string>
+	<key>zonepatternmargin</key>
+	<string>strokeFormat</string>
+</dict>
+</plist>

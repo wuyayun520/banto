@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAlignment</key>
+	<string>canDetachDialogs</string>
+	<key>containerAcceleration</key>
+	<string>shouldNavigateBrush</string>
+	<key>cubeutil</key>
+	<string>roleMargin</string>
+	<key>denseSegment</key>
+	<string>shouldValidateDialogs</string>
+	<key>materialBuilder</key>
+	<string>futureEnvironment</string>
+	<key>responsechainacceleration</key>
+	<string>similarswitch</string>
+	<key>shouldCreatePlate</key>
+	<string>interactiveviewbehavior</string>
+	<key>shouldTransformComposition</key>
+	<string>shouldSetStateBase</string>
+</dict>
+</plist>

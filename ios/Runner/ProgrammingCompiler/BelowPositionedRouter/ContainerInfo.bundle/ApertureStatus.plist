@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorRotation</key>
+	<string>declarativeStore</string>
+	<key>canvasRight</key>
+	<string>createdescriptor</string>
+	<key>checkhandler</key>
+	<string>pageviewResponse</string>
+	<key>defaultHistogram</key>
+	<string>autoGridView</string>
+	<key>hashscopeshade</key>
+	<string>analyzerIndex</string>
+	<key>isCube</key>
+	<string>errorstatefeedback</string>
+	<key>rendertextfield</key>
+	<string>ignoredResilience</string>
+	<key>taxonomyState</key>
+	<string>primaryDialogs</string>
+	<key>uniformStore</key>
+	<string>containerPhase</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>reliabilitystate</key>
+	<string>deferredchecklistedge</string>
+	<key>seamlessRemainder</key>
+	<string>isolatewithstage</string>
+	<key>shouldLoadGestureDetector</key>
+	<string>storescale</string>
+	<key>smallGate</key>
+	<string>serializeTween</string>
+	<key>tweakright</key>
+	<string>capacitiesEdge</string>
+</dict>
+</plist>

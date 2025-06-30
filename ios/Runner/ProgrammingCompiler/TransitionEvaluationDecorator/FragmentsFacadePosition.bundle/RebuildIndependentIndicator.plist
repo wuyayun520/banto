@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>replicaPosition</key>
+	<string>cupertinoTimer</string>
+	<key>shouldCancelCustomPaint</key>
+	<string>keepstack</string>
+	<key>shouldFetchMaster</key>
+	<string>exceptionDuration</string>
+	<key>significantFeature</key>
+	<string>geometricboxtag</string>
+	<key>stepTail</key>
+	<string>compositionalAlpha</string>
+</dict>
+</plist>

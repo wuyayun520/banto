@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultThreshold</key>
+	<string>quantizationGroup</string>
+	<key>mainvectorskewx</key>
+	<string>offsetView</string>
+	<key>previewRate</key>
+	<string>maintainMetadata</string>
+	<key>radioRotation</key>
+	<string>scrollableSink</string>
+	<key>shouldEncodeProfile</key>
+	<string>sharedSchema</string>
+	<key>shouldPublishRow</key>
+	<string>pinchableAction</string>
+	<key>showgesture</key>
+	<string>canNavigatePainter</string>
+	<key>similarUtil</key>
+	<string>seamlessMargin</string>
+	<key>utilKind</key>
+	<string>divideAsync</string>
+</dict>
+</plist>

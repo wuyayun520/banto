@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectflags</key>
+	<string>commonAppBar</string>
+	<key>capsulechart</key>
+	<string>hasDecoration</string>
+	<key>customHeap</key>
+	<string>commonTentative</string>
+	<key>primaryNorm</key>
+	<string>staticRadio</string>
+	<key>shouldMountedDecoration</key>
+	<string>smartSensor</string>
+	<key>usecasevelocity</key>
+	<string>chartviascope</string>
+</dict>
+</plist>

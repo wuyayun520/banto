@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedmatrix</key>
+	<string>creatorEdge</string>
+	<key>bundleframe</key>
+	<string>otherChooser</string>
+	<key>descriptoracceleration</key>
+	<string>completionResponse</string>
+	<key>equipmentlinker</key>
+	<string>masteraboutcontext</string>
+	<key>retainedPager</key>
+	<string>memberCoord</string>
+	<key>shouldListenSlider</key>
+	<string>layoutworkorientation</string>
+	<key>streampainter</key>
+	<string>shouldDispatchReference</string>
+	<key>textFeedback</key>
+	<string>interpolationTail</string>
+	<key>usedInformation</key>
+	<string>canDisconnectTextField</string>
+</dict>
+</plist>

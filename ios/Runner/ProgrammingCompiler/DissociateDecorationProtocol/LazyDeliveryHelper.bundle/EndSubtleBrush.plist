@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveDetail</key>
+	<string>mapLocation</string>
+	<key>currentbox</key>
+	<string>referenceEdge</string>
+	<key>customRoute</key>
+	<string>emitRepository</string>
+	<key>gesturedata</key>
+	<string>pinchableModal</string>
+	<key>isolatestyle</key>
+	<string>lastConnector</string>
+	<key>resizablePolyfill</key>
+	<string>shouldEndButton</string>
+	<key>shouldUnbindReference</key>
+	<string>routedescent</string>
+	<key>shouldmountedsemantics</key>
+	<string>scaffoldbound</string>
+	<key>smallSize</key>
+	<string>fusedSplitter</string>
+</dict>
+</plist>

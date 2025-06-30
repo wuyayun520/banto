@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarEdge</key>
+	<string>granularNotification</string>
+	<key>declarativewrapper</key>
+	<string>checkboxStyle</string>
+	<key>diffableAmortization</key>
+	<string>pageviewOperation</string>
+	<key>diversifiedDistinction</key>
+	<string>borderTier</string>
+	<key>dynamicresultresponse</key>
+	<string>canReplaceCheckbox</string>
+	<key>nodeinset</key>
+	<string>baseStrategy</string>
+	<key>shouldContinueRichText</key>
+	<string>robustbuilderstate</string>
+	<key>shouldEndPlayback</key>
+	<string>canPopMedia</string>
+	<key>shouldYieldPageView</key>
+	<string>robustCapacity</string>
+</dict>
+</plist>

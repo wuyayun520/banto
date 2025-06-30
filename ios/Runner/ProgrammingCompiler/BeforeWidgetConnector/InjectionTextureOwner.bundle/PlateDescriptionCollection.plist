@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorName</key>
+	<string>permissiveMobile</string>
+	<key>enumeratebaseline</key>
+	<string>shouldFormatIndicator</string>
+	<key>mediaqueryCount</key>
+	<string>concatenateRequest</string>
+	<key>newestGraphic</key>
+	<string>mountDecoration</string>
+	<key>shouldRebuildImage</key>
+	<string>textimage</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustfuture</key>
+	<string>visualizeLayer</string>
+	<key>bufferBrightness</key>
+	<string>assetTop</string>
+	<key>convertsize</key>
+	<string>firstManager</string>
+	<key>cubitSkewX</key>
+	<string>shouldPauseMonster</string>
+	<key>fillconstraint</key>
+	<string>scopeFeedback</string>
+	<key>materialShader</key>
+	<string>shouldAnimatePageView</string>
+	<key>publicBullet</key>
+	<string>activefuturerotation</string>
+	<key>resilientRemainder</key>
+	<string>batchDensity</string>
+	<key>shouldRouteSpine</key>
+	<string>cubitvaluekind</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterTheme</key>
+	<string>mobileInjection</string>
+	<key>defaultspecifier</key>
+	<string>combineError</string>
+	<key>missedNotifier</key>
+	<string>graphicName</string>
+	<key>moduleSkewX</key>
+	<string>columnType</string>
+	<key>parallelMerger</key>
+	<string>protocolAppearance</string>
+	<key>resizableException</key>
+	<string>partitionRadius</string>
+	<key>robustMediaQuery</key>
+	<string>standaloneCubit</string>
+	<key>shouldYieldTextField</key>
+	<string>eagerInteraction</string>
+</dict>
+</plist>

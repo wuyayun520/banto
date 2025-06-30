@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedSound</key>
+	<string>shouldSetStateSpecifier</string>
+	<key>dependencystylevelocity</key>
+	<string>enabledSample</string>
+	<key>functionalRoute</key>
+	<string>nativemethod</string>
+	<key>hardMetadata</key>
+	<string>pushDecoration</string>
+	<key>heappublisher</key>
+	<string>immutablesegue</string>
+	<key>mutableException</key>
+	<string>resilientSession</string>
+	<key>priorIndicator</key>
+	<string>animatedcontainerpressure</string>
+	<key>shouldAttachProject</key>
+	<string>canPublishChecklist</string>
+</dict>
+</plist>

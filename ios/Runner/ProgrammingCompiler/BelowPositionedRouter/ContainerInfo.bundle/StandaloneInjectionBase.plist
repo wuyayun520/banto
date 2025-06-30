@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianSegment</key>
+	<string>canReplaceBorder</string>
+	<key>chooserBound</key>
+	<string>painterinteraction</string>
+	<key>invisibleallocator</key>
+	<string>concurrenttickerappearance</string>
+	<key>metricsVisible</key>
+	<string>enumerateEntity</string>
+	<key>overridedecoration</key>
+	<string>shouldLoadCertificate</string>
+	<key>reactiveRadius</key>
+	<string>retainedPadding</string>
+	<key>relationalRect</key>
+	<string>activatedCursor</string>
+	<key>selectedConsumer</key>
+	<string>canDismissCatalyst</string>
+	<key>threadBorder</key>
+	<string>progressbartransformer</string>
+	<key>usecasescopecontrast</key>
+	<string>canInflateGate</string>
+</dict>
+</plist>

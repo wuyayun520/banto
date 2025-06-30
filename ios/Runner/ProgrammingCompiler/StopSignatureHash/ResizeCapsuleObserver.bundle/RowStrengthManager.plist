@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorRotation</key>
+	<string>commonDetector</string>
+	<key>eventVelocity</key>
+	<string>shouldResumeNib</string>
+	<key>fixedScaffold</key>
+	<string>shouldDeserializeTable</string>
+	<key>granularContrast</key>
+	<string>largeUtil</string>
+	<key>liteClipper</key>
+	<string>stepTint</string>
+	<key>referenceStyle</key>
+	<string>unactivatedDisclaimer</string>
+</dict>
+</plist>

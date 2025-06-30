@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionnearchain</key>
+	<string>lossprovision</string>
+	<key>asynchronousanimation</key>
+	<string>modelawayobserver</string>
+	<key>difficultText</key>
+	<string>boxLeft</string>
+	<key>painterDensity</key>
+	<string>copyDuration</string>
+	<key>resourceshade</key>
+	<string>presenterState</string>
+	<key>revisitparticle</key>
+	<string>replaceCompletion</string>
+	<key>typicalStateless</key>
+	<string>requiredExponent</string>
+</dict>
+</plist>

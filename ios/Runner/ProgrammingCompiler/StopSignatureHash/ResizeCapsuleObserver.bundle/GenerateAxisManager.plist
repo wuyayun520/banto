@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleantransition</key>
+	<string>sustainableDocument</string>
+	<key>directpainter</key>
+	<string>smallAspect</string>
+	<key>draggableMomentum</key>
+	<string>temporaryVideo</string>
+	<key>primarypolygon</key>
+	<string>descriptororigin</string>
+	<key>singleHistogram</key>
+	<string>sustainableAscent</string>
+	<key>singletonactionoffset</key>
+	<string>replaceUnary</string>
+	<key>standaloneAwait</key>
+	<string>instantiateListener</string>
+</dict>
+</plist>

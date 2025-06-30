@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitplatforminterval</key>
+	<string>deprecateLoop</string>
+	<key>completerspeed</key>
+	<string>iterativeVideo</string>
+	<key>keyMesh</key>
+	<string>sizeVelocity</string>
+	<key>shouldBindInterpolation</key>
+	<string>scrollableLayout</string>
+	<key>shouldConnectConstraint</key>
+	<string>detachPlayback</string>
+	<key>shouldFormatConsumer</key>
+	<string>canStopGesture</string>
+	<key>shouldListenEffect</key>
+	<string>shouldBuildColumn</string>
+</dict>
+</plist>

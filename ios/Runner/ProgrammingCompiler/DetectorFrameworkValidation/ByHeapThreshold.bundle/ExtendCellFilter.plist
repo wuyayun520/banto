@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonMargin</key>
+	<string>timelineRotation</string>
+	<key>configurationformat</key>
+	<string>findEvent</string>
+	<key>isMission</key>
+	<string>storeoccasion</string>
+	<key>scaffoldDepth</key>
+	<string>exponentversuscontext</string>
+	<key>shouldFinishTransition</key>
+	<string>indicatorForm</string>
+	<key>shouldPushCustomPaint</key>
+	<string>unaryspeed</string>
+	<key>statefulScope</key>
+	<string>mutablescaleresponse</string>
+	<key>vertexDensity</key>
+	<string>threadtail</string>
+	<key>visibleAnimatedContainer</key>
+	<string>implementBuilder</string>
+</dict>
+</plist>

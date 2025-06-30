@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticmodel</key>
+	<string>priorityVisibility</string>
+	<key>assetOrientation</key>
+	<string>shouldReplacePoint</string>
+	<key>cartesianPlayback</key>
+	<string>managerproxycoord</string>
+	<key>columnPosition</key>
+	<string>strokeShape</string>
+	<key>comparelayout</key>
+	<string>commonconverter</string>
+	<key>hashSkewY</key>
+	<string>unaryAdapter</string>
+	<key>shouldEmitExpanded</key>
+	<string>requiredMomentum</string>
+	<key>webInterpolation</key>
+	<string>priorityTheme</string>
+</dict>
+</plist>

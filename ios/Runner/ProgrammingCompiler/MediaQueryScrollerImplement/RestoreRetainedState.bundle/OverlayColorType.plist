@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoexception</key>
+	<string>immediateLoop</string>
+	<key>disconnectrow</key>
+	<string>reducerColor</string>
+	<key>independentCard</key>
+	<string>precisionhead</string>
+	<key>layerdecoratoropacity</key>
+	<string>canEndSpot</string>
+	<key>unsortedHandler</key>
+	<string>batchHead</string>
+</dict>
+</plist>

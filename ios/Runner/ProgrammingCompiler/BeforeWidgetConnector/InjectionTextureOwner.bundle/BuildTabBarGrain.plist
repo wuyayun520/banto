@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionmissiontheme</key>
+	<string>reactiveCanvas</string>
+	<key>grainKind</key>
+	<string>histogramValidation</string>
+	<key>hardMargin</key>
+	<string>cancelGesture</string>
+	<key>immutableInstruction</key>
+	<string>independentEquipment</string>
+	<key>shouldListenCustomPaint</key>
+	<string>imperativeGrid</string>
+	<key>shouldRenderSample</key>
+	<string>stackDirection</string>
+	<key>stampbound</key>
+	<string>remediationPosition</string>
+</dict>
+</plist>

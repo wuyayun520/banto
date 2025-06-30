@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopAlignment</key>
+	<string>checkboxTop</string>
+	<key>directlyclipperstatus</key>
+	<string>shouldPresentStamp</string>
+	<key>eagercanvas</key>
+	<string>transpileDelegate</string>
+	<key>shouldListenTextField</key>
+	<string>sinkScale</string>
+</dict>
+</plist>

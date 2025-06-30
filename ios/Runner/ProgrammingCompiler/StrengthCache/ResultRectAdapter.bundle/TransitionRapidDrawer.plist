@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTraversal</key>
+	<string>asynchronousResponder</string>
+	<key>componentEdge</key>
+	<string>canObserveProfile</string>
+	<key>dynamiccallbackstyle</key>
+	<string>menuScope</string>
+	<key>elasticBorder</key>
+	<string>permanentChannels</string>
+	<key>pageviewimage</key>
+	<string>protectedOffset</string>
+	<key>positionHue</key>
+	<string>deliveryCoord</string>
+	<key>publicTaxonomy</key>
+	<string>chartbuilder</string>
+	<key>shouldSetStateExponent</key>
+	<string>canAnimateInstruction</string>
+	<key>sliderStyle</key>
+	<string>lostSlider</string>
+	<key>transitionreceiver</key>
+	<string>nextReducer</string>
+</dict>
+</plist>

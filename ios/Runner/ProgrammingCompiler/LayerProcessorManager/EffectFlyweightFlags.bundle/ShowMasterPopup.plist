@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousThroughput</key>
+	<string>crudeRequest</string>
+	<key>flexibleThreshold</key>
+	<string>interpolateAsset</string>
+	<key>interfacetaskrate</key>
+	<string>shouldRouteMultiplication</string>
+	<key>nativeRectangle</key>
+	<string>completedTouch</string>
+	<key>notationLeft</key>
+	<string>movementOffset</string>
+	<key>pinchablespritefrequency</key>
+	<string>shouldKeepGem</string>
+	<key>responsiveLayer</key>
+	<string>accordionGestureDetector</string>
+	<key>shouldUpdateRoute</key>
+	<string>descriptionActivity</string>
+	<key>uniqueFormat</key>
+	<string>shouldPresentRoute</string>
+</dict>
+</plist>

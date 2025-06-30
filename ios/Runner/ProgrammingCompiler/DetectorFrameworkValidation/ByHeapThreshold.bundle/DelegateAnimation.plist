@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledConsumption</key>
+	<string>cubeFramework</string>
+	<key>integrationMomentum</key>
+	<string>unmountcubit</string>
+	<key>invisibleController</key>
+	<string>visitLayout</string>
+	<key>particlestyleleft</key>
+	<string>notifyLoss</string>
+	<key>shouldPopSine</key>
+	<string>canAttachMonster</string>
+	<key>shouldPublishContainer</key>
+	<string>declarativeEvolution</string>
+	<key>webReducer</key>
+	<string>rapidEntity</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedDimension</key>
+	<string>iterativeSine</string>
+	<key>declarativeFinder</key>
+	<string>shouldDisconnectPageView</string>
+	<key>discoverinterface</key>
+	<string>invisibleinteraction</string>
+	<key>effectleft</key>
+	<string>prevBandwidth</string>
+	<key>shouldPauseConstraint</key>
+	<string>signatureAction</string>
+	<key>shouldShowStream</key>
+	<string>sortedtheme</string>
+	<key>smartstore</key>
+	<string>fillscaffold</string>
+	<key>tensorBitrate</key>
+	<string>unactivatedSizedBox</string>
+	<key>tweenLocation</key>
+	<string>traversaldistance</string>
+	<key>usedDrawer</key>
+	<string>consultativeTitle</string>
+</dict>
+</plist>

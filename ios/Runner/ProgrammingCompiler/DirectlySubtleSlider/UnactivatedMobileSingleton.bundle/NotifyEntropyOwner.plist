@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterOrigin</key>
+	<string>cellresilience</string>
+	<key>crudeAscent</key>
+	<string>backwardPolyfill</string>
+	<key>desktopRow</key>
+	<string>finishComposition</string>
+	<key>maindrawerresponse</key>
+	<string>exceptionPrototype</string>
+	<key>offsetBound</key>
+	<string>routeformat</string>
+	<key>scenetag</key>
+	<string>criticalUnary</string>
+	<key>shouldFinishCaption</key>
+	<string>statelessVar</string>
+	<key>slashSkewY</key>
+	<string>shouldStopAspect</string>
+	<key>standaloneDescent</key>
+	<string>observercontaintier</string>
+</dict>
+</plist>

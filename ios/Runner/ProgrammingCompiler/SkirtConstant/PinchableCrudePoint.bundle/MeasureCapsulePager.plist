@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedListener</key>
+	<string>seamlessResponse</string>
+	<key>animatedResult</key>
+	<string>shouldloadtable</string>
+	<key>lazyRequest</key>
+	<string>shouldMountedIcon</string>
+	<key>oldDescription</key>
+	<string>indicatorStrategy</string>
+	<key>pivotalShader</key>
+	<string>custompaintBuffer</string>
+	<key>resolversincetask</key>
+	<string>customizedMatrix</string>
+	<key>respectivebuttoncolor</key>
+	<string>firstcolor</string>
+</dict>
+</plist>

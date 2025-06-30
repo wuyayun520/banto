@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectordelay</key>
+	<string>canPushEffect</string>
+	<key>intuitiveIsolate</key>
+	<string>rendertask</string>
+	<key>invisibleTraversal</key>
+	<string>ephemeralImpression</string>
+	<key>projectionSpacing</key>
+	<string>overlayWork</string>
+	<key>resizableloop</key>
+	<string>interactorelement</string>
+	<key>shouldPopImage</key>
+	<string>draggableDistinction</string>
+	<key>shouldpublishreference</key>
+	<string>accessibleDescription</string>
+	<key>visibleProtocol</key>
+	<string>handleSlider</string>
+</dict>
+</plist>

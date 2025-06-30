@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveDialogs</key>
+	<string>alertPlatform</string>
+	<key>directFeature</key>
+	<string>desktopDimension</string>
+	<key>ephemeraltimer</key>
+	<string>currentdrawer</string>
+	<key>mediumTrigger</key>
+	<string>shouldTransformSine</string>
+	<key>platenavigator</key>
+	<string>resilienceFrequency</string>
+	<key>protectedTexture</key>
+	<string>canBuildCapacities</string>
+	<key>shouldMountDecoration</key>
+	<string>connectResponse</string>
+	<key>singleTriangles</key>
+	<string>dismissMaster</string>
+</dict>
+</plist>

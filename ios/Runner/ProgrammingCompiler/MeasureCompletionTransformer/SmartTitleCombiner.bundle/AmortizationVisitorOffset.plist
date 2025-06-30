@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerorigin</key>
+	<string>shouldNavigateConstraint</string>
+	<key>draggableOffset</key>
+	<string>lockAlignment</string>
+	<key>dropdownbuttonRotation</key>
+	<string>handlerActivity</string>
+	<key>fusedHero</key>
+	<string>immutableItem</string>
+	<key>pivotalslashstate</key>
+	<string>subtleAsync</string>
+	<key>routecycledistance</key>
+	<string>canPrepareNib</string>
+</dict>
+</plist>

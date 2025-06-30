@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowthansingleton</key>
+	<string>restoreSize</string>
+	<key>hardDependency</key>
+	<string>rapidTexture</string>
+	<key>reactiveObserver</key>
+	<string>advancedAnalogy</string>
+	<key>receiverOrientation</key>
+	<string>liteAsset</string>
+	<key>resilientRadius</key>
+	<string>interpolateGrain</string>
+	<key>reusableconsumption</key>
+	<string>gridviewPattern</string>
+	<key>visiblemetadatamargin</key>
+	<string>otherModule</string>
+</dict>
+</plist>

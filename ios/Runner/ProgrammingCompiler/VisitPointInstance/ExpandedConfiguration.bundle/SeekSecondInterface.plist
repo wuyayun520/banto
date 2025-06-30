@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedThread</key>
+	<string>matrixvalidation</string>
+	<key>advancedPresenter</key>
+	<string>geometricComponent</string>
+	<key>globalMatrix</key>
+	<string>hardutil</string>
+	<key>liteSorter</key>
+	<string>synchronousGrid</string>
+	<key>nextHash</key>
+	<string>membertypestate</string>
+	<key>priorRestriction</key>
+	<string>timelineOffset</string>
+</dict>
+</plist>

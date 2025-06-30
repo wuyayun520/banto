@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramShape</key>
+	<string>deferredMatrix</string>
+	<key>labelTag</key>
+	<string>repositoryActivity</string>
+	<key>performlocalization</key>
+	<string>createSink</string>
+	<key>protectedAwait</key>
+	<string>canTransformMaster</string>
+	<key>retainedScheduler</key>
+	<string>overlayEnvironment</string>
+	<key>semanticFeature</key>
+	<string>minButton</string>
+</dict>
+</plist>

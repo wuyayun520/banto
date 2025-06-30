@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureMargin</key>
+	<string>onswifttap</string>
+	<key>buttonandmediator</key>
+	<string>eventframeworkfrequency</string>
+	<key>characterShade</key>
+	<string>borderlistener</string>
+	<key>cubitShape</key>
+	<string>prevImage</string>
+	<key>durationTheme</key>
+	<string>prismaticFilter</string>
+	<key>originalProcessor</key>
+	<string>consultativeBloc</string>
+	<key>shouldRestartLoss</key>
+	<string>shouldCacheDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customTransformer</key>
+	<string>shouldConnectLoss</string>
+	<key>deferredBrush</key>
+	<string>shouldSubscribeNavigation</string>
+	<key>directAnimator</key>
+	<string>canLoadModal</string>
+	<key>isDocument</key>
+	<string>findTransition</string>
+	<key>itemOrientation</key>
+	<string>denseChooser</string>
+	<key>nativeProvision</key>
+	<string>segmentAction</string>
+	<key>opaqueFrame</key>
+	<string>comprehensiveaspectcolor</string>
+	<key>requiredskin</key>
+	<string>geometricPresenter</string>
+	<key>smartCapacity</key>
+	<string>stopinteractor</string>
+</dict>
+</plist>

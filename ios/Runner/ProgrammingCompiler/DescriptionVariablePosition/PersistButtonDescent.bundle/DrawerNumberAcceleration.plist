@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertfuture</key>
+	<string>serializeNavigator</string>
+	<key>basicHero</key>
+	<string>invisibleBase</string>
+	<key>capsuleFormat</key>
+	<string>spriteStage</string>
+	<key>greatFeature</key>
+	<string>canBindMatrix</string>
+	<key>popmission</key>
+	<string>slashDistance</string>
+	<key>shouldUnbindSpecifier</key>
+	<string>canSerializeTabBar</string>
+	<key>shouldmountedtechnique</key>
+	<string>notifierdirection</string>
+	<key>switchparametercount</key>
+	<string>advancedallocatorduration</string>
+</dict>
+</plist>

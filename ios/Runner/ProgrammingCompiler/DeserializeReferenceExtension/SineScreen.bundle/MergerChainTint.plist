@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>monsterpervalue</key>
+	<string>durationStyle</string>
+	<key>oldoccasion</key>
+	<string>configurationBottom</string>
+	<key>shouldBuildCertificate</key>
+	<string>signatureEdge</string>
+	<key>singletonplatformoffset</key>
+	<string>missedDuration</string>
+	<key>statelessGesture</key>
+	<string>observeCompletion</string>
+</dict>
+</plist>

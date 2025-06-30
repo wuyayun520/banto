@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsBrightness</key>
+	<string>explicitSchema</string>
+	<key>compositionalPager</key>
+	<string>usedCompleter</string>
+	<key>immutableReducer</key>
+	<string>directlyActivity</string>
+	<key>parallelClipper</key>
+	<string>canTrainSkirt</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionBrightness</key>
+	<string>generateMenu</string>
+	<key>advancedcontrast</key>
+	<string>toolprocessindex</string>
+	<key>allocatorName</key>
+	<string>themeAction</string>
+	<key>composableframe</key>
+	<string>shouldProcessLayout</string>
+	<key>listenstateful</key>
+	<string>poolInjection</string>
+</dict>
+</plist>

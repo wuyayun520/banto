@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAudio</key>
+	<string>materialreducer</string>
+	<key>hardTweak</key>
+	<string>storeResponse</string>
+	<key>instructionwithscope</key>
+	<string>alignmentmediatorbottom</string>
+	<key>iterativeMetrics</key>
+	<string>difficultAxis</string>
+	<key>selectedMedia</key>
+	<string>musicLevel</string>
+	<key>shouldDispatchResource</key>
+	<string>mutableBandwidth</string>
+	<key>smartTentative</key>
+	<string>shouldpersistoption</string>
+	<key>specifierRotation</key>
+	<string>graphvariabletail</string>
+	<key>standaloneUtil</key>
+	<string>opaqueBinary</string>
+	<key>webConnector</key>
+	<string>inactivePicker</string>
+</dict>
+</plist>

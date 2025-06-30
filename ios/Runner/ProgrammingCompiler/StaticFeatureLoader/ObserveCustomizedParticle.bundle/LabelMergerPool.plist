@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleMatrix</key>
+	<string>intensityColor</string>
+	<key>desktopNavigator</key>
+	<string>techniqueDistance</string>
+	<key>nibaspect</key>
+	<string>newestDelivery</string>
+	<key>partitionlayout</key>
+	<string>sortedStore</string>
+	<key>shouldLayoutCapsule</key>
+	<string>advancedInstruction</string>
+	<key>shouldStreamText</key>
+	<string>pushSingleton</string>
+	<key>tabbarTag</key>
+	<string>usagePlatform</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionProgressBar</key>
+	<string>numericalCapacity</string>
+	<key>pageviewvisible</key>
+	<string>matrixState</string>
+	<key>unactivatedawait</key>
+	<string>sharedeventhead</string>
+</dict>
+</plist>

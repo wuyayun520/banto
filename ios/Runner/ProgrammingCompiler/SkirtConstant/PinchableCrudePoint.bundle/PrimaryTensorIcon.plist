@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTicker</key>
+	<string>arithmeticDelivery</string>
+	<key>agileSprite</key>
+	<string>overrideRoute</string>
+	<key>backwardFinder</key>
+	<string>easyTransformer</string>
+	<key>custompaintInterval</key>
+	<string>oldRange</string>
+	<key>desktopSpecifier</key>
+	<string>continueBullet</string>
+	<key>diffableAnchor</key>
+	<string>eraseService</string>
+	<key>instructionType</key>
+	<string>protectedSprite</string>
+	<key>shouldPersistBaseline</key>
+	<string>transformHash</string>
+	<key>significantMatrix</key>
+	<string>typicalTheme</string>
+	<key>skirttypealignment</key>
+	<string>shouldAnimatePoint</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentRect</key>
+	<string>mutableLabel</string>
+	<key>largemenurate</key>
+	<string>discardedEvaluation</string>
+	<key>mediumDuration</key>
+	<string>progressbarduration</string>
+	<key>robustCharacter</key>
+	<string>rectDistance</string>
+	<key>scrollableTrajectory</key>
+	<string>resumeDelegate</string>
+	<key>shouldValidateMediaQuery</key>
+	<string>autoLabel</string>
+	<key>streamScale</key>
+	<string>textContext</string>
+	<key>synchronizeloss</key>
+	<string>shoulddetachkernel</string>
+	<key>titlescope</key>
+	<string>stopFuture</string>
+	<key>unactivatedReduction</key>
+	<string>receiveSprite</string>
+</dict>
+</plist>

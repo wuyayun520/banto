@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivelistviewinteraction</key>
+	<string>errorrange</string>
+	<key>bitrateRate</key>
+	<string>tweakForce</string>
+	<key>crudeCubit</key>
+	<string>techniqueFramework</string>
+	<key>firstLabel</key>
+	<string>progressbarBehavior</string>
+	<key>lastGestureDetector</key>
+	<string>switchAlignment</string>
+	<key>mobileTimeline</key>
+	<string>storyboardMemento</string>
+</dict>
+</plist>

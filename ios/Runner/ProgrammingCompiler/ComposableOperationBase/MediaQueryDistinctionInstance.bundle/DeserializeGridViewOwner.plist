@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeshape</key>
+	<string>shouldStartMatrix</string>
+	<key>shouldStartController</key>
+	<string>canResumeBox</string>
+	<key>singleSymbol</key>
+	<string>switchState</string>
+	<key>widgetAppearance</key>
+	<string>standaloneLifecycle</string>
+</dict>
+</plist>

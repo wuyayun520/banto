@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futurevideo</key>
+	<string>shouldRebuildCapsule</string>
+	<key>managerRotation</key>
+	<string>destroyConstraint</string>
+	<key>resizableExpanded</key>
+	<string>alphalocation</string>
+	<key>secondClipper</key>
+	<string>canStreamAnimatedContainer</string>
+	<key>transitionadapterbottom</key>
+	<string>tappableClipper</string>
+</dict>
+</plist>

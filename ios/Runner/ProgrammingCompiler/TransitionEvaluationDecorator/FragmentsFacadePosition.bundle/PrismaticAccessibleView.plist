@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioPosition</key>
+	<string>navigationuntilobserver</string>
+	<key>commonSound</key>
+	<string>connectCheckbox</string>
+	<key>desktopMobile</key>
+	<string>opaqueZone</string>
+	<key>popupOrigin</key>
+	<string>pinchableSelector</string>
+	<key>smartInterpolation</key>
+	<string>prismaticDropdownButton</string>
+	<key>stackMomentum</key>
+	<string>storeAppearance</string>
+</dict>
+</plist>

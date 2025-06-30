@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorAlignment</key>
+	<string>prevTool</string>
+	<key>interactiveStateful</key>
+	<string>secondTicker</string>
+	<key>onsinetap</key>
+	<string>intuitiveCursor</string>
+	<key>otherSound</key>
+	<string>skipSlider</string>
+	<key>quantizationcapsule</key>
+	<string>shouldparsematerial</string>
+	<key>schemaDensity</key>
+	<string>prepareReference</string>
+	<key>shouldLoadMission</key>
+	<string>shouldPausePromise</string>
+	<key>shouldtransformgradient</key>
+	<string>deployEvent</string>
+</dict>
+</plist>

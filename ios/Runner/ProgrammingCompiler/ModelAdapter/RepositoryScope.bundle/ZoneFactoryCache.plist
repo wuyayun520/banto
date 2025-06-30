@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnercubit</key>
+	<string>showRow</string>
+	<key>draggableTimeline</key>
+	<string>cancelImage</string>
+	<key>flexibleSymbol</key>
+	<string>shouldListenSymbol</string>
+	<key>fusedTool</key>
+	<string>canUnmountTool</string>
+	<key>granularRadius</key>
+	<string>seamlessGrain</string>
+	<key>intermediateItem</key>
+	<string>canTrainTheme</string>
+	<key>nextSignature</key>
+	<string>observelayout</string>
+	<key>shouldPublishGrayscale</key>
+	<string>shouldRenderSession</string>
+	<key>statelessScaffold</key>
+	<string>animateradius</string>
+</dict>
+</plist>

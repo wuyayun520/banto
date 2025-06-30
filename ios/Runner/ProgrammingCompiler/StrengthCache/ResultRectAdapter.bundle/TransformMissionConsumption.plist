@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerMetrics</key>
+	<string>concurrentChannels</string>
+	<key>notificationMomentum</key>
+	<string>canEncodeEqualization</string>
+	<key>promiseStatus</key>
+	<string>stampLayer</string>
+	<key>shouldFetchPlate</key>
+	<string>directtime</string>
+	<key>shouldPersistNavigator</key>
+	<string>missedResource</string>
+	<key>shouldPopCapsule</key>
+	<string>greatshaderinteraction</string>
+	<key>symbolaboutcommand</key>
+	<string>desktopexpanded</string>
+	<key>trajectoryOrientation</key>
+	<string>parallelBase</string>
+</dict>
+</plist>

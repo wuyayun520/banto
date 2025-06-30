@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerDelivery</key>
+	<string>webmanager</string>
+	<key>crucialEvent</key>
+	<string>sensorMode</string>
+	<key>curvetype</key>
+	<string>shouldCacheNotifier</string>
+	<key>diffableMenu</key>
+	<string>mapRate</string>
+	<key>geometricView</key>
+	<string>providerStructure</string>
+	<key>selectedModulus</key>
+	<string>relationalPet</string>
+	<key>signatureCoord</key>
+	<string>otherCallback</string>
+	<key>subtleMaster</key>
+	<string>canStopFlex</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAcceleration</key>
+	<string>criticalNode</string>
+	<key>deferredData</key>
+	<string>featureBehavior</string>
+	<key>intermediateTrajectory</key>
+	<string>shouldvalidatemodal</string>
+	<key>metadataIndex</key>
+	<string>documentOffset</string>
+	<key>shouldDeserializeHero</key>
+	<string>hyperbolicDuration</string>
+	<key>skinAlignment</key>
+	<string>selectedCheckbox</string>
+	<key>toolValidation</key>
+	<string>mediumSink</string>
+	<key>vertexSkewX</key>
+	<string>emitAperture</string>
+</dict>
+</plist>

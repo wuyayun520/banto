@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>labelStyle</key>
+	<string>containeroutsidephase</string>
+	<key>originalAmortization</key>
+	<string>fusedchecklist</string>
+	<key>pinchableMonster</key>
+	<string>desktoptask</string>
+	<key>shouldpreparecolumn</key>
+	<string>capacityDuration</string>
+	<key>sustainableExponent</key>
+	<string>spotScale</string>
+	<key>taskdelay</key>
+	<string>canBuildText</string>
+</dict>
+</plist>

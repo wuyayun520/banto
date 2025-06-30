@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTimer</key>
+	<string>rectangleTail</string>
+	<key>eventinset</key>
+	<string>profileHue</string>
+	<key>instructionAppearance</key>
+	<string>diffableClipper</string>
+	<key>itemType</key>
+	<string>adaptiveresponsetint</string>
+	<key>mobileinjectioncenter</key>
+	<string>responsePattern</string>
+</dict>
+</plist>

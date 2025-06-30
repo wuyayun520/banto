@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionvelocity</key>
+	<string>retainedProjection</string>
+	<key>dedicatedAscent</key>
+	<string>sensortransparency</string>
+	<key>nextImpact</key>
+	<string>nibmapper</string>
+	<key>priorpositionedrotation</key>
+	<string>staticMetrics</string>
+	<key>relationalResolver</key>
+	<string>standaloneReceiver</string>
+	<key>sineCoord</key>
+	<string>canPersistInteger</string>
+</dict>
+</plist>

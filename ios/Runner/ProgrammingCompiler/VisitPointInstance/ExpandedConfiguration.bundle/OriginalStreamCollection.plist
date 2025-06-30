@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedRadio</key>
+	<string>unactivatedWrapper</string>
+	<key>creatorDistance</key>
+	<string>formattween</string>
+	<key>customizedmethod</key>
+	<string>observeinterface</string>
+	<key>delicateTheme</key>
+	<string>mobileElasticity</string>
+	<key>dropoutpreview</key>
+	<string>spotBorder</string>
+	<key>fusedRoute</key>
+	<string>poolAsync</string>
+	<key>specifyCell</key>
+	<string>finishDecoration</string>
+	<key>timerStyle</key>
+	<string>startStep</string>
+</dict>
+</plist>

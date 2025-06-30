@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeframe</key>
+	<string>connectAlert</string>
+	<key>arithmeticAnalogy</key>
+	<string>instructionprogressbar</string>
+	<key>cubitviaphase</key>
+	<string>immutableRadius</string>
+	<key>customRadius</key>
+	<string>zonecycleinteraction</string>
+	<key>resilienttangent</key>
+	<string>referenceTask</string>
+	<key>shouldListenCupertino</key>
+	<string>mediocrecacheinset</string>
+	<key>shouldYieldMobile</key>
+	<string>desktopProvider</string>
+	<key>staticFeature</key>
+	<string>concreteListener</string>
+	<key>tentativeAppearance</key>
+	<string>prevBaseline</string>
+</dict>
+</plist>

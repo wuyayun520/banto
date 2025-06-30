@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binarydensity</key>
+	<string>canPublishTable</string>
+	<key>blocTension</key>
+	<string>quantizerGroup</string>
+	<key>customSubpixel</key>
+	<string>offsetLayer</string>
+	<key>functionalFlex</key>
+	<string>releaseMetadata</string>
+	<key>fusedMusic</key>
+	<string>obtainGrain</string>
+	<key>methodScale</key>
+	<string>prepareChannels</string>
+	<key>permissiveOccasion</key>
+	<string>canSerializeBloc</string>
+	<key>resultlocation</key>
+	<string>projectionName</string>
+</dict>
+</plist>

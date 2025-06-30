@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionlistenerrotation</key>
+	<string>statelessSink</string>
+	<key>activatedTicker</key>
+	<string>animationShade</string>
+	<key>borderSkewX</key>
+	<string>baselineSpacing</string>
+	<key>cellInteraction</key>
+	<string>stringifyFactory</string>
+	<key>difficultRadio</key>
+	<string>taskTag</string>
+	<key>materialImpact</key>
+	<string>persistentjoiner</string>
+	<key>shouldPersistStateful</key>
+	<string>multiplicationalongaction</string>
+	<key>stepBorder</key>
+	<string>sessionInterval</string>
+	<key>sustainableBitrate</key>
+	<string>shouldReplaceSpot</string>
+	<key>tappableCollection</key>
+	<string>imperativealignment</string>
+</dict>
+</plist>

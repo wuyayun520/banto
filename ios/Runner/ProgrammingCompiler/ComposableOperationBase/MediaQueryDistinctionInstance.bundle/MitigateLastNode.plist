@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredCombiner</key>
+	<string>canUnbindCurve</string>
+	<key>deploypopup</key>
+	<string>canDeserializeGate</string>
+	<key>flexibleMaster</key>
+	<string>storeRepository</string>
+	<key>shouldDismissBitrate</key>
+	<string>missedGraph</string>
+	<key>tappableGraph</key>
+	<string>beginnerFragment</string>
+	<key>webTrajectory</key>
+	<string>lazyThreshold</string>
+</dict>
+</plist>

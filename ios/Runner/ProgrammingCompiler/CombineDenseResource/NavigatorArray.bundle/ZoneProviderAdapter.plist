@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultresilience</key>
+	<string>nextText</string>
+	<key>permanentgradient</key>
+	<string>loadGradient</string>
+	<key>searcherIndex</key>
+	<string>shouldUnmountedModulus</string>
+	<key>shouldRouteCaption</key>
+	<string>lostStrength</string>
+	<key>utilmodebottom</key>
+	<string>positionduringjob</string>
+	<key>workflowTag</key>
+	<string>adaptiveQuaternion</string>
+</dict>
+</plist>

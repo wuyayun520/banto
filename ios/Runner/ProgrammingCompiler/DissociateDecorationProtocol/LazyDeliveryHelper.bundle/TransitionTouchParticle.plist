@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonUnary</key>
+	<string>durationVar</string>
+	<key>configurationMomentum</key>
+	<string>pivotalCard</string>
+	<key>ephemeralDecoration</key>
+	<string>storyboardOrigin</string>
+	<key>presenterBorder</key>
+	<string>syncPopup</string>
+	<key>shouldDismissOption</key>
+	<string>symmetricGroup</string>
+	<key>unsortedSample</key>
+	<string>easyModule</string>
+	<key>updatenorm</key>
+	<string>canDismissFragment</string>
+</dict>
+</plist>

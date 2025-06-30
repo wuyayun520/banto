@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customFragment</key>
+	<string>canResumeSizedBox</string>
+	<key>intuitiveTriangles</key>
+	<string>shouldProcessTransition</string>
+	<key>liteReference</key>
+	<string>usageActivity</string>
+	<key>shouldDispatchEntropy</key>
+	<string>descriptionSize</string>
+	<key>shouldUnbindTangent</key>
+	<string>symmetrictext</string>
+	<key>shouldYieldOverlay</key>
+	<string>concreteNotifier</string>
+</dict>
+</plist>

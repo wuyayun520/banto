@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveMaster</key>
+	<string>sortedReference</string>
+	<key>shouldPublishTabView</key>
+	<string>associatedController</string>
+	<key>shouldRebuildCompletion</key>
+	<string>usecaseTheme</string>
+	<key>sizeSkewX</key>
+	<string>canRenderCard</string>
+</dict>
+</plist>

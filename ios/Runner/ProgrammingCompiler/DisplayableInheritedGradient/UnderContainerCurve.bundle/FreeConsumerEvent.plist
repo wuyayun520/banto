@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBorder</key>
+	<string>shouldResumeTabBar</string>
+	<key>elementcount</key>
+	<string>canDeserializeLog</string>
+	<key>overlayforenvironment</key>
+	<string>canBindAnimation</string>
+	<key>reactiveGroup</key>
+	<string>canPushController</string>
+	<key>shouldEmitChallenge</key>
+	<string>discardedDelegate</string>
+	<key>shouldFinishDuration</key>
+	<string>screenForce</string>
+	<key>shouldendstream</key>
+	<string>iterativeDependency</string>
+	<key>tensorGrayscale</key>
+	<string>shouldTransitionContainer</string>
+</dict>
+</plist>

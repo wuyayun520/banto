@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncPosition</key>
+	<string>canDetachPrecision</string>
+	<key>directScroll</key>
+	<string>keyIndicator</string>
+	<key>featuretension</key>
+	<string>shouldsetstatetangent</string>
+	<key>largerole</key>
+	<string>sliderSize</string>
+	<key>permissiveEffect</key>
+	<string>missionSingleton</string>
+	<key>scenarioOffset</key>
+	<string>visualizeslider</string>
+</dict>
+</plist>

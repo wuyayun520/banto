@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedProvider</key>
+	<string>scenejobdistance</string>
+	<key>createnorm</key>
+	<string>analyzerTail</string>
+	<key>entitytint</key>
+	<string>flexibleInfo</string>
+	<key>mainstateless</key>
+	<string>invisibleTangent</string>
+	<key>missedCapacities</key>
+	<string>compositionLayer</string>
+	<key>shouldStreamPriority</key>
+	<string>shouldCreateView</string>
+	<key>subsequentVideo</key>
+	<string>stacktiercount</string>
+	<key>uniqueClipper</key>
+	<string>transformPlate</string>
+</dict>
+</plist>

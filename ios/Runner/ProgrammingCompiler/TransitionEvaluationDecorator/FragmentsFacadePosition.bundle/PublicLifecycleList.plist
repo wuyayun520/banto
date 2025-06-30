@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianRenderer</key>
+	<string>canStreamInteger</string>
+	<key>indicatorOpacity</key>
+	<string>capsuleScale</string>
+	<key>inheritedLayout</key>
+	<string>yieldText</string>
+	<key>positiontype</key>
+	<string>animatedDescription</string>
+	<key>shouldResumeCustomPaint</key>
+	<string>delicateUsage</string>
+	<key>shouldUnmountedTextField</key>
+	<string>sustainableResilience</string>
+	<key>shouldcachealpha</key>
+	<string>shouldListenThread</string>
+</dict>
+</plist>

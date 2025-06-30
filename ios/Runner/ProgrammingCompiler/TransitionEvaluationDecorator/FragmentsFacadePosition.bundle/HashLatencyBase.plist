@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finderDensity</key>
+	<string>rotateCallback</string>
+	<key>loopwithframework</key>
+	<string>eagerFilter</string>
+	<key>lossPressure</key>
+	<string>smallVector</string>
+	<key>priorStrength</key>
+	<string>createMatrix</string>
+	<key>resolverdespitestrategy</key>
+	<string>canShowStoryboard</string>
+	<key>substantialEvent</key>
+	<string>persistentMapper</string>
+</dict>
+</plist>

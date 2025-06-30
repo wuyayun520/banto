@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSample</key>
+	<string>overrideBuffer</string>
+	<key>beginnerAsync</key>
+	<string>gramrectangle</string>
+	<key>factoryVisibility</key>
+	<string>attachGridView</string>
+	<key>immediateReliability</key>
+	<string>cursorFrequency</string>
+	<key>observerhead</key>
+	<string>shouldLayoutMatrix</string>
+	<key>polygonPadding</key>
+	<string>extensionDecorator</string>
+	<key>priorMultiplication</key>
+	<string>shouldYieldDecoration</string>
+	<key>pushresource</key>
+	<string>deferredMaster</string>
+	<key>similarSignature</key>
+	<string>shouldResumeEntropy</string>
+	<key>traversalposition</key>
+	<string>shouldPublishCursor</string>
+</dict>
+</plist>

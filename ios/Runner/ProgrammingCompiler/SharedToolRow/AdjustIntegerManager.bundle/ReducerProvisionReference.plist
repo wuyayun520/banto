@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianSink</key>
+	<string>hasMobile</string>
+	<key>concurrentPositioned</key>
+	<string>poolState</string>
+	<key>directPermutation</key>
+	<string>cancelBatch</string>
+	<key>euclideanAnchor</key>
+	<string>interpolationBuffer</string>
+	<key>immediateCluster</key>
+	<string>integerviachain</string>
+	<key>independentRestriction</key>
+	<string>shouldSubscribeVariant</string>
+	<key>independenthandler</key>
+	<string>routeOption</string>
+</dict>
+</plist>

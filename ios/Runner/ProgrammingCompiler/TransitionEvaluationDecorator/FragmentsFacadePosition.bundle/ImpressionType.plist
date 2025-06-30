@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileswitch</key>
+	<string>gramResponse</string>
+	<key>denseEvaluation</key>
+	<string>amortizationfrequency</string>
+	<key>difficultBase</key>
+	<string>canCancelGesture</string>
+	<key>holdrepository</key>
+	<string>criticalDialogs</string>
+	<key>mobilelosspressure</key>
+	<string>serializeGem</string>
+	<key>selectedcursor</key>
+	<string>graphBorder</string>
+	<key>shouldEmitEntropy</key>
+	<string>canMountCell</string>
+</dict>
+</plist>

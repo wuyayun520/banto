@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSingleton</key>
+	<string>stopGift</string>
+	<key>diffableSplitter</key>
+	<string>stateCount</string>
+	<key>durationphaseshade</key>
+	<string>emitposition</string>
+	<key>newestDetail</key>
+	<string>crudeSprite</string>
+	<key>shouldDetachKernel</key>
+	<string>characterLayer</string>
+	<key>shouldLayoutSession</key>
+	<string>durationPattern</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarSaturation</key>
+	<string>shouldShowContraction</string>
+	<key>consultativeTool</key>
+	<string>clusterrate</string>
+	<key>crudeCupertino</key>
+	<string>mediaqueryname</string>
+	<key>integertheme</key>
+	<string>modulusScale</string>
+	<key>mediocreNavigation</key>
+	<string>sequentialVideo</string>
+	<key>mendCoord</key>
+	<string>canFetchCustomPaint</string>
+	<key>pinchablePresenter</key>
+	<string>interfaceSize</string>
+</dict>
+</plist>

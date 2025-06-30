@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedLoop</key>
+	<string>updateposition</string>
+	<key>hardHeap</key>
+	<string>curveEdge</string>
+	<key>shouldFetchBase</key>
+	<string>unbindScroll</string>
+	<key>shouldMountReduction</key>
+	<string>themeValidation</string>
+	<key>transformerhue</key>
+	<string>converterKind</string>
+</dict>
+</plist>

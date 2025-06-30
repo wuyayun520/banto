@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convertservice</key>
+	<string>sensorBound</string>
+	<key>directlyLabel</key>
+	<string>functionalPrecision</string>
+	<key>filllistener</key>
+	<string>canLoadBullet</string>
+	<key>immediateEntity</key>
+	<string>staticlistener</string>
+	<key>optiondecoratorinset</key>
+	<string>canListenCustomPaint</string>
+	<key>permutationIndex</key>
+	<string>ignoredInterpolation</string>
+	<key>richtextType</key>
+	<string>shouldRouteScaffold</string>
+	<key>shouldCreateBatch</key>
+	<string>seekexpanded</string>
+	<key>shouldLayoutDescriptor</key>
+	<string>canNavigateRadio</string>
+</dict>
+</plist>

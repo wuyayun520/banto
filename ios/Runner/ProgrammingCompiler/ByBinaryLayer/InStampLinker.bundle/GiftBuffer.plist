@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioFlags</key>
+	<string>tappableArchitecture</string>
+	<key>directSensor</key>
+	<string>attachOptimizer</string>
+	<key>directlyFuture</key>
+	<string>scenarioColor</string>
+	<key>fusedPopup</key>
+	<string>smartcontrollervisibility</string>
+	<key>generatehash</key>
+	<string>replaceInkWell</string>
+	<key>intuitiveRole</key>
+	<string>requestForm</string>
+	<key>primarySorter</key>
+	<string>repositoryAcceleration</string>
+	<key>sequentialDetail</key>
+	<string>canTransitionAnimatedContainer</string>
+</dict>
+</plist>

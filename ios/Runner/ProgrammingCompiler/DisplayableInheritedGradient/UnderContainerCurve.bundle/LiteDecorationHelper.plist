@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>acceleratetheme</key>
+	<string>logarithmprocessvalidation</string>
+	<key>deserializeparticle</key>
+	<string>labelflyweightbrightness</string>
+	<key>displayableMaterializer</key>
+	<string>responsiveDescent</string>
+	<key>normbrightness</key>
+	<string>fixedTime</string>
+	<key>processorname</key>
+	<string>protocolOrigin</string>
+	<key>replicaindex</key>
+	<string>elementhead</string>
+	<key>resourcefrequency</key>
+	<string>transpileTicker</string>
+	<key>shouldLoadStep</key>
+	<string>inflateView</string>
+	<key>staticinjectionmargin</key>
+	<string>toolValue</string>
+</dict>
+</plist>

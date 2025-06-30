@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatordelay</key>
+	<string>orchestrateNavigator</string>
+	<key>certificatereducer</key>
+	<string>variantPlatform</string>
+	<key>checklistsprite</key>
+	<string>inactiveMaterial</string>
+	<key>consultativeTouch</key>
+	<string>canPublishSpecifier</string>
+	<key>discoverservice</key>
+	<string>trainText</string>
+	<key>managerCenter</key>
+	<string>canLayoutCoordinator</string>
+	<key>marginSize</key>
+	<string>quitMetadata</string>
+	<key>reactiveTimer</key>
+	<string>discardedSample</string>
+	<key>sequentialCompleter</key>
+	<string>analyzerbrightness</string>
+	<key>touchatactivity</key>
+	<string>shouldEndChecklist</string>
+</dict>
+</plist>

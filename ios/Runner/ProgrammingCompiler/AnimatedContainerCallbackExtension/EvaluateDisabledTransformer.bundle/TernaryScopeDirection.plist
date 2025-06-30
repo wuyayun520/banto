@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTransition</key>
+	<string>consumptionRotation</string>
+	<key>lossvisitortransparency</key>
+	<string>concurrentTween</string>
+	<key>navigatorDensity</key>
+	<string>dispatcherType</string>
+	<key>schedulerduration</key>
+	<string>canTrainSpecifier</string>
+	<key>selectedheap</key>
+	<string>plateincludefacade</string>
+	<key>shouldInflateSizedBox</key>
+	<string>shouldParseIndicator</string>
+	<key>stopthread</key>
+	<string>activatedPreview</string>
+	<key>subtleScroll</key>
+	<string>grainPrototype</string>
+</dict>
+</plist>

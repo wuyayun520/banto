@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelnavigator</key>
+	<string>chapterright</string>
+	<key>cartesianDispatcher</key>
+	<string>canSkipChallenge</string>
+	<key>comprehensiveAllocator</key>
+	<string>notifierName</string>
+	<key>injectionDelay</key>
+	<string>constructPopup</string>
+	<key>localizationcolor</key>
+	<string>setstateoption</string>
+	<key>oncapsuletap</key>
+	<string>liteResponder</string>
+	<key>prevEquivalent</key>
+	<string>storyboardobserver</string>
+	<key>shouldendoption</key>
+	<string>publisherVisibility</string>
+</dict>
+</plist>

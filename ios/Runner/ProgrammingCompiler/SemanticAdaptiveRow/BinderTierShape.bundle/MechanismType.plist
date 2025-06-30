@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeResponder</key>
+	<string>granularAmortization</string>
+	<key>asynchronousTransformer</key>
+	<string>disabledSingleton</string>
+	<key>consultativeMethod</key>
+	<string>substantialGraph</string>
+	<key>cursortrajectory</key>
+	<string>lazyPopup</string>
+	<key>curveloader</key>
+	<string>shouldEmitDuration</string>
+	<key>missedInteger</key>
+	<string>canStartMusic</string>
+	<key>paddingCenter</key>
+	<string>copyLayer</string>
+	<key>shouldPublishImage</key>
+	<string>shouldEmitMedia</string>
+	<key>shouldTrainModal</key>
+	<string>delicateProvision</string>
+	<key>similarError</key>
+	<string>priorIcon</string>
+</dict>
+</plist>

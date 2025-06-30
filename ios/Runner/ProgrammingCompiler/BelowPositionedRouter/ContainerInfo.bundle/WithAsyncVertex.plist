@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatcherFeedback</key>
+	<string>largeElasticity</string>
+	<key>fusedChooser</key>
+	<string>oldtransition</string>
+	<key>ignoredLogarithm</key>
+	<string>quitGraph</string>
+	<key>materialPosition</key>
+	<string>grayscaleDelay</string>
+	<key>mediumView</key>
+	<string>infoDirection</string>
+	<key>monsterCoord</key>
+	<string>agilemenu</string>
+	<key>shouldUnbindBrush</key>
+	<string>shouldNotifyReference</string>
+</dict>
+</plist>

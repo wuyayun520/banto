@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileResponse</key>
+	<string>canUnmountedChecklist</string>
+	<key>asyncFeedback</key>
+	<string>viewcompositevisibility</string>
+	<key>dynamicAscent</key>
+	<string>cartesianDependency</string>
+	<key>globalFlex</key>
+	<string>iconTier</string>
+	<key>oldStore</key>
+	<string>subscriptionloader</string>
+	<key>protectedVector</key>
+	<string>graphInteraction</string>
+	<key>sustainableScroll</key>
+	<string>storeVisible</string>
+	<key>updatechannels</key>
+	<string>temporaryMatrix</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableRemainder</key>
+	<string>ephemeralPageView</string>
+	<key>ignoredLabel</key>
+	<string>channelformflags</string>
+	<key>immutableMobile</key>
+	<string>invisibleSound</string>
+	<key>normalscroll</key>
+	<string>permanentNode</string>
+	<key>publishsegment</key>
+	<string>staticaspect</string>
+	<key>shouldfetchprofile</key>
+	<string>delegatedelegate</string>
+	<key>standaloneAnalyzer</key>
+	<string>shouldInflateCharacter</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioHead</key>
+	<string>equipmentForm</string>
+	<key>formatTransparency</key>
+	<string>sorterBrightness</string>
+	<key>iconDepth</key>
+	<string>flexibleZone</string>
+	<key>integrityOpacity</key>
+	<string>profilerow</string>
+	<key>interactorcharacteristic</key>
+	<string>scrollamongtask</string>
+</dict>
+</plist>

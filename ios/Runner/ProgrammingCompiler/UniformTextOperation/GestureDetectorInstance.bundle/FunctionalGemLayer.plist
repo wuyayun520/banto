@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveGraphic</key>
+	<string>inactiveRect</string>
+	<key>marginoffset</key>
+	<string>delicateGesture</string>
+	<key>scalerenderer</key>
+	<string>sizeType</string>
+</dict>
+</plist>

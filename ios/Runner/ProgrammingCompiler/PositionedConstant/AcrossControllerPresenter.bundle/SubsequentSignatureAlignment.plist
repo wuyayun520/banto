@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concretePlayback</key>
+	<string>ignoredScale</string>
+	<key>endprovider</key>
+	<string>beginnerRemediation</string>
+	<key>infrastructureTransparency</key>
+	<string>resilientChannels</string>
+	<key>retainedBitrate</key>
+	<string>animateHero</string>
+	<key>scaleservice</key>
+	<string>mutableElement</string>
+	<key>sequentialOperation</key>
+	<string>customizedMission</string>
+	<key>shouldTransitionListView</key>
+	<string>axisParam</string>
+	<key>storyboardRate</key>
+	<string>canNotifyLoss</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferFeedback</key>
+	<string>mountWorkflow</string>
+	<key>commonLoader</key>
+	<string>shouldtransformgift</string>
+	<key>constraintpercommand</key>
+	<string>shouldDisconnectMomentum</string>
+	<key>disparateBitrate</key>
+	<string>temporaryPlate</string>
+	<key>errortint</key>
+	<string>arithmeticOperation</string>
+	<key>grayscaleoffset</key>
+	<string>asynchronousBullet</string>
+	<key>persistentQueue</key>
+	<string>shouldSaveCube</string>
+	<key>reusableCurve</key>
+	<string>localizationBottom</string>
+	<key>seamlessExtension</key>
+	<string>shouldParseTernary</string>
+	<key>symmetricPainter</key>
+	<string>reactiveLatency</string>
+</dict>
+</plist>

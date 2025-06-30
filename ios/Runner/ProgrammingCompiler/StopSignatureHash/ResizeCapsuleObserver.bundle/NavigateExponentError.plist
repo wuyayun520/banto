@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarSpeed</key>
+	<string>canRenderSkirt</string>
+	<key>crudeConstant</key>
+	<string>endCard</string>
+	<key>directlyGrid</key>
+	<string>sessionOrigin</string>
+	<key>eagerStrength</key>
+	<string>unaryorigin</string>
+	<key>inheritedAsset</key>
+	<string>decodeRemainder</string>
+	<key>losttableshade</key>
+	<string>evolutionCount</string>
+	<key>receiverborder</key>
+	<string>promiseOffset</string>
+	<key>transformerShade</key>
+	<string>mobileSingleton</string>
+	<key>zonebehavior</key>
+	<string>canRouteStamp</string>
+</dict>
+</plist>

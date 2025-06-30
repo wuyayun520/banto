@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindlogarithm</key>
+	<string>ephemeralAudio</string>
+	<key>graphmediatorcount</key>
+	<string>disableddetector</string>
+	<key>immediateappbartype</key>
+	<string>loopComposite</string>
+	<key>lastTransition</key>
+	<string>canTransitionEntropy</string>
+	<key>permanentlayer</key>
+	<string>materialMission</string>
+	<key>typicaltechnique</key>
+	<string>unsortedBuilder</string>
+</dict>
+</plist>

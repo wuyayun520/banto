@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivetabbartype</key>
+	<string>shouldFetchCapacities</string>
+	<key>advancedInteraction</key>
+	<string>startbutton</string>
+	<key>commonGram</key>
+	<string>robustContainer</string>
+	<key>consultativeTraversal</key>
+	<string>upgradeTicker</string>
+	<key>decorationvisible</key>
+	<string>rebuildCheckbox</string>
+	<key>interpolateentity</key>
+	<string>materialrectangle</string>
+	<key>mutableInterface</key>
+	<string>significantComponent</string>
+	<key>operationAcceleration</key>
+	<string>lostStrength</string>
+	<key>tentativeOrientation</key>
+	<string>crudeTable</string>
+	<key>unsortedInterpolation</key>
+	<string>renderPageView</string>
+</dict>
+</plist>

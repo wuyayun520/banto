@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderbound</key>
+	<string>canEncodeTransition</string>
+	<key>featureitem</key>
+	<string>ephemeralCheckbox</string>
+	<key>futureactivitydistance</key>
+	<string>titleShape</string>
+	<key>projectionvarstate</key>
+	<string>significantShader</string>
+	<key>tensorscenedelay</key>
+	<string>constructSize</string>
+</dict>
+</plist>

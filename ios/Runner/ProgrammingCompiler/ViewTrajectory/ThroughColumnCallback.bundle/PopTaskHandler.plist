@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticsensor</key>
+	<string>mediumamortization</string>
+	<key>durationdelay</key>
+	<string>releaseLayout</string>
+	<key>easyChart</key>
+	<string>storyboardMethod</string>
+	<key>shouldcreateoperation</key>
+	<string>handlerSaturation</string>
+	<key>shouldnavigateworkflow</key>
+	<string>contractionScope</string>
+	<key>taskName</key>
+	<string>shouldSkipTabView</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerBehavior</key>
+	<string>pageviewShape</string>
+	<key>buttoncreator</key>
+	<string>listviewDepth</string>
+	<key>implementcompletion</key>
+	<string>optimizerframeworkdensity</string>
+	<key>interactorsize</key>
+	<string>canBindSwitch</string>
+	<key>pinchableGestureDetector</key>
+	<string>drawerAlignment</string>
+	<key>restrictionStatus</key>
+	<string>viewcompositelocation</string>
+	<key>shouldFetchDropdownButton</key>
+	<string>skirttexture</string>
+	<key>shouldPublishProvider</key>
+	<string>responderTail</string>
+</dict>
+</plist>

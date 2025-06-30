@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeScope</key>
+	<string>singletonshapetint</string>
+	<key>currentStroke</key>
+	<string>permanentTouch</string>
+	<key>inactiveImage</key>
+	<string>grainState</string>
+	<key>inactiveMonster</key>
+	<string>persistentAction</string>
+	<key>locatefactory</key>
+	<string>builderappearance</string>
+	<key>maintainoperation</key>
+	<string>prevSpot</string>
+	<key>publicSwift</key>
+	<string>encodeTexture</string>
+	<key>shouldLayoutCaption</key>
+	<string>priorOffset</string>
+	<key>shouldPopStoryboard</key>
+	<string>canFetchSpine</string>
+	<key>storageTag</key>
+	<string>lazyFeature</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianSelector</key>
+	<string>canPushTable</string>
+	<key>configurationPosition</key>
+	<string>actionvisibility</string>
+	<key>encodeswitch</key>
+	<string>compositionStrategy</string>
+	<key>geometricbutton</key>
+	<string>shouldSubscribeContraction</string>
+	<key>intuitiveMonster</key>
+	<string>concreteFinder</string>
+	<key>occasionVelocity</key>
+	<string>imperativeInfo</string>
+	<key>stampSpeed</key>
+	<string>activityPosition</string>
+</dict>
+</plist>

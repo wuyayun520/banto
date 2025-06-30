@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisconstant</key>
+	<string>pushPadding</string>
+	<key>behaviorscroller</key>
+	<string>storageTier</string>
+	<key>mainInteractor</key>
+	<string>canDispatchCache</string>
+	<key>mediumGesture</key>
+	<string>basicOption</string>
+	<key>mountedcubit</key>
+	<string>canvasForm</string>
+	<key>oldReplica</key>
+	<string>lastConsumption</string>
+	<key>schedulefuture</key>
+	<string>requiredCompleter</string>
+	<key>scrollableTransition</key>
+	<string>statelessOption</string>
+</dict>
+</plist>

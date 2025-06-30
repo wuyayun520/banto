@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chaptersystemflags</key>
+	<string>preparePrecision</string>
+	<key>dedicatedmission</key>
+	<string>shouldskiptransition</string>
+	<key>disabledFormat</key>
+	<string>canDetachSession</string>
+	<key>gridadaptertint</key>
+	<string>methodInterval</string>
+	<key>modulusorigin</key>
+	<string>baselineStrategy</string>
+	<key>tangentfeedback</key>
+	<string>pausecache</string>
+	<key>unactivatedFlex</key>
+	<string>mountScale</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteGroup</key>
+	<string>shouldRenderAspect</string>
+	<key>liteTheme</key>
+	<string>compositionalExponent</string>
+	<key>optionTint</key>
+	<string>relationalLayout</string>
+	<key>shouldEmitMobile</key>
+	<string>shouldReplaceCupertino</string>
+</dict>
+</plist>

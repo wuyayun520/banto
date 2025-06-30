@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushasprocess</key>
+	<string>singletonformat</string>
+	<key>functionalWidget</key>
+	<string>actionname</string>
+	<key>inactiveTransformer</key>
+	<string>awaitContext</string>
+	<key>lazySound</key>
+	<string>dropoutGraph</string>
+	<key>positionedTheme</key>
+	<string>advancedcertificatelocation</string>
+	<key>sequentialDecoration</key>
+	<string>serviceVar</string>
+	<key>sharedFormat</key>
+	<string>canPresentPainter</string>
+	<key>shouldParseFlex</key>
+	<string>schedulescroll</string>
+</dict>
+</plist>

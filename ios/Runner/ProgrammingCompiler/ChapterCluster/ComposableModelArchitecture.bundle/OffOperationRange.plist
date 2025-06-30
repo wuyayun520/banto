@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>progressbarSkewY</key>
+	<string>displayableGrid</string>
+	<key>publicTriangles</key>
+	<string>limitmonster</string>
+	<key>shouldListenStack</key>
+	<string>popupBridge</string>
+	<key>shouldNavigateBorder</key>
+	<string>detectorAcceleration</string>
+</dict>
+</plist>

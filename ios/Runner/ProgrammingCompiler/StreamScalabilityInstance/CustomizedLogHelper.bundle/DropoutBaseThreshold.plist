@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentUsage</key>
+	<string>viewJob</string>
+	<key>filterCoord</key>
+	<string>parallelReplica</string>
+	<key>fixedGraphic</key>
+	<string>customNib</string>
+	<key>hardGram</key>
+	<string>canEncodeInkWell</string>
+	<key>interactionShade</key>
+	<string>lastCheckbox</string>
+	<key>notifiermomentum</key>
+	<string>permanentCanvas</string>
+	<key>resolverbesidestrategy</key>
+	<string>materialchainalignment</string>
+</dict>
+</plist>

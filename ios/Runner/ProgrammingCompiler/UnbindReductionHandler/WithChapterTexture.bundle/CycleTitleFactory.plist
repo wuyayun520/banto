@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphmodevisible</key>
+	<string>lossBorder</string>
+	<key>hasmodal</key>
+	<string>canPersistGradient</string>
+	<key>hyperbolicTraversal</key>
+	<string>popupresponder</string>
+	<key>immutableBitrate</key>
+	<string>trajectoryAcceleration</string>
+	<key>primaryAnimatedContainer</key>
+	<string>mainLatency</string>
+	<key>sustainableFilter</key>
+	<string>hardProcessor</string>
+	<key>typicalMember</key>
+	<string>popAnimatedContainer</string>
+</dict>
+</plist>

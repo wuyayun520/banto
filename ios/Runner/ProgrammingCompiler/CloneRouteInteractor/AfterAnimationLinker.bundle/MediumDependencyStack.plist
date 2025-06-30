@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSchema</key>
+	<string>intuitiveEvent</string>
+	<key>customaction</key>
+	<string>scaffoldskewy</string>
+	<key>normalProgressBar</key>
+	<string>canCancelInterpolation</string>
+	<key>shouldEmitAperture</key>
+	<string>persistOperation</string>
+	<key>shouldStopBase</key>
+	<string>convertRadius</string>
+	<key>smartstatespeed</key>
+	<string>scheduleCubit</string>
+	<key>tensorEvaluation</key>
+	<string>directlySubpixel</string>
+</dict>
+</plist>

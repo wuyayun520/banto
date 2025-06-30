@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorinset</key>
+	<string>litePopup</string>
+	<key>independentChooser</key>
+	<string>canPushAspectRatio</string>
+	<key>membercomponent</key>
+	<string>plateShade</string>
+	<key>reusableProcessor</key>
+	<string>cupertinorect</string>
+	<key>shouldRestartStack</key>
+	<string>canPrepareGestureDetector</string>
+</dict>
+</plist>

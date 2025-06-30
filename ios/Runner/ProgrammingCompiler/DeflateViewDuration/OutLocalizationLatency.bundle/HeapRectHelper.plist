@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentDependency</key>
+	<string>activityincludecontext</string>
+	<key>interpolationStyle</key>
+	<string>firstStrength</string>
+	<key>widgetSkewY</key>
+	<string>concretePager</string>
+</dict>
+</plist>

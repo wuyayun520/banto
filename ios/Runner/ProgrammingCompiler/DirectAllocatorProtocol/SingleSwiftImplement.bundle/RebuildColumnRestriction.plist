@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianLifecycle</key>
+	<string>emitBullet</string>
+	<key>configurationBehavior</key>
+	<string>comparegroup</string>
+	<key>disabledDetector</key>
+	<string>diffableAnchor</string>
+	<key>pivotalFrame</key>
+	<string>dissociateCurve</string>
+	<key>providerFrequency</key>
+	<string>shouldHandleCertificate</string>
+	<key>reductiontweak</key>
+	<string>freeRequest</string>
+	<key>signatureSpacing</key>
+	<string>metricstail</string>
+	<key>taskdirection</key>
+	<string>reduceAnimation</string>
+	<key>unmountmanager</key>
+	<string>retainBloc</string>
+</dict>
+</plist>

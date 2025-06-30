@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediaPadding</key>
+	<string>shapeOrigin</string>
+	<key>newestHero</key>
+	<string>sortedduration</string>
+	<key>objectpadding</key>
+	<string>nativeTween</string>
+	<key>scopeLocation</key>
+	<string>desktopparticlemargin</string>
+</dict>
+</plist>

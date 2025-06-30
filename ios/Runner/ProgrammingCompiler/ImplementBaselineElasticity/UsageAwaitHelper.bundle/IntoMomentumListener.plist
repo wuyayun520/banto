@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexcoord</key>
+	<string>replacegraph</string>
+	<key>invisibleAperture</key>
+	<string>cancelInkWell</string>
+	<key>missedScreen</key>
+	<string>selectedAlpha</string>
+	<key>permissiveTernary</key>
+	<string>richtextPrototype</string>
+	<key>retainedResilience</key>
+	<string>measureAlignment</string>
+	<key>shouldSkipGate</key>
+	<string>disposeChannels</string>
+	<key>spriteagainststage</key>
+	<string>updateLoss</string>
+</dict>
+</plist>

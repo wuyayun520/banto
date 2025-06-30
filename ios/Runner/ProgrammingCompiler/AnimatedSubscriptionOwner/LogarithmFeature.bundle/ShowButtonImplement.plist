@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncmomentum</key>
+	<string>viewFlyweight</string>
+	<key>awaitBorder</key>
+	<string>easyusageedge</string>
+	<key>blocvaluetint</key>
+	<string>temporaryRadio</string>
+	<key>colorpressure</key>
+	<string>embraceRequest</string>
+	<key>eagerConstraint</key>
+	<string>rectspeed</string>
+	<key>invisibleMesh</key>
+	<string>embedgesturedetector</string>
+	<key>metadataOffset</key>
+	<string>restoreGrid</string>
+	<key>parallelStorage</key>
+	<string>primaryslider</string>
+	<key>transformertimeline</key>
+	<string>shouldDisposeEquipment</string>
+</dict>
+</plist>

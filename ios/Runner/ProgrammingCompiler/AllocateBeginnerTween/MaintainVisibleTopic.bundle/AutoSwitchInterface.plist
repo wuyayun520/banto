@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticScope</key>
+	<string>writeLocalization</string>
+	<key>intensityviastructure</key>
+	<string>workflowFlyweight</string>
+	<key>publicBaseline</key>
+	<string>tappableCaption</string>
+	<key>shouldAttachSession</key>
+	<string>benchmarkRow</string>
+	<key>shouldDetachMomentum</key>
+	<string>concurrentConvolution</string>
+	<key>sortedcursorspacing</key>
+	<string>labelPlatform</string>
+	<key>statusMargin</key>
+	<string>toleranceOffset</string>
+	<key>strengthSkewX</key>
+	<string>unscheduleTransition</string>
+</dict>
+</plist>

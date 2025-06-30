@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioTint</key>
+	<string>endAnimation</string>
+	<key>independentEmitter</key>
+	<string>asynchronousChannel</string>
+	<key>integrationEdge</key>
+	<string>skipMargin</string>
+	<key>listviewScale</key>
+	<string>shouldListenEquipment</string>
+	<key>loststorageorigin</key>
+	<string>callbackDuration</string>
+	<key>materialSearcher</key>
+	<string>canStreamCertificate</string>
+	<key>optimizervaluebottom</key>
+	<string>routeawayprototype</string>
+	<key>permanentFinder</key>
+	<string>shouldProcessGate</string>
+	<key>pinchableAsset</key>
+	<string>setupCoordinator</string>
+	<key>shouldEncodeInterpolation</key>
+	<string>viewdata</string>
+</dict>
+</plist>

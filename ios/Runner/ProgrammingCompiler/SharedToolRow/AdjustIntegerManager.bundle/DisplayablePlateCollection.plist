@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleeffect</key>
+	<string>processTween</string>
+	<key>multiMechanism</key>
+	<string>largeParticle</string>
+	<key>segmentDelay</key>
+	<string>nextSubpixel</string>
+	<key>shouldPaintColumn</key>
+	<string>tabbarTension</string>
+	<key>sizedboxparametertype</key>
+	<string>respectiveNorm</string>
+	<key>smartEntropy</key>
+	<string>canMountedRow</string>
+</dict>
+</plist>

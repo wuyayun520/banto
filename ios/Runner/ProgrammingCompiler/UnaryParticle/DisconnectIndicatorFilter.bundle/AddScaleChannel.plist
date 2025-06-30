@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintbridgetheme</key>
+	<string>shouldStreamPrecision</string>
+	<key>ephemeralIsolate</key>
+	<string>shouldYieldCompletion</string>
+	<key>searchtopic</key>
+	<string>functionalSkin</string>
+	<key>statefulduringmediator</key>
+	<string>statefulProcessor</string>
+	<key>taskoperation</key>
+	<string>functionalDistinction</string>
+	<key>uniqueCursor</key>
+	<string>draggableCatalyst</string>
+</dict>
+</plist>

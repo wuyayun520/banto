@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisTension</key>
+	<string>expandedScope</string>
+	<key>mediainjection</key>
+	<string>profileContainer</string>
+	<key>multiTexture</key>
+	<string>associateinterface</string>
+	<key>seamlessProjection</key>
+	<string>activityContext</string>
+	<key>shouldDismissSignature</key>
+	<string>screenBorder</string>
+	<key>sliderprovider</key>
+	<string>shouldFinishGradient</string>
+	<key>sorterLocation</key>
+	<string>composableColumn</string>
+	<key>subtleevent</key>
+	<string>aspectAppearance</string>
+	<key>swiftMomentum</key>
+	<string>mergerBound</string>
+	<key>transformtween</key>
+	<string>diversifiedMember</string>
+</dict>
+</plist>

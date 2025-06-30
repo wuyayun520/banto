@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinogroupright</key>
+	<string>nativeContainer</string>
+	<key>easyListView</key>
+	<string>saveRoute</string>
+	<key>immutableTask</key>
+	<string>exponentActivity</string>
+	<key>materialSound</key>
+	<string>shouldProcessRow</string>
+	<key>shouldPushDimension</key>
+	<string>dropouterror</string>
+	<key>singletonRate</key>
+	<string>flexibleAllocator</string>
+</dict>
+</plist>

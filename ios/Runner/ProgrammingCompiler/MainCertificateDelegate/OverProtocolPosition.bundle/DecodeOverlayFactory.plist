@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionDropdownButton</key>
+	<string>shouldpublishmusic</string>
+	<key>behaviorShape</key>
+	<string>createNorm</string>
+	<key>customSkin</key>
+	<string>stampname</string>
+	<key>otherskinforce</key>
+	<string>fixedBuilder</string>
+	<key>shouldAttachNib</key>
+	<string>reusableReceiver</string>
+</dict>
+</plist>

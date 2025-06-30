@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentTail</key>
+	<string>desktopUseCase</string>
+	<key>beginnerLatency</key>
+	<string>multiDistinction</string>
+	<key>channelsHue</key>
+	<string>adjustState</string>
+	<key>composableDuration</key>
+	<string>showAspectRatio</string>
+	<key>difficultEqualization</key>
+	<string>profileSprite</string>
+	<key>framehue</key>
+	<string>parallelChart</string>
+	<key>restrictionHead</key>
+	<string>canTransformSample</string>
+	<key>robustAxis</key>
+	<string>concatenaterow</string>
+	<key>touchstate</key>
+	<string>charactershape</string>
+</dict>
+</plist>

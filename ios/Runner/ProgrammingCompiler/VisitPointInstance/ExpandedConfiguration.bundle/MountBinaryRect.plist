@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturetyperight</key>
+	<string>resilienceBrightness</string>
+	<key>emitchallenge</key>
+	<string>enhanceCurve</string>
+	<key>segueCenter</key>
+	<string>listviewBottom</string>
+	<key>statelesslocalization</key>
+	<string>cupertinoconstraintoffset</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblehistogrambound</key>
+	<string>disconnectReference</string>
+	<key>arithmeticMonster</key>
+	<string>synchronousVariant</string>
+	<key>basicPolyfill</key>
+	<string>basicGroup</string>
+	<key>makeconfiguration</key>
+	<string>scrollableLayout</string>
+	<key>resourceinterpretertension</key>
+	<string>strengthTag</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lastPet</key>
+	<string>graphicdirection</string>
+	<key>operationvelocity</key>
+	<string>canUpdateNavigation</string>
+	<key>otherOverlay</key>
+	<string>pointwithoutoperation</string>
+	<key>pageviewFormat</key>
+	<string>operationCenter</string>
+	<key>queuetransparency</key>
+	<string>difficultChapter</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableResilience</key>
+	<string>beginnerDimension</string>
+	<key>coordinatorMode</key>
+	<string>pinchableMaster</string>
+	<key>firstbehavior</key>
+	<string>disconnectanimation</string>
+	<key>graphResponse</key>
+	<string>cellsaturation</string>
+	<key>intuitivecontainerdensity</key>
+	<string>resilientPicker</string>
+	<key>sensorinterval</key>
+	<string>undertakeUtil</string>
+	<key>shouldtraintangent</key>
+	<string>topiccharacteristic</string>
+	<key>sortedTheme</key>
+	<string>mobileGraphic</string>
+</dict>
+</plist>

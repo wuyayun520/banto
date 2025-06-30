@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionskewx</key>
+	<string>smartComponent</string>
+	<key>crucialQuaternion</key>
+	<string>specifyCombiner</string>
+	<key>densePager</key>
+	<string>playbackdepth</string>
+	<key>draggablegridview</key>
+	<string>serializeAperture</string>
+	<key>fixedLogarithm</key>
+	<string>navigatePoint</string>
+	<key>grainefficiency</key>
+	<string>scrollorientation</string>
+	<key>memberkindorientation</key>
+	<string>shouldSaveCollection</string>
+	<key>readslider</key>
+	<string>protectedUtil</string>
+	<key>shouldcachemovement</key>
+	<string>reductionEnvironment</string>
+</dict>
+</plist>

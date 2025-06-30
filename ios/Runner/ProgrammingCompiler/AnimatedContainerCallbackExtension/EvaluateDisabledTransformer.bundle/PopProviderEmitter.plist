@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicMomentum</key>
+	<string>timeBrightness</string>
+	<key>elasticBehavior</key>
+	<string>convolutionsink</string>
+	<key>inactivesorter</key>
+	<string>easystream</string>
+	<key>labelskewy</key>
+	<string>titleDelay</string>
+	<key>liteGroup</key>
+	<string>comprehensivelayout</string>
+	<key>shouldValidateMobile</key>
+	<string>signatureDistance</string>
+	<key>significantBaseline</key>
+	<string>crucialmomentum</string>
+</dict>
+</plist>

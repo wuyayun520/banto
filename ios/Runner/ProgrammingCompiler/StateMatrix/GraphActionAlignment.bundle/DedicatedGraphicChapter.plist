@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicBinary</key>
+	<string>shouldUnmountKernel</string>
+	<key>elementColor</key>
+	<string>controllerChain</string>
+	<key>permissivetrigger</key>
+	<string>customGridView</string>
+	<key>setstateaspect</key>
+	<string>loopJob</string>
+	<key>shaderspacing</key>
+	<string>removeTexture</string>
+	<key>shouldNavigateView</key>
+	<string>backwardTouch</string>
+	<key>significanttexture</key>
+	<string>shouldKeepCoordinator</string>
+</dict>
+</plist>

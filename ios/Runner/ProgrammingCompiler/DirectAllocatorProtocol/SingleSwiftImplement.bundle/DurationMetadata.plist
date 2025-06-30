@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTransition</key>
+	<string>canInflateSegue</string>
+	<key>associatedpopup</key>
+	<string>shouldSkipDocument</string>
+	<key>disparateTimer</key>
+	<string>symbolTail</string>
+	<key>isContainer</key>
+	<string>invisibleStep</string>
+	<key>marklocalization</key>
+	<string>gramProcess</string>
+	<key>musicrecursion</key>
+	<string>hardStrength</string>
+	<key>originalnavigator</key>
+	<string>unsortedStoryboard</string>
+	<key>prevTimer</key>
+	<string>layerInset</string>
+	<key>spinmanager</key>
+	<string>shouldTransformNib</string>
+	<key>usecasebehavior</key>
+	<string>currentPadding</string>
+</dict>
+</plist>

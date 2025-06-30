@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRemainder</key>
+	<string>builderDepth</string>
+	<key>compositionalDescent</key>
+	<string>dynamicListener</string>
+	<key>cupertinoDescriptor</key>
+	<string>instructionfrequency</string>
+	<key>declarativeCompleter</key>
+	<string>fixedEquipment</string>
+	<key>heapbeyondtask</key>
+	<string>permanentGraphic</string>
+	<key>notificationtween</key>
+	<string>optionscene</string>
+	<key>numericalImage</key>
+	<string>transitionCoordinator</string>
+	<key>operationCenter</key>
+	<string>resilientSchema</string>
+	<key>shouldStreamSwitch</key>
+	<string>observestore</string>
+</dict>
+</plist>

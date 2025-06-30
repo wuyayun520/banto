@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableError</key>
+	<string>interactiveTabBar</string>
+	<key>integrityScale</key>
+	<string>mainBloc</string>
+	<key>invisibleBoxShadow</key>
+	<string>canUnbindScroll</string>
+	<key>robustreliability</key>
+	<string>canSerializeCustomPaint</string>
+	<key>semanticVolume</key>
+	<string>interpolationSkewY</string>
+	<key>shouldEndLog</key>
+	<string>activeManager</string>
+	<key>shouldFormatGesture</key>
+	<string>sinkShade</string>
+	<key>sustainableDependency</key>
+	<string>retainRequest</string>
+	<key>viewhandler</key>
+	<string>activatedElasticity</string>
+	<key>visibleInfrastructure</key>
+	<string>mediocreBuilder</string>
+</dict>
+</plist>

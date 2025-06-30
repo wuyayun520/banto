@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intensityKind</key>
+	<string>respectiveChannel</string>
+	<key>primaryChallenge</key>
+	<string>layoutBloc</string>
+	<key>richtextValidation</key>
+	<string>poplistener</string>
+	<key>shouldDeserializeHero</key>
+	<string>customizedtextcoord</string>
+	<key>singleSingleton</key>
+	<string>loaderRate</string>
+</dict>
+</plist>

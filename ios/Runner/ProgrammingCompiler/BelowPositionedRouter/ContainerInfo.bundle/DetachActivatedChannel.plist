@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerLeft</key>
+	<string>playbackIndex</string>
+	<key>discardedTransformer</key>
+	<string>diversifiedfragmentdensity</string>
+	<key>exponentFormat</key>
+	<string>lazyTimer</string>
+	<key>inkwellFrequency</key>
+	<string>utilinteraction</string>
+	<key>richtextMargin</key>
+	<string>unaryEnvironment</string>
+	<key>shouldEndSymbol</key>
+	<string>synchronousEvaluation</string>
+	<key>touchBottom</key>
+	<string>shouldMountMatrix</string>
+</dict>
+</plist>

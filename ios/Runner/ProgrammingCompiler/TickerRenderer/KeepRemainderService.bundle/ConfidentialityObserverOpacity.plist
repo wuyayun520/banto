@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectOffset</key>
+	<string>animationTask</string>
+	<key>errorforstructure</key>
+	<string>richtextentity</string>
+	<key>gridviewCoord</key>
+	<string>associatedTween</string>
+	<key>receiverDensity</key>
+	<string>certificateBuffer</string>
+	<key>restorenotification</key>
+	<string>shouldAttachProject</string>
+	<key>subscriptionlevelmargin</key>
+	<string>crudeAllocator</string>
+	<key>unmountstorage</key>
+	<string>setstateNavigator</string>
+	<key>unsortedProgressBar</key>
+	<string>canMountSpine</string>
+	<key>volumeskewx</key>
+	<string>providerBuffer</string>
+</dict>
+</plist>

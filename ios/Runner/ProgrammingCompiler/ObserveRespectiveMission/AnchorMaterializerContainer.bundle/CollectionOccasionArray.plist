@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evaluationFeedback</key>
+	<string>mapStyle</string>
+	<key>intermediatePainter</key>
+	<string>copyListener</string>
+	<key>missionandcommand</key>
+	<string>frameMemento</string>
+	<key>quaternionScale</key>
+	<string>slashVisibility</string>
+	<key>requiredSwift</key>
+	<string>titlePrototype</string>
+	<key>shouldLoadCurve</key>
+	<string>gramAction</string>
+	<key>signaturedistance</key>
+	<string>roleTop</string>
+	<key>synchronizenotification</key>
+	<string>maintainChannel</string>
+	<key>temporarycallbackstate</key>
+	<string>rapidOccasion</string>
+</dict>
+</plist>

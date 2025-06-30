@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledSearcher</key>
+	<string>arithmeticscaleresponse</string>
+	<key>expandedlevelleft</key>
+	<string>fixedBatch</string>
+	<key>intuitiveConfiguration</key>
+	<string>disconnectModal</string>
+	<key>mediaqueryState</key>
+	<string>publicGraphic</string>
+	<key>observedimension</key>
+	<string>musicAppearance</string>
+	<key>promisejobappearance</key>
+	<string>normalAperture</string>
+	<key>secondContainer</key>
+	<string>shouldRenderStamp</string>
+	<key>shouldEncodePet</key>
+	<string>observercyclebrightness</string>
+	<key>shouldPublishClipper</key>
+	<string>easymultiplicationspeed</string>
+</dict>
+</plist>

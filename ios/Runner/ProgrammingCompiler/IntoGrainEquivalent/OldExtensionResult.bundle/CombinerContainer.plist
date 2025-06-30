@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentGroup</key>
+	<string>borderVisitor</string>
+	<key>customizedBullet</key>
+	<string>unbindPromise</string>
+	<key>radiusasmemento</key>
+	<string>cacheView</string>
+	<key>scrollablesymbol</key>
+	<string>eventversusvalue</string>
+	<key>shouldPushLayout</key>
+	<string>publishEntropy</string>
+	<key>shouldtransitiongram</key>
+	<string>poolBuffer</string>
+	<key>specifySorter</key>
+	<string>iterativeOperation</string>
+	<key>tensorCertificate</key>
+	<string>metadatafinder</string>
+</dict>
+</plist>

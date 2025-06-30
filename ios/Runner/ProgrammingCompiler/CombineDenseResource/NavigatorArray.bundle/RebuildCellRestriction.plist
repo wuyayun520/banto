@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultError</key>
+	<string>scrollableTitle</string>
+	<key>equipmentDelay</key>
+	<string>interactionrotation</string>
+	<key>featureStatus</key>
+	<string>handlerContrast</string>
+	<key>independentRect</key>
+	<string>elementacceleration</string>
+	<key>logmapper</key>
+	<string>sustainableresolvermargin</string>
+	<key>replacelayout</key>
+	<string>timelinehead</string>
+	<key>sharedEquipment</key>
+	<string>coloralignment</string>
+	<key>stamplifecycle</key>
+	<string>customBloc</string>
+	<key>subtleComponent</key>
+	<string>fixedRectangle</string>
+	<key>uniqueChooser</key>
+	<string>shouldStopNotifier</string>
+</dict>
+</plist>

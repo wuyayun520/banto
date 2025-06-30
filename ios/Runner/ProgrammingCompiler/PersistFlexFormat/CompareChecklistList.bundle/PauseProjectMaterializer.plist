@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerScroller</key>
+	<string>reconcilePopup</string>
+	<key>radioSaturation</key>
+	<string>canSetStateEquipment</string>
+	<key>shouldBindBitrate</key>
+	<string>widgetformtail</string>
+	<key>shouldRouteProject</key>
+	<string>robustConverter</string>
+	<key>sophisticatedManager</key>
+	<string>inactivecurve</string>
+	<key>temporaryData</key>
+	<string>alphamodevisible</string>
+</dict>
+</plist>

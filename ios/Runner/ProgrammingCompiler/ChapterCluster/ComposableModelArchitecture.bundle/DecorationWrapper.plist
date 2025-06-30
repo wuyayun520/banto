@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisthroughcomposite</key>
+	<string>baselineentity</string>
+	<key>bufferspeed</key>
+	<string>keyGesture</string>
+	<key>computeasync</key>
+	<string>descentRight</string>
+	<key>defaultColumn</key>
+	<string>capacitiesOffset</string>
+	<key>linkersize</key>
+	<string>releaseTicker</string>
+	<key>persistentTernary</key>
+	<string>dedicatedChannel</string>
+	<key>videovisibility</key>
+	<string>visibleBloc</string>
+</dict>
+</plist>

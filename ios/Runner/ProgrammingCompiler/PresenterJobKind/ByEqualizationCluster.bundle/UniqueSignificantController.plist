@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonInteractor</key>
+	<string>resilientCatalyst</string>
+	<key>dedicatedPublisher</key>
+	<string>pauseNib</string>
+	<key>gramDensity</key>
+	<string>infoStyle</string>
+	<key>gramShape</key>
+	<string>pauseCaption</string>
+	<key>mediumMap</key>
+	<string>compileContainer</string>
+	<key>permanentTheme</key>
+	<string>textureDuration</string>
+	<key>polyfillBehavior</key>
+	<string>variantStyle</string>
+	<key>validateanimatedcontainer</key>
+	<string>axisOpacity</string>
+</dict>
+</plist>

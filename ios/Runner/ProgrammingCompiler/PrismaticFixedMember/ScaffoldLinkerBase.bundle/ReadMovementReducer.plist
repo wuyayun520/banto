@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicequipmentspeed</key>
+	<string>nextBuffer</string>
+	<key>numericalSession</key>
+	<string>lazyCanvas</string>
+	<key>othercubebottom</key>
+	<string>shaderBound</string>
+	<key>prevAllocator</key>
+	<string>priorAspect</string>
+	<key>sharedAnalyzer</key>
+	<string>baselineDistance</string>
+	<key>uniqueRestriction</key>
+	<string>unsortedTool</string>
+</dict>
+</plist>

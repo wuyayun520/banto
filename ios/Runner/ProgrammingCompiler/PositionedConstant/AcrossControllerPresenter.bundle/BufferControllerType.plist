@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsForce</key>
+	<string>aggregateSink</string>
+	<key>greatLogarithm</key>
+	<string>encodeProgressBar</string>
+	<key>inkwellColor</key>
+	<string>encodeBullet</string>
+	<key>symmetricIntegration</key>
+	<string>showTernary</string>
+</dict>
+</plist>

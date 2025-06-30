@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousGridView</key>
+	<string>animatedcontainerconfidentiality</string>
+	<key>granularSwitch</key>
+	<string>beginnerArithmetic</string>
+	<key>normalModule</key>
+	<string>quantizerIsolate</string>
+	<key>provisionForce</key>
+	<string>shouldParsePromise</string>
+	<key>restrictionbrightness</key>
+	<string>shouldReplaceSwitch</string>
+	<key>reusableRectangle</key>
+	<string>updatecursor</string>
+	<key>sortedScheduler</key>
+	<string>reusableAsset</string>
+	<key>tensorAsset</key>
+	<string>reflectAsset</string>
+</dict>
+</plist>

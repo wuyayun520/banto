@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatoredge</key>
+	<string>provisionStyle</string>
+	<key>layerInterval</key>
+	<string>markIntensity</string>
+	<key>quaternionType</key>
+	<string>shouldNavigateMedia</string>
+	<key>reactiveNode</key>
+	<string>baselinePlatform</string>
+	<key>roleVisibility</key>
+	<string>stringifyHandler</string>
+	<key>variantstyle</key>
+	<string>statelessScroller</string>
+</dict>
+</plist>

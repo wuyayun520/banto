@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorForce</key>
+	<string>fetchColumn</string>
+	<key>cubittaskfeedback</key>
+	<string>mobileactionstyle</string>
+	<key>desktopTrigger</key>
+	<string>impactSize</string>
+	<key>otherSlash</key>
+	<string>aperturethroughput</string>
+	<key>permanentUnary</key>
+	<string>mediocreColor</string>
+	<key>responsiveReplica</key>
+	<string>unaryvideo</string>
+	<key>shouldCancelWorkflow</key>
+	<string>consumerBottom</string>
+	<key>shouldPersistActivity</key>
+	<string>attachTangent</string>
+	<key>shouldpublishcache</key>
+	<string>assetfacadeorigin</string>
+	<key>staticPermutation</key>
+	<string>scaffoldRight</string>
+</dict>
+</plist>

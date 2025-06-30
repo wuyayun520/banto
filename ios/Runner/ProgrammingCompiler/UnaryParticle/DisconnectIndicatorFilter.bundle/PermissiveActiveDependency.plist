@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynctempleflags</key>
+	<string>delicateTabBar</string>
+	<key>batchinsidemediator</key>
+	<string>renameReducer</string>
+	<key>flexfacaderight</key>
+	<string>builderscopecolor</string>
+	<key>histogramContrast</key>
+	<string>smartReducer</string>
+	<key>newestInkWell</key>
+	<string>fixedSubpixel</string>
+	<key>reductionslider</key>
+	<string>exceptionedge</string>
+	<key>reusableAsset</key>
+	<string>standaloneDelivery</string>
+</dict>
+</plist>

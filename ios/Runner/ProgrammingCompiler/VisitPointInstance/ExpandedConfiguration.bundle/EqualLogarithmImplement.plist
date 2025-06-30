@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveOperation</key>
+	<string>syncfragment</string>
+	<key>catalystInterval</key>
+	<string>confidentialityTop</string>
+	<key>lastCompletion</key>
+	<string>shoulddetachpainter</string>
+	<key>latencyCenter</key>
+	<string>updateCube</string>
+	<key>shouldloadmedia</key>
+	<string>callbackTint</string>
+</dict>
+</plist>

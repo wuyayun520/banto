@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorPadding</key>
+	<string>nextTouch</string>
+	<key>aspectratiostrength</key>
+	<string>functionalBinary</string>
+	<key>backwardtopic</key>
+	<string>animateSink</string>
+	<key>publicSkin</key>
+	<string>streamSine</string>
+	<key>shouldParseProvider</key>
+	<string>shouldPresentBox</string>
+	<key>symmetricGraphic</key>
+	<string>explicitSubscriber</string>
+</dict>
+</plist>

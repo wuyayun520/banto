@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lazyinteractorbrightness</key>
+	<string>continuemetadata</string>
+	<key>mediaqueryRight</key>
+	<string>canMountSizedBox</string>
+	<key>parallelBrush</key>
+	<string>endPainter</string>
+	<key>parallelNorm</key>
+	<string>allocatorInterpreter</string>
+	<key>transitionamongvalue</key>
+	<string>tweenVisible</string>
+</dict>
+</plist>

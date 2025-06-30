@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelHead</key>
+	<string>anchorzone</string>
+	<key>comprehensivetimeline</key>
+	<string>canTransformNorm</string>
+	<key>equipmentFlags</key>
+	<string>radiusthanchain</string>
+	<key>nextWrapper</key>
+	<string>durationvelocity</string>
+	<key>oldCurve</key>
+	<string>releaseNode</string>
+	<key>shouldEncodeThread</key>
+	<string>shouldRenderBinary</string>
+	<key>shouldRouteSpecifier</key>
+	<string>originalCertificate</string>
+</dict>
+</plist>

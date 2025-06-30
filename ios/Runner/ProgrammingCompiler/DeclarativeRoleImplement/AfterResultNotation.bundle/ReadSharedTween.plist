@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directHistogram</key>
+	<string>arithmeticImage</string>
+	<key>granularPreview</key>
+	<string>customizedoperation</string>
+	<key>logarithmScale</key>
+	<string>canPauseCompletion</string>
+	<key>meshOffset</key>
+	<string>multiplicationFlags</string>
+	<key>mutableFragments</key>
+	<string>subscriberEdge</string>
+	<key>normalCheckbox</key>
+	<string>checknode</string>
+	<key>priorDependency</key>
+	<string>reflectmodulus</string>
+	<key>scrollLocation</key>
+	<string>subscribeContainer</string>
+	<key>shouldFormatButton</key>
+	<string>uniqueProtocol</string>
+	<key>staticProvider</key>
+	<string>cardForce</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDisclaimer</key>
+	<string>modulusCoord</string>
+	<key>augmentoverlay</key>
+	<string>canPauseBox</string>
+	<key>constraintparamscale</key>
+	<string>prismaticIcon</string>
+	<key>dataInterval</key>
+	<string>shouldCreateDescriptor</string>
+	<key>entityskewy</key>
+	<string>cleanProvider</string>
+	<key>equalizationStyle</key>
+	<string>seekdescription</string>
+	<key>rapidLayer</key>
+	<string>subscribeMaster</string>
+</dict>
+</plist>

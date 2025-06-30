@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblebufferdistance</key>
+	<string>exceptionParam</string>
+	<key>brushtint</key>
+	<string>rapidBase</string>
+	<key>draggableDescent</key>
+	<string>accelerateSink</string>
+	<key>ephemeralGridView</key>
+	<string>tabbarbottom</string>
+	<key>normalColor</key>
+	<string>canCreateOptimizer</string>
+	<key>seamlessFrame</key>
+	<string>iterativeListener</string>
+	<key>shouldDismissDuration</key>
+	<string>bufferPosition</string>
+</dict>
+</plist>

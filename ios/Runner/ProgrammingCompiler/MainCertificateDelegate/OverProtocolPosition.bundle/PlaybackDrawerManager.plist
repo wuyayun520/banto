@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicDialogs</key>
+	<string>standalonesubscription</string>
+	<key>dynamicParticle</key>
+	<string>mediumDescent</string>
+	<key>hyperbolicZone</key>
+	<string>mediocreFinder</string>
+	<key>imageHead</key>
+	<string>appendTask</string>
+	<key>protectedLayout</key>
+	<string>uniformExtension</string>
+	<key>shouldDispatchDescriptor</key>
+	<string>significantMovement</string>
+</dict>
+</plist>

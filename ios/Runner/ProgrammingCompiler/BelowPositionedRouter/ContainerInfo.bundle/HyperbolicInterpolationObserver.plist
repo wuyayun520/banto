@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardLog</key>
+	<string>listenSine</string>
+	<key>dialogsDelay</key>
+	<string>navigatePreview</string>
+	<key>inheritedLayout</key>
+	<string>shouldUnmountPageView</string>
+	<key>notifierincludefacade</key>
+	<string>elasticSubpixel</string>
+	<key>searcherColor</key>
+	<string>shouldEmitNotification</string>
+	<key>shouldCancelHistogram</key>
+	<string>gridSingleton</string>
+	<key>similarTween</key>
+	<string>descriptorFormat</string>
+	<key>widgetintegrity</key>
+	<string>annotateZone</string>
+</dict>
+</plist>

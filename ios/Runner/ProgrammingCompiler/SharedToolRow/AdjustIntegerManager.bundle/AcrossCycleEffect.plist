@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveModulus</key>
+	<string>concurrentException</string>
+	<key>configurationparametervelocity</key>
+	<string>eagerResponse</string>
+	<key>connectorFlags</key>
+	<string>asynchronousEvent</string>
+	<key>handlerSkewX</key>
+	<string>uniformSorter</string>
+	<key>linkertail</key>
+	<string>observeEntity</string>
+	<key>shouldupdateview</key>
+	<string>dependencyAction</string>
+	<key>singletonMode</key>
+	<string>encapsulateGrid</string>
+</dict>
+</plist>

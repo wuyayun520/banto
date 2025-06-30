@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeIntensity</key>
+	<string>canNotifySemantics</string>
+	<key>dynamicHeap</key>
+	<string>unmountedResource</string>
+	<key>flexibleLoader</key>
+	<string>inflatealpha</string>
+	<key>keyCombiner</key>
+	<string>constraintDepth</string>
+	<key>methodRate</key>
+	<string>canContinueRichText</string>
+	<key>occasionhue</key>
+	<string>firstradiuscontrast</string>
+	<key>shouldunmountedcursor</key>
+	<string>restartCosine</string>
+	<key>unsortedGroup</key>
+	<string>activitycombiner</string>
+</dict>
+</plist>

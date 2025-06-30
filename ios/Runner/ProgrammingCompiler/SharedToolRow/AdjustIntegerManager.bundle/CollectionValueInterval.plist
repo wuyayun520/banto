@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentorigin</key>
+	<string>imagedirection</string>
+	<key>disconnectspecifier</key>
+	<string>shouldSerializeAspectRatio</string>
+	<key>diversifiedtraversal</key>
+	<string>shouldContinueMovement</string>
+	<key>layouttool</key>
+	<string>persistentscale</string>
+	<key>logtween</key>
+	<string>canNotifyProtocol</string>
+	<key>resilientThread</key>
+	<string>canValidateLoss</string>
+	<key>scrollableRect</key>
+	<string>canProcessWidget</string>
+	<key>sharedcharthue</key>
+	<string>batchalignment</string>
+	<key>shouldSkipContainer</key>
+	<string>tappableCapsule</string>
+</dict>
+</plist>

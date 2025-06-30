@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncPadding</key>
+	<string>canAnimateOptimizer</string>
+	<key>grouplocation</key>
+	<string>rendererScale</string>
+	<key>largePriority</key>
+	<string>mediocreReliability</string>
+	<key>referenceincludeparameter</key>
+	<string>connectVector</string>
+</dict>
+</plist>

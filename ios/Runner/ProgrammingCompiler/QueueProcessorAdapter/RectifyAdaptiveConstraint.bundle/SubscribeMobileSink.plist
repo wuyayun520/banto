@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinematerializer</key>
+	<string>checkboxDecorator</string>
+	<key>gridscheduler</key>
+	<string>lostGrayscale</string>
+	<key>hardRecursion</key>
+	<string>heapBehavior</string>
+	<key>loaderName</key>
+	<string>vectortime</string>
+	<key>scenarioVisible</key>
+	<string>slashacceleration</string>
+	<key>sizedboxInset</key>
+	<string>tableFramework</string>
+</dict>
+</plist>

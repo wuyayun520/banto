@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipdependency</key>
+	<string>skinaroundfunction</string>
+	<key>materialmapper</key>
+	<string>canSaveStoryboard</string>
+	<key>shapeTail</key>
+	<string>crucialcurve</string>
+	<key>shouldDecodeAlert</key>
+	<string>composableRadius</string>
+	<key>shouldDetachBorder</key>
+	<string>defaultMediaQuery</string>
+	<key>shouldReplaceLabel</key>
+	<string>modulusstate</string>
+	<key>stateinset</key>
+	<string>publicPermutation</string>
+	<key>staticAsync</key>
+	<string>secondObserver</string>
+	<key>triggerpadding</key>
+	<string>holdReducer</string>
+</dict>
+</plist>

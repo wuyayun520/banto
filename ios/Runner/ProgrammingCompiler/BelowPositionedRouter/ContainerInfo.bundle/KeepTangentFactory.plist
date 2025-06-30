@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imagepadding</key>
+	<string>scenelayervisible</string>
+	<key>pointIndex</key>
+	<string>startPromise</string>
+	<key>shouldPauseDrawer</key>
+	<string>ongesturedetectortap</string>
+	<key>symmetricConfidentiality</key>
+	<string>globalGrayscale</string>
+</dict>
+</plist>

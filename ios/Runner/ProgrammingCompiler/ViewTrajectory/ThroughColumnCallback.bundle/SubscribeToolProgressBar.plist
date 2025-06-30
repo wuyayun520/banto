@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonSelector</key>
+	<string>escalateAsync</string>
+	<key>consumerBorder</key>
+	<string>ternaryTag</string>
+	<key>displayableCapacities</key>
+	<string>intuitiveCallback</string>
+	<key>embedbloc</key>
+	<string>formatNavigator</string>
+	<key>reactiveAlpha</key>
+	<string>oldBandwidth</string>
+	<key>reductiontag</key>
+	<string>unactivatedImpression</string>
+	<key>resilientGate</key>
+	<string>canHandleCell</string>
+	<key>subtleSemantics</key>
+	<string>shouldTrainMember</string>
+</dict>
+</plist>

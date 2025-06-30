@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedcontraction</key>
+	<string>finishBitrate</string>
+	<key>diversifiedStep</key>
+	<string>emitterHead</string>
+	<key>isolateDistance</key>
+	<string>pushIcon</string>
+	<key>mediaindex</key>
+	<string>unactivatedCharacteristic</string>
+	<key>meshSkewX</key>
+	<string>currentThreshold</string>
+	<key>throughputType</key>
+	<string>shouldBindStateful</string>
+	<key>tickerTail</key>
+	<string>bufferDelay</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheevent</key>
+	<string>mobileimpression</string>
+	<key>chapterstatus</key>
+	<string>giftlevelhead</string>
+	<key>customBloc</key>
+	<string>painterawayaction</string>
+	<key>declarativeeventvisibility</key>
+	<string>copyError</string>
+	<key>lifecycleSpacing</key>
+	<string>semanticAppBar</string>
+	<key>shouldPresentKernel</key>
+	<string>canPersistKernel</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSkin</key>
+	<string>timeStatus</string>
+	<key>customcharactertransparency</key>
+	<string>bindFragment</string>
+	<key>instructiondrawer</key>
+	<string>discardedresilience</string>
+	<key>smartFilter</key>
+	<string>canDecodeGesture</string>
+</dict>
+</plist>

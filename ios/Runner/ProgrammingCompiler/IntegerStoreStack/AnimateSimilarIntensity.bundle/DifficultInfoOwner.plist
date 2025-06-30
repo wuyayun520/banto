@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSemantics</key>
+	<string>taskStrategy</string>
+	<key>ephemeralCompleter</key>
+	<string>radiusPlatform</string>
+	<key>rowbesidescope</key>
+	<string>serializeRadio</string>
+	<key>serializestack</key>
+	<string>canvasFlags</string>
+	<key>shouldNavigateMaster</key>
+	<string>infoOrientation</string>
+	<key>shouldPushNotification</key>
+	<string>uniformEmitter</string>
+	<key>shouldTransformPoint</key>
+	<string>nativeAlignment</string>
+	<key>sortedFinder</key>
+	<string>canAttachLayout</string>
+	<key>streamDensity</key>
+	<string>canPopTextField</string>
+</dict>
+</plist>

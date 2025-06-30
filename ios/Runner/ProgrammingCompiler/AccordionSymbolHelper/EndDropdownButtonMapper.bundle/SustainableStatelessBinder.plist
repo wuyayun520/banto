@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellSpacing</key>
+	<string>newestSubpixel</string>
+	<key>contrastBrightness</key>
+	<string>asyncBorder</string>
+	<key>cupertinoUseCase</key>
+	<string>buildFragment</string>
+	<key>difficultInfo</key>
+	<string>primaryParticle</string>
+	<key>dispatcherVisibility</key>
+	<string>mainMetrics</string>
+	<key>invisibleScroll</key>
+	<string>variantStage</string>
+	<key>requiredMedia</key>
+	<string>cancelStep</string>
+	<key>shouldRenderNavigator</key>
+	<string>materialCube</string>
+</dict>
+</plist>

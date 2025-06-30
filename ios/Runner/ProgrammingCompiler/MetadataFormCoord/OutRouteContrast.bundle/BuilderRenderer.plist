@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateIndex</key>
+	<string>invisibleRange</string>
+	<key>checkboxShape</key>
+	<string>lastRect</string>
+	<key>customStep</key>
+	<string>materialMesh</string>
+	<key>isolateState</key>
+	<string>pagerSpeed</string>
+	<key>lostMember</key>
+	<string>canNavigateUsage</string>
+	<key>nativeCluster</key>
+	<string>themeAction</string>
+	<key>restorecontainer</key>
+	<string>canCacheDecoration</string>
+	<key>smallQuaternion</key>
+	<string>smartInfo</string>
+	<key>substantialStatus</key>
+	<string>managerPosition</string>
+	<key>subtleRequest</key>
+	<string>draggableStorage</string>
+</dict>
+</plist>

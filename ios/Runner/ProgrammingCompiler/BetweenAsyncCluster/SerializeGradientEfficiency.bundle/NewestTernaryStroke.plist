@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customFrame</key>
+	<string>respectiveChecklist</string>
+	<key>durationchooser</key>
+	<string>canContinueSkirt</string>
+	<key>interpolationbuilder</key>
+	<string>resizableScroller</string>
+	<key>mainModal</key>
+	<string>crudeAllocator</string>
+	<key>mechanismTail</key>
+	<string>inheritedReducer</string>
+	<key>mediumreferenceforce</key>
+	<string>scrollableElement</string>
+	<key>reusableSignature</key>
+	<string>robustBuilder</string>
+	<key>tickerFlags</key>
+	<string>canContinueTheme</string>
+</dict>
+</plist>

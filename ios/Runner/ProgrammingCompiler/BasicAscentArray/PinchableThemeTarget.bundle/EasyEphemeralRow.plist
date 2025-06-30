@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationintegrity</key>
+	<string>fillRow</string>
+	<key>difficultLog</key>
+	<string>listenGrayscale</string>
+	<key>shouldcontinuegesturedetector</key>
+	<string>pickerCount</string>
+	<key>singleNotification</key>
+	<string>canceldescriptor</string>
+</dict>
+</plist>

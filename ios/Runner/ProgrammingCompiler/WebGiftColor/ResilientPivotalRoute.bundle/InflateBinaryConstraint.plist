@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedDescent</key>
+	<string>canDispatchRow</string>
+	<key>eagerDelivery</key>
+	<string>uniqueInkWell</string>
+	<key>mediumAperture</key>
+	<string>configurationTier</string>
+	<key>routerValidation</key>
+	<string>shouldSubscribeSwift</string>
+</dict>
+</plist>

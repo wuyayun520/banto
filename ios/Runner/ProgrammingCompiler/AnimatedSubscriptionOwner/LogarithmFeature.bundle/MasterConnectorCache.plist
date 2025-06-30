@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardBrightness</key>
+	<string>unscheduleResponse</string>
+	<key>directlyUsage</key>
+	<string>analyzeGroup</string>
+	<key>queuestyle</key>
+	<string>ternarycontroller</string>
+	<key>radioAlignment</key>
+	<string>persistentGem</string>
+	<key>shouldFetchPriority</key>
+	<string>isView</string>
+	<key>smartResult</key>
+	<string>nextBox</string>
+</dict>
+</plist>

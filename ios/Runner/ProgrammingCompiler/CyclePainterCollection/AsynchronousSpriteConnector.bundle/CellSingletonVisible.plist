@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCosine</key>
+	<string>offsetflags</string>
+	<key>brushshape</key>
+	<string>completedBrush</string>
+	<key>integerbound</key>
+	<string>shouldEncodeMultiplication</string>
+	<key>keyIcon</key>
+	<string>logarithmCycle</string>
+	<key>primaryLayout</key>
+	<string>moveRouter</string>
+	<key>subsequentAction</key>
+	<string>injectHandler</string>
+	<key>textureindex</key>
+	<string>pickerPadding</string>
+	<key>tickerscheduler</key>
+	<string>petSize</string>
+</dict>
+</plist>

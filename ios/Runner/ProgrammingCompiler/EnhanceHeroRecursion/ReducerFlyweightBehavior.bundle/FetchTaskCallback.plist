@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramBottom</key>
+	<string>composableTriangles</string>
+	<key>injectcoordinator</key>
+	<string>ephemeralPreview</string>
+	<key>liteMesh</key>
+	<string>sharedBase</string>
+	<key>methodselector</key>
+	<string>elasticPromise</string>
+	<key>rapidMetrics</key>
+	<string>canSubscribeCertificate</string>
+	<key>rebuildradius</key>
+	<string>mediumResult</string>
+	<key>selectedalpha</key>
+	<string>multiLogarithm</string>
+</dict>
+</plist>

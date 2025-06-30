@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enumeratealert</key>
+	<string>singleStrength</string>
+	<key>gramedge</key>
+	<string>emitMission</string>
+	<key>shouldNavigateChannels</key>
+	<string>shouldDisposeRoute</string>
+	<key>shoulddismissvariant</key>
+	<string>channelChain</string>
+	<key>slidercontrast</key>
+	<string>interceptTopic</string>
+	<key>unarycapacity</key>
+	<string>gridviewSystem</string>
+</dict>
+</plist>

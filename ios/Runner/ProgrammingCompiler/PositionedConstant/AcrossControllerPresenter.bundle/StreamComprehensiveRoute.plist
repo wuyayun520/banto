@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityScale</key>
+	<string>reactivePriority</string>
+	<key>cubeOrigin</key>
+	<string>notifyOffset</string>
+	<key>gategrain</key>
+	<string>createcaption</string>
+	<key>immutableResponse</key>
+	<string>dedicatedgraphshade</string>
+	<key>multiplicationedge</key>
+	<string>consumptionRate</string>
+	<key>shouldUnbindSignature</key>
+	<string>shouldRenderDialogs</string>
+</dict>
+</plist>

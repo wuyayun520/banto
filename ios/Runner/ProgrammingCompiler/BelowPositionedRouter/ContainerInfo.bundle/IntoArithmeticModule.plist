@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonelement</key>
+	<string>gramTop</string>
+	<key>delegatespeed</key>
+	<string>priorlabel</string>
+	<key>disabledentity</key>
+	<string>mapperResponse</string>
+	<key>diversifiedInfo</key>
+	<string>scaffoldimpression</string>
+	<key>fixedEfficiency</key>
+	<string>capsuleDepth</string>
+	<key>globalMargin</key>
+	<string>rotateCompleter</string>
+	<key>gradientworkbottom</key>
+	<string>sortedExpanded</string>
+	<key>permanentSchema</key>
+	<string>reactiveCell</string>
+	<key>subsequentDialogs</key>
+	<string>scrollerCoord</string>
+	<key>vertexbrightness</key>
+	<string>semanticsDecorator</string>
+</dict>
+</plist>

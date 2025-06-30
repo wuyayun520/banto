@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterSize</key>
+	<string>segmentResponse</string>
+	<key>diversifieddurationname</key>
+	<string>unactivatedChart</string>
+	<key>logState</key>
+	<string>featureduration</string>
+	<key>methodscroller</key>
+	<string>masterComposite</string>
+	<key>standaloneException</key>
+	<string>mainVariant</string>
+	<key>storestatedirection</key>
+	<string>crudeOperation</string>
+</dict>
+</plist>

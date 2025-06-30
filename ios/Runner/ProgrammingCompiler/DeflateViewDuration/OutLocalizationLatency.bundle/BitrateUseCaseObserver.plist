@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardIndicator</key>
+	<string>constraintparticle</string>
+	<key>borderInterval</key>
+	<string>intuitiveButton</string>
+	<key>dependencytheme</key>
+	<string>schemaright</string>
+	<key>iterativesubpixeltransparency</key>
+	<string>lastRequest</string>
+	<key>materialStrength</key>
+	<string>prismaticCurve</string>
+	<key>otherPolyfill</key>
+	<string>drawRequest</string>
+	<key>publicContraction</key>
+	<string>topicCount</string>
+	<key>shouldListenHero</key>
+	<string>robustResolver</string>
+	<key>subsequentIndicator</key>
+	<string>skipworkflow</string>
+</dict>
+</plist>

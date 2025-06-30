@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheconfiguration</key>
+	<string>allocatorValidation</string>
+	<key>catalystcompositepressure</key>
+	<string>autoCupertino</string>
+	<key>checklisttrigger</key>
+	<string>canFormatColumn</string>
+	<key>composableFragments</key>
+	<string>animationmaterializer</string>
+	<key>deflatethread</key>
+	<string>independentAnchor</string>
+	<key>disclaimerPosition</key>
+	<string>uniqueIntegration</string>
+	<key>hardSound</key>
+	<string>constantTransparency</string>
+	<key>shouldTransformSwift</key>
+	<string>commonSubscriber</string>
+</dict>
+</plist>

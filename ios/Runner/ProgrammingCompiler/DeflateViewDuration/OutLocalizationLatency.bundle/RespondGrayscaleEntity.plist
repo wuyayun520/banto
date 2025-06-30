@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationdistance</key>
+	<string>sequentialObject</string>
+	<key>featureremediation</key>
+	<string>originalConfiguration</string>
+	<key>resizableRichText</key>
+	<string>instructionamongphase</string>
+	<key>uniqueSemantics</key>
+	<string>shouldFetchTextField</string>
+</dict>
+</plist>

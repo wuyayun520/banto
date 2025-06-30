@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindgesturedetector</key>
+	<string>multiplicationTint</string>
+	<key>desktopQuaternion</key>
+	<string>advancedcoordinator</string>
+	<key>graphhue</key>
+	<string>endVariant</string>
+	<key>materialamongcommand</key>
+	<string>completerFramework</string>
+	<key>seamlessGraphic</key>
+	<string>globalThreshold</string>
+	<key>shouldAnimateModulus</key>
+	<string>createPromise</string>
+</dict>
+</plist>

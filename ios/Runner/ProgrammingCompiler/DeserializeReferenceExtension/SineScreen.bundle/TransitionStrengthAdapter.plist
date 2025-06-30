@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianDependency</key>
+	<string>displayableAscent</string>
+	<key>criticalgroup</key>
+	<string>smartLoader</string>
+	<key>geometrictimerkind</key>
+	<string>symmetricTransformer</string>
+	<key>lostCombiner</key>
+	<string>canObserveAlpha</string>
+	<key>onresourcechanged</key>
+	<string>checklistStatus</string>
+	<key>optionDepth</key>
+	<string>standaloneSignature</string>
+	<key>prevVariant</key>
+	<string>gridviewticker</string>
+	<key>reducerLocation</key>
+	<string>lockmomentum</string>
+	<key>topicagainststate</key>
+	<string>publicUtil</string>
+</dict>
+</plist>

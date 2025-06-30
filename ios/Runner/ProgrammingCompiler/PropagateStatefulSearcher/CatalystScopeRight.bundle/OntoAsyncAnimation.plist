@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCallback</key>
+	<string>statefulInjection</string>
+	<key>respectiveinstructiondirection</key>
+	<string>dispatcherType</string>
+	<key>shouldTransitionSignature</key>
+	<string>shouldHandlePlayback</string>
+	<key>symmetricFragments</key>
+	<string>repositoryVelocity</string>
+</dict>
+</plist>

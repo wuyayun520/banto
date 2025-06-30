@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityPadding</key>
+	<string>significantCubit</string>
+	<key>consultativeAsync</key>
+	<string>cartesianinstructionskewx</string>
+	<key>mutableInformation</key>
+	<string>normalWorkflow</string>
+	<key>navigationmetrics</key>
+	<string>canLoadTask</string>
+	<key>sharedTabView</key>
+	<string>lazyDimension</string>
+	<key>shouldSerializeReference</key>
+	<string>liteScheduler</string>
+</dict>
+</plist>

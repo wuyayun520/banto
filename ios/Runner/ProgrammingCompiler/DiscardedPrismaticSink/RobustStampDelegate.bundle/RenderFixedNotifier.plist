@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerInset</key>
+	<string>canLayoutProjection</string>
+	<key>denseModal</key>
+	<string>observeTable</string>
+	<key>factoryspeed</key>
+	<string>popupforce</string>
+	<key>grayscaleframeworkvisibility</key>
+	<string>currentstack</string>
+	<key>lastSlider</key>
+	<string>shouldLoadSlider</string>
+	<key>precisionVisibility</key>
+	<string>providerBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackTheme</key>
+	<string>compileLayout</string>
+	<key>chapterpressure</key>
+	<string>commonTimer</string>
+	<key>customStep</key>
+	<string>recursionLeft</string>
+	<key>effectStyle</key>
+	<string>autoFilter</string>
+	<key>immutableGraphic</key>
+	<string>assetCount</string>
+	<key>offsetawayvariable</key>
+	<string>ignoredNotation</string>
+	<key>scalabilityOffset</key>
+	<string>prioritySize</string>
+</dict>
+</plist>

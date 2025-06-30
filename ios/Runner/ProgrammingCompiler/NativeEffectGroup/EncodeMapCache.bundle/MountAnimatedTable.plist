@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinetransparency</key>
+	<string>stopClipper</string>
+	<key>capsuleacceleration</key>
+	<string>unsortedmovementinteraction</string>
+	<key>futureandpattern</key>
+	<string>hardPageView</string>
+	<key>infrastructureSaturation</key>
+	<string>resolverPadding</string>
+	<key>interactiveCluster</key>
+	<string>retainText</string>
+	<key>logResponse</key>
+	<string>mutableHandler</string>
+	<key>respectiveRadio</key>
+	<string>canBindNotification</string>
+	<key>shouldStreamProtocol</key>
+	<string>boxshadowBridge</string>
+	<key>tappableInteraction</key>
+	<string>shouldrestartreduction</string>
+</dict>
+</plist>

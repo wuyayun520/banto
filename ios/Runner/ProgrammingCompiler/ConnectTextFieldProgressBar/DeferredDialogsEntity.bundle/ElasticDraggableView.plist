@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectFlags</key>
+	<string>displayableTexture</string>
+	<key>impressionDensity</key>
+	<string>selectedBox</string>
+	<key>precisionpressure</key>
+	<string>controllerscopeinterval</string>
+	<key>publicPet</key>
+	<string>optimizeObserver</string>
+	<key>publishallocator</key>
+	<string>pushhandler</string>
+	<key>receiverSkewY</key>
+	<string>webMediaQuery</string>
+	<key>staticTable</key>
+	<string>canRouteStoryboard</string>
+	<key>subscribecompletion</key>
+	<string>eventTemple</string>
+	<key>sustainableTabView</key>
+	<string>backwardStep</string>
+</dict>
+</plist>

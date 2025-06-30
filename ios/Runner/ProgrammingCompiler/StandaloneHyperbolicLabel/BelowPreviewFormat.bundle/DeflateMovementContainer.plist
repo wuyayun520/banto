@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeBloc</key>
+	<string>mountIcon</string>
+	<key>mobileRect</key>
+	<string>mediocreRoute</string>
+	<key>modalexceptstate</key>
+	<string>gateCount</string>
+	<key>persistentProgressBar</key>
+	<string>shouldLoadModulus</string>
+	<key>reusableCompletion</key>
+	<string>canCancelArithmetic</string>
+	<key>shouldUnmountedTouch</key>
+	<string>criticalProgressBar</string>
+	<key>specifierInset</key>
+	<string>canRenderStateful</string>
+	<key>tabbarOpacity</key>
+	<string>canDismissTabView</string>
+	<key>typicalstoryboard</key>
+	<string>overlayOrientation</string>
+</dict>
+</plist>

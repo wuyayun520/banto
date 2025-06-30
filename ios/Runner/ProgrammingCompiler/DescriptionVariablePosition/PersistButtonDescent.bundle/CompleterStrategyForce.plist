@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeDocument</key>
+	<string>graphAcceleration</string>
+	<key>heapShade</key>
+	<string>analogyAlignment</string>
+	<key>iterativePosition</key>
+	<string>independentlifecycle</string>
+	<key>lossinteraction</key>
+	<string>presentTabBar</string>
+	<key>moduleFlags</key>
+	<string>hierarchicalChallenge</string>
+	<key>shouldDisconnectSample</key>
+	<string>easyModule</string>
+	<key>shouldLoadTransition</key>
+	<string>startSizedBox</string>
+	<key>sinkvalueinteraction</key>
+	<string>calculateGrain</string>
+	<key>swifthead</key>
+	<string>canPersistBitrate</string>
+</dict>
+</plist>

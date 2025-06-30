@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalMusic</key>
+	<string>concurrentFrame</string>
+	<key>immutablecontroller</key>
+	<string>skinPattern</string>
+	<key>selectedreference</key>
+	<string>labelPressure</string>
+	<key>shouldPrepareClipper</key>
+	<string>repositorynearflyweight</string>
+	<key>tasktop</key>
+	<string>canValidateVariant</string>
+</dict>
+</plist>

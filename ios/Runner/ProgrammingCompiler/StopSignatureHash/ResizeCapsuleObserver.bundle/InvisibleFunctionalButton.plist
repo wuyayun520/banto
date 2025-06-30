@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalInjection</key>
+	<string>actionandnumber</string>
+	<key>materialStack</key>
+	<string>callbacklistener</string>
+	<key>permutationInterval</key>
+	<string>statefulFinder</string>
+	<key>singleTentative</key>
+	<string>promiseTension</string>
+	<key>uniqueScene</key>
+	<string>reactiveJoiner</string>
+</dict>
+</plist>

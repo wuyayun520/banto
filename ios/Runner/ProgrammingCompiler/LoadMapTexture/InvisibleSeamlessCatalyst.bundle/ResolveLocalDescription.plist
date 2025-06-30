@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintStatus</key>
+	<string>referencemode</string>
+	<key>disabledGrid</key>
+	<string>canCreateBorder</string>
+	<key>grouporientation</key>
+	<string>responsiveStatus</string>
+	<key>rolecontrast</key>
+	<string>columnFacade</string>
+	<key>shouldRenderStoryboard</key>
+	<string>diffableVariant</string>
+	<key>shouldValidateLog</key>
+	<string>mediaqueryColor</string>
+	<key>unsortedVolume</key>
+	<string>limitcustompaint</string>
+</dict>
+</plist>

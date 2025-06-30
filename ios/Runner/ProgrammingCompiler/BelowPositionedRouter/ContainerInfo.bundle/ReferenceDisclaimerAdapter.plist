@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalAsync</key>
+	<string>opaqueCallback</string>
+	<key>diversifiedstampappearance</key>
+	<string>keepModal</string>
+	<key>durationchooser</key>
+	<string>delegateFeature</string>
+	<key>localanimation</key>
+	<string>protectedFuture</string>
+	<key>marginspeed</key>
+	<string>inheritedposition</string>
+	<key>modallistener</key>
+	<string>advanceddescription</string>
+	<key>radiusTail</key>
+	<string>heroTier</string>
+	<key>staticRadio</key>
+	<string>confidentialityDuration</string>
+	<key>webCoordinator</key>
+	<string>modelPlatform</string>
+</dict>
+</plist>

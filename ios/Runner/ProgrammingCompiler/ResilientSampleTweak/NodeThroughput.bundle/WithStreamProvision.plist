@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorVelocity</key>
+	<string>canCacheSign</string>
+	<key>containerKind</key>
+	<string>presentStoryboard</string>
+	<key>discardedBullet</key>
+	<string>tableSingleton</string>
+	<key>mobileInjection</key>
+	<string>shouldCancelColumn</string>
+	<key>sampleleft</key>
+	<string>seamlessChallenge</string>
+	<key>segmentTension</key>
+	<string>appbarpadding</string>
+	<key>statefulMethod</key>
+	<string>capsuleAppearance</string>
+	<key>transformerFlags</key>
+	<string>keyPermutation</string>
+</dict>
+</plist>

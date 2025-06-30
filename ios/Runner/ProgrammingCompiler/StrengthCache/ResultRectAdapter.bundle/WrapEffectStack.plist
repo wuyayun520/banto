@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedPainter</key>
+	<string>mediocreintegration</string>
+	<key>fragmentsBrightness</key>
+	<string>scaffoldParam</string>
+	<key>multiplicationname</key>
+	<string>euclideanSwitch</string>
+	<key>shouldYieldDrawer</key>
+	<string>streamchart</string>
+</dict>
+</plist>

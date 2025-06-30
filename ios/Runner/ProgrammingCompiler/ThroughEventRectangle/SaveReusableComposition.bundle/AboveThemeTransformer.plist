@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customDetector</key>
+	<string>adaptiveDelivery</string>
+	<key>dynamicResolver</key>
+	<string>richtextSpeed</string>
+	<key>monsterVisibility</key>
+	<string>shouldFetchCache</string>
+	<key>originalSubscriber</key>
+	<string>comprehensiveThroughput</string>
+	<key>shouldStopRow</key>
+	<string>integrityMargin</string>
+	<key>sophisticatedSize</key>
+	<string>continueCanvas</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerAxis</key>
+	<string>shouldContinueRoute</string>
+	<key>completionCoord</key>
+	<string>interactiveAppBar</string>
+	<key>confidentialityindex</key>
+	<string>asynchronousContainer</string>
+	<key>loadaspectratio</key>
+	<string>equalizationVariable</string>
+	<key>normalAxis</key>
+	<string>aggregateWidget</string>
+	<key>reducerShape</key>
+	<string>shouldPersistFragment</string>
+	<key>shouldAttachEffect</key>
+	<string>cubitinfrastructure</string>
+	<key>sizeSkewY</key>
+	<string>canParseBrush</string>
+	<key>textfieldcubit</key>
+	<string>statefulCycle</string>
+</dict>
+</plist>

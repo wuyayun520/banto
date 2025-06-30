@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitFeedback</key>
+	<string>builderEdge</string>
+	<key>dropdownbuttonaboutnumber</key>
+	<string>inheritedBorder</string>
+	<key>easyIcon</key>
+	<string>elasticImpact</string>
+	<key>globalRichText</key>
+	<string>refreshSink</string>
+	<key>inactiveIcon</key>
+	<string>canDeserializeEquipment</string>
+	<key>inkwellTag</key>
+	<string>threadVisible</string>
+	<key>isCompletion</key>
+	<string>shouldEmitKernel</string>
+	<key>previewindex</key>
+	<string>encapsulateAsset</string>
+</dict>
+</plist>

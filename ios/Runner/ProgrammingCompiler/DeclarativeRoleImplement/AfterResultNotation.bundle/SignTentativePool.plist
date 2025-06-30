@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxhead</key>
+	<string>exponentDirection</string>
+	<key>currentFrame</key>
+	<string>inflateSpine</string>
+	<key>descriptionright</key>
+	<string>temporaryLocalization</string>
+	<key>directInteractor</key>
+	<string>shouldKeepGridView</string>
+	<key>explicitInterpolation</key>
+	<string>standaloneFuture</string>
+	<key>newestTabView</key>
+	<string>entityvarstate</string>
+	<key>semanticArchitecture</key>
+	<string>storageVariable</string>
+	<key>shouldSubscribeProject</key>
+	<string>charttolerance</string>
+	<key>statefulinprocess</key>
+	<string>canDetachClipper</string>
+	<key>streamHead</key>
+	<string>shouldContinueBuilder</string>
+</dict>
+</plist>

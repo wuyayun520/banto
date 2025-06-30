@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableResilience</key>
+	<string>shouldPersistIndicator</string>
+	<key>compositionalResult</key>
+	<string>canFinishAlert</string>
+	<key>isolateCoord</key>
+	<string>independentSubpixel</string>
+	<key>largeActivity</key>
+	<string>momentumTier</string>
+	<key>shouldContinueSign</key>
+	<string>benchmarkHandler</string>
+	<key>shouldPublishCursor</key>
+	<string>dedicatedCompleter</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedCube</key>
+	<string>servicethroughput</string>
+	<key>labelInteraction</key>
+	<string>gemsorter</string>
+	<key>lockfuture</key>
+	<string>usecaseFormat</string>
+	<key>prismaticShader</key>
+	<string>dropdownbuttontopic</string>
+	<key>shouldFinishMatrix</key>
+	<string>matrixKind</string>
+	<key>sizedboxMargin</key>
+	<string>sharedGrayscale</string>
+</dict>
+</plist>

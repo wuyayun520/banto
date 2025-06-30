@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containertint</key>
+	<string>compositionalView</string>
+	<key>cubitaroundoperation</key>
+	<string>composableNotification</string>
+	<key>gesturesaturation</key>
+	<string>elementVelocity</string>
+	<key>mediumChannels</key>
+	<string>uniqueRoute</string>
+	<key>permissiveAlpha</key>
+	<string>interpolationlayerposition</string>
+	<key>previewtop</key>
+	<string>storeTransparency</string>
+	<key>scaffoldStyle</key>
+	<string>widgetShape</string>
+	<key>storeasadapter</key>
+	<string>interactorBorder</string>
+</dict>
+</plist>

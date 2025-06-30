@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationborder</key>
+	<string>hierarchicalCosine</string>
+	<key>flexibleprogressbardepth</key>
+	<string>deployChannel</string>
+	<key>granularBinder</key>
+	<string>pendingAxis</string>
+	<key>mapCoord</key>
+	<string>canPersistRichText</string>
+	<key>recursionKind</key>
+	<string>backwardContrast</string>
+	<key>sortedCursor</key>
+	<string>cartesianCanvas</string>
+	<key>tableTension</key>
+	<string>nativeResponse</string>
+	<key>timerType</key>
+	<string>painterSpeed</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCube</key>
+	<string>generateCompleter</string>
+	<key>activeMediaQuery</key>
+	<string>finishMultiplication</string>
+	<key>brushstyletag</key>
+	<string>analyzeRequest</string>
+	<key>cupertinoMethod</key>
+	<string>fillInterface</string>
+	<key>robustInfrastructure</key>
+	<string>hardCycle</string>
+	<key>switchFeedback</key>
+	<string>invokeCompleter</string>
+</dict>
+</plist>

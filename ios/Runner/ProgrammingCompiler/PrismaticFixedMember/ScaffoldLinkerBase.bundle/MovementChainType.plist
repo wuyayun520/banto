@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardAnalyzer</key>
+	<string>respectiveEqualization</string>
+	<key>checklistDuration</key>
+	<string>declarativeRectangle</string>
+	<key>nodeLocation</key>
+	<string>captureTween</string>
+	<key>onaxischanged</key>
+	<string>itemFeedback</string>
+	<key>repositorytheme</key>
+	<string>smallEqualization</string>
+	<key>semanticsLeft</key>
+	<string>shouldFormatSwitch</string>
+	<key>semanticsfeedback</key>
+	<string>requiredState</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>missedCompletion</key>
+	<string>sineDensity</string>
+	<key>nodeSpeed</key>
+	<string>shouldHandleTool</string>
+	<key>reactiveUsage</key>
+	<string>localChooser</string>
+	<key>repositoryforstyle</key>
+	<string>subpixelForm</string>
+	<key>semanticPoint</key>
+	<string>emitResult</string>
+	<key>shouldHandleSemantics</key>
+	<string>shouldStartComposition</string>
+	<key>specifylabel</key>
+	<string>optimizeChapter</string>
+</dict>
+</plist>

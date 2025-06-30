@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectgraph</key>
+	<string>restrictionPressure</string>
+	<key>difficultevent</key>
+	<string>easyPriority</string>
+	<key>loopSpacing</key>
+	<string>swiftEdge</string>
+	<key>skinColor</key>
+	<string>shouldSetStateSensor</string>
+	<key>tweennearkind</key>
+	<string>histogramVisibility</string>
+	<key>zonealignment</key>
+	<string>smallLocalization</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeCurve</key>
+	<string>wrapLoop</string>
+	<key>cubeTransparency</key>
+	<string>modulusDepth</string>
+	<key>cupertinoBrightness</key>
+	<string>onbuildertap</string>
+	<key>globalConfiguration</key>
+	<string>adaptiveGrayscale</string>
+	<key>localizationframeworkbehavior</key>
+	<string>shouldTransitionTool</string>
+	<key>primaryScroll</key>
+	<string>graphicTheme</string>
+	<key>relationalBandwidth</key>
+	<string>endchart</string>
+	<key>retainedtolerance</key>
+	<string>viewType</string>
+	<key>visibleOptimizer</key>
+	<string>robustStroke</string>
+</dict>
+</plist>

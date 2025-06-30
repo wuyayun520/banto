@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantRotation</key>
+	<string>segueSpacing</string>
+	<key>metadataCenter</key>
+	<string>taskmode</string>
+	<key>reusableIntensity</key>
+	<string>implementScene</string>
+	<key>statusDirection</key>
+	<string>symmetricview</string>
+</dict>
+</plist>

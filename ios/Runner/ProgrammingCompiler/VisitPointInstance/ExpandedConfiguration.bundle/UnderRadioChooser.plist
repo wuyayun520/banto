@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardmatrixmode</key>
+	<string>chartFrequency</string>
+	<key>referenceValidation</key>
+	<string>enabledPublisher</string>
+	<key>scenariorate</key>
+	<string>integrityFeedback</string>
+	<key>shouldNavigateMember</key>
+	<string>completedRadio</string>
+	<key>shouldcancelsession</key>
+	<string>directlyNavigator</string>
+	<key>techniqueMargin</key>
+	<string>reduceNavigator</string>
+	<key>tickerright</key>
+	<string>canNavigateSign</string>
+</dict>
+</plist>

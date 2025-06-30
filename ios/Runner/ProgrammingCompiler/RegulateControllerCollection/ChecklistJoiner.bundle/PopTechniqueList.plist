@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousEvaluation</key>
+	<string>interactorIndex</string>
+	<key>ignoredAudio</key>
+	<string>rectifyRow</string>
+	<key>scopeFlags</key>
+	<string>histogramwithoutprototype</string>
+	<key>secondUseCase</key>
+	<string>showPromise</string>
+</dict>
+</plist>

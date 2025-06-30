@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetsystemhead</key>
+	<string>ascentFrequency</string>
+	<key>denseReplica</key>
+	<string>completedProfile</string>
+	<key>fragmentsScale</key>
+	<string>dynamicText</string>
+	<key>greatStateless</key>
+	<string>detachstateless</string>
+	<key>parsenotification</key>
+	<string>dismissSymbol</string>
+</dict>
+</plist>

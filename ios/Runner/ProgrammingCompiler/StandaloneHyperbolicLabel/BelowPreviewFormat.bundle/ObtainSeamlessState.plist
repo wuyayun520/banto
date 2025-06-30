@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerReplica</key>
+	<string>substantialSlash</string>
+	<key>resilientAnchor</key>
+	<string>shouldDisposeConsumer</string>
+	<key>shouldMountedLog</key>
+	<string>consumeCallback</string>
+	<key>shouldValidateTechnique</key>
+	<string>decoupleLocalization</string>
+	<key>significantEffect</key>
+	<string>analyzeHandler</string>
+</dict>
+</plist>

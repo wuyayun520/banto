@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonCollection</key>
+	<string>formatTail</string>
+	<key>consumelabel</key>
+	<string>entityTheme</string>
+	<key>enabledTrajectory</key>
+	<string>histogrambesidetier</string>
+	<key>layerValidation</key>
+	<string>certificateInset</string>
+	<key>seamlessresourcetint</key>
+	<string>basicdetail</string>
+	<key>shouldSkipSpine</key>
+	<string>instantiateCompleter</string>
+</dict>
+</plist>

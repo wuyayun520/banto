@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletDensity</key>
+	<string>spotTheme</string>
+	<key>decorationwidget</key>
+	<string>enumeraterouter</string>
+	<key>publishview</key>
+	<string>relationalmatrixcontrast</string>
+	<key>reactiveTraversal</key>
+	<string>shouldPushConsumer</string>
+	<key>resolverpadding</key>
+	<string>sceneVisibility</string>
+	<key>temporaryStep</key>
+	<string>comprehensiveSample</string>
+	<key>validateobserver</key>
+	<string>lostDispatcher</string>
+</dict>
+</plist>

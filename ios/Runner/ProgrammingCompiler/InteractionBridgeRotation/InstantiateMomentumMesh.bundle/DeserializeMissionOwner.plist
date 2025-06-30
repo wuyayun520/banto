@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledConstraint</key>
+	<string>mainUseCase</string>
+	<key>platesaturation</key>
+	<string>interactionDelay</string>
+	<key>playfuture</key>
+	<string>previewpicker</string>
+	<key>robustPlate</key>
+	<string>batchFacade</string>
+	<key>shouldPauseOperation</key>
+	<string>crucialColor</string>
+	<key>shouldStreamArithmetic</key>
+	<string>cacheflyweightbehavior</string>
+	<key>shouldrouteinterpolation</key>
+	<string>visitResolver</string>
+	<key>zoneMargin</key>
+	<string>sampleFrequency</string>
+</dict>
+</plist>

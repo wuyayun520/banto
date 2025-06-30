@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorLocation</key>
+	<string>modulusAdapter</string>
+	<key>columnInset</key>
+	<string>prepareGram</string>
+	<key>curveTension</key>
+	<string>layerinsideproxy</string>
+	<key>propagategesturedetector</key>
+	<string>interactorspeed</string>
+	<key>resizableThread</key>
+	<string>constraintincludenumber</string>
+	<key>similarCombiner</key>
+	<string>basicScroll</string>
+</dict>
+</plist>

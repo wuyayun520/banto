@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayablePlayback</key>
+	<string>blocformethod</string>
+	<key>imagemementosaturation</key>
+	<string>canBuildExponent</string>
+	<key>istransition</key>
+	<string>isstateless</string>
+	<key>keyequalizationhue</key>
+	<string>assetLayer</string>
+	<key>mapOrigin</key>
+	<string>uniformPageView</string>
+	<key>onpointtap</key>
+	<string>canSkipSegment</string>
+	<key>resilientplatevisible</key>
+	<string>mountedreference</string>
+	<key>scrollPressure</key>
+	<string>resilientLocalization</string>
+	<key>shouldProcessEntropy</key>
+	<string>displayGrain</string>
+</dict>
+</plist>

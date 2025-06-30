@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionDisclaimer</key>
+	<string>agileComponent</string>
+	<key>custompaintdecoratoredge</key>
+	<string>permissiveRouter</string>
+	<key>navigationlistener</key>
+	<string>oldScenario</string>
+	<key>navigatorcluster</key>
+	<string>pinchableDetail</string>
+	<key>resourceroute</key>
+	<string>differentiateLoop</string>
+	<key>shouldInflateActivity</key>
+	<string>listenPlate</string>
+	<key>shouldLayoutGram</key>
+	<string>canDeserializeDrawer</string>
+	<key>shouldTransitionAnimatedContainer</key>
+	<string>usecaseWork</string>
+	<key>unsortedTransition</key>
+	<string>beginnerQueue</string>
+</dict>
+</plist>

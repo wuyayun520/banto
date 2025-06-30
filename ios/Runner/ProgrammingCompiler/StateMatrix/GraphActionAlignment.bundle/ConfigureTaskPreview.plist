@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerresponse</key>
+	<string>cupertinoMethod</string>
+	<key>autoSubscription</key>
+	<string>shouldparsetextfield</string>
+	<key>backwardCompletion</key>
+	<string>utilAppearance</string>
+	<key>framedata</key>
+	<string>fetchCoordinator</string>
+	<key>globalCapsule</key>
+	<string>exitResult</string>
+	<key>instructioncolor</key>
+	<string>resolveBloc</string>
+	<key>materialVisibility</key>
+	<string>requiredTime</string>
+	<key>specifierfeedback</key>
+	<string>relationalChallenge</string>
+</dict>
+</plist>

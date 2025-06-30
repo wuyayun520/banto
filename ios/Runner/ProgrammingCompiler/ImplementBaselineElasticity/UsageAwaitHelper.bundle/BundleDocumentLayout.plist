@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSize</key>
+	<string>videoHue</string>
+	<key>descriptionfeedback</key>
+	<string>subpixelTheme</string>
+	<key>equalizationprocessor</key>
+	<string>asyncValidation</string>
+	<key>loopLeft</key>
+	<string>interpolateBuilder</string>
+	<key>momentumName</key>
+	<string>draggableAudio</string>
+	<key>multiDocument</key>
+	<string>musicVisible</string>
+	<key>shouldListenMonster</key>
+	<string>canKeepCache</string>
+	<key>shouldcacheloss</key>
+	<string>localAwait</string>
+	<key>swiftMargin</key>
+	<string>semanticcollection</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inkwelloperationright</key>
+	<string>collectionBottom</string>
+	<key>menubrightness</key>
+	<string>sinkRight</string>
+	<key>notifierMode</key>
+	<string>specifyDescription</string>
+	<key>scenarioEdge</key>
+	<string>stepVisible</string>
+	<key>semanticAnimation</key>
+	<string>buttonTier</string>
+	<key>shouldCancelTouch</key>
+	<string>positionVisitor</string>
+	<key>staticBox</key>
+	<string>animateutil</string>
+</dict>
+</plist>

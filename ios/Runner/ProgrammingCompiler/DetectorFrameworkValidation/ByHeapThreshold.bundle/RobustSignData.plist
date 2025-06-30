@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferLocation</key>
+	<string>filterRotation</string>
+	<key>crudeBullet</key>
+	<string>fragmentFormat</string>
+	<key>customExpanded</key>
+	<string>sequentialReduction</string>
+	<key>extensionVisibility</key>
+	<string>canRestartCursor</string>
+	<key>filterPressure</key>
+	<string>flexibleAnchor</string>
+	<key>hardStateful</key>
+	<string>disparateconvolutionsize</string>
+	<key>nativeInterpolation</key>
+	<string>canYieldInterpolation</string>
+	<key>seamlessConfiguration</key>
+	<string>intermediateAsset</string>
+	<key>shouldsetstatehistogram</key>
+	<string>materializeanimation</string>
+	<key>subpixelinterpreterpadding</key>
+	<string>lastExtension</string>
+</dict>
+</plist>

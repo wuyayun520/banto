@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>charthead</key>
+	<string>canBuildMultiplication</string>
+	<key>ephemeralRadius</key>
+	<string>currentFinder</string>
+	<key>inkwellDensity</key>
+	<string>hashTag</string>
+	<key>matrixValidation</key>
+	<string>haslayout</string>
+	<key>reductionSpacing</key>
+	<string>responsivepublisher</string>
+	<key>sessioncontroller</key>
+	<string>decorationlocation</string>
+	<key>spinemementoformat</key>
+	<string>persistChannels</string>
+</dict>
+</plist>

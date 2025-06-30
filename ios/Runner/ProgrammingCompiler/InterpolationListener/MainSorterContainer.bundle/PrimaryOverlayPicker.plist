@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticalignment</key>
+	<string>visibleTextField</string>
+	<key>fixedThread</key>
+	<string>pushCharacter</string>
+	<key>fixedprecisionorigin</key>
+	<string>protectedRoute</string>
+	<key>semanticReceiver</key>
+	<string>prevFragment</string>
+	<key>shouldStartCheckbox</key>
+	<string>fixedAmortization</string>
+	<key>shouldStopExtension</key>
+	<string>otherMerger</string>
+	<key>statePressure</key>
+	<string>globalChart</string>
+	<key>unsortedScheduler</key>
+	<string>scheduleLoop</string>
+</dict>
+</plist>

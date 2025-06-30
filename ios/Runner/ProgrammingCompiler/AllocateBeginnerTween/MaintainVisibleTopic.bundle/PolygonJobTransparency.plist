@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheusecase</key>
+	<string>recursionDirection</string>
+	<key>decorationactivityinterval</key>
+	<string>immutableManager</string>
+	<key>onmemberchanged</key>
+	<string>buildScroll</string>
+	<key>resizableInterface</key>
+	<string>independentVolume</string>
+	<key>shouldStreamSemantics</key>
+	<string>displayableScope</string>
+	<key>standalonecontractionkind</key>
+	<string>finderHead</string>
+</dict>
+</plist>

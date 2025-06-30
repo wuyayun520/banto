@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveRight</key>
+	<string>ascentBorder</string>
+	<key>extensionAppearance</key>
+	<string>specifySubpixel</string>
+	<key>hassession</key>
+	<string>embedSlider</string>
+	<key>mechanismPosition</key>
+	<string>enabledRestriction</string>
+	<key>resizableDescriptor</key>
+	<string>buildTool</string>
+	<key>shouldTransformLog</key>
+	<string>observeraspect</string>
+	<key>uniformScheduler</key>
+	<string>statefulframeworkvisible</string>
+	<key>usedStorage</key>
+	<string>buildGradient</string>
+</dict>
+</plist>

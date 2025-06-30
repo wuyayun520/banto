@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphasaturation</key>
+	<string>interpolateRouter</string>
+	<key>collectionmethodalignment</key>
+	<string>mixinGrain</string>
+	<key>customSplitter</key>
+	<string>logarithmbypattern</string>
+	<key>serializemember</key>
+	<string>rendererCount</string>
+	<key>shouldRouteSignature</key>
+	<string>unsortedPlayback</string>
+	<key>sizeValidation</key>
+	<string>nextInjection</string>
+	<key>specifyTernary</key>
+	<string>defaultInteger</string>
+	<key>visibleNode</key>
+	<string>uniformPromise</string>
+</dict>
+</plist>

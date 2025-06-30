@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedMobile</key>
+	<string>shaderVelocity</string>
+	<key>comprehensivecurve</key>
+	<string>comprehensiveCosine</string>
+	<key>fixedAllocator</key>
+	<string>resilienceCount</string>
+	<key>integerTail</key>
+	<string>firstgridviewcenter</string>
+	<key>largeAspect</key>
+	<string>reactiveInteractor</string>
+	<key>lostShader</key>
+	<string>shouldSerializeTernary</string>
+	<key>primaryFactory</key>
+	<string>dismissbuilder</string>
+	<key>remainderpager</key>
+	<string>fixedexponentformat</string>
+	<key>sortedMechanism</key>
+	<string>loopStrategy</string>
+	<key>viewoutsidememento</key>
+	<string>notifySubscription</string>
+</dict>
+</plist>

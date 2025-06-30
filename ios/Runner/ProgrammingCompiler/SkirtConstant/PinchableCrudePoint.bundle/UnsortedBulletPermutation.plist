@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderinterval</key>
+	<string>protectedChart</string>
+	<key>dedicatedPicker</key>
+	<string>discardedMobile</string>
+	<key>documentsink</key>
+	<string>curveFrequency</string>
+	<key>emitlistener</key>
+	<string>canRestartTextField</string>
+	<key>interactivefuturedirection</key>
+	<string>mapStructure</string>
+	<key>materializerSpeed</key>
+	<string>unmountedNavigation</string>
+	<key>stateviaactivity</key>
+	<string>featurevisibility</string>
+	<key>tensorBoxShadow</key>
+	<string>popSizedBox</string>
+</dict>
+</plist>

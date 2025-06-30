@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentStoryboard</key>
+	<string>positionscenario</string>
+	<key>descentrotation</key>
+	<string>elasticEntity</string>
+	<key>greatmapper</key>
+	<string>measureTimer</string>
+	<key>protocolframeworkinteraction</key>
+	<string>concurrentCallback</string>
+	<key>spriteStatus</key>
+	<string>replaceDescription</string>
+</dict>
+</plist>

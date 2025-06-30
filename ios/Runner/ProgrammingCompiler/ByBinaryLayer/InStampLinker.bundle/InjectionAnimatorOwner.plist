@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationitem</key>
+	<string>bitrateresource</string>
+	<key>discardedFinder</key>
+	<string>themeNumber</string>
+	<key>fusedModule</key>
+	<string>disabledBrush</string>
+	<key>prioritysincevalue</key>
+	<string>deactivateFeature</string>
+	<key>rendererTheme</key>
+	<string>shaderFlags</string>
+	<key>routervisibility</key>
+	<string>commonintensity</string>
+	<key>shouldDispatchContraction</key>
+	<string>concatenateFactory</string>
+	<key>shouldEndRoute</key>
+	<string>indicatorObserver</string>
+	<key>specifierrectangle</key>
+	<string>controllerDecorator</string>
+</dict>
+</plist>

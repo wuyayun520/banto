@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedPicker</key>
+	<string>transitionmethodmargin</string>
+	<key>characterInteraction</key>
+	<string>grainFlags</string>
+	<key>euclideanInteger</key>
+	<string>pushBloc</string>
+	<key>heapSaturation</key>
+	<string>compileDecoration</string>
+	<key>hyperbolicinstruction</key>
+	<string>switchForce</string>
+	<key>inheritedContraction</key>
+	<string>elasticityLocation</string>
+	<key>shouldPopHeap</key>
+	<string>resolverstate</string>
+	<key>signHead</key>
+	<string>fragmentTask</string>
+	<key>uniqueTraversal</key>
+	<string>equalModel</string>
+</dict>
+</plist>

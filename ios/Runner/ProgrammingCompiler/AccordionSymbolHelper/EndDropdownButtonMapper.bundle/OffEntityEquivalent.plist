@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryinterpreterfeedback</key>
+	<string>canFetchRichText</string>
+	<key>animatorForce</key>
+	<string>displayableCombiner</string>
+	<key>composableasync</key>
+	<string>taskanddecorator</string>
+	<key>customFactory</key>
+	<string>makeTween</string>
+	<key>nextAnalyzer</key>
+	<string>factoryMemento</string>
+	<key>oldLayout</key>
+	<string>respectiveaspect</string>
+	<key>opaqueResponse</key>
+	<string>alphaEnvironment</string>
+	<key>resilientRole</key>
+	<string>renderresult</string>
+	<key>retainedFuture</key>
+	<string>listviewhandler</string>
+</dict>
+</plist>

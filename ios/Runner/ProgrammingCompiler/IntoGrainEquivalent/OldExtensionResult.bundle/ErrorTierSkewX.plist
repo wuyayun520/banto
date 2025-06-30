@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>acceleraterow</key>
+	<string>canKeepLog</string>
+	<key>discardedPlayback</key>
+	<string>reusableSlider</string>
+	<key>euclideanImpression</key>
+	<string>declarativePreview</string>
+	<key>logOffset</key>
+	<string>rapidEmitter</string>
+	<key>normalpolygon</key>
+	<string>canRenderReference</string>
+	<key>taxonomyHead</key>
+	<string>concurrentHandler</string>
+</dict>
+</plist>

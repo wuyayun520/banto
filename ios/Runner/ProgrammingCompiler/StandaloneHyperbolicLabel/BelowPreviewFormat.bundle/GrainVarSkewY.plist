@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicSplitter</key>
+	<string>completerTop</string>
+	<key>equivalentVisible</key>
+	<string>searchervelocity</string>
+	<key>handlecontraction</key>
+	<string>hierarchicalDelegate</string>
+	<key>popupvalidation</key>
+	<string>shouldUnbindSkin</string>
+	<key>scalelifecycle</key>
+	<string>sharedProjection</string>
+	<key>shouldDispatchSemantics</key>
+	<string>curveorigin</string>
+	<key>shouldSaveOption</key>
+	<string>canCacheCurve</string>
+</dict>
+</plist>

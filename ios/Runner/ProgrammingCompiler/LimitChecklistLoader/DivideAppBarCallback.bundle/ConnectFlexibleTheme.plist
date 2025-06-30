@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeequipment</key>
+	<string>canMountedAxis</string>
+	<key>concreteLoss</key>
+	<string>dialogsParam</string>
+	<key>declarativeLoss</key>
+	<string>denseConsumption</string>
+	<key>elasticResolver</key>
+	<string>sortedmetadata</string>
+	<key>fixedCombiner</key>
+	<string>channelpolyfill</string>
+	<key>gridviewskewy</key>
+	<string>shouldpausecatalyst</string>
+	<key>polygonSpacing</key>
+	<string>transformeranimator</string>
+	<key>semanticsfunctionhue</key>
+	<string>asyncenvironmentmargin</string>
+	<key>shoulddecodesizedbox</key>
+	<string>titleVariable</string>
+</dict>
+</plist>

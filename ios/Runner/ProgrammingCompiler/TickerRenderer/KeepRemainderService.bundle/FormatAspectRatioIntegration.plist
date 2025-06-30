@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionTail</key>
+	<string>shaderVisitor</string>
+	<key>displayableListener</key>
+	<string>pivotalResponder</string>
+	<key>missedWidget</key>
+	<string>retainedTolerance</string>
+	<key>momentumRight</key>
+	<string>shouldRenderScaffold</string>
+	<key>momentumState</key>
+	<string>shouldEncodeMember</string>
+	<key>permissiveModulus</key>
+	<string>builderparameterappearance</string>
+	<key>significantParticle</key>
+	<string>canLoadStateful</string>
+	<key>staticCompletion</key>
+	<string>textfieldDirection</string>
+	<key>usedPopup</key>
+	<string>finishCube</string>
+</dict>
+</plist>

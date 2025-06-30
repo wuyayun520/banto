@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledSine</key>
+	<string>shouldDetachOption</string>
+	<key>heapamongfacade</key>
+	<string>storyboardandadapter</string>
+	<key>mediumGift</key>
+	<string>animatedcontainerTag</string>
+	<key>particlespeed</key>
+	<string>textureState</string>
+	<key>releasequeue</key>
+	<string>shouldUnmountedBuilder</string>
+	<key>topicposition</key>
+	<string>retainedCatalyst</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesactivityedge</key>
+	<string>consultativeSegue</string>
+	<key>gateDistance</key>
+	<string>capsuleAdapter</string>
+	<key>localizationStyle</key>
+	<string>emittercount</string>
+	<key>missionbrightness</key>
+	<string>cupertinopageview</string>
+	<key>threadOpacity</key>
+	<string>detachLabel</string>
+	<key>uniformNavigation</key>
+	<string>crucialInjection</string>
+</dict>
+</plist>

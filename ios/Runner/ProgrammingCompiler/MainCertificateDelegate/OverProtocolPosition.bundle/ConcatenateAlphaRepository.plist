@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopdecoration</key>
+	<string>sophisticatedlistener</string>
+	<key>fragmentsCount</key>
+	<string>fixedConverter</string>
+	<key>requiredMaterializer</key>
+	<string>canObserveStateful</string>
+	<key>shouldPauseReference</key>
+	<string>canPaintGradient</string>
+	<key>shouldReplaceModal</key>
+	<string>globalDetail</string>
+</dict>
+</plist>

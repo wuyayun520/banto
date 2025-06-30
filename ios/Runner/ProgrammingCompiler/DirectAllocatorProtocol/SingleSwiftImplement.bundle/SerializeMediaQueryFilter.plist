@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousStateless</key>
+	<string>gateVisibility</string>
+	<key>basictransformer</key>
+	<string>saveswift</string>
+	<key>dropdownbuttonTop</key>
+	<string>completionBound</string>
+	<key>haspageview</key>
+	<string>shouldserializeaspectratio</string>
+	<key>labelobserver</key>
+	<string>shouldShowCollection</string>
+	<key>nextSizedBox</key>
+	<string>isheap</string>
+	<key>pointDepth</key>
+	<string>shoulddisconnectanimation</string>
+	<key>textinteraction</key>
+	<string>persistBox</string>
+</dict>
+</plist>

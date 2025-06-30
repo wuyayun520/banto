@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianAspect</key>
+	<string>futurespeed</string>
+	<key>comprehensiveduration</key>
+	<string>subscriptionduringcycle</string>
+	<key>dimensionVisibility</key>
+	<string>mainMap</string>
+	<key>easyMatrix</key>
+	<string>promiseComposite</string>
+	<key>instructionSpacing</key>
+	<string>labelPosition</string>
+	<key>mainAnchor</key>
+	<string>associatedAmortization</string>
+	<key>shouldStopTextField</key>
+	<string>unsortedworkflow</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklabel</key>
+	<string>shouldBindLoss</string>
+	<key>dependencytheme</key>
+	<string>concatenateBuilder</string>
+	<key>disabledPrecision</key>
+	<string>buildProjection</string>
+	<key>dropdownbuttoneffect</key>
+	<string>routeDirection</string>
+	<key>insteadcursor</key>
+	<string>gramInterval</string>
+	<key>storejobleft</key>
+	<string>containerTransparency</string>
+</dict>
+</plist>

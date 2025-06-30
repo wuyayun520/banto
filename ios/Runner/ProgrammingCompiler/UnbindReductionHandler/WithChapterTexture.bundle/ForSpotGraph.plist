@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>integritydistance</key>
+	<string>updateDependency</string>
+	<key>liteAllocator</key>
+	<string>substantialManager</string>
+	<key>rapidParticle</key>
+	<string>customSpine</string>
+	<key>scrollcoord</key>
+	<string>canPopImage</string>
+	<key>shouldCancelTabView</key>
+	<string>unmountCustomPaint</string>
+	<key>widgetPressure</key>
+	<string>startMultiplication</string>
+</dict>
+</plist>

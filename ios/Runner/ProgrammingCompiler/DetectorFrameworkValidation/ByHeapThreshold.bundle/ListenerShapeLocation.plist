@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardtransitionflags</key>
+	<string>canFetchSegue</string>
+	<key>beginnerVolume</key>
+	<string>dependencyagainsttask</string>
+	<key>relationalcontractionfeedback</key>
+	<string>advancedCubit</string>
+	<key>shouldLayoutThread</key>
+	<string>geometricGrayscale</string>
+	<key>textmapper</key>
+	<string>optimizeIsolate</string>
+</dict>
+</plist>

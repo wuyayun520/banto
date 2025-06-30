@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonName</key>
+	<string>canSubscribeVariant</string>
+	<key>composableRepository</key>
+	<string>usageChain</string>
+	<key>compositionalmenurate</key>
+	<string>handleresource</string>
+	<key>entitywithvisitor</key>
+	<string>seamlessListView</string>
+	<key>frameRotation</key>
+	<string>canUnmountedGesture</string>
+	<key>logSpacing</key>
+	<string>mediaPadding</string>
+	<key>protocolOrientation</key>
+	<string>schedulerBrightness</string>
+	<key>resourcenavigator</key>
+	<string>concurrenterror</string>
+	<key>similarinformation</key>
+	<string>createHero</string>
+	<key>sorterEdge</key>
+	<string>mobileFrame</string>
+</dict>
+</plist>

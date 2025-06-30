@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTransformer</key>
+	<string>vertexInterval</string>
+	<key>checkboxKind</key>
+	<string>progressbarType</string>
+	<key>composableAnalyzer</key>
+	<string>shouldRestartEntropy</string>
+	<key>deprecatebloc</key>
+	<string>decoupleBloc</string>
+	<key>intuitiveHero</key>
+	<string>associatedFuture</string>
+	<key>labelForce</key>
+	<string>shouldBuildSegue</string>
+	<key>respectiveService</key>
+	<string>sophisticatedSpot</string>
+	<key>robustVector</key>
+	<string>mutableJoiner</string>
+	<key>seamlessRow</key>
+	<string>diffableLogarithm</string>
+</dict>
+</plist>

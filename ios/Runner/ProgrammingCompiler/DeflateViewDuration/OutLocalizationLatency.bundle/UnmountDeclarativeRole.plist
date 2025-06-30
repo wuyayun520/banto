@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisOrientation</key>
+	<string>primaryMetrics</string>
+	<key>callbackTheme</key>
+	<string>usecaseTheme</string>
+	<key>ignoredcompletion</key>
+	<string>canDecodeEquipment</string>
+	<key>immediatenotation</key>
+	<string>showButton</string>
+	<key>lostCertificate</key>
+	<string>canLoadCupertino</string>
+	<key>smartGrid</key>
+	<string>logMargin</string>
+</dict>
+</plist>

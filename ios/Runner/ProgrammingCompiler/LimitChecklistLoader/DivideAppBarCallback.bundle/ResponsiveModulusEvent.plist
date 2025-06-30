@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerofflyweight</key>
+	<string>queueMethod</string>
+	<key>cupertinoCheckbox</key>
+	<string>symmetricanimation</string>
+	<key>hasresource</key>
+	<string>immediateText</string>
+	<key>impressionKind</key>
+	<string>canPopSubpixel</string>
+	<key>limitgesture</key>
+	<string>standaloneCosine</string>
+	<key>shouldPresentSegue</key>
+	<string>disabledAnalyzer</string>
+	<key>smallDependency</key>
+	<string>removeOffset</string>
+</dict>
+</plist>

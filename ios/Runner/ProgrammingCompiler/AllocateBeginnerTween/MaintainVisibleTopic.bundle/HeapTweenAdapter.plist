@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMedia</key>
+	<string>missedNotifier</string>
+	<key>asynchronousBullet</key>
+	<string>masterShape</string>
+	<key>bulletBehavior</key>
+	<string>ternaryOpacity</string>
+	<key>clusterAlignment</key>
+	<string>rapidjoiner</string>
+	<key>desktopCursor</key>
+	<string>extendChapter</string>
+	<key>iterativePicker</key>
+	<string>gramValidation</string>
+	<key>mediumArchitecture</key>
+	<string>shouldProcessEqualization</string>
+	<key>relationalScenario</key>
+	<string>shouldDismissPadding</string>
+	<key>scrollablemomentum</key>
+	<string>shouldUnmountWorkflow</string>
+	<key>sorterLocation</key>
+	<string>visibleThreshold</string>
+</dict>
+</plist>

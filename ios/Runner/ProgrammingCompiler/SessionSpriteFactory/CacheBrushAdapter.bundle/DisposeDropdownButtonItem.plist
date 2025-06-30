@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackValidation</key>
+	<string>opaqueHash</string>
+	<key>enhanceanchor</key>
+	<string>extenddescription</string>
+	<key>interactiveVideo</key>
+	<string>quitNode</string>
+	<key>onstoryboardtap</key>
+	<string>greatDrawer</string>
+	<key>selectedPromise</key>
+	<string>uniqueSkirt</string>
+	<key>smallScene</key>
+	<string>concurrentMerger</string>
+	<key>unsortedBatch</key>
+	<string>measurestore</string>
+</dict>
+</plist>

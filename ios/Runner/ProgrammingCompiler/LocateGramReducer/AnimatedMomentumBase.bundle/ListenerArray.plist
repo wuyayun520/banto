@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedInfrastructure</key>
+	<string>smartHash</string>
+	<key>customizedscroller</key>
+	<string>localizationvaluestate</string>
+	<key>draggableFilter</key>
+	<string>performmember</string>
+	<key>shouldtransitioncaption</key>
+	<string>delegateDirection</string>
+</dict>
+</plist>

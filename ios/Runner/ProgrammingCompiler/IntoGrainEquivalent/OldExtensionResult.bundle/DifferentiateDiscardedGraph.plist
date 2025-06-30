@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasAcceleration</key>
+	<string>canPushDocument</string>
+	<key>declarativeCollection</key>
+	<string>shouldFetchSizedBox</string>
+	<key>imperativeAnimator</key>
+	<string>eagerstore</string>
+	<key>layerdisclaimer</key>
+	<string>hardCaption</string>
+	<key>mobileInteger</key>
+	<string>parseposition</string>
+	<key>seamlessSpot</key>
+	<string>mediumDelegate</string>
+	<key>shouldpresenttransition</key>
+	<string>handlerTag</string>
+</dict>
+</plist>

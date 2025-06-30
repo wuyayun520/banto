@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationTag</key>
+	<string>notificationfinder</string>
+	<key>ephemeralMedia</key>
+	<string>reactivefuture</string>
+	<key>flextaxonomy</key>
+	<string>gridvieworstage</string>
+	<key>inheritedscenario</key>
+	<string>parseTangent</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileEqualization</key>
+	<string>permanentVertex</string>
+	<key>appbarlayer</key>
+	<string>statefulStoryboard</string>
+	<key>dismissaction</key>
+	<string>mainConsumer</string>
+	<key>missedExtension</key>
+	<string>flexibleObserver</string>
+	<key>routebutton</key>
+	<string>curvetransparency</string>
+	<key>scrollviaframework</key>
+	<string>dedicatedrect</string>
+	<key>spritenotation</key>
+	<string>shouldUnmountedShader</string>
+	<key>tangentBehavior</key>
+	<string>persistentBrush</string>
+	<key>viewvariableshade</key>
+	<string>firstQuaternion</string>
+</dict>
+</plist>

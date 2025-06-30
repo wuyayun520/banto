@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredModel</key>
+	<string>sorterLocation</string>
+	<key>eagerMaterializer</key>
+	<string>alertKind</string>
+	<key>intuitiveConfidentiality</key>
+	<string>materializeGroup</string>
+	<key>pageviewDistance</key>
+	<string>disabledAnimator</string>
+	<key>prismaticpadding</key>
+	<string>scrollableCallback</string>
+	<key>secondMomentum</key>
+	<string>allocateAllocator</string>
+	<key>shouldEndModal</key>
+	<string>consumerValue</string>
+	<key>shouldUpdateMaterial</key>
+	<string>callbackversusobserver</string>
+	<key>throughputColor</key>
+	<string>bitratetiertint</string>
+</dict>
+</plist>

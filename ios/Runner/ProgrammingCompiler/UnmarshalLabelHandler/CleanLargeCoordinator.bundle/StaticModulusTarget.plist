@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticOrientation</key>
+	<string>entropyBound</string>
+	<key>arithmeticPager</key>
+	<string>shouldEmitTabView</string>
+	<key>blocschema</key>
+	<string>pushCheckbox</string>
+	<key>customizedStore</key>
+	<string>canMountPageView</string>
+	<key>monsterSkewX</key>
+	<string>granularAspectRatio</string>
+	<key>particleHue</key>
+	<string>immutablecallbackstyle</string>
+	<key>permanenttitle</key>
+	<string>sequentialSelector</string>
+	<key>routestatecoord</key>
+	<string>shouldcacheprovider</string>
+	<key>shouldunmountboxshadow</key>
+	<string>providervarpressure</string>
+</dict>
+</plist>

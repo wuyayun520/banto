@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationtop</key>
+	<string>lockError</string>
+	<key>channelsOrientation</key>
+	<string>shouldPauseEffect</string>
+	<key>convolutionfrombridge</key>
+	<string>disparateframe</string>
+	<key>discardedvectorleft</key>
+	<string>euclideanAnchor</string>
+	<key>displayableTernary</key>
+	<string>lostEffect</string>
+	<key>lostMend</key>
+	<string>persistExponent</string>
+	<key>subpixelagainstlayer</key>
+	<string>newestBullet</string>
+</dict>
+</plist>

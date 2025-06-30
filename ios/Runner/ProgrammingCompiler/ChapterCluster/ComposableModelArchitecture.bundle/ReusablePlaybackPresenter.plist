@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineAcceleration</key>
+	<string>canCacheCosine</string>
+	<key>eagerConnector</key>
+	<string>concurrentPromise</string>
+	<key>ephemeralAsset</key>
+	<string>apertureWork</string>
+	<key>normalframe</key>
+	<string>serviceborder</string>
+	<key>playbackreliability</key>
+	<string>geometricListener</string>
+	<key>popupCenter</key>
+	<string>animatedcontainerversuspattern</string>
+	<key>sharedpresenter</key>
+	<string>restartMonster</string>
+	<key>shouldResumeGift</key>
+	<string>callbackoffset</string>
+	<key>subscriptionFlags</key>
+	<string>integerAlignment</string>
+</dict>
+</plist>

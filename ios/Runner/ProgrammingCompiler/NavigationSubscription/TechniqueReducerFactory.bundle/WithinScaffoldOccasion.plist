@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeCollection</key>
+	<string>attachStack</string>
+	<key>detectorRate</key>
+	<string>isolateSkewY</string>
+	<key>evaluationCoord</key>
+	<string>declarativeError</string>
+	<key>priorCosine</key>
+	<string>menuDensity</string>
+	<key>segmentrow</key>
+	<string>interactiveChecklist</string>
+	<key>shouldStreamUnary</key>
+	<string>concurrentRequest</string>
+</dict>
+</plist>

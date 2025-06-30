@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedpromisecenter</key>
+	<string>replaceRemainder</string>
+	<key>basicComponent</key>
+	<string>radioSpacing</string>
+	<key>dynamicCatalyst</key>
+	<string>greatMultiplication</string>
+	<key>lostTweak</key>
+	<string>discoverStore</string>
+	<key>permanentLayout</key>
+	<string>heroBorder</string>
+	<key>specifyGem</key>
+	<string>descriptionNumber</string>
+	<key>temporaryFlex</key>
+	<string>customizedInterpolation</string>
+	<key>uniqueArithmetic</key>
+	<string>canEmitComposition</string>
+</dict>
+</plist>

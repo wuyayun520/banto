@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionBehavior</key>
+	<string>shouldInflateSizedBox</string>
+	<key>fusedgramspeed</key>
+	<string>secondMechanism</string>
+	<key>hierarchicalDetector</key>
+	<string>canNotifyNib</string>
+	<key>inactiveMetrics</key>
+	<string>canFetchMap</string>
+	<key>opaqueBox</key>
+	<string>synchronizeConfiguration</string>
+	<key>selectedPlate</key>
+	<string>ephemeralTraversal</string>
+	<key>shouldPersistWorkflow</key>
+	<string>deferredShape</string>
+	<key>shouldValidateGridView</key>
+	<string>intermediateStrength</string>
+</dict>
+</plist>

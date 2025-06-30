@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicCard</key>
+	<string>scrollableindicator</string>
+	<key>controllerTail</key>
+	<string>shouldRestartAspect</string>
+	<key>exponentTag</key>
+	<string>handleAnimatedContainer</string>
+	<key>infrastructureLeft</key>
+	<string>independentDelegate</string>
+	<key>memberSkewX</key>
+	<string>equalizationFrequency</string>
+	<key>pinchableequalization</key>
+	<string>interceptDelegate</string>
+	<key>radiuswithoutcommand</key>
+	<string>commonradiotension</string>
+	<key>resizableconsumerrotation</key>
+	<string>lostFactory</string>
+	<key>reusableProject</key>
+	<string>deliveryPosition</string>
+	<key>secondBitrate</key>
+	<string>typicalLifecycle</string>
+</dict>
+</plist>

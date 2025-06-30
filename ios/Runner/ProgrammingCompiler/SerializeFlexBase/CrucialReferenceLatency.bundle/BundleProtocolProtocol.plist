@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterDistance</key>
+	<string>fusedJoiner</string>
+	<key>compositionalaccessory</key>
+	<string>concreteLoop</string>
+	<key>directreference</key>
+	<string>associateMetadata</string>
+	<key>shouldCreateCompletion</key>
+	<string>richtextAlignment</string>
+	<key>shouldTransformFuture</key>
+	<string>shouldPaintCaption</string>
+	<key>specifyAnalogy</key>
+	<string>chartaboutmode</string>
+	<key>unsortedTween</key>
+	<string>canStartInterpolation</string>
+</dict>
+</plist>

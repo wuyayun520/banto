@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionDirection</key>
+	<string>invisibleMetadata</string>
+	<key>entropyDistance</key>
+	<string>difficultPosition</string>
+	<key>resultreducer</key>
+	<string>keyTimer</string>
+	<key>segmentbuffer</key>
+	<string>canDeserializeBitrate</string>
+	<key>shouldSkipBehavior</key>
+	<string>disabledAllocator</string>
+	<key>statefulStore</key>
+	<string>significantAlignment</string>
+	<key>widgetdecoratorfeedback</key>
+	<string>shouldEncodeMission</string>
+</dict>
+</plist>

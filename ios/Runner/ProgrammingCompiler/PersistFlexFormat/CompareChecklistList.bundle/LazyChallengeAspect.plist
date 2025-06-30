@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushcolor</key>
+	<string>pauseKernel</string>
+	<key>cardContrast</key>
+	<string>shouldMountBullet</string>
+	<key>hyperbolicsensorname</key>
+	<string>directPresenter</string>
+	<key>nativeColor</key>
+	<string>multiplyFactory</string>
+	<key>nativeschema</key>
+	<string>shouldStartHeap</string>
+	<key>shouldInflateView</key>
+	<string>sizeflags</string>
+	<key>shouldPersistEntropy</key>
+	<string>scrollableArchitecture</string>
+	<key>singletonduration</key>
+	<string>commonTool</string>
+	<key>sophisticatedTime</key>
+	<string>taxonomytint</string>
+</dict>
+</plist>

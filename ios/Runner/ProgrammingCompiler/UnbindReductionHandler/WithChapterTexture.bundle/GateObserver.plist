@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAnalogy</key>
+	<string>discoverState</string>
+	<key>observerintegrity</key>
+	<string>creatormode</string>
+	<key>persistentStore</key>
+	<string>publicPermutation</string>
+	<key>queueLeft</key>
+	<string>shouldRenderCurve</string>
+	<key>semanticsOrigin</key>
+	<string>screenwithstate</string>
+	<key>sortedview</key>
+	<string>interfacedepth</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionShape</key>
+	<string>shouldSaveBrush</string>
+	<key>masterSpeed</key>
+	<string>persistentPriority</string>
+	<key>requiredStore</key>
+	<string>finishdecoration</string>
+	<key>seamlessService</key>
+	<string>directlySpecifier</string>
+	<key>stackSkewX</key>
+	<string>assetPhase</string>
+	<key>textureSize</key>
+	<string>prepareTheme</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleException</key>
+	<string>tappableFilter</string>
+	<key>easyviewmode</key>
+	<string>shouldPersistGram</string>
+	<key>keepmultiplication</key>
+	<string>inflateDescriptor</string>
+	<key>routedelegate</key>
+	<string>entityAppearance</string>
+	<key>tabviewcharacteristic</key>
+	<string>streamPosition</string>
+</dict>
+</plist>

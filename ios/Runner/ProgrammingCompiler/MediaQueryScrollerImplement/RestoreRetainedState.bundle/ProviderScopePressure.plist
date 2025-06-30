@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emitscale</key>
+	<string>cosineName</string>
+	<key>firstSymbol</key>
+	<string>synchronousLayer</string>
+	<key>hascomposition</key>
+	<string>descriptortasksaturation</string>
+	<key>largeAnimation</key>
+	<string>retainedBatch</string>
+	<key>shouldPopView</key>
+	<string>segueContext</string>
+	<key>signskewx</key>
+	<string>batchtransformer</string>
+	<key>sustainablecontainerspacing</key>
+	<string>listviewDepth</string>
+</dict>
+</plist>

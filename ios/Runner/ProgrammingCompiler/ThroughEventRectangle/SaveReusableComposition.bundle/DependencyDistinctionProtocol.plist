@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperuntilphase</key>
+	<string>publicConstraint</string>
+	<key>cruderesult</key>
+	<string>criticalCheckbox</string>
+	<key>customListView</key>
+	<string>alertwrapper</string>
+	<key>disabledSize</key>
+	<string>seguetween</string>
+	<key>errorcombiner</key>
+	<string>shouldUnmountedChecklist</string>
+	<key>liteThread</key>
+	<string>groupstate</string>
+	<key>losspadding</key>
+	<string>canUnbindLayout</string>
+	<key>moveposition</key>
+	<string>trajectoryContrast</string>
+	<key>textslider</key>
+	<string>materialBox</string>
+	<key>thresholdValidation</key>
+	<string>implementResource</string>
+</dict>
+</plist>

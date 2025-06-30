@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapteralignment</key>
+	<string>typicalReliability</string>
+	<key>difficultCaption</key>
+	<string>crudePosition</string>
+	<key>elasticBatch</key>
+	<string>priorityShape</string>
+	<key>liteSound</key>
+	<string>detachposition</string>
+	<key>preparematrix</key>
+	<string>mainMaster</string>
+	<key>singleMetrics</key>
+	<string>clipResource</string>
+	<key>specifierStyle</key>
+	<string>largeStamp</string>
+</dict>
+</plist>

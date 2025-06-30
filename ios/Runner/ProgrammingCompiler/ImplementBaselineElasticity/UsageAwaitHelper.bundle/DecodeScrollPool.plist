@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardMechanism</key>
+	<string>shouldAttachBox</string>
+	<key>persistentDetail</key>
+	<string>canStartStamp</string>
+	<key>shouldEncodeClipper</key>
+	<string>uniquestrength</string>
+	<key>shouldFormatRole</key>
+	<string>loadPadding</string>
+	<key>shouldRenderGrayscale</key>
+	<string>encodeOffset</string>
+</dict>
+</plist>

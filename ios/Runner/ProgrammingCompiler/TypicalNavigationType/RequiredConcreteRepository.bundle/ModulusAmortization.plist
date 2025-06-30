@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorindex</key>
+	<string>concurrentDetector</string>
+	<key>fusedCompletion</key>
+	<string>baselinecommandresponse</string>
+	<key>intuitiveMaster</key>
+	<string>permissiveConverter</string>
+	<key>labelphasedepth</key>
+	<string>standaloneVector</string>
+	<key>permissivecallbackvelocity</key>
+	<string>sustainableSwitch</string>
+	<key>permissivemodel</key>
+	<string>multiSemantics</string>
+</dict>
+</plist>

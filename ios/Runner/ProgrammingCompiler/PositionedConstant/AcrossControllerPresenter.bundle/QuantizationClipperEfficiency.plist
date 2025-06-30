@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledVariant</key>
+	<string>collectionframe</string>
+	<key>intuitiveSubscriber</key>
+	<string>textcontrast</string>
+	<key>navigatortrigger</key>
+	<string>singleReduction</string>
+	<key>queueEdge</key>
+	<string>resilienceSize</string>
+	<key>recursionoffset</key>
+	<string>associateUtil</string>
+	<key>shouldPopSign</key>
+	<string>eventinterval</string>
+</dict>
+</plist>

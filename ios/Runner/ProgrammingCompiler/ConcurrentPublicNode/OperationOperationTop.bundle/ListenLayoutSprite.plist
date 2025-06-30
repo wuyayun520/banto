@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorSkewY</key>
+	<string>ephemeralOffset</string>
+	<key>associatedJoiner</key>
+	<string>activeTool</string>
+	<key>lostModal</key>
+	<string>augmentConfiguration</string>
+	<key>queuePressure</key>
+	<string>scrollableMobile</string>
+	<key>shouldPersistFragment</key>
+	<string>uniqueProtocol</string>
+	<key>throughputRotation</key>
+	<string>mainMaterializer</string>
+	<key>unaryFeedback</key>
+	<string>locatesubscription</string>
+</dict>
+</plist>

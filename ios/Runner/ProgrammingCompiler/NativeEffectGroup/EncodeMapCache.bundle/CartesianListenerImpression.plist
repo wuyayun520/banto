@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateDelay</key>
+	<string>canTransitionSubpixel</string>
+	<key>characteristicCenter</key>
+	<string>canSkipGridView</string>
+	<key>convertername</key>
+	<string>spineBottom</string>
+	<key>euclideanQuaternion</key>
+	<string>activatedTouch</string>
+	<key>resizeresource</key>
+	<string>occasionOrientation</string>
+	<key>utilState</key>
+	<string>significantMomentum</string>
+	<key>webSine</key>
+	<string>intensityresilience</string>
+</dict>
+</plist>

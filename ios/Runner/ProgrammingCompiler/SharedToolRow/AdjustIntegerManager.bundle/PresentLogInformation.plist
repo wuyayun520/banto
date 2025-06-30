@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentOrigin</key>
+	<string>scrollableProvision</string>
+	<key>compositionalCharacteristic</key>
+	<string>kernelpolygon</string>
+	<key>desktopnormtransparency</key>
+	<string>markNode</string>
+	<key>immutableArithmetic</key>
+	<string>allocatormaterializer</string>
+	<key>injectionstatevalidation</key>
+	<string>arithmeticlabel</string>
+	<key>momentumSkewX</key>
+	<string>newestChart</string>
+	<key>shouldStreamAspectRatio</key>
+	<string>disabledNorm</string>
+	<key>variantmargin</key>
+	<string>combinertail</string>
+</dict>
+</plist>

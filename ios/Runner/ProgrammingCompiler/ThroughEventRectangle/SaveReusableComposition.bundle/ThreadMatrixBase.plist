@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticModule</key>
+	<string>autoRadius</string>
+	<key>backwardCollection</key>
+	<string>listenTool</string>
+	<key>capacitiesOffset</key>
+	<string>shouldYieldAnchor</string>
+	<key>draggableSample</key>
+	<string>robustalert</string>
+	<key>requiredStoryboard</key>
+	<string>injectiontheme</string>
+	<key>scalabilityStyle</key>
+	<string>convolutionFunction</string>
+	<key>semanticMaster</key>
+	<string>smartDimension</string>
+	<key>specifyProvider</key>
+	<string>canEmitHistogram</string>
+</dict>
+</plist>

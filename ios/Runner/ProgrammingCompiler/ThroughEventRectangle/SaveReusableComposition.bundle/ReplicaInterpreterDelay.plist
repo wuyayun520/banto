@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerbesidemode</key>
+	<string>canPauseSign</string>
+	<key>hierarchicalSegue</key>
+	<string>shouldUpdateSwitch</string>
+	<key>mastermatrix</key>
+	<string>actionhead</string>
+	<key>mobileusagespacing</key>
+	<string>attachRadius</string>
+	<key>skinTheme</key>
+	<string>optimizeGroup</string>
+	<key>statelessgridorientation</key>
+	<string>dedicatedScale</string>
+</dict>
+</plist>

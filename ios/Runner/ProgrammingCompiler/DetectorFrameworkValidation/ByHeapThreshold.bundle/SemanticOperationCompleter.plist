@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bordertransformer</key>
+	<string>vectorizeGroup</string>
+	<key>callbackdirection</key>
+	<string>resilientReducer</string>
+	<key>crucialConstraint</key>
+	<string>canPaintCurve</string>
+	<key>eagercurveinteraction</key>
+	<string>draggableCollection</string>
+	<key>frameKind</key>
+	<string>shouldNavigateReference</string>
+	<key>liteaspect</key>
+	<string>shouldbuildcache</string>
+	<key>nativeTabBar</key>
+	<string>granularscalerate</string>
+	<key>permissiveReference</key>
+	<string>emitEqualization</string>
+	<key>shouldMountedAnchor</key>
+	<string>isolateValidation</string>
+	<key>texturerate</key>
+	<string>hardBehavior</string>
+</dict>
+</plist>

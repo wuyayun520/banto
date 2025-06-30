@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialZone</key>
+	<string>utilOperation</string>
+	<key>efficiencyState</key>
+	<string>titlePressure</string>
+	<key>mediumsample</key>
+	<string>generateLayout</string>
+	<key>shouldStartBorder</key>
+	<string>shouldHandleListView</string>
+	<key>textfieldmargin</key>
+	<string>detachEquipment</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveBorder</key>
+	<string>referenceindex</string>
+	<key>configurationagainstmediator</key>
+	<string>currentcanvas</string>
+	<key>directMovement</key>
+	<string>immutablePolyfill</string>
+	<key>navigatorCenter</key>
+	<string>tweenBridge</string>
+	<key>sharedDropdownButton</key>
+	<string>detachFlex</string>
+	<key>shouldMountedIndicator</key>
+	<string>disposeArithmetic</string>
+	<key>shouldTrainPlate</key>
+	<string>fusedReplica</string>
+	<key>synchronousExponent</key>
+	<string>dynamicspritefrequency</string>
+	<key>tappableVector</key>
+	<string>giftcurve</string>
+	<key>topiccontainstate</key>
+	<string>temporaryReceiver</string>
+</dict>
+</plist>

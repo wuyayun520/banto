@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousobserver</key>
+	<string>canvassensor</string>
+	<key>attachextension</key>
+	<string>smartResponder</string>
+	<key>detachfuture</key>
+	<string>associatedrole</string>
+	<key>responsiveSingleton</key>
+	<string>canPresentSpecifier</string>
+	<key>shouldDispatchBinary</key>
+	<string>imperativeTopic</string>
+	<key>shouldTransitionSkin</key>
+	<string>certificatestrategyspacing</string>
+	<key>sliderbyframework</key>
+	<string>canPushUnary</string>
+	<key>titlecontainlayer</key>
+	<string>shoulddecodeusage</string>
+</dict>
+</plist>

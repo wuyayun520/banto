@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledConstant</key>
+	<string>traversalBound</string>
+	<key>notificationDelay</key>
+	<string>dropoutZone</string>
+	<key>opaqueTabBar</key>
+	<string>checklistParameter</string>
+	<key>permissiveMovement</key>
+	<string>tabbarScale</string>
+	<key>persistentWorkflow</key>
+	<string>inflateGem</string>
+	<key>usedRange</key>
+	<string>updateSession</string>
+</dict>
+</plist>

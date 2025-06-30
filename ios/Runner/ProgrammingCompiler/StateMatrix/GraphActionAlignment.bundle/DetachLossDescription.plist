@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePublisher</key>
+	<string>destroyprotocol</string>
+	<key>compositionalPresenter</key>
+	<string>notifySegue</string>
+	<key>resilienceType</key>
+	<string>spotName</string>
+	<key>responseKind</key>
+	<string>accessibleRequest</string>
+	<key>shouldNavigateLabel</key>
+	<string>encodescaffold</string>
+	<key>standaloneDecoration</key>
+	<string>rectifyRadius</string>
+	<key>subtleProjection</key>
+	<string>commonReliability</string>
+</dict>
+</plist>

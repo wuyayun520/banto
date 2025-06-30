@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticScale</key>
+	<string>transitionflags</string>
+	<key>largeLatency</key>
+	<string>replaceCell</string>
+	<key>parallelSegue</key>
+	<string>updateFactory</string>
+	<key>seekconfiguration</key>
+	<string>bulletCommand</string>
+	<key>shouldDecodeConvolution</key>
+	<string>canResumeAppBar</string>
+	<key>shouldFinishTabBar</key>
+	<string>executeCurve</string>
+	<key>shouldShowMomentum</key>
+	<string>symmetricBinder</string>
+	<key>symmetricManager</key>
+	<string>isGrayscale</string>
+</dict>
+</plist>

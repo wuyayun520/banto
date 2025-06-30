@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMomentum</key>
+	<string>notifyduration</string>
+	<key>implementcoordinator</key>
+	<string>dismissResolver</string>
+	<key>isImage</key>
+	<string>fetchcosine</string>
+	<key>sortedTimer</key>
+	<string>shouldBuildSkirt</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultAspect</key>
+	<string>dismissButton</string>
+	<key>mediocreDimension</key>
+	<string>quantizerDecoration</string>
+	<key>secondFragments</key>
+	<string>publicgraph</string>
+	<key>sharedInkWell</key>
+	<string>canYieldBoxShadow</string>
+	<key>shouldMountDrawer</key>
+	<string>disabledOperation</string>
+	<key>substantialSingleton</key>
+	<string>queueBuffer</string>
+</dict>
+</plist>

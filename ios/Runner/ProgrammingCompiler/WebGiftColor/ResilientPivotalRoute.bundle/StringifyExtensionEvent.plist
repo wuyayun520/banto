@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarDelay</key>
+	<string>injectionComposite</string>
+	<key>capacitiesthroughpattern</key>
+	<string>interceptStream</string>
+	<key>disparateScope</key>
+	<string>chartPadding</string>
+	<key>equalizationVisible</key>
+	<string>roleFrequency</string>
+	<key>prevTicker</key>
+	<string>handleCanvas</string>
+	<key>progressbareffect</key>
+	<string>tableTail</string>
+	<key>retainedOperation</key>
+	<string>shouldcancelcontroller</string>
+	<key>sustainablePopup</key>
+	<string>missedTime</string>
+	<key>timelinetag</key>
+	<string>sustainablecontainerduration</string>
+</dict>
+</plist>

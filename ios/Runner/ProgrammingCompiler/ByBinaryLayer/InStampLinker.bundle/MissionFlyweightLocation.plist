@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contrastAppearance</key>
+	<string>displayableListView</string>
+	<key>cupertinoTraversal</key>
+	<string>skirtVisitor</string>
+	<key>disabledGesture</key>
+	<string>bindSign</string>
+	<key>finderVisible</key>
+	<string>firstException</string>
+	<key>hyperbolicReducer</key>
+	<string>protectedCallback</string>
+	<key>shouldFetchCatalyst</key>
+	<string>difficultBase</string>
+	<key>typicalTimer</key>
+	<string>equalizationdepth</string>
+</dict>
+</plist>

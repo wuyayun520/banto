@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSlider</key>
+	<string>documentTail</string>
+	<key>delicateMapper</key>
+	<string>ephemeralInteraction</string>
+	<key>inactiveTool</key>
+	<string>detailFormat</string>
+	<key>inactivebuilderbound</key>
+	<string>canTransitionSession</string>
+	<key>shouldProcessCell</key>
+	<string>storeTint</string>
+	<key>shouldemitaspectratio</key>
+	<string>processGift</string>
+	<key>webBrush</key>
+	<string>errorDensity</string>
+</dict>
+</plist>

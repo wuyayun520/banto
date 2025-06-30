@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateTriangles</key>
+	<string>immutablePicker</string>
+	<key>directbandwidth</key>
+	<string>inactivereferencedistance</string>
+	<key>isProfile</key>
+	<string>switchDecorator</string>
+	<key>normalView</key>
+	<string>uniformRemediation</string>
+	<key>shouldObserveProjection</key>
+	<string>nibSingleton</string>
+	<key>tappableLatency</key>
+	<string>materialGesture</string>
+	<key>widgetCoord</key>
+	<string>flexibleArithmetic</string>
+</dict>
+</plist>

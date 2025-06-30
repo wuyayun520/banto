@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesKind</key>
+	<string>presentEntropy</string>
+	<key>materialDepth</key>
+	<string>persisttitle</string>
+	<key>medialeft</key>
+	<string>fusedAccessory</string>
+	<key>positiondecoratorlocation</key>
+	<string>storeProvider</string>
+	<key>resilientService</key>
+	<string>shouldPublishTheme</string>
+	<key>shouldSaveProject</key>
+	<string>accelerateTexture</string>
+	<key>shouldsetstaterole</key>
+	<string>deployUseCase</string>
+	<key>sortedInjection</key>
+	<string>sophisticatedService</string>
+	<key>statefularchitecture</key>
+	<string>dedicatedConsumption</string>
+</dict>
+</plist>

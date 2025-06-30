@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedGradient</key>
+	<string>shouldUpdateThread</string>
+	<key>alignmentOpacity</key>
+	<string>localmodel</string>
+	<key>firstMenu</key>
+	<string>emitEqualization</string>
+	<key>rapidmaterialcontrast</key>
+	<string>cancelReduction</string>
+	<key>removecontainer</key>
+	<string>subscribeOption</string>
+	<key>significantListView</key>
+	<string>convolutionBrightness</string>
+</dict>
+</plist>

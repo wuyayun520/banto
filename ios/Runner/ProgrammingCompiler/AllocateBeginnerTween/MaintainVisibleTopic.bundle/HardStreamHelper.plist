@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMerger</key>
+	<string>customizedColumn</string>
+	<key>bulletHue</key>
+	<string>animatedPlayback</string>
+	<key>commonTransition</key>
+	<string>canCreateSign</string>
+	<key>euclideanmodal</key>
+	<string>keepArithmetic</string>
+	<key>iterativeSound</key>
+	<string>appbarCenter</string>
+	<key>keyPublisher</key>
+	<string>standaloneItem</string>
+	<key>modalorproxy</key>
+	<string>oldTimeline</string>
+	<key>newestSpecifier</key>
+	<string>offsetPhase</string>
+	<key>shouldHandleRemainder</key>
+	<string>drawWidget</string>
+</dict>
+</plist>

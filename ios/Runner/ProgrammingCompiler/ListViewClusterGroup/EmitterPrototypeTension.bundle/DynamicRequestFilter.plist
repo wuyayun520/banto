@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDialogs</key>
+	<string>shouldRebuildNavigation</string>
+	<key>materialAxis</key>
+	<string>statelessthanbuffer</string>
+	<key>shouldDismissBatch</key>
+	<string>deferredRenderer</string>
+	<key>topicacceleration</key>
+	<string>opaqueThread</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAsset</key>
+	<string>routerDirection</string>
+	<key>commonScenario</key>
+	<string>unactivatedTopic</string>
+	<key>heroCenter</key>
+	<string>canParseInterpolation</string>
+	<key>otherSample</key>
+	<string>shouldRouteShader</string>
+	<key>shouldFinishController</key>
+	<string>mergerStatus</string>
+	<key>similarReducer</key>
+	<string>benchmarkTimer</string>
+	<key>skinHue</key>
+	<string>yieldMaster</string>
+	<key>staticCollection</key>
+	<string>inheritedEfficiency</string>
+</dict>
+</plist>

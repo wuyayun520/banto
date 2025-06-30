@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistflags</key>
+	<string>remainderasform</string>
+	<key>concurrentGestureDetector</key>
+	<string>repositoryrate</string>
+	<key>customizedSlider</key>
+	<string>infrastructureOrientation</string>
+	<key>descriptoruntilphase</key>
+	<string>tableStrategy</string>
+	<key>interactiveAudio</key>
+	<string>shouldLoadLayout</string>
+	<key>mediumUnary</key>
+	<string>directlyAnimatedContainer</string>
+	<key>strengthRate</key>
+	<string>mobileThreshold</string>
+	<key>synchronousEvent</key>
+	<string>generateLabel</string>
+</dict>
+</plist>

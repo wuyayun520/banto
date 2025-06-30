@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedmodulusdepth</key>
+	<string>prismaticUtil</string>
+	<key>enabledNotation</key>
+	<string>removeParticle</string>
+	<key>ignoredBoxShadow</key>
+	<string>shouldskipentropy</string>
+	<key>pinchableCursor</key>
+	<string>diffableunary</string>
+	<key>popuptype</key>
+	<string>standaloneProvision</string>
+	<key>reactivedurationedge</key>
+	<string>canFinishPriority</string>
+	<key>shouldRebuildAnimation</key>
+	<string>aspectresponse</string>
+	<key>statelessPriority</key>
+	<string>shouldListenDelegate</string>
+</dict>
+</plist>

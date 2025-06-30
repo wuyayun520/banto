@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationFlags</key>
+	<string>canUnbindSegment</string>
+	<key>hasInterpolation</key>
+	<string>evolutionPosition</string>
+	<key>immediateThroughput</key>
+	<string>mainTitle</string>
+	<key>loadmanager</key>
+	<string>significantProvider</string>
+	<key>shouldStartCanvas</key>
+	<string>shouldPaintScroll</string>
+	<key>shouldYieldClipper</key>
+	<string>shouldMountedScroll</string>
+	<key>synchronousEmitter</key>
+	<string>methodTint</string>
+</dict>
+</plist>

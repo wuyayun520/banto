@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchbesidetier</key>
+	<string>binaryCenter</string>
+	<key>characteristicSkewX</key>
+	<string>canNavigateClipper</string>
+	<key>sceneBound</key>
+	<string>canSkipNavigation</string>
+	<key>scrollinterval</key>
+	<string>latencyState</string>
+</dict>
+</plist>

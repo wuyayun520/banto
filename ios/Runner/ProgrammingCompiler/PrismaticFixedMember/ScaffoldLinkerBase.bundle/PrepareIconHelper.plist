@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedcycletop</key>
+	<string>symbolBehavior</string>
+	<key>permanentMaterializer</key>
+	<string>currentReference</string>
+	<key>prismaticGridView</key>
+	<string>paintEffect</string>
+	<key>selectedComposition</key>
+	<string>shouldMountContainer</string>
+</dict>
+</plist>

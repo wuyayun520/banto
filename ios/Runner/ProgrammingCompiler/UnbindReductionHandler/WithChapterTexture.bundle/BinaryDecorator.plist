@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityamongmode</key>
+	<string>resourceinjob</string>
+	<key>allocatormediatorstate</key>
+	<string>canYieldSample</string>
+	<key>handlerDuration</key>
+	<string>charactermodecenter</string>
+	<key>iterativeWorkflow</key>
+	<string>characteristicIndex</string>
+	<key>notationCount</key>
+	<string>cupertinoTernary</string>
+	<key>parallelEvent</key>
+	<string>cupertinoMediaQuery</string>
+	<key>shouldEndCosine</key>
+	<string>canDisconnectStateful</string>
+	<key>tentativeMomentum</key>
+	<string>shouldDeserializeOverlay</string>
+</dict>
+</plist>

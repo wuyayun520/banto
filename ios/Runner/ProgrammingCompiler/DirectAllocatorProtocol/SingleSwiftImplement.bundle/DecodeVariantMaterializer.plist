@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblematrixinterval</key>
+	<string>descriptorPrototype</string>
+	<key>callbackInterval</key>
+	<string>shouldpopexpanded</string>
+	<key>eagerMerger</key>
+	<string>locateTopic</string>
+	<key>lazyComposition</key>
+	<string>numericalArithmetic</string>
+	<key>shouldUnmountedAppBar</key>
+	<string>unmarshalProgressBar</string>
+	<key>shouldYieldCollection</key>
+	<string>sliderLayer</string>
+	<key>sophisticatedProfile</key>
+	<string>largeLoader</string>
+</dict>
+</plist>

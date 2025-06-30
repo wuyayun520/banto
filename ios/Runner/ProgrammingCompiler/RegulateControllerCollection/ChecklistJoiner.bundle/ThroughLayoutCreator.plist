@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkclipper</key>
+	<string>standaloneanchortheme</string>
+	<key>completionDistance</key>
+	<string>diffableArchitecture</string>
+	<key>customizedMediaQuery</key>
+	<string>reflectstream</string>
+	<key>shouldSetStateTouch</key>
+	<string>selectorBorder</string>
+</dict>
+</plist>

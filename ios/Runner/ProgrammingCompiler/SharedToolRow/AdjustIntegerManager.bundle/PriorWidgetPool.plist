@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionBrush</key>
+	<string>delegatealignment</string>
+	<key>drawervideo</key>
+	<string>benchmarkService</string>
+	<key>fragmentmediatorkind</key>
+	<string>spriteType</string>
+	<key>onequalizationtap</key>
+	<string>crucialVideo</string>
+	<key>shouldConnectBuilder</key>
+	<string>symmetricMap</string>
+	<key>toleranceEdge</key>
+	<string>draggableText</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedReceiver</key>
+	<string>unregisterResponse</string>
+	<key>gradientdrawer</key>
+	<string>sorterTag</string>
+	<key>secondQuaternion</key>
+	<string>dispatcherLeft</string>
+	<key>shouldcachecapsule</key>
+	<string>maintainRect</string>
+</dict>
+</plist>

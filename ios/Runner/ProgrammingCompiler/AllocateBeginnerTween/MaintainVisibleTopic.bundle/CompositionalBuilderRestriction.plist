@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderkind</key>
+	<string>floatScene</string>
+	<key>currentNotification</key>
+	<string>nextinterpolation</string>
+	<key>dependencyTail</key>
+	<string>optionreducer</string>
+	<key>mediumUsage</key>
+	<string>shaderCoord</string>
+	<key>mountexception</key>
+	<string>imperativeAction</string>
+	<key>petLeft</key>
+	<string>defaultView</string>
+	<key>previewvisitortheme</key>
+	<string>selectedConstraint</string>
+	<key>servicetop</key>
+	<string>scrollableUtil</string>
+	<key>signMode</key>
+	<string>priorHeap</string>
+	<key>webConstant</key>
+	<string>sortedTentative</string>
+</dict>
+</plist>

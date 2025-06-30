@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRange</key>
+	<string>bulletColor</string>
+	<key>analyzeroute</key>
+	<string>errorParameter</string>
+	<key>asynchronousGraph</key>
+	<string>multiChannels</string>
+	<key>channelintegration</key>
+	<string>canKeepAnimatedContainer</string>
+	<key>cycleVisible</key>
+	<string>showGraph</string>
+	<key>listenvector</key>
+	<string>fetchBitrate</string>
+	<key>notationDuration</key>
+	<string>canStreamCursor</string>
+	<key>priorAperture</key>
+	<string>asynccoord</string>
+	<key>resizableobserver</key>
+	<string>slideralongfunction</string>
+	<key>stepanimator</key>
+	<string>syncInjection</string>
+</dict>
+</plist>

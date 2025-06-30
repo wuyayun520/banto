@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedGrid</key>
+	<string>buttonBorder</string>
+	<key>decorationnumbertop</key>
+	<string>signaturetransformer</string>
+	<key>metricsRotation</key>
+	<string>symmetricMetrics</string>
+	<key>prevRange</key>
+	<string>flexibleVector</string>
+	<key>replicatevector</key>
+	<string>immutableFactory</string>
+	<key>resultDistance</key>
+	<string>diversifiedisolate</string>
+	<key>shouldObserveNotification</key>
+	<string>storyboardMemento</string>
+	<key>shouldPrepareCompletion</key>
+	<string>temporarysymboldepth</string>
+	<key>sizedboxmargin</key>
+	<string>canPersistInkWell</string>
+</dict>
+</plist>

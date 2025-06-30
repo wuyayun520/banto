@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleConfidentiality</key>
+	<string>canInflateUsage</string>
+	<key>axisOrigin</key>
+	<string>shouldStopCaption</string>
+	<key>consultativeFilter</key>
+	<string>decorationComposite</string>
+	<key>crudeTentative</key>
+	<string>menuPadding</string>
+	<key>drawerTail</key>
+	<string>switchInteraction</string>
+	<key>requiredHero</key>
+	<string>singletonthantemple</string>
+	<key>shouldBuildBoxShadow</key>
+	<string>statefulPrototype</string>
+	<key>shouldProcessProvider</key>
+	<string>evaluationOffset</string>
+	<key>threadMargin</key>
+	<string>collectiondisclaimer</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseshader</key>
+	<string>columnFrequency</string>
+	<key>discardedHeap</key>
+	<string>renameTexture</string>
+	<key>iterativeAudio</key>
+	<string>trianglesKind</string>
+	<key>nextbuffercount</key>
+	<string>multiplicationHead</string>
+	<key>specifyRadius</key>
+	<string>globalEqualization</string>
+	<key>tappableHash</key>
+	<string>rangeMargin</string>
+	<key>themestore</key>
+	<string>showProject</string>
+	<key>tickerdescent</key>
+	<string>createFragment</string>
+	<key>workflowFlags</key>
+	<string>reflectBloc</string>
+</dict>
+</plist>

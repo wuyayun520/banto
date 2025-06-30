@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseSize</key>
+	<string>mediumAnchor</string>
+	<key>hasNib</key>
+	<string>localizationBound</string>
+	<key>layoutnotation</key>
+	<string>painterLevel</string>
+	<key>providertime</key>
+	<string>shouldSkipCatalyst</string>
+	<key>smallslidertension</key>
+	<string>originalCapsule</string>
+</dict>
+</plist>

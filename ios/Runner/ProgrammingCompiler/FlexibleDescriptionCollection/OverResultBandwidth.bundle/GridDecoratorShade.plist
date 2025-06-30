@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyAcceleration</key>
+	<string>navigationPadding</string>
+	<key>managertrigger</key>
+	<string>globalNotation</string>
+	<key>shouldDisposeHero</key>
+	<string>binaryHue</string>
+	<key>signatureSkewY</key>
+	<string>chooservisibility</string>
+	<key>transpilerouter</key>
+	<string>usedExtension</string>
+</dict>
+</plist>

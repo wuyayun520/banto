@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializesemantics</key>
+	<string>asynchronousRadius</string>
+	<key>emitcatalyst</key>
+	<string>visualizeTicker</string>
+	<key>fixedLoop</key>
+	<string>projectionCommand</string>
+	<key>generatepriority</key>
+	<string>callbackSkewX</string>
+	<key>oldCertificate</key>
+	<string>binderStatus</string>
+	<key>respectiveButton</key>
+	<string>gestureInterpreter</string>
+	<key>statelessProvision</key>
+	<string>canParseComposition</string>
+	<key>statevisitorcenter</key>
+	<string>boxTask</string>
+	<key>typicalselector</key>
+	<string>opaqueHandler</string>
+</dict>
+</plist>

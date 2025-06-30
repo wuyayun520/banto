@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directSwitch</key>
+	<string>activeChapter</string>
+	<key>disabledparticle</key>
+	<string>canDisconnectBinary</string>
+	<key>inheritedMethod</key>
+	<string>sortedCapacities</string>
+	<key>lossDistance</key>
+	<string>shouldHandleNavigator</string>
+	<key>multiCustomPaint</key>
+	<string>baselineHead</string>
+	<key>polygonSpeed</key>
+	<string>arithmeticRotation</string>
+	<key>projectPressure</key>
+	<string>canDeserializeGesture</string>
+	<key>promisePosition</key>
+	<string>subsequentCoordinator</string>
+	<key>shouldStopNavigation</key>
+	<string>connectorMargin</string>
+</dict>
+</plist>

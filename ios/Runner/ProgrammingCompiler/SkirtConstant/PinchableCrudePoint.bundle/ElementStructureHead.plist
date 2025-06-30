@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedanimationforce</key>
+	<string>cursorObserver</string>
+	<key>disabledEffect</key>
+	<string>statelessstoryboarddirection</string>
+	<key>entropyrecursion</key>
+	<string>baseState</string>
+	<key>greatProjection</key>
+	<string>responderposition</string>
+	<key>movementbeyondsystem</key>
+	<string>hardChallenge</string>
+	<key>tensorprogressbarforce</key>
+	<string>canTransformView</string>
+	<key>transitionsize</key>
+	<string>prismaticHeap</string>
+	<key>unsortedTransition</key>
+	<string>durationCenter</string>
+</dict>
+</plist>

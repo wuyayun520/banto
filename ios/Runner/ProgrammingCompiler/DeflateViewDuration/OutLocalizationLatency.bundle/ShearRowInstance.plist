@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertawayparameter</key>
+	<string>iterativecontractiondensity</string>
+	<key>composableScroller</key>
+	<string>shouldMountScreen</string>
+	<key>configurationTransparency</key>
+	<string>shouldDispatchCertificate</string>
+	<key>cupertinoScreen</key>
+	<string>canRebuildTabView</string>
+	<key>debugtimer</key>
+	<string>buildervelocity</string>
+	<key>permanentButton</key>
+	<string>sorterEdge</string>
+	<key>remediationright</key>
+	<string>appendFactory</string>
+</dict>
+</plist>

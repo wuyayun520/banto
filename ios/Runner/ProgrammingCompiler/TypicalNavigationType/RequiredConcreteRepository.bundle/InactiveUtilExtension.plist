@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationconsumption</key>
+	<string>gestureMethod</string>
+	<key>graphLeft</key>
+	<string>animatePreview</string>
+	<key>labelsaturation</key>
+	<string>axishead</string>
+	<key>nativePolyfill</key>
+	<string>litePrecision</string>
+	<key>prismaticcontrollerleft</key>
+	<string>iconResponse</string>
+	<key>seamlessNorm</key>
+	<string>drawChannel</string>
+	<key>significantAxis</key>
+	<string>processorBound</string>
+</dict>
+</plist>

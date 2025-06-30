@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorformname</key>
+	<string>elasticLog</string>
+	<key>backwardInterface</key>
+	<string>primaryIcon</string>
+	<key>hyperbolicRole</key>
+	<string>particlesystemhue</string>
+	<key>providertheme</key>
+	<string>stateviaaction</string>
+	<key>shouldDecodeSpecifier</key>
+	<string>shouldRouteSemantics</string>
+	<key>shouldSubscribeCupertino</key>
+	<string>analyzerSpeed</string>
+	<key>subpixelcontainprototype</key>
+	<string>extendallocator</string>
+	<key>uniformConstraint</key>
+	<string>consumerBottom</string>
+	<key>usagePosition</key>
+	<string>marginAcceleration</string>
+</dict>
+</plist>

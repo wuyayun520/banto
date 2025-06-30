@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedChart</key>
+	<string>lazyresource</string>
+	<key>deferredScaffold</key>
+	<string>synchronousDelegate</string>
+	<key>functionalsubscriptionlocation</key>
+	<string>imperativeBehavior</string>
+	<key>iterativeCluster</key>
+	<string>listviewTask</string>
+	<key>pinchableTimer</key>
+	<string>mountLogarithm</string>
+	<key>resilientLayer</key>
+	<string>scalabilityindex</string>
+	<key>statelesserror</key>
+	<string>bundlenib</string>
+	<key>tweenincludesingleton</key>
+	<string>densedetail</string>
+</dict>
+</plist>

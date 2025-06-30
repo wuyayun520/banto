@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectdetail</key>
+	<string>ternaryStatus</string>
+	<key>assetPressure</key>
+	<string>diffableCubit</string>
+	<key>composablemenuinset</key>
+	<string>similarGesture</string>
+	<key>dynamicgroupcolor</key>
+	<string>flexVelocity</string>
+	<key>modulusVisible</key>
+	<string>criticalTransition</string>
+	<key>normalOccasion</key>
+	<string>sampleName</string>
+	<key>respectiveSubscription</key>
+	<string>unmountedRemainder</string>
+	<key>schemaScale</key>
+	<string>updateCupertino</string>
+	<key>shouldBindPriority</key>
+	<string>criticalPainter</string>
+	<key>subtleSwitch</key>
+	<string>shaderbridgeborder</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulePosition</key>
+	<string>switchEnvironment</string>
+	<key>desktopScope</key>
+	<string>shouldPresentBorder</string>
+	<key>immutableSegue</key>
+	<string>cleanPreview</string>
+	<key>routeawait</key>
+	<string>spinAwait</string>
+	<key>streamasync</key>
+	<string>startProvider</string>
+</dict>
+</plist>

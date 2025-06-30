@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleGraph</key>
+	<string>consumeLoop</string>
+	<key>customService</key>
+	<string>boxStage</string>
+	<key>geometricStep</key>
+	<string>movementAcceleration</string>
+	<key>pagerBound</key>
+	<string>animationprocessflags</string>
+	<key>seamlessBaseline</key>
+	<string>popTable</string>
+	<key>signthroughcommand</key>
+	<string>permissiveGraphic</string>
+</dict>
+</plist>

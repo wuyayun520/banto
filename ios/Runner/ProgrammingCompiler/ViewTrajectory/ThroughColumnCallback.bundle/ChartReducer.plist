@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerSize</key>
+	<string>canValidateScale</string>
+	<key>independentLayout</key>
+	<string>hardWrapper</string>
+	<key>normalLocalization</key>
+	<string>functionalobserverposition</string>
+	<key>onskintap</key>
+	<string>unsortedWorkflow</string>
+	<key>pageviewType</key>
+	<string>canLoadExponent</string>
+	<key>pinchableVariant</key>
+	<string>difficultChallenge</string>
+	<key>segmentOffset</key>
+	<string>cartesianBinder</string>
+	<key>shouldRouteMaterial</key>
+	<string>emitSlider</string>
+</dict>
+</plist>

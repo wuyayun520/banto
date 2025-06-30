@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCard</key>
+	<string>visibleSegue</string>
+	<key>animateoptimizer</key>
+	<string>directFormat</string>
+	<key>basicBuffer</key>
+	<string>convertgraphic</string>
+	<key>durationShade</key>
+	<string>sceneAlignment</string>
+	<key>globalStoryboard</key>
+	<string>fusedmapper</string>
+	<key>liteLabel</key>
+	<string>comprehensiveClipper</string>
+	<key>modulusrect</key>
+	<string>setupInjection</string>
+	<key>pivotalGram</key>
+	<string>canCreateMultiplication</string>
+	<key>priorOperation</key>
+	<string>synchronousresourcedepth</string>
+	<key>specifyThroughput</key>
+	<string>shouldPaintAspect</string>
+</dict>
+</plist>

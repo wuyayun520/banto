@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatecursor</key>
+	<string>protectedInjection</string>
+	<key>asynchronousBox</key>
+	<string>canMountGrayscale</string>
+	<key>dedicatedResponse</key>
+	<string>shouldCacheNib</string>
+	<key>deferredwidgetscale</key>
+	<string>fetchMatrix</string>
+	<key>largeclipper</key>
+	<string>shouldConnectText</string>
+	<key>prevResilience</key>
+	<string>notifyProjection</string>
+	<key>responsivelistenerskewy</key>
+	<string>restartCube</string>
+	<key>storyboardversusobserver</key>
+	<string>shouldPresentCursor</string>
+</dict>
+</plist>

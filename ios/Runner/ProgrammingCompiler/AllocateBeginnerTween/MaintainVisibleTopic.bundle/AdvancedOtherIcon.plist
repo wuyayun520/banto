@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiojobstatus</key>
+	<string>canUpdateFuture</string>
+	<key>dedicatedTimeline</key>
+	<string>rectifyradius</string>
+	<key>hyperbolicMap</key>
+	<string>iterativeSound</string>
+	<key>permanentProgressBar</key>
+	<string>quantizerTimer</string>
+	<key>sessionrequest</key>
+	<string>shouldCreateAxis</string>
+	<key>techniqueanimation</key>
+	<string>propagatecheckbox</string>
+	<key>temporaryStorage</key>
+	<string>previewfrequency</string>
+	<key>textRotation</key>
+	<string>shouldParseSine</string>
+</dict>
+</plist>

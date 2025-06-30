@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlermend</key>
+	<string>routeexceptpattern</string>
+	<key>robustService</key>
+	<string>canPersistStamp</string>
+	<key>shouldanimatenotifier</key>
+	<string>audioOpacity</string>
+	<key>skirtTint</key>
+	<string>shouldSetStateSpot</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoItem</key>
+	<string>oldLifecycle</string>
+	<key>lastTool</key>
+	<string>customizedLoop</string>
+	<key>shouldPersistDocument</key>
+	<string>decodeNotification</string>
+	<key>staticStore</key>
+	<string>shouldRenderNotifier</string>
+	<key>substantialAction</key>
+	<string>dedicatedCheckbox</string>
+</dict>
+</plist>

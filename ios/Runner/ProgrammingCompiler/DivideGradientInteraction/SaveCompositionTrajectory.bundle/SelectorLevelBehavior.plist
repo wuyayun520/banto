@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>numericalEffect</key>
+	<string>uniqueEntropy</string>
+	<key>pushlayout</key>
+	<string>setstateExpanded</string>
+	<key>shouldpublishoverlay</key>
+	<string>bindFragment</string>
+</dict>
+</plist>

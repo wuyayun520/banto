@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismissdescriptor</key>
+	<string>subtlePoint</string>
+	<key>enabledshadertransparency</key>
+	<string>shouldDispatchEqualization</string>
+	<key>eventtheme</key>
+	<string>extendLabel</string>
+	<key>gestureDirection</key>
+	<string>shouldBindButton</string>
+	<key>shouldNotifyCharacter</key>
+	<string>criticalLatency</string>
+	<key>typicalfactory</key>
+	<string>iterativeTransformer</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateDispatcher</key>
+	<string>checklistpicker</string>
+	<key>menustrength</key>
+	<string>euclideanstoragebrightness</string>
+	<key>oldDelegate</key>
+	<string>fixedListView</string>
+	<key>shouldReplaceGradient</key>
+	<string>shouldContinueDimension</string>
+	<key>standaloneRange</key>
+	<string>firstModal</string>
+</dict>
+</plist>

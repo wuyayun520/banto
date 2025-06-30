@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedData</key>
+	<string>immediateGrayscale</string>
+	<key>defaultConstraint</key>
+	<string>calculateStream</string>
+	<key>largeTabView</key>
+	<string>rapidDuration</string>
+	<key>loadbuilder</key>
+	<string>geometricInformation</string>
+	<key>publicResolver</key>
+	<string>primaryStateless</string>
+	<key>shouldParseReduction</key>
+	<string>canRebuildComposition</string>
+	<key>usedAxis</key>
+	<string>inheritedPosition</string>
+</dict>
+</plist>

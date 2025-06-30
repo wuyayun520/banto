@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineSaturation</key>
+	<string>transformerVariable</string>
+	<key>flexcoord</key>
+	<string>divideAllocator</string>
+	<key>immediateCurve</key>
+	<string>crucialMusic</string>
+	<key>instructionacceleration</key>
+	<string>storeMode</string>
+	<key>liteItem</key>
+	<string>managerscale</string>
+	<key>opaqueFilter</key>
+	<string>canUnmountedComposition</string>
+	<key>singlestampfeedback</key>
+	<string>hardTextField</string>
+	<key>statetension</key>
+	<string>scalescale</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicChannels</key>
+	<string>shouldRestartAppBar</string>
+	<key>lastCompleter</key>
+	<string>layoutviafacade</string>
+	<key>layoutvisitorvisibility</key>
+	<string>semanticsbehavior</string>
+	<key>observeruntilmemento</key>
+	<string>canPublishKernel</string>
+	<key>offsetscenario</key>
+	<string>canStartSine</string>
+	<key>priorChallenge</key>
+	<string>shouldRouteCaption</string>
+	<key>reactiveservice</key>
+	<string>isheap</string>
+	<key>selectorInterval</key>
+	<string>precisionworkedge</string>
+	<key>shouldPublishCard</key>
+	<string>standaloneCatalyst</string>
+	<key>unactivatedEqualization</key>
+	<string>respectiveOffset</string>
+</dict>
+</plist>

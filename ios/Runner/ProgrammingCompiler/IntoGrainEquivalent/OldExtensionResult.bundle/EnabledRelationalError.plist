@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedProgressBar</key>
+	<string>protectedRole</string>
+	<key>characterpresenter</key>
+	<string>shouldsubscribemap</string>
+	<key>clipperSpeed</key>
+	<string>smallProgressBar</string>
+	<key>eagerPosition</key>
+	<string>canFormatThread</string>
+	<key>firstChooser</key>
+	<string>primaryAnimation</string>
+	<key>missedMethod</key>
+	<string>imperativeBaseline</string>
+	<key>popupcoord</key>
+	<string>syncResolver</string>
+	<key>sensorofstage</key>
+	<string>mainSample</string>
+	<key>storageFeedback</key>
+	<string>elasticInteger</string>
+</dict>
+</plist>

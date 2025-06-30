@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseInteraction</key>
+	<string>switchOrigin</string>
+	<key>connectorFrequency</key>
+	<string>errorFacade</string>
+	<key>crucialBehavior</key>
+	<string>normalLatency</string>
+	<key>diversifiedsliderfrequency</key>
+	<string>eagerProvider</string>
+	<key>groupmode</key>
+	<string>sharedStateless</string>
+	<key>logForce</key>
+	<string>groupTemple</string>
+	<key>shouldRouteCapsule</key>
+	<string>synchronousSkirt</string>
+</dict>
+</plist>

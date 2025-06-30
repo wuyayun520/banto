@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexiblefinder</key>
+	<string>heapcount</string>
+	<key>localBaseline</key>
+	<string>resourceStrategy</string>
+	<key>lostProject</key>
+	<string>selectedplayback</string>
+	<key>materializerAppearance</key>
+	<string>particleworkborder</string>
+	<key>tappableConstraint</key>
+	<string>updatepriority</string>
+</dict>
+</plist>

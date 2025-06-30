@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineFeedback</key>
+	<string>boxshadowOffset</string>
+	<key>cubeContrast</key>
+	<string>resilientSlash</string>
+	<key>filltext</key>
+	<string>publicListView</string>
+	<key>segmentsink</key>
+	<string>presenterSystem</string>
+	<key>shouldattachpet</key>
+	<string>responseandbridge</string>
+	<key>signphasehue</key>
+	<string>stacklevelappearance</string>
+	<key>sliderreliability</key>
+	<string>mobileNavigation</string>
+	<key>subscriberappearance</key>
+	<string>protectedPainter</string>
+	<key>unactivatedSwitch</key>
+	<string>continueBrush</string>
+</dict>
+</plist>

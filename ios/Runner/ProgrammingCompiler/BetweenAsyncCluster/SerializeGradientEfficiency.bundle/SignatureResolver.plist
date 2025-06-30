@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerRight</key>
+	<string>canContinueDuration</string>
+	<key>capturemargin</key>
+	<string>behaviorOrientation</string>
+	<key>eagerFactory</key>
+	<string>fusedEmitter</string>
+	<key>invisiblehistogramfeedback</key>
+	<string>loadBitrate</string>
+	<key>isolateValidation</key>
+	<string>canYieldBoxShadow</string>
+	<key>optimizerascent</key>
+	<string>annotateSingleton</string>
+	<key>sampleVisible</key>
+	<string>maincontroller</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorTop</key>
+	<string>pendingNavigation</string>
+	<key>mainCompletion</key>
+	<string>tabbarActivity</string>
+	<key>operationSize</key>
+	<string>revisitTask</string>
+	<key>protectedUtil</key>
+	<string>rapidChannel</string>
+	<key>respectiveModule</key>
+	<string>notifierwithoutprocess</string>
+	<key>secondPicker</key>
+	<string>cubepressure</string>
+	<key>semanticEqualization</key>
+	<string>shouldRenderImage</string>
+	<key>shouldObserveSlider</key>
+	<string>customInterpolation</string>
+	<key>shouldRebuildSignature</key>
+	<string>loadBox</string>
+	<key>typicalPriority</key>
+	<string>canPauseSignature</string>
+</dict>
+</plist>

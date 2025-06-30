@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeCursor</key>
+	<string>tappableExpanded</string>
+	<key>decodebox</key>
+	<string>interactionDuration</string>
+	<key>equivalentDuration</key>
+	<string>imperativeCompletion</string>
+	<key>exceptionCenter</key>
+	<string>shouldStreamComposition</string>
+	<key>immutableviewtop</key>
+	<string>factoryDirection</string>
+	<key>resizableconsumption</key>
+	<string>newestAspectRatio</string>
+	<key>shaderacceleration</key>
+	<string>difficultText</string>
+	<key>shouldTrainStep</key>
+	<string>resizableLatency</string>
+	<key>symbolForce</key>
+	<string>canFetchVariant</string>
+</dict>
+</plist>

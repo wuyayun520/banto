@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationmargin</key>
+	<string>volumeMargin</string>
+	<key>beginnerGift</key>
+	<string>imageStage</string>
+	<key>detachcanvas</key>
+	<string>imperativeFuture</string>
+	<key>materialplaybackleft</key>
+	<string>gridviewOperation</string>
+	<key>optimizerRotation</key>
+	<string>restartSwift</string>
+	<key>persistentView</key>
+	<string>scrollableTweak</string>
+	<key>referenceOffset</key>
+	<string>writeHash</string>
+	<key>resourceformat</key>
+	<string>intensityuntilstage</string>
+</dict>
+</plist>

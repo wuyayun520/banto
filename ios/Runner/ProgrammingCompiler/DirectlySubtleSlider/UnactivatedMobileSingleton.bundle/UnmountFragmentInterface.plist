@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoDelegate</key>
+	<string>detachRole</string>
+	<key>dispatchpopup</key>
+	<string>canTransformMedia</string>
+	<key>fusedMend</key>
+	<string>flexState</string>
+	<key>localAnchor</key>
+	<string>priorTweak</string>
+	<key>resilientDuration</key>
+	<string>accordionIntegration</string>
+	<key>shouldSerializeBase</key>
+	<string>tweenProxy</string>
+	<key>tensorsignature</key>
+	<string>significantTabView</string>
+</dict>
+</plist>

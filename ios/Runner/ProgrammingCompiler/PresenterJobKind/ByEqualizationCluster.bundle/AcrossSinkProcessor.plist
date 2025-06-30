@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowinset</key>
+	<string>canFetchChannels</string>
+	<key>constantRotation</key>
+	<string>entropyJob</string>
+	<key>grainInteraction</key>
+	<string>dialogsProxy</string>
+	<key>inactiveplateopacity</key>
+	<string>utilright</string>
+	<key>iterativeSelector</key>
+	<string>globalPositioned</string>
+	<key>responsivePresenter</key>
+	<string>standaloneGestureDetector</string>
+	<key>singleTool</key>
+	<string>dimensionCount</string>
+</dict>
+</plist>

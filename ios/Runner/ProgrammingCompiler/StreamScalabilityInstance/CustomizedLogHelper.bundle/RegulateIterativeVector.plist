@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableWrapper</key>
+	<string>canSaveResource</string>
+	<key>globalDescription</key>
+	<string>lastsamplefrequency</string>
+	<key>loaderorigin</key>
+	<string>customUnary</string>
+	<key>permanentController</key>
+	<string>statelessProject</string>
+	<key>requiredTraversal</key>
+	<string>grayscaleVelocity</string>
+	<key>scopetag</key>
+	<string>basicDrawer</string>
+	<key>shouldStreamAccessory</key>
+	<string>storeCurve</string>
+	<key>shouldpresentpoint</key>
+	<string>canSerializeStep</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishchannels</key>
+	<string>awaitformethod</string>
+	<key>gesturedetectorMode</key>
+	<string>collectionFrequency</string>
+	<key>nativetextfieldcount</key>
+	<string>framespeed</string>
+	<key>nibstatetension</key>
+	<string>desktopScroller</string>
+	<key>normthanplatform</key>
+	<string>tappableSession</string>
+	<key>positionbottom</key>
+	<string>decodeLabel</string>
+	<key>smartObject</key>
+	<string>hardCombiner</string>
+	<key>storyboardbeyondflyweight</key>
+	<string>shouldMountVariant</string>
+</dict>
+</plist>

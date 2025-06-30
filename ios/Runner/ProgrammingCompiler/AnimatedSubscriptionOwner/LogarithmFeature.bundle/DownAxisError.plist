@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalStroke</key>
+	<string>discardedBinary</string>
+	<key>connectcomposition</key>
+	<string>prevFragments</string>
+	<key>crucialtransformer</key>
+	<string>nativeEvent</string>
+	<key>crudeScroll</key>
+	<string>visualizeCoordinator</string>
+	<key>defaultSwift</key>
+	<string>alertBrightness</string>
+	<key>easySwift</key>
+	<string>transitionnumberrate</string>
+	<key>entropyRate</key>
+	<string>consultativeMedia</string>
+	<key>iterativeSubpixel</key>
+	<string>visualizeSize</string>
+	<key>permissiveStep</key>
+	<string>canKeepCube</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveParticle</key>
+	<string>subscribeloss</string>
+	<key>monsterTheme</key>
+	<string>protectedChapter</string>
+	<key>optimizemetadata</key>
+	<string>normpolygon</string>
+	<key>scenarioFlags</key>
+	<string>shouldPopGesture</string>
+	<key>tappableTangent</key>
+	<string>accessiblemodulus</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedStrength</key>
+	<string>storageDensity</string>
+	<key>cancellabel</key>
+	<string>shouldContinueBrush</string>
+	<key>constraintshade</key>
+	<string>resumeConvolution</string>
+	<key>entityScale</key>
+	<string>schemaPosition</string>
+	<key>geometricElement</key>
+	<string>localSymbol</string>
+	<key>requiredCollection</key>
+	<string>pushcurve</string>
+	<key>shouldDetachReduction</key>
+	<string>embedOffset</string>
+	<key>webCube</key>
+	<string>baseTier</string>
+</dict>
+</plist>

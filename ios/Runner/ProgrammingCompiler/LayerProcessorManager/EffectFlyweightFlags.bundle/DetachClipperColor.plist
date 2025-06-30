@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateofactivity</key>
+	<string>equipmentemitter</string>
+	<key>easyPageView</key>
+	<string>webStack</string>
+	<key>functionalviewspeed</key>
+	<string>euclideanDuration</string>
+	<key>radioDensity</key>
+	<string>quantizationEvent</string>
+	<key>stateresponse</key>
+	<string>directOperation</string>
+	<key>symmetriccompleterrate</key>
+	<string>activityPrototype</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imageenvironmentresponse</key>
+	<string>mobileCustomPaint</string>
+	<key>keyEffect</key>
+	<string>diffableStore</string>
+	<key>preparebutton</key>
+	<string>menustylebottom</string>
+	<key>previewinfacade</key>
+	<string>storyboardPhase</string>
+	<key>tappableArithmetic</key>
+	<string>substantialPublisher</string>
+	<key>visibleResilience</key>
+	<string>shouldAttachConsumer</string>
+</dict>
+</plist>

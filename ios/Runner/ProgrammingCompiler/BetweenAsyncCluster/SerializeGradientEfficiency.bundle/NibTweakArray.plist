@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncappearance</key>
+	<string>ismobile</string>
+	<key>shouldRouteKernel</key>
+	<string>exponentComposite</string>
+	<key>signaturerequest</key>
+	<string>tappableCoordinator</string>
+	<key>signdependency</key>
+	<string>dedicatedSizedBox</string>
+	<key>specifyTabBar</key>
+	<string>shouldResumeAperture</string>
+	<key>subscriptionawayparam</key>
+	<string>navigateReducer</string>
+</dict>
+</plist>

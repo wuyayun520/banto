@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthStatus</key>
+	<string>cartesianLoader</string>
+	<key>buttonFeedback</key>
+	<string>commonequalizationopacity</string>
+	<key>inheritedSegue</key>
+	<string>aperturetexture</string>
+	<key>navigationDuration</key>
+	<string>diversifiedStorage</string>
+	<key>objectCoord</key>
+	<string>monsterMemento</string>
+	<key>scaffoldTag</key>
+	<string>popupCount</string>
+	<key>uniformProgressBar</key>
+	<string>arithmeticTimer</string>
+</dict>
+</plist>

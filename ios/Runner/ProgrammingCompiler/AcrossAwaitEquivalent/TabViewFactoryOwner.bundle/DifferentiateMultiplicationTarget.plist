@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblecompleterbrightness</key>
+	<string>subsequentsymbol</string>
+	<key>advancedInterpolation</key>
+	<string>apertureStructure</string>
+	<key>assetbehavior</key>
+	<string>compositiontierborder</string>
+	<key>dropdownbuttonacceleration</key>
+	<string>addInterface</string>
+	<key>granularAspect</key>
+	<string>mountedTask</string>
+</dict>
+</plist>

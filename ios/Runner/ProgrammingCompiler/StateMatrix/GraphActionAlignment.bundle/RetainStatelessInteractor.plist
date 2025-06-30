@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueaspectratio</key>
+	<string>mountedTabView</string>
+	<key>delicateThreshold</key>
+	<string>animatedstream</string>
+	<key>instructionTheme</key>
+	<string>basicCard</string>
+	<key>mapFormat</key>
+	<string>presenterthanpattern</string>
+	<key>optimizepainter</key>
+	<string>publicWorkflow</string>
+	<key>statelessDirection</key>
+	<string>heapFeedback</string>
+</dict>
+</plist>

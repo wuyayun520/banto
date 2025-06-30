@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedAscent</key>
+	<string>functionalCoordinator</string>
+	<key>delicateTrigger</key>
+	<string>shouldCreateTheme</string>
+	<key>equipmentnearmethod</key>
+	<string>popstorage</string>
+	<key>onconstrainttap</key>
+	<string>fusedScroller</string>
+	<key>optionjobmargin</key>
+	<string>secondState</string>
+	<key>playvector</key>
+	<string>shouldEmitMember</string>
+	<key>shouldSubscribeActivity</key>
+	<string>pendingSpecifier</string>
+	<key>stopalignment</key>
+	<string>shoulddismisscontroller</string>
+</dict>
+</plist>

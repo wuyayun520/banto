@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autospinevisible</key>
+	<string>skirtlocation</string>
+	<key>chartexceptfunction</key>
+	<string>originalImage</string>
+	<key>interactionOrientation</key>
+	<string>disparateItem</string>
+	<key>mainVolume</key>
+	<string>frameLocation</string>
+	<key>providerepository</key>
+	<string>resolveBuilder</string>
+	<key>roleBottom</key>
+	<string>fusedCreator</string>
+</dict>
+</plist>

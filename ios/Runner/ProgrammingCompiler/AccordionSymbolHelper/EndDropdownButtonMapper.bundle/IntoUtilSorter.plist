@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAwait</key>
+	<string>mountBinary</string>
+	<key>matrixName</key>
+	<string>reusableTextField</string>
+	<key>radiusOrientation</key>
+	<string>canDisposeOverlay</string>
+	<key>remainderacceleration</key>
+	<string>searcherHead</string>
+	<key>shouldLayoutRadio</key>
+	<string>dedicatedBuilder</string>
+</dict>
+</plist>

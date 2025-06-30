@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalOperation</key>
+	<string>scaleShade</string>
+	<key>denseVariant</key>
+	<string>keyscene</string>
+	<key>mainBox</key>
+	<string>descriptorAdapter</string>
+	<key>mapAppearance</key>
+	<string>shouldMountProjection</string>
+	<key>shouldloadprecision</key>
+	<string>responsiveTriangles</string>
+</dict>
+</plist>

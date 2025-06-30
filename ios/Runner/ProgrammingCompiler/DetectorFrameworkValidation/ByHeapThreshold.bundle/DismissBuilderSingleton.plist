@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultDescriptor</key>
+	<string>concurrentReducer</string>
+	<key>entitybound</key>
+	<string>effectexceptvar</string>
+	<key>euclideanRadius</key>
+	<string>singleTransition</string>
+	<key>findchallenge</key>
+	<string>sliderSkewX</string>
+	<key>hierarchicalReceiver</key>
+	<string>storyboardForce</string>
+	<key>pickerRotation</key>
+	<string>sequentialCompleter</string>
+	<key>reactivejoiner</key>
+	<string>awaitTension</string>
+	<key>shouldObserveSpot</key>
+	<string>pushMedia</string>
+	<key>throughputVisible</key>
+	<string>behaviorStatus</string>
+</dict>
+</plist>

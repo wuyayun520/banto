@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePromise</key>
+	<string>sustainableResilience</string>
+	<key>extensionOrientation</key>
+	<string>allocateFeature</string>
+	<key>gestureResponse</key>
+	<string>densemission</string>
+	<key>notificationDistance</key>
+	<string>synchronousRemediation</string>
+	<key>secondDelivery</key>
+	<string>imageScope</string>
+	<key>shouldBuildCompletion</key>
+	<string>beginnerProcessor</string>
+	<key>standaloneGrid</key>
+	<string>widgetstylebehavior</string>
+</dict>
+</plist>

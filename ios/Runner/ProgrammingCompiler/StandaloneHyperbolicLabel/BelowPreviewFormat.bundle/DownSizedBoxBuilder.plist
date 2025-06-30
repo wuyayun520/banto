@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticSubscription</key>
+	<string>mediumSlider</string>
+	<key>primaryWidget</key>
+	<string>rapidUsage</string>
+	<key>selectedgem</key>
+	<string>compileView</string>
+	<key>shouldProcessAccessory</key>
+	<string>switchState</string>
+	<key>statelessGrain</key>
+	<string>activatedQuaternion</string>
+	<key>substantialslider</key>
+	<string>canReplaceDescriptor</string>
+	<key>swiftAppearance</key>
+	<string>shouldTrainActivity</string>
+</dict>
+</plist>

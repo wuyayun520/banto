@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatoraroundmethod</key>
+	<string>manageraroundtier</string>
+	<key>resilienceVisibility</key>
+	<string>resolverShape</string>
+	<key>resizableHandler</key>
+	<string>onstatefultap</string>
+	<key>selectedprojection</key>
+	<string>shouldAttachMaster</string>
+	<key>shouldPersistMaterial</key>
+	<string>mediocreVertex</string>
+	<key>shouldRebuildNavigation</key>
+	<string>deliveryvalidation</string>
+	<key>statefulBrightness</key>
+	<string>canUnbindSegue</string>
+	<key>temporaryCatalyst</key>
+	<string>crucialCycle</string>
+	<key>transformerCoord</key>
+	<string>retainedPolyfill</string>
+</dict>
+</plist>

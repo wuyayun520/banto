@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emitterSkewY</key>
+	<string>enabledHandler</string>
+	<key>equivalentSpacing</key>
+	<string>emitController</string>
+	<key>latencyTag</key>
+	<string>sizeCycle</string>
+	<key>logState</key>
+	<string>parallelSession</string>
+	<key>mediaMargin</key>
+	<string>shouldRebuildCoordinator</string>
+	<key>newestCertificate</key>
+	<string>shouldDispatchContainer</string>
+	<key>offsettangent</key>
+	<string>quitCoordinator</string>
+	<key>textureVisible</key>
+	<string>shouldDetachFlex</string>
+	<key>timerSaturation</key>
+	<string>resumeGrayscale</string>
+</dict>
+</plist>

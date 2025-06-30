@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyPadding</key>
+	<string>disparatePopup</string>
+	<key>elasticCycle</key>
+	<string>floatrow</string>
+	<key>precisionresolver</key>
+	<string>handleGroup</string>
+	<key>prismaticCaption</key>
+	<string>hyperbolicPadding</string>
+</dict>
+</plist>

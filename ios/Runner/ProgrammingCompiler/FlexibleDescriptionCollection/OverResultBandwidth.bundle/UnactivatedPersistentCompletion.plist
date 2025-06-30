@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousproviderappearance</key>
+	<string>subscribeGate</string>
+	<key>mainEfficiency</key>
+	<string>channelState</string>
+	<key>occasionRotation</key>
+	<string>mountedPositioned</string>
+	<key>shouldEncodeTool</key>
+	<string>equalizationMode</string>
+	<key>shouldpreparematerial</key>
+	<string>extendGroup</string>
+</dict>
+</plist>

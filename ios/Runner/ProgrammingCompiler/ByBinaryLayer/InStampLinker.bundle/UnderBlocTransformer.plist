@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionSize</key>
+	<string>permanentChooser</string>
+	<key>crucialHandler</key>
+	<string>loadstack</string>
+	<key>customReplica</key>
+	<string>bufferhead</string>
+	<key>diversifiedGram</key>
+	<string>shouldKeepColumn</string>
+	<key>mobilePopup</key>
+	<string>emitprogressbar</string>
+	<key>routeLeft</key>
+	<string>discardedEffect</string>
+	<key>shouldObserveTechnique</key>
+	<string>greatCreator</string>
+	<key>shouldRestartBrush</key>
+	<string>canUpdatePrecision</string>
+	<key>shouldResumeEffect</key>
+	<string>responsiveduration</string>
+</dict>
+</plist>

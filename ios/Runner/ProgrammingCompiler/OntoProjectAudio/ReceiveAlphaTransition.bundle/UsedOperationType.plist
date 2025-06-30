@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoresponsedelay</key>
+	<string>fillCallback</string>
+	<key>checkboxappearance</key>
+	<string>checklistStyle</string>
+	<key>functionalgrid</key>
+	<string>remediationdelay</string>
+	<key>missedgramforce</key>
+	<string>associatedJoiner</string>
+	<key>shouldMountedCapacities</key>
+	<string>euclideanEffect</string>
+	<key>shouldRenderExpanded</key>
+	<string>monsterSpeed</string>
+</dict>
+</plist>

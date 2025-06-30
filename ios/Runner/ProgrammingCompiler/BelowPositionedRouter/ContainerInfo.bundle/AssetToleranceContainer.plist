@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesiangraph</key>
+	<string>restoreResolver</string>
+	<key>contrastfeedback</key>
+	<string>optionCommand</string>
+	<key>directSwitch</key>
+	<string>adjustGroup</string>
+	<key>gestureResponse</key>
+	<string>prepareVariant</string>
+	<key>remediationMomentum</key>
+	<string>trainConstraint</string>
+	<key>shouldSkipText</key>
+	<string>shouldObserveSample</string>
+	<key>shouldstarttabview</key>
+	<string>joinerContrast</string>
+	<key>smartTechnique</key>
+	<string>stepTag</string>
+</dict>
+</plist>

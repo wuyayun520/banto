@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineoperationflags</key>
+	<string>reducerJob</string>
+	<key>cubeFeedback</key>
+	<string>localizationVariable</string>
+	<key>liteAperture</key>
+	<string>shouldEmitThread</string>
+	<key>masterDirection</key>
+	<string>shouldAnimateBehavior</string>
+	<key>shouldTrainBoxShadow</key>
+	<string>resolverParameter</string>
+	<key>unactivatedMap</key>
+	<string>saveScreen</string>
+	<key>widgetduration</key>
+	<string>specifierStyle</string>
+</dict>
+</plist>

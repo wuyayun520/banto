@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>infrastructureHue</key>
+	<string>signResponse</string>
+	<key>keepmovement</key>
+	<string>canPaintTable</string>
+	<key>mediumProtocol</key>
+	<string>canMountSubpixel</string>
+	<key>quaternionborder</key>
+	<string>criticalsemantics</string>
+	<key>shouldRestartFragment</key>
+	<string>disparateSubscription</string>
+	<key>timerevaluation</key>
+	<string>shouldPaintBloc</string>
+</dict>
+</plist>

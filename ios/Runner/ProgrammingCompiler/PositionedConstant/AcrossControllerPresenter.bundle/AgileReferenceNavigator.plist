@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedDetail</key>
+	<string>shouldUnmountMaterial</string>
+	<key>disposeparticle</key>
+	<string>nextanimation</string>
+	<key>mediumConvolution</key>
+	<string>rendercontroller</string>
+	<key>momentumsingletonformat</key>
+	<string>canContinueStateful</string>
+	<key>reducerFeedback</key>
+	<string>skinProxy</string>
+	<key>referencedirection</key>
+	<string>autoMetadata</string>
+	<key>replacetabbar</key>
+	<string>blocconverter</string>
+	<key>sortedStroke</key>
+	<string>subpixelgraph</string>
+	<key>steppainter</key>
+	<string>transpileStore</string>
+	<key>synchronousBehavior</key>
+	<string>shouldStartClipper</string>
+</dict>
+</plist>

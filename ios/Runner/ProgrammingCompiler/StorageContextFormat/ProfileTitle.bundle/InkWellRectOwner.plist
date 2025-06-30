@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureinteractor</key>
+	<string>declarativemultiplicationoffset</string>
+	<key>axisCoord</key>
+	<string>canUpdateEquipment</string>
+	<key>deferredLoader</key>
+	<string>viewviadecorator</string>
+	<key>statefulService</key>
+	<string>emitBuilder</string>
+	<key>substantialQueue</key>
+	<string>typicalsensorname</string>
+	<key>unactivatedHeap</key>
+	<string>activateMenu</string>
+</dict>
+</plist>

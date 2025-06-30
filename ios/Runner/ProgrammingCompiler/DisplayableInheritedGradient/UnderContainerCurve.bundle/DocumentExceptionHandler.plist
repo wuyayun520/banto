@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureoutsidefunction</key>
+	<string>apertureShade</string>
+	<key>movetexture</key>
+	<string>canTransitionModal</string>
+	<key>nativeTimer</key>
+	<string>mitigateOffset</string>
+	<key>removedependency</key>
+	<string>painterkind</string>
+	<key>shouldContinueReduction</key>
+	<string>mendDistance</string>
+	<key>shouldRestartConstraint</key>
+	<string>shouldsubscribeaxis</string>
+	<key>shouldYieldController</key>
+	<string>disparateCube</string>
+	<key>staticTabBar</key>
+	<string>lastPriority</string>
+</dict>
+</plist>

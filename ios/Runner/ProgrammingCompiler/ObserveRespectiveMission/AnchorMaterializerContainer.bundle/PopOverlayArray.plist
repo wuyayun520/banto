@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDocument</key>
+	<string>missedSemantics</string>
+	<key>allocatorType</key>
+	<string>elasticstateleft</string>
+	<key>dropdownbuttonShape</key>
+	<string>declarativeConfiguration</string>
+	<key>makeworkflow</key>
+	<string>quitSingleton</string>
+	<key>mutableEffect</key>
+	<string>eventAcceleration</string>
+	<key>providerleveldensity</key>
+	<string>shouldRouteLayout</string>
+	<key>resizableWrapper</key>
+	<string>textureshapeoffset</string>
+	<key>trianglesOrientation</key>
+	<string>textOrientation</string>
+</dict>
+</plist>

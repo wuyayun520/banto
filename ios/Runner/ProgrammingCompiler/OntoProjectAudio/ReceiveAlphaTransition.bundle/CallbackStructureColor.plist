@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetSpeed</key>
+	<string>semanticrichtext</string>
+	<key>basicSession</key>
+	<string>basicChannels</string>
+	<key>dropdownbuttonspacing</key>
+	<string>canDisconnectSpine</string>
+	<key>extensionexcepttemple</key>
+	<string>serviceOperation</string>
+	<key>permutationcontrast</key>
+	<string>consultativeSubpixel</string>
+	<key>rebuildmaster</key>
+	<string>reducerTransparency</string>
+	<key>referencevaluehead</key>
+	<string>shouldCancelSample</string>
+	<key>shouldAttachMomentum</key>
+	<string>hasscreen</string>
+	<key>shouldCreateRow</key>
+	<string>notifyMethod</string>
+	<key>transitionlabel</key>
+	<string>shouldRenderOverlay</string>
+</dict>
+</plist>

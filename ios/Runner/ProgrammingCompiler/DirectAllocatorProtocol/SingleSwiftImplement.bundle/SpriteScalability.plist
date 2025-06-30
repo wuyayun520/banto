@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customIcon</key>
+	<string>timercenter</string>
+	<key>dropdownbuttonOffset</key>
+	<string>subtleInterface</string>
+	<key>remediationDelay</key>
+	<string>numericalRichText</string>
+	<key>sliderPressure</key>
+	<string>subscribePainter</string>
+</dict>
+</plist>

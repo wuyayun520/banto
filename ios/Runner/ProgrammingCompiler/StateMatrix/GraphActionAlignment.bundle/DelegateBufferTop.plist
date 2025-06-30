@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilestatefuldepth</key>
+	<string>isCharacter</string>
+	<key>consultativeInteraction</key>
+	<string>storeAdapter</string>
+	<key>consultativeReplica</key>
+	<string>canDecodeRichText</string>
+	<key>materialHandler</key>
+	<string>reducerLayer</string>
+	<key>positionMomentum</key>
+	<string>actionbound</string>
+	<key>shouldCancelPoint</key>
+	<string>subtlesegueinset</string>
+	<key>skirtduration</key>
+	<string>shouldValidateSemantics</string>
+	<key>titledetector</key>
+	<string>connectColumn</string>
+	<key>unbindallocator</key>
+	<string>globalScroll</string>
+</dict>
+</plist>

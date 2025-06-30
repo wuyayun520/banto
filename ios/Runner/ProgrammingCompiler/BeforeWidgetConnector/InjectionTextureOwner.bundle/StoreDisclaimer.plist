@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushPadding</key>
+	<string>scalePressure</string>
+	<key>cubeDensity</key>
+	<string>restartscreen</string>
+	<key>freecube</key>
+	<string>shouldListenBloc</string>
+	<key>keycoordinator</key>
+	<string>interpolateResolver</string>
+	<key>seamlessLocalization</key>
+	<string>canDecodeCaption</string>
+</dict>
+</plist>

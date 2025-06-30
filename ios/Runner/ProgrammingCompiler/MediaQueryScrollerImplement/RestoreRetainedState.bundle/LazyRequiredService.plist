@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoHeap</key>
+	<string>defaulttextfield</string>
+	<key>fragmentsforce</key>
+	<string>parallelmatrix</string>
+	<key>localAlert</key>
+	<string>streamlineconfiguration</string>
+	<key>publisherInterval</key>
+	<string>unregisterHash</string>
+	<key>shouldRouteMaster</key>
+	<string>functionalConnector</string>
+</dict>
+</plist>

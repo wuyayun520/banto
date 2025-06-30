@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentSize</key>
+	<string>decodePreview</string>
+	<key>displayableTimeline</key>
+	<string>transposeFuture</string>
+	<key>globalGridView</key>
+	<string>canRestartInterpolation</string>
+	<key>missedrect</key>
+	<string>boxStatus</string>
+	<key>persistinkwell</key>
+	<string>significantDescent</string>
+	<key>shouldEndDuration</key>
+	<string>globalLabel</string>
+	<key>shouldPresentBox</key>
+	<string>customEmitter</string>
+</dict>
+</plist>

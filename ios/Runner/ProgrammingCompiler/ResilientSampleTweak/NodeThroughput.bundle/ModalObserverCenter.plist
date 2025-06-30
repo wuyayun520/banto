@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlylistener</key>
+	<string>sharedIsolate</string>
+	<key>dynamicMedia</key>
+	<string>dynamicProvision</string>
+	<key>localizationscopedepth</key>
+	<string>interceptPopup</string>
+	<key>moduleLocation</key>
+	<string>continueSegue</string>
+	<key>resumeremainder</key>
+	<string>canRestartPoint</string>
+	<key>shouldPaintDropdownButton</key>
+	<string>continueTangent</string>
+	<key>streamaboutnumber</key>
+	<string>repositorycommandmode</string>
+	<key>unactivatedWrapper</key>
+	<string>buttonType</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitypermutation</key>
+	<string>largeWidget</string>
+	<key>dedicatedTrigger</key>
+	<string>reactiveMovement</string>
+	<key>detachcollection</key>
+	<string>featureFunction</string>
+	<key>newestSound</key>
+	<string>activatedTabView</string>
+	<key>petmodepressure</key>
+	<string>resumeDescriptor</string>
+	<key>shouldDispatchLayout</key>
+	<string>navigatorstate</string>
+</dict>
+</plist>

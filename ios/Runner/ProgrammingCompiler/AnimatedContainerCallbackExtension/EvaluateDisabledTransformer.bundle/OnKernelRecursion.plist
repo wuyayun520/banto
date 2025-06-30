@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocisolate</key>
+	<string>sizedboxScope</string>
+	<key>customrepositoryorientation</key>
+	<string>limitVector</string>
+	<key>nextSubscriber</key>
+	<string>channelsmanager</string>
+	<key>persistentService</key>
+	<string>smallPageView</string>
+	<key>processorRotation</key>
+	<string>uniformFilter</string>
+	<key>replicaAcceleration</key>
+	<string>listencapacities</string>
+	<key>shouldskipscroll</key>
+	<string>logLeft</string>
+	<key>throughputBrightness</key>
+	<string>explicitaperturetheme</string>
+</dict>
+</plist>

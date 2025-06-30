@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerAction</key>
+	<string>canListenSine</string>
+	<key>euclideanResolver</key>
+	<string>beginnerLoop</string>
+	<key>metricsfeedback</key>
+	<string>canKeepStateless</string>
+	<key>nibshapeorigin</key>
+	<string>canDismissChecklist</string>
+	<key>persistentPopup</key>
+	<string>canPublishCube</string>
+	<key>repositoryLocation</key>
+	<string>resumeModal</string>
+	<key>seamlessUseCase</key>
+	<string>singleFuture</string>
+	<key>sortedTool</key>
+	<string>flexibleCubit</string>
+</dict>
+</plist>

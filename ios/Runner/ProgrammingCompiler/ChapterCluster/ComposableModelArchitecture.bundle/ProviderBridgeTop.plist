@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousInteger</key>
+	<string>bindCharacter</string>
+	<key>backwardPopup</key>
+	<string>pointandmethod</string>
+	<key>consultativeNorm</key>
+	<string>navigationAcceleration</string>
+	<key>customTechnique</key>
+	<string>optimizeradius</string>
+	<key>descriptionname</key>
+	<string>directChart</string>
+	<key>referenceconfiguration</key>
+	<string>transformDrawer</string>
+	<key>scaffoldOrigin</key>
+	<string>efficiencyStyle</string>
+</dict>
+</plist>

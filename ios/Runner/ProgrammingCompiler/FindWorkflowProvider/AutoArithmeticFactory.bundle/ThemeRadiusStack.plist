@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeScheduler</key>
+	<string>captionPosition</string>
+	<key>dependencytypepadding</key>
+	<string>subscriberCenter</string>
+	<key>dissociatewidget</key>
+	<string>switchMargin</string>
+	<key>ephemeralContainer</key>
+	<string>stackInterpreter</string>
+	<key>flexibleCaption</key>
+	<string>errorInteraction</string>
+	<key>resolverstate</key>
+	<string>shouldDeserializeSegment</string>
+	<key>shouldRestartCursor</key>
+	<string>descentLocation</string>
+</dict>
+</plist>

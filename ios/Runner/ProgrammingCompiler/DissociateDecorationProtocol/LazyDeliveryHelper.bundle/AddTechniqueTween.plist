@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableUseCase</key>
+	<string>activeScheduler</string>
+	<key>heapTail</key>
+	<string>eagerScenario</string>
+	<key>inflateexception</key>
+	<string>shouldDisconnectGesture</string>
+	<key>reductiontheme</key>
+	<string>canStopTransition</string>
+	<key>repositoryFrequency</key>
+	<string>animateLoss</string>
+	<key>serializestate</key>
+	<string>visibleTraversal</string>
+	<key>shouldEmitMargin</key>
+	<string>priorcaption</string>
+	<key>staticGestureDetector</key>
+	<string>crucialScalability</string>
+</dict>
+</plist>

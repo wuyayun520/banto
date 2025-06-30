@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleScenario</key>
+	<string>activatedBloc</string>
+	<key>defaultsemantics</key>
+	<string>batchScale</string>
+	<key>interactiveKernel</key>
+	<string>animatedMedia</string>
+	<key>keyStack</key>
+	<string>progressbarProcess</string>
+	<key>publicNavigator</key>
+	<string>invisibleRow</string>
+	<key>strokeVelocity</key>
+	<string>autoGrayscale</string>
+	<key>sustainableJoiner</key>
+	<string>subscribeCurve</string>
+	<key>textfieldInteraction</key>
+	<string>grouptail</string>
+	<key>touchcontroller</key>
+	<string>commonRow</string>
+</dict>
+</plist>

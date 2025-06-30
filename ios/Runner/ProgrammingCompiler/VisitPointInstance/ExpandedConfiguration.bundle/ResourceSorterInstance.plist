@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateSegment</key>
+	<string>dedicatedPolyfill</string>
+	<key>lazyerror</key>
+	<string>secondNorm</string>
+	<key>localizationPosition</key>
+	<string>canDisconnectRichText</string>
+	<key>painterSpacing</key>
+	<string>scrollLocation</string>
+	<key>profilepatterndepth</key>
+	<string>imperativePromise</string>
+	<key>shouldDisconnectTabBar</key>
+	<string>checklistStage</string>
+	<key>shouldMountedCollection</key>
+	<string>entityTemple</string>
+	<key>shouldTransitionTabBar</key>
+	<string>dimensionTemple</string>
+	<key>spriteSize</key>
+	<string>detachEntity</string>
+	<key>videoSkewX</key>
+	<string>inheritedDocument</string>
+</dict>
+</plist>

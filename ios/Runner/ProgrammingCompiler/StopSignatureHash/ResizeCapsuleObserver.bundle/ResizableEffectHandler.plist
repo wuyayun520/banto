@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonContainer</key>
+	<string>composableBatch</string>
+	<key>curveSize</key>
+	<string>shouldAnimateCupertino</string>
+	<key>ignoredactivity</key>
+	<string>declarativeGesture</string>
+	<key>normalImpression</key>
+	<string>challengeDistance</string>
+	<key>shouldRestartMatrix</key>
+	<string>fetchOptimizer</string>
+</dict>
+</plist>

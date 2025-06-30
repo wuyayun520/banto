@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captiontimeline</key>
+	<string>concreteCanvas</string>
+	<key>explicitResult</key>
+	<string>taskTheme</string>
+	<key>isolateprocessdepth</key>
+	<string>scrollableSegment</string>
+	<key>moduleTag</key>
+	<string>shouldConnectSpot</string>
+	<key>shouldCacheAnimation</key>
+	<string>wrapButton</string>
+	<key>shouldPersistTangent</key>
+	<string>canPrepareChannels</string>
+	<key>shouldStreamGesture</key>
+	<string>createBaseline</string>
+	<key>shouldfetchbloc</key>
+	<string>evaluationInset</string>
+	<key>visibleCatalyst</key>
+	<string>pinchableStoryboard</string>
+</dict>
+</plist>

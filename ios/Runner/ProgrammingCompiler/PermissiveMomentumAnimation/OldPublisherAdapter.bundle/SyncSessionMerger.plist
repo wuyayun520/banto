@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionchooser</key>
+	<string>visibleDecoration</string>
+	<key>crucialmenutheme</key>
+	<string>canMountedSession</string>
+	<key>defaultscale</key>
+	<string>singleHistogram</string>
+	<key>inheritedDispatcher</key>
+	<string>listenermode</string>
+	<key>keepconvolution</key>
+	<string>efficiencyInset</string>
+	<key>promiseSkewX</key>
+	<string>interceptController</string>
+	<key>shouldResumeLog</key>
+	<string>beginnerBuilder</string>
+	<key>significantThread</key>
+	<string>transitionAnimation</string>
+	<key>videoVisible</key>
+	<string>vectorInset</string>
+</dict>
+</plist>

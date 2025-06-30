@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopbrushfeedback</key>
+	<string>granularsubscriber</string>
+	<key>disabledAnchor</key>
+	<string>titlerenderer</string>
+	<key>largeMovement</key>
+	<string>canStartDuration</string>
+	<key>reusablescale</key>
+	<string>textfieldCoord</string>
+	<key>semanticdescriptionorientation</key>
+	<string>popOption</string>
+	<key>serviceresponder</key>
+	<string>adjustStore</string>
+	<key>smartBehavior</key>
+	<string>globalevaluation</string>
+	<key>subscriptionworklocation</key>
+	<string>pushOptimizer</string>
+</dict>
+</plist>

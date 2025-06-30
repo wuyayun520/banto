@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableIsolate</key>
+	<string>granularPopup</string>
+	<key>extensionBottom</key>
+	<string>cacheObserver</string>
+	<key>hyperbolicTrigger</key>
+	<string>canContinueTheme</string>
+	<key>integercoord</key>
+	<string>immutableNavigator</string>
+	<key>observerSpeed</key>
+	<string>pendingExpanded</string>
+	<key>persistentOffset</key>
+	<string>materialInterpolation</string>
+	<key>protocollikevariable</key>
+	<string>extensionEdge</string>
+</dict>
+</plist>

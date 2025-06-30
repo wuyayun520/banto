@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticUnary</key>
+	<string>shouldResumeComposition</string>
+	<key>awaitType</key>
+	<string>serializeCheckbox</string>
+	<key>capacitiesdecoration</key>
+	<string>dispatchCursor</string>
+	<key>flexibleStateful</key>
+	<string>responsemediatortint</string>
+	<key>gridSkewY</key>
+	<string>poolModel</string>
+	<key>pinchablePolygon</key>
+	<string>reusableloopleft</string>
+	<key>segmentleft</key>
+	<string>intuitiveCombiner</string>
+	<key>shouldDismissSkin</key>
+	<string>shouldCreateChannels</string>
+</dict>
+</plist>

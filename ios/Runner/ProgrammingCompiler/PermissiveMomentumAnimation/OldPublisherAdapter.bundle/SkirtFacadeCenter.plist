@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachobserver</key>
+	<string>sinebottom</string>
+	<key>autoGate</key>
+	<string>resizableTabBar</string>
+	<key>buttonsinceplatform</key>
+	<string>discoverAnimation</string>
+	<key>gesturedetectortemplevelocity</key>
+	<string>synchronousGrayscale</string>
+	<key>respectiveinformation</key>
+	<string>uniquemodule</string>
+	<key>shoulddispatchternary</key>
+	<string>slashFrequency</string>
+	<key>singleResource</key>
+	<string>cubeOperation</string>
+</dict>
+</plist>

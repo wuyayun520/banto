@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decodecontainer</key>
+	<string>canDispatchBehavior</string>
+	<key>istouch</key>
+	<string>rapidBatch</string>
+	<key>keyThreshold</key>
+	<string>aggregateWidget</string>
+	<key>moduluskind</key>
+	<string>iconMethod</string>
+	<key>primaryConnector</key>
+	<string>annotateasync</string>
+	<key>skirtVelocity</key>
+	<string>reactivePrecision</string>
+</dict>
+</plist>

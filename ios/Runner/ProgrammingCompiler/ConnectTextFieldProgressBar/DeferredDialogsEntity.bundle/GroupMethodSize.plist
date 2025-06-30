@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindlayer</key>
+	<string>shouldDecodeSine</string>
+	<key>consumerBound</key>
+	<string>nativeTool</string>
+	<key>delegateborder</key>
+	<string>sharedAnimatedContainer</string>
+	<key>inactivedelegate</key>
+	<string>standaloneTentative</string>
+	<key>rapidConnector</key>
+	<string>subpixelanalogy</string>
+</dict>
+</plist>

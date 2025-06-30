@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutableTitle</key>
+	<string>shouldNotifySpine</string>
+	<key>interactionTag</key>
+	<string>interfacevardistance</string>
+	<key>interactorindex</key>
+	<string>hardGrain</string>
+	<key>lostTransition</key>
+	<string>expandedfrequency</string>
+	<key>resolvercoord</key>
+	<string>originalLoop</string>
+	<key>respectiveTolerance</key>
+	<string>shouldBuildBorder</string>
+	<key>shouldReplaceView</key>
+	<string>durationstyle</string>
+	<key>tabviewposition</key>
+	<string>lazyScaffold</string>
+</dict>
+</plist>

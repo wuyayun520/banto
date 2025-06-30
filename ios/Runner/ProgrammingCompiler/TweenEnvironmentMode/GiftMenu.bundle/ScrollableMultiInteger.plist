@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparatetangenttag</key>
+	<string>keepGestureDetector</string>
+	<key>featureIndex</key>
+	<string>unaryjobdistance</string>
+	<key>inheritedtimerrate</key>
+	<string>textfieldTransparency</string>
+	<key>operationpermutation</key>
+	<string>dialogsFeedback</string>
+</dict>
+</plist>

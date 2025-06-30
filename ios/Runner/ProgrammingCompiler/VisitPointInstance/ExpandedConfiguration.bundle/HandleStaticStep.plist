@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitieshead</key>
+	<string>rendererTension</string>
+	<key>currentObject</key>
+	<string>mobileText</string>
+	<key>granularEqualization</key>
+	<string>subscriptionVisible</string>
+	<key>navigatealignment</key>
+	<string>switchvisitorcoord</string>
+	<key>normTransparency</key>
+	<string>mainEfficiency</string>
+	<key>routemediatorbehavior</key>
+	<string>loopDepth</string>
+	<key>sophisticatedGraph</key>
+	<string>synchronousDocument</string>
+</dict>
+</plist>

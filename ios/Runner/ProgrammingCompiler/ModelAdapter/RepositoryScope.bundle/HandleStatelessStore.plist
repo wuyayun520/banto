@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativemanager</key>
+	<string>texturemargin</string>
+	<key>crucialTicker</key>
+	<string>shouldRenderLayout</string>
+	<key>diversifiedCoordinator</key>
+	<string>persistboxshadow</string>
+	<key>permissiveService</key>
+	<string>unmarshalCurve</string>
+	<key>shouldDetachMonster</key>
+	<string>canSetStateIndicator</string>
+	<key>shouldEmitGridView</key>
+	<string>elasticThroughput</string>
+	<key>shouldProcessTask</key>
+	<string>lazyComponent</string>
+</dict>
+</plist>

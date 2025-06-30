@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopAwait</key>
+	<string>independentapertureforce</string>
+	<key>enabledHero</key>
+	<string>canPopPrecision</string>
+	<key>globalProfile</key>
+	<string>rebuildNotifier</string>
+	<key>inkwellinjection</key>
+	<string>interactorscenario</string>
+	<key>insteadfuture</key>
+	<string>completioninteraction</string>
+	<key>nibpolyfill</key>
+	<string>builderTint</string>
+	<key>screenIndex</key>
+	<string>methodCount</string>
+	<key>widgetedge</key>
+	<string>enabledItem</string>
+	<key>workflowBrightness</key>
+	<string>ephemeralMenu</string>
+</dict>
+</plist>

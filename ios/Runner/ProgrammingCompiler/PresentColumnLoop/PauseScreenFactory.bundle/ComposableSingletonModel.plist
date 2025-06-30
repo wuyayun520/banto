@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureDensity</key>
+	<string>infoDepth</string>
+	<key>axisFeedback</key>
+	<string>modulusMemento</string>
+	<key>deferredDescent</key>
+	<string>quantizationHandler</string>
+	<key>disparateGraph</key>
+	<string>reactiveEquipment</string>
+	<key>disparateRestriction</key>
+	<string>invisibleAlert</string>
+	<key>pivotalAlert</key>
+	<string>beginnerVariant</string>
+	<key>sequentialImpact</key>
+	<string>subscriptionHead</string>
+	<key>shouldRenderAnchor</key>
+	<string>canEncodeSubpixel</string>
+	<key>smallSign</key>
+	<string>rowTag</string>
+</dict>
+</plist>

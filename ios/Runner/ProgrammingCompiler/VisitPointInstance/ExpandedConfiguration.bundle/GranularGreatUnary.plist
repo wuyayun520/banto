@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateSkewY</key>
+	<string>finderForce</string>
+	<key>dynamicPromise</key>
+	<string>pushSprite</string>
+	<key>kernelAlignment</key>
+	<string>shouldhandlepet</string>
+	<key>permanentError</key>
+	<string>robustTitle</string>
+	<key>similarProcessor</key>
+	<string>momentumState</string>
+	<key>switchAlignment</key>
+	<string>processLabel</string>
+</dict>
+</plist>

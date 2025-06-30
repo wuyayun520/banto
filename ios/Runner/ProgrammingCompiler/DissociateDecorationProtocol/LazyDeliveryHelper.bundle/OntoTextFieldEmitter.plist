@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>limittask</key>
+	<string>serviceStatus</string>
+	<key>mutablesinkacceleration</key>
+	<string>sinkTask</string>
+	<key>provisionTransparency</key>
+	<string>associatedSize</string>
+	<key>rendererKind</key>
+	<string>shouldDecodeCell</string>
+	<key>sequentialShader</key>
+	<string>canEncodeText</string>
+	<key>smartSlash</key>
+	<string>joinerTag</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryparticle</key>
+	<string>checkanimation</string>
+	<key>imperativeCombiner</key>
+	<string>wrapUtil</string>
+	<key>lostStateful</key>
+	<string>configureLayout</string>
+	<key>persistentQueue</key>
+	<string>encodehistogram</string>
+	<key>pivotalCell</key>
+	<string>symmetricLoop</string>
+	<key>polyfillIndex</key>
+	<string>disclaimerIndex</string>
+	<key>provisionBound</key>
+	<string>listenInstruction</string>
+	<key>publicFinder</key>
+	<string>titletint</string>
+	<key>skinoutsidejob</key>
+	<string>mobileBinary</string>
+</dict>
+</plist>

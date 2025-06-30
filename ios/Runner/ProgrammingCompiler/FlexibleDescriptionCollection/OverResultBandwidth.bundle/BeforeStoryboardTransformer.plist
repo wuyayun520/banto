@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantDepth</key>
+	<string>optimizerPosition</string>
+	<key>directLoader</key>
+	<string>listenMetadata</string>
+	<key>ephemeralMediaQuery</key>
+	<string>dedicatedReceiver</string>
+	<key>greatzone</key>
+	<string>mountcoordinator</string>
+	<key>lastModal</key>
+	<string>usagePadding</string>
+	<key>presenterspacing</key>
+	<string>prepareWidget</string>
+	<key>shouldPersistGate</key>
+	<string>seamlessChecklist</string>
+</dict>
+</plist>

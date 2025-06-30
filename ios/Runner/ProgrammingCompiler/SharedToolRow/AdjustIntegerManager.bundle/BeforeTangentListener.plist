@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeBorder</key>
+	<string>shouldConnectSignature</string>
+	<key>dimensionschema</key>
+	<string>listenDropdownButton</string>
+	<key>permissiveArithmetic</key>
+	<string>monsterStage</string>
+	<key>singleremaindercontrast</key>
+	<string>mixinRouter</string>
+	<key>smartGrid</key>
+	<string>refactorReducer</string>
+</dict>
+</plist>

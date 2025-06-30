@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionutilcontrast</key>
+	<string>brushTop</string>
+	<key>curvefacadespacing</key>
+	<string>invokeChart</string>
+	<key>geometricShape</key>
+	<string>desktopLinker</string>
+	<key>resizableIsolate</key>
+	<string>shouldStopAnimation</string>
+	<key>skinColor</key>
+	<string>nextdialogs</string>
+	<key>statelessFragments</key>
+	<string>shouldPersistFragment</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioEdge</key>
+	<string>modalbridgefrequency</string>
+	<key>crucialGrain</key>
+	<string>integritySpeed</string>
+	<key>replacecontroller</key>
+	<string>eagerAudio</string>
+	<key>shouldDisconnectView</key>
+	<string>canPushFuture</string>
+	<key>shouldPresentChallenge</key>
+	<string>denseModel</string>
+	<key>shouldPushProtocol</key>
+	<string>drawerAdapter</string>
+</dict>
+</plist>

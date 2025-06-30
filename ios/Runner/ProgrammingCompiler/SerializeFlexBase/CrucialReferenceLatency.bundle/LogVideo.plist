@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalArithmetic</key>
+	<string>heapexception</string>
+	<key>methodEdge</key>
+	<string>handleTimer</string>
+	<key>retainedStore</key>
+	<string>parallelBullet</string>
+	<key>sampleorientation</key>
+	<string>samplesinceinterpreter</string>
+	<key>significantVideo</key>
+	<string>shouldNavigateSpecifier</string>
+	<key>uniquefactory</key>
+	<string>shouldobserveconstraint</string>
+</dict>
+</plist>

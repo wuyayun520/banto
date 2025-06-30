@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>metadataDelay</key>
+	<string>smallCompleter</string>
+	<key>richtexttransformer</key>
+	<string>insteadNavigator</string>
+	<key>shouldSaveRadio</key>
+	<string>baseStyle</string>
+	<key>singletonmodedistance</key>
+	<string>canShowCollection</string>
+	<key>statefulMode</key>
+	<string>modelDensity</string>
+	<key>widgetcount</key>
+	<string>callbackOrientation</string>
+</dict>
+</plist>

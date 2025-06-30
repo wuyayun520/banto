@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardValidation</key>
+	<string>missionaboutsystem</string>
+	<key>custompaintcallback</key>
+	<string>reactiveInterface</string>
+	<key>exceptionatphase</key>
+	<string>interceptTimer</string>
+	<key>interpolationstatus</key>
+	<string>resumeSubpixel</string>
+	<key>keyAlpha</key>
+	<string>dependencyLocation</string>
+	<key>primarySplitter</key>
+	<string>monsterDepth</string>
+	<key>statestageforce</key>
+	<string>canPaintSlash</string>
+</dict>
+</plist>

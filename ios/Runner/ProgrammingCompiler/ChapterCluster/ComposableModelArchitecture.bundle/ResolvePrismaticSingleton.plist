@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateconstraint</key>
+	<string>actiontype</string>
+	<key>createfragment</key>
+	<string>restoreAsync</string>
+	<key>inheritedstamp</key>
+	<string>cloneConstraint</string>
+	<key>interactorSkewX</key>
+	<string>cardFlags</string>
+	<key>scaleResponse</key>
+	<string>protectedCatalyst</string>
+	<key>spriteincludefacade</key>
+	<string>requiredSorter</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncStyle</key>
+	<string>canSetStateSegue</string>
+	<key>autoAscent</key>
+	<string>spriteBridge</string>
+	<key>shouldKeepEntropy</key>
+	<string>extendObserver</string>
+	<key>shouldPopPositioned</key>
+	<string>numericalRouter</string>
+	<key>symmetricModulus</key>
+	<string>profiledepth</string>
+	<key>usedGrid</key>
+	<string>shouldfetchusage</string>
+</dict>
+</plist>

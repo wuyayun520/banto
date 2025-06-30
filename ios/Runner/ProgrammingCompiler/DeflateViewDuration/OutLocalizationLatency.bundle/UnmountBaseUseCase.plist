@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>debugasset</key>
+	<string>shapedensity</string>
+	<key>gridviewshade</key>
+	<string>prepareresolver</string>
+	<key>shouldBuildHistogram</key>
+	<string>provideError</string>
+	<key>shouldKeepBehavior</key>
+	<string>canPopEntropy</string>
+	<key>traversalStyle</key>
+	<string>standaloneFragments</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleTimeline</key>
+	<string>visibleBuffer</string>
+	<key>paddingshader</key>
+	<string>ternaryAppearance</string>
+	<key>synchronousInteger</key>
+	<string>checkReducer</string>
+	<key>uniqueScale</key>
+	<string>shouldDisposeGestureDetector</string>
+	<key>utilState</key>
+	<string>asynchronousClipper</string>
+</dict>
+</plist>

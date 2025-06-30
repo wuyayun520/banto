@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchopacity</key>
+	<string>poolChannel</string>
+	<key>builderformstatus</key>
+	<string>smallRecursion</string>
+	<key>normalRestriction</key>
+	<string>gradientDelay</string>
+	<key>numericalFactory</key>
+	<string>dimensionloader</string>
+	<key>prismaticInterpolation</key>
+	<string>canFetchTouch</string>
+</dict>
+</plist>

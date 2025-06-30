@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredConstant</key>
+	<string>completerAppearance</string>
+	<key>mapsingleton</key>
+	<string>selectedCoordinator</string>
+	<key>operationStatus</key>
+	<string>canStreamSubpixel</string>
+	<key>originalEntropy</key>
+	<string>workflowAlignment</string>
+	<key>semanticLoader</key>
+	<string>navigatechapter</string>
+	<key>staticInformation</key>
+	<string>hardFragments</string>
+	<key>substantialsingleton</key>
+	<string>liteInteraction</string>
+	<key>touchinteractor</key>
+	<string>rotateCubit</string>
+	<key>unactivatedError</key>
+	<string>modelpainter</string>
+</dict>
+</plist>

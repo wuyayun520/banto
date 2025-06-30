@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleProvider</key>
+	<string>canDecodeCapsule</string>
+	<key>intuitiveRoute</key>
+	<string>rectangleTension</string>
+	<key>invisibleMediaQuery</key>
+	<string>compileInteractor</string>
+	<key>pivotalPublisher</key>
+	<string>axistransformer</string>
+	<key>searcherfrequency</key>
+	<string>sortedObserver</string>
+	<key>stampInterval</key>
+	<string>diffableStorage</string>
+	<key>tentativeopacity</key>
+	<string>canSetStateNorm</string>
+</dict>
+</plist>

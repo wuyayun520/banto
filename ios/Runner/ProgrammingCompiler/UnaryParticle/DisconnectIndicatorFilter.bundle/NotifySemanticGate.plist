@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeSwitch</key>
+	<string>singletonDuration</string>
+	<key>enabledOption</key>
+	<string>mitigateGrain</string>
+	<key>greatDuration</key>
+	<string>immediateAudio</string>
+	<key>pinchableclipperinset</key>
+	<string>imperativeSlider</string>
+	<key>trajectoryLocation</key>
+	<string>enumerateEvent</string>
+</dict>
+</plist>

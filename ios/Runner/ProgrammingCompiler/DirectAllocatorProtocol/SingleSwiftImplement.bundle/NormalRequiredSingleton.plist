@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateAspectRatio</key>
+	<string>sanitizeTitle</string>
+	<key>originalgrain</key>
+	<string>dropdownbuttonStage</string>
+	<key>overlaymediatormomentum</key>
+	<string>shouldKeepDrawer</string>
+	<key>plateBehavior</key>
+	<string>profilestream</string>
+	<key>playbackindecorator</key>
+	<string>prevWidget</string>
+	<key>shouldSetStateCell</key>
+	<string>animatedHeap</string>
+	<key>tabbarbutton</key>
+	<string>canDisconnectReference</string>
+	<key>uniqueAnimator</key>
+	<string>flexpernumber</string>
+	<key>uniquePager</key>
+	<string>reactiveFuture</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialKind</key>
+	<string>sampleScale</string>
+	<key>originalModule</key>
+	<string>metadataCount</string>
+	<key>shouldInflateTabBar</key>
+	<string>queueSpacing</string>
+	<key>similarAnimation</key>
+	<string>compositionIndex</string>
+</dict>
+</plist>

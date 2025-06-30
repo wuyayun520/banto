@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchOrientation</key>
+	<string>capsulebeyondcontext</string>
+	<key>clusterKind</key>
+	<string>exceptionmargin</string>
+	<key>defaultCollection</key>
+	<string>captionSize</string>
+	<key>immediateBoxShadow</key>
+	<string>animatedBatch</string>
+	<key>nativedata</key>
+	<string>functionalInformation</string>
+	<key>notificationdensity</key>
+	<string>storyboardDelay</string>
+	<key>responderDistance</key>
+	<string>connectGrid</string>
+	<key>shouldRebuildDialogs</key>
+	<string>cycleSkewX</string>
+	<key>tangentalignment</key>
+	<string>replaceSign</string>
+</dict>
+</plist>

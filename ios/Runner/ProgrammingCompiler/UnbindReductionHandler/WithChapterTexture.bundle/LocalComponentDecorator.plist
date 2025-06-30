@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedModal</key>
+	<string>currentTool</string>
+	<key>agileAppBar</key>
+	<string>descriptorSize</string>
+	<key>brushColor</key>
+	<string>textInteraction</string>
+	<key>ephemeralWrapper</key>
+	<string>customProcessor</string>
+	<key>geometricCurve</key>
+	<string>serviceimpact</string>
+	<key>optionOrientation</key>
+	<string>floatAnimation</string>
+	<key>scalabilityForce</key>
+	<string>observeDecoration</string>
+	<key>utilDuration</key>
+	<string>canRenderPoint</string>
+	<key>widgetAcceleration</key>
+	<string>stopSkirt</string>
+</dict>
+</plist>

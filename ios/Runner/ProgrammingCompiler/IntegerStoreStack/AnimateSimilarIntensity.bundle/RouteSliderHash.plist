@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCharacteristic</key>
+	<string>ternaryMethod</string>
+	<key>advancedBase</key>
+	<string>loopInterpreter</string>
+	<key>colorCoord</key>
+	<string>eventIndex</string>
+	<key>metadataFeedback</key>
+	<string>lazySize</string>
+	<key>metadataadaptersaturation</key>
+	<string>shouldDetachMomentum</string>
+	<key>shouldValidateMovement</key>
+	<string>visibleConfiguration</string>
+</dict>
+</plist>

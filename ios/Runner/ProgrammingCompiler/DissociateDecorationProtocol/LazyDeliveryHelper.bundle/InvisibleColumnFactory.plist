@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>operationoccasion</key>
+	<string>screenRight</string>
+	<key>selectedDecoration</key>
+	<string>canBindSession</string>
+	<key>shouldSaveAlpha</key>
+	<string>unmountedGate</string>
+	<key>shouldUnbindTabBar</key>
+	<string>texturePhase</string>
+</dict>
+</plist>

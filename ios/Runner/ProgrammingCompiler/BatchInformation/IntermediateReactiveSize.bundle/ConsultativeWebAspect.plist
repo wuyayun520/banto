@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonassetbound</key>
+	<string>intuitiveEntropy</string>
+	<key>defaulttechnique</key>
+	<string>shouldParseMaterial</string>
+	<key>deferredDimension</key>
+	<string>hardCaption</string>
+	<key>difficultOption</key>
+	<string>shouldSkipGate</string>
+	<key>dynamicDropdownButton</key>
+	<string>cubeStyle</string>
+	<key>firstPromise</key>
+	<string>canDisposeOption</string>
+	<key>scrollableRouter</key>
+	<string>detachAspect</string>
+</dict>
+</plist>

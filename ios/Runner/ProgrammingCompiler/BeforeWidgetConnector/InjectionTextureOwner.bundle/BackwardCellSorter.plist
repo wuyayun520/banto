@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleintensity</key>
+	<string>profileAction</string>
+	<key>draggableImpression</key>
+	<string>shouldUnmountedRoute</string>
+	<key>ignoredZone</key>
+	<string>shouldRenderView</string>
+	<key>normType</key>
+	<string>secondChart</string>
+	<key>oncertificatechanged</key>
+	<string>activityskewx</string>
+	<key>reactivetransformerflags</key>
+	<string>continueClipper</string>
+	<key>responsiveDelegate</key>
+	<string>declarativeSignature</string>
+	<key>responsiveResolver</key>
+	<string>resourcereliability</string>
+	<key>shouldDispatchRoute</key>
+	<string>reduceCoordinator</string>
+	<key>streamview</key>
+	<string>builderVar</string>
+</dict>
+</plist>

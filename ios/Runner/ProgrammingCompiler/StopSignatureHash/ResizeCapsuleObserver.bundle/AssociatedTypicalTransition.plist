@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsfrequency</key>
+	<string>mixinRoute</string>
+	<key>deferredResource</key>
+	<string>charttempleforce</string>
+	<key>pickerEdge</key>
+	<string>protectedProvision</string>
+	<key>publicGridView</key>
+	<string>directlySizedBox</string>
+	<key>saverect</key>
+	<string>usecasepadding</string>
+</dict>
+</plist>

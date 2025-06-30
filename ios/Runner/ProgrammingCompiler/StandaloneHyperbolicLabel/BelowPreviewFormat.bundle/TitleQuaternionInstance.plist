@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableAperture</key>
+	<string>radiusforvariable</string>
+	<key>difficultSprite</key>
+	<string>itemColor</string>
+	<key>disabledScalability</key>
+	<string>alphaPlatform</string>
+	<key>fusedAction</key>
+	<string>requestInset</string>
+	<key>rowforminterval</key>
+	<string>borderIndex</string>
+</dict>
+</plist>

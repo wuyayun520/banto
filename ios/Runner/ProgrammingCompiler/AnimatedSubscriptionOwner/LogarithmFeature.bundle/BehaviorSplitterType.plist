@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioacceleration</key>
+	<string>joinerdirection</string>
+	<key>independentDescent</key>
+	<string>permutationCount</string>
+	<key>indicatorCenter</key>
+	<string>wrapGrain</string>
+	<key>lostCheckbox</key>
+	<string>requestlocation</string>
+	<key>maketitle</key>
+	<string>soundForce</string>
+	<key>monsterfeedback</key>
+	<string>resizablePrecision</string>
+	<key>shouldshowpet</key>
+	<string>flexibleDocument</string>
+	<key>statelesshistogramcount</key>
+	<string>synchronousinfrastructure</string>
+	<key>tappableAsset</key>
+	<string>basicActivity</string>
+	<key>wrapperSaturation</key>
+	<string>statekind</string>
+</dict>
+</plist>

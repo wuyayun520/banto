@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousState</key>
+	<string>validateTouch</string>
+	<key>logarithmpadding</key>
+	<string>cycleparticle</string>
+	<key>numericalBrush</key>
+	<string>playbackfrequency</string>
+	<key>pauseskirt</key>
+	<string>inactiveVideo</string>
+	<key>pivotalSign</key>
+	<string>limitPreview</string>
+	<key>shaderDirection</key>
+	<string>evaluationSaturation</string>
+	<key>usecasePressure</key>
+	<string>curvePadding</string>
+</dict>
+</plist>

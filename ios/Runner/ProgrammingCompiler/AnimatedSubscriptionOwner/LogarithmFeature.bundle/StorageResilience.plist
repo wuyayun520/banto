@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorScale</key>
+	<string>timerCenter</string>
+	<key>capsuleintensity</key>
+	<string>composableTabView</string>
+	<key>captionframeworkdistance</key>
+	<string>skinDelay</string>
+	<key>cubeOrigin</key>
+	<string>iconColor</string>
+	<key>escalatecontainer</key>
+	<string>prepareSensor</string>
+	<key>graphicbynumber</key>
+	<string>trainGridView</string>
+	<key>inactiveTimeline</key>
+	<string>animatedInterpolation</string>
+	<key>navigatorDensity</key>
+	<string>convolutionColor</string>
+	<key>resilienceDensity</key>
+	<string>subtleConverter</string>
+	<key>subtlePositioned</key>
+	<string>priorEquivalent</string>
+</dict>
+</plist>

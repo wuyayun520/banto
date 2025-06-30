@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationTransparency</key>
+	<string>localScale</string>
+	<key>crudeMonster</key>
+	<string>custompaintaboutframework</string>
+	<key>semanticPolygon</key>
+	<string>variantAppearance</string>
+	<key>shouldDismissMargin</key>
+	<string>loopInteraction</string>
+	<key>themestatus</key>
+	<string>animatorAcceleration</string>
+</dict>
+</plist>

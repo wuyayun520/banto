@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectState</key>
+	<string>combinerDuration</string>
+	<key>hasmovement</key>
+	<string>permissiveScheduler</string>
+	<key>managervisible</key>
+	<string>combinerTail</string>
+	<key>mobileSingleton</key>
+	<string>mobileRoute</string>
+	<key>shouldstopequipment</key>
+	<string>pushprogressbar</string>
+</dict>
+</plist>

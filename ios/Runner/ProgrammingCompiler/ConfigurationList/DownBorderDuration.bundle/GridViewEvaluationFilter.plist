@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachetension</key>
+	<string>implementTopic</string>
+	<key>completionBrightness</key>
+	<string>projectioncoord</string>
+	<key>directlyAnalogy</key>
+	<string>equalizationProxy</string>
+	<key>onimagechanged</key>
+	<string>shouldSubscribeTabBar</string>
+	<key>optionincludesingleton</key>
+	<string>resumeExponent</string>
+	<key>shouldLoadChannels</key>
+	<string>commonSlider</string>
+</dict>
+</plist>

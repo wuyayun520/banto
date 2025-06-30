@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultreduction</key>
+	<string>detectoralignment</string>
+	<key>eagerconsumertype</key>
+	<string>skipmatrix</string>
+	<key>featureuntillevel</key>
+	<string>provisionType</string>
+	<key>responseatstage</key>
+	<string>generateResolver</string>
+	<key>shouldRebuildSpecifier</key>
+	<string>shouldConnectAppBar</string>
+</dict>
+</plist>

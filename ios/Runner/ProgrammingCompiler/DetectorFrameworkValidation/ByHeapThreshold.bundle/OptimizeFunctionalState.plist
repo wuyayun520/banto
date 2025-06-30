@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileInterpolation</key>
+	<string>reusableEffect</string>
+	<key>cartesianGridView</key>
+	<string>reusableTitle</string>
+	<key>formatsink</key>
+	<string>canYieldModal</string>
+	<key>intuitiveModule</key>
+	<string>multiboxshadow</string>
+	<key>loaderBorder</key>
+	<string>euclideanScene</string>
+	<key>moduleDepth</key>
+	<string>litecontrollerposition</string>
+	<key>publicDelegate</key>
+	<string>shouldresumeskin</string>
+	<key>switchmenu</key>
+	<string>intuitiveProgressBar</string>
+	<key>usecasewithoutwork</key>
+	<string>navigateImage</string>
+</dict>
+</plist>

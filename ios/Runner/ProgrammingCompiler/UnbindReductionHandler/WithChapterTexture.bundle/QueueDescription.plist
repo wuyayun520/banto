@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoRestriction</key>
+	<string>navigatorState</string>
+	<key>columnScale</key>
+	<string>accessoryindex</string>
+	<key>filterTransparency</key>
+	<string>cubitFunction</string>
+	<key>indicatorDistance</key>
+	<string>scrollableShape</string>
+	<key>intermediatePadding</key>
+	<string>observeHandler</string>
+	<key>isTransition</key>
+	<string>interfacetriangles</string>
+	<key>originalUseCase</key>
+	<string>scheduleUtil</string>
+	<key>resilientScenario</key>
+	<string>aspectratioFrequency</string>
+	<key>shouldContinueMaster</key>
+	<string>draggableExtension</string>
+	<key>shouldPauseView</key>
+	<string>sustainableMethod</string>
+</dict>
+</plist>

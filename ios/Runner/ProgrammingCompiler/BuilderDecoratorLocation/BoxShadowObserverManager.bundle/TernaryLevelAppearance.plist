@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentinteraction</key>
+	<string>isscreen</string>
+	<key>greatManager</key>
+	<string>cacheStyle</string>
+	<key>layoutOrigin</key>
+	<string>scenarioAppearance</string>
+	<key>oldstamp</key>
+	<string>pointVisible</string>
+	<key>publicEquipment</key>
+	<string>intuitiveConfiguration</string>
+	<key>selectedSession</key>
+	<string>reliabilityEdge</string>
+	<key>shouldParseBehavior</key>
+	<string>traversalHue</string>
+</dict>
+</plist>

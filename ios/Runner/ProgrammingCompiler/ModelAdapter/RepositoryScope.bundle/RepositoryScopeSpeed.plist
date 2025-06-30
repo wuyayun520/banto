@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderkindinteraction</key>
+	<string>mobilefilter</string>
+	<key>declarativeConsumer</key>
+	<string>navigatorContrast</string>
+	<key>displayableCatalyst</key>
+	<string>shouldattachbatch</string>
+	<key>eventpadding</key>
+	<string>intensitySpacing</string>
+	<key>pivotalSegue</key>
+	<string>tangentTransparency</string>
+	<key>prismaticState</key>
+	<string>contractionProcess</string>
+	<key>sizedboxMomentum</key>
+	<string>canEncodeStream</string>
+	<key>stateTail</key>
+	<string>singleHandler</string>
+	<key>timeSpacing</key>
+	<string>statefulmanagerborder</string>
+</dict>
+</plist>

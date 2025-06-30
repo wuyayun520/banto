@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveProcessor</key>
+	<string>updateShader</string>
+	<key>discardedMaterializer</key>
+	<string>promiseSkewX</string>
+	<key>formatstateful</key>
+	<string>actiondelay</string>
+	<key>margincycleappearance</key>
+	<string>initializeGrid</string>
+	<key>remainderIndex</key>
+	<string>retainedTool</string>
+	<key>resilientStateful</key>
+	<string>resilienceName</string>
+	<key>retainedModulus</key>
+	<string>axisSize</string>
+	<key>shouldSaveObserver</key>
+	<string>eagerException</string>
+	<key>titlevalueskewx</key>
+	<string>radiusValue</string>
+	<key>utilframeworkskewx</key>
+	<string>curveShape</string>
+</dict>
+</plist>

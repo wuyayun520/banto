@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actioncluster</key>
+	<string>priorAspect</string>
+	<key>basicSession</key>
+	<string>animatemethod</string>
+	<key>eagerView</key>
+	<string>uniformnotifierpressure</string>
+	<key>exceptionexceptparam</key>
+	<string>shouldDetachOperation</string>
+	<key>ignoredSkin</key>
+	<string>shouldSetStateGestureDetector</string>
+	<key>shouldProcessConvolution</key>
+	<string>tangentPrototype</string>
+	<key>shouldnotifydescriptor</key>
+	<string>latencyDistance</string>
+	<key>sustainableMatrix</key>
+	<string>shouldsubscribecycle</string>
+</dict>
+</plist>

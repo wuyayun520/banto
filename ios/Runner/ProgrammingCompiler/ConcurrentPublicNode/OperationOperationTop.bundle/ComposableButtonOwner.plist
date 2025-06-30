@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerBehavior</key>
+	<string>skiptimer</string>
+	<key>basicEmitter</key>
+	<string>consumerBound</string>
+	<key>documentexceptframework</key>
+	<string>handlerFlyweight</string>
+	<key>mediaDistance</key>
+	<string>serviceTag</string>
+	<key>navigatoragainstpattern</key>
+	<string>dropdownbuttonoutsidemethod</string>
+	<key>originalAsync</key>
+	<string>metadatafrequency</string>
+	<key>usedRestriction</key>
+	<string>shouldconnecthero</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocfunctionmode</key>
+	<string>customVertex</string>
+	<key>contractionVelocity</key>
+	<string>opaqueDescriptor</string>
+	<key>customizedTimeline</key>
+	<string>canDismissGridView</string>
+	<key>encapsulateresource</key>
+	<string>canEncodeGrayscale</string>
+	<key>imperativeView</key>
+	<string>canProcessAnimatedContainer</string>
+	<key>localLoss</key>
+	<string>cyclesaturation</string>
+	<key>offsettypeorigin</key>
+	<string>intuitiveEfficiency</string>
+	<key>requestconstraint</key>
+	<string>shouldFormatAperture</string>
+	<key>shouldUnmountCapsule</key>
+	<string>renameInjection</string>
+</dict>
+</plist>

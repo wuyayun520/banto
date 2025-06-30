@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeinterfacetheme</key>
+	<string>grainPhase</string>
+	<key>delegateexception</key>
+	<string>propagateService</string>
+	<key>eventDistance</key>
+	<string>futurefactory</string>
+	<key>resizableroute</key>
+	<string>associatedNib</string>
+	<key>shouldConnectKernel</key>
+	<string>sortedConsumption</string>
+</dict>
+</plist>

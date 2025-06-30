@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveascent</key>
+	<string>characterAlignment</string>
+	<key>analogyColor</key>
+	<string>originalInfo</string>
+	<key>hardManager</key>
+	<string>robustTimeline</string>
+	<key>pinchableAllocator</key>
+	<string>disabledBullet</string>
+	<key>toleranceTension</key>
+	<string>restoreAsync</string>
+</dict>
+</plist>

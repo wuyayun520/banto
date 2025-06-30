@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleDelay</key>
+	<string>sampleMemento</string>
+	<key>delegateInteraction</key>
+	<string>shouldsubscribeobserver</string>
+	<key>featureMargin</key>
+	<string>liteMesh</string>
+	<key>iterativeSink</key>
+	<string>lastAction</string>
+	<key>lazyCombiner</key>
+	<string>animatedDelivery</string>
+	<key>listenmatrix</key>
+	<string>directlyMetrics</string>
+	<key>notationInset</key>
+	<string>localizationstate</string>
+	<key>relationalmenu</key>
+	<string>initializepopup</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeTopic</key>
+	<string>detectorAlignment</string>
+	<key>informationHue</key>
+	<string>isolatecontaincontext</string>
+	<key>isscaffold</key>
+	<string>discoverTicker</string>
+	<key>mediumLifecycle</key>
+	<string>mediaqueryAppearance</string>
+	<key>shouldConnectCatalyst</key>
+	<string>customizedMediaQuery</string>
+</dict>
+</plist>

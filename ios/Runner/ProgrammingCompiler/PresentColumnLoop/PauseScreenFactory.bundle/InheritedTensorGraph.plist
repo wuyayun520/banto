@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstAlert</key>
+	<string>navigateCoordinator</string>
+	<key>mainLoss</key>
+	<string>calculateView</string>
+	<key>methodOpacity</key>
+	<string>managerBorder</string>
+	<key>progressbarnotation</key>
+	<string>linkerTransparency</string>
+	<key>sessionScale</key>
+	<string>substantialEvent</string>
+	<key>significantMonster</key>
+	<string>disconnectOverlay</string>
+</dict>
+</plist>

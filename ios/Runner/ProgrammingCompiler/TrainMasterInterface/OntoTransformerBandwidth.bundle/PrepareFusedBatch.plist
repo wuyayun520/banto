@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheLeft</key>
+	<string>fixedSpecifier</string>
+	<key>containerrange</key>
+	<string>movementFormat</string>
+	<key>delegatecommandtop</key>
+	<string>rectVar</string>
+	<key>imperativeMovement</key>
+	<string>shouldShowAperture</string>
+	<key>invisibleButton</key>
+	<string>shouldRenderTabBar</string>
+	<key>mobilePositioned</key>
+	<string>sophisticatedSplitter</string>
+	<key>publishdropdownbutton</key>
+	<string>emitBitrate</string>
+	<key>reusableRange</key>
+	<string>toolColor</string>
+	<key>shouldRebuildMonster</key>
+	<string>cupertinographic</string>
+</dict>
+</plist>

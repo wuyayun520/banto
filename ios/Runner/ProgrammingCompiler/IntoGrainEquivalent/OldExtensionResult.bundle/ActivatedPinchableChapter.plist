@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardcheckbox</key>
+	<string>metadataRate</string>
+	<key>eventInterval</key>
+	<string>nativeConfidentiality</string>
+	<key>immutableTriangles</key>
+	<string>shouldSerializeChecklist</string>
+	<key>imperativeNotation</key>
+	<string>drawWidget</string>
+	<key>pivotalGrain</key>
+	<string>analyzerMode</string>
+	<key>shoulddisconnectobserver</key>
+	<string>curveKind</string>
+	<key>streamparamposition</key>
+	<string>allocatorFeedback</string>
+	<key>tappableCapacities</key>
+	<string>entropyshader</string>
+	<key>visitborder</key>
+	<string>independentEvent</string>
+</dict>
+</plist>

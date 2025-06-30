@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchusecase</key>
+	<string>shouldLayoutThread</string>
+	<key>dedicatedSingleton</key>
+	<string>hierarchicalLabel</string>
+	<key>dispatchstoryboard</key>
+	<string>routeDialogs</string>
+	<key>granularAppBar</key>
+	<string>positionedFrequency</string>
+	<key>oldShader</key>
+	<string>hardRecursion</string>
+	<key>shouldContinueMovement</key>
+	<string>margindelegate</string>
+	<key>shouldLoadSwift</key>
+	<string>shouldunbindentropy</string>
+	<key>shouldSetStateEntropy</key>
+	<string>usedpadding</string>
+	<key>transformershader</key>
+	<string>floatAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorTail</key>
+	<string>diversifiedFinder</string>
+	<key>capturelayout</key>
+	<string>singleCatalyst</string>
+	<key>dedicatedCombiner</key>
+	<string>basiccontroller</string>
+	<key>interactiveevolution</key>
+	<string>updatemethod</string>
+	<key>promiseTension</key>
+	<string>enabledCompleter</string>
+	<key>provisionValidation</key>
+	<string>prismaticDecoration</string>
+	<key>shouldPublishTheme</key>
+	<string>deferredSwitch</string>
+	<key>shouldRebuildSizedBox</key>
+	<string>canSetStateSample</string>
+	<key>subsequentInteraction</key>
+	<string>popAsset</string>
+	<key>unactivatedCapacity</key>
+	<string>canDispatchResource</string>
+</dict>
+</plist>

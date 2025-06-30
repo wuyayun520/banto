@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionphaseposition</key>
+	<string>fetchInstruction</string>
+	<key>factoryHue</key>
+	<string>canPopShader</string>
+	<key>labelthreshold</key>
+	<string>shouldRestartBehavior</string>
+	<key>publicData</key>
+	<string>shouldLoadGrayscale</string>
+	<key>robustReducer</key>
+	<string>finishCoordinator</string>
+	<key>scenarioindex</key>
+	<string>setstategradient</string>
+	<key>shouldLayoutTool</key>
+	<string>channelLevel</string>
+	<key>shouldPaintOverlay</key>
+	<string>resetIntensity</string>
+	<key>titleBehavior</key>
+	<string>iterativeradius</string>
+</dict>
+</plist>

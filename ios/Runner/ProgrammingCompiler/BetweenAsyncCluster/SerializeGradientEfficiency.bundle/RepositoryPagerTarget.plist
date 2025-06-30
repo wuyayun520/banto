@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorForce</key>
+	<string>backwardchannel</string>
+	<key>binderbound</key>
+	<string>canUnmountedMargin</string>
+	<key>crudeNotation</key>
+	<string>validateSpot</string>
+	<key>permanentReplica</key>
+	<string>appbarconverter</string>
+	<key>shouldDetachAnimation</key>
+	<string>painterContext</string>
+	<key>storyboardForce</key>
+	<string>liteMetadata</string>
+</dict>
+</plist>

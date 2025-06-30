@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalstrength</key>
+	<string>groupMediator</string>
+	<key>easyMovement</key>
+	<string>attachaction</string>
+	<key>gatemargin</key>
+	<string>animateLoss</string>
+	<key>grampatterndelay</key>
+	<string>dissociateisolate</string>
+	<key>immutableSchema</key>
+	<string>backwardResolver</string>
+	<key>otherTabView</key>
+	<string>oldLatency</string>
+	<key>relationalExtension</key>
+	<string>accessibleroutevisible</string>
+	<key>sensorStatus</key>
+	<string>materializeZone</string>
+</dict>
+</plist>

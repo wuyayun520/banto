@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalDimension</key>
+	<string>interactiveVertex</string>
+	<key>cubitparameterhead</key>
+	<string>shouldFinishScroll</string>
+	<key>geometricView</key>
+	<string>sessionType</string>
+	<key>independentProject</key>
+	<string>painterBottom</string>
+	<key>infoshade</key>
+	<string>smartCosine</string>
+	<key>intermediateCharacter</key>
+	<string>strokeTension</string>
+	<key>onmasterchanged</key>
+	<string>canPopSubpixel</string>
+	<key>paddingTension</key>
+	<string>limitContainer</string>
+</dict>
+</plist>

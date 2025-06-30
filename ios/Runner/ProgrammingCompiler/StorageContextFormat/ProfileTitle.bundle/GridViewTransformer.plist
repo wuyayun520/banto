@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationbyactivity</key>
+	<string>dataTail</string>
+	<key>optimizershape</key>
+	<string>pointFormat</string>
+	<key>permissiveThreshold</key>
+	<string>otherExponent</string>
+	<key>prevModule</key>
+	<string>routerTask</string>
+	<key>shouldInflateStoryboard</key>
+	<string>shouldUpdateSensor</string>
+	<key>shoulddispatchscale</key>
+	<string>autoIntensity</string>
+	<key>temporaryLoop</key>
+	<string>lazySwitch</string>
+</dict>
+</plist>

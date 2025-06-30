@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerNorm</key>
+	<string>commonSession</string>
+	<key>semanticCharacteristic</key>
+	<string>custompaintFlyweight</string>
+	<key>semanticSubscription</key>
+	<string>custompaintflags</string>
+	<key>synchronousDisclaimer</key>
+	<string>seamlessTentative</string>
+	<key>uniformBase</key>
+	<string>shouldTransformWidget</string>
+	<key>wrapperBorder</key>
+	<string>profileCount</string>
+</dict>
+</plist>

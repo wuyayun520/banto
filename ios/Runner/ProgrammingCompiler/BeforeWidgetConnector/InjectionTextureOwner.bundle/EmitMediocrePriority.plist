@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivealignment</key>
+	<string>positioncontrast</string>
+	<key>cyclecontroller</key>
+	<string>layoutCoordinator</string>
+	<key>draggableParticle</key>
+	<string>writeRequest</string>
+	<key>resultSkewY</key>
+	<string>scrollForm</string>
+	<key>shouldLayoutOperation</key>
+	<string>resilientcompletermargin</string>
+	<key>transitionmetadata</key>
+	<string>lockWidget</string>
+</dict>
+</plist>

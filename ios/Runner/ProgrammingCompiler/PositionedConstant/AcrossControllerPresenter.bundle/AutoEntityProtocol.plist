@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationaction</key>
+	<string>setstateBox</string>
+	<key>euclideanAspect</key>
+	<string>resizableprofile</string>
+	<key>immutableStateful</key>
+	<string>canRebuildPositioned</string>
+	<key>integerStatus</key>
+	<string>captionSkewX</string>
+	<key>nativeConstant</key>
+	<string>transpileTransformer</string>
+	<key>sensorinteractor</key>
+	<string>cancelImage</string>
+	<key>shouldParseEffect</key>
+	<string>dropdownbuttonFunction</string>
+	<key>shouldstreamdelegate</key>
+	<string>customizedRectangle</string>
+	<key>streamliketemple</key>
+	<string>popDecoration</string>
+</dict>
+</plist>

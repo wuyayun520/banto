@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileChart</key>
+	<string>detachtask</string>
+	<key>baselineerror</key>
+	<string>hierarchicalPriority</string>
+	<key>builderperdecorator</key>
+	<string>certificateerror</string>
+	<key>greatRow</key>
+	<string>onsamplechanged</string>
+	<key>shouldPersistVariant</key>
+	<string>throughputRotation</string>
+	<key>symmetricsession</key>
+	<string>showMenu</string>
+</dict>
+</plist>

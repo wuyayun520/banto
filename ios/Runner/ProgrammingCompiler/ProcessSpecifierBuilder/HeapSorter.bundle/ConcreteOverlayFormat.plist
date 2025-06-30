@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatedependency</key>
+	<string>canProcessAccessory</string>
+	<key>dynamicAscent</key>
+	<string>intuitiveDelivery</string>
+	<key>effectmementoacceleration</key>
+	<string>accessibleAnalyzer</string>
+	<key>labelBehavior</key>
+	<string>canSubscribeStoryboard</string>
+	<key>shouldKeepSizedBox</key>
+	<string>unbindHistogram</string>
+	<key>usecaseexceptnumber</key>
+	<string>slashPrototype</string>
+	<key>usedPresenter</key>
+	<string>rowmethodbrightness</string>
+</dict>
+</plist>

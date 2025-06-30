@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordiondurationvisibility</key>
+	<string>delegatechaindirection</string>
+	<key>animatedTool</key>
+	<string>touchGroup</string>
+	<key>customParticle</key>
+	<string>discardedReducer</string>
+	<key>imperativePolyfill</key>
+	<string>shouldParseRichText</string>
+	<key>invisibleReplica</key>
+	<string>loadChallenge</string>
+	<key>liteZone</key>
+	<string>routePet</string>
+	<key>staticPrecision</key>
+	<string>subsequentRecursion</string>
+	<key>widgetsound</key>
+	<string>encodebloc</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultsegue</key>
+	<string>crudePolygon</string>
+	<key>groupindex</key>
+	<string>immediatePicker</string>
+	<key>mainInfrastructure</key>
+	<string>subsequentLog</string>
+	<key>materialTexture</key>
+	<string>storeimage</string>
+	<key>subtleTweak</key>
+	<string>shouldPaintGate</string>
+	<key>webExponent</key>
+	<string>shouldInflateTheme</string>
+</dict>
+</plist>

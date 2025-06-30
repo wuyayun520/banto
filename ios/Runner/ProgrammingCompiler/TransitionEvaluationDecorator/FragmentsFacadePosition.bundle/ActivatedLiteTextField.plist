@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderpadding</key>
+	<string>significantIntegrity</string>
+	<key>crucialState</key>
+	<string>listenerPrototype</string>
+	<key>shouldMountTabBar</key>
+	<string>modalRotation</string>
+	<key>vectorizedelegate</key>
+	<string>marshalnotification</string>
+	<key>writepadding</key>
+	<string>binaryParam</string>
+</dict>
+</plist>

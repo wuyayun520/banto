@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalEquivalent</key>
+	<string>provisionTint</string>
+	<key>crudeAlert</key>
+	<string>contrastPosition</string>
+	<key>declarativeResolver</key>
+	<string>graphicParam</string>
+	<key>difficultProcessor</key>
+	<string>shouldtransformanimatedcontainer</string>
+	<key>mediumDescriptor</key>
+	<string>processRow</string>
+	<key>navigatestack</key>
+	<string>providerBridge</string>
+	<key>profileOrigin</key>
+	<string>clearRow</string>
+	<key>secondconfigurationvisible</key>
+	<string>sortedPlayback</string>
+	<key>smallService</key>
+	<string>processConsumer</string>
+</dict>
+</plist>

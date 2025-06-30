@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityasync</key>
+	<string>nativestep</string>
+	<key>inactiveDetail</key>
+	<string>selectedFlex</string>
+	<key>missedTitle</key>
+	<string>publishCube</string>
+	<key>otherFrame</key>
+	<string>multiplicationbottom</string>
+	<key>radiusscale</key>
+	<string>hardPlate</string>
+	<key>searcherDepth</key>
+	<string>visibleEqualization</string>
+	<key>throughputHue</key>
+	<string>accordionReduction</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintdensity</key>
+	<string>intensityNumber</string>
+	<key>curveState</key>
+	<string>canKeepOperation</string>
+	<key>exceptionState</key>
+	<string>decorationformat</string>
+	<key>nativeSound</key>
+	<string>hasArithmetic</string>
+	<key>numericalRichText</key>
+	<string>shouldformatcosine</string>
+	<key>protectedVideo</key>
+	<string>singleVector</string>
+	<key>responsiveGift</key>
+	<string>shapeDuration</string>
+	<key>shouldloadpadding</key>
+	<string>permissiveresponder</string>
+</dict>
+</plist>

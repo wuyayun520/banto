@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblecycleforce</key>
+	<string>captionEdge</string>
+	<key>enabledFragment</key>
+	<string>opaquepublisher</string>
+	<key>flexibleTime</key>
+	<string>shouldLayoutObserver</string>
+	<key>navigatorticker</key>
+	<string>shouldParseNavigation</string>
+	<key>protectedCombiner</key>
+	<string>canPublishSample</string>
+	<key>shouldDisconnectPadding</key>
+	<string>loopDepth</string>
+	<key>shouldUpdateCertificate</key>
+	<string>currentmomentum</string>
+	<key>sinkbrightness</key>
+	<string>chooserInterval</string>
+	<key>stampMomentum</key>
+	<string>sortedgradient</string>
+</dict>
+</plist>

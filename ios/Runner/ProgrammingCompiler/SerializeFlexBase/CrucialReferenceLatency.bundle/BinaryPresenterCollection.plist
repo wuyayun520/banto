@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionShape</key>
+	<string>richtextborder</string>
+	<key>directMultiplication</key>
+	<string>statefulfactory</string>
+	<key>draggableblocinterval</key>
+	<string>hierarchicalContrast</string>
+	<key>functionalAccessory</key>
+	<string>shouldUnmountAnimatedContainer</string>
+	<key>iterativeVertex</key>
+	<string>shouldBuildBuilder</string>
+	<key>pinchableTechnique</key>
+	<string>dropoutAwait</string>
+	<key>shouldPauseAlert</key>
+	<string>granularEvolution</string>
+	<key>statusContrast</key>
+	<string>cardValidation</string>
+</dict>
+</plist>

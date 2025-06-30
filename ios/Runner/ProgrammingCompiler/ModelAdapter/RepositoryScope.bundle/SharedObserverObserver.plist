@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleProvider</key>
+	<string>borderDirection</string>
+	<key>activityTransparency</key>
+	<string>interpolateTween</string>
+	<key>architectureValidation</key>
+	<string>canBindStateful</string>
+	<key>cartesianPager</key>
+	<string>flexibleChannel</string>
+	<key>isSample</key>
+	<string>dispatchstorage</string>
+	<key>normValidation</key>
+	<string>materialVideo</string>
+	<key>reliabilityInteraction</key>
+	<string>descriptorTier</string>
+	<key>topicscroller</key>
+	<string>specifyMesh</string>
+	<key>triggerInteraction</key>
+	<string>sensorRight</string>
+	<key>uniqueSpine</key>
+	<string>liteEquivalent</string>
+</dict>
+</plist>

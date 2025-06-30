@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphobject</key>
+	<string>shouldDispatchExpanded</string>
+	<key>hierarchicalSize</key>
+	<string>canFetchDropdownButton</string>
+	<key>pivotalStoryboard</key>
+	<string>canDisposeBorder</string>
+	<key>secondIntegrity</key>
+	<string>liteLocalization</string>
+	<key>shouldKeepSizedBox</key>
+	<string>canAnimateCycle</string>
+	<key>unsortedVariant</key>
+	<string>diffableCursor</string>
+</dict>
+</plist>

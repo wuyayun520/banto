@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emittersaturation</key>
+	<string>onskirttap</string>
+	<key>listenerBrightness</key>
+	<string>shouldSubscribeRole</string>
+	<key>lostInkWell</key>
+	<string>objectSize</string>
+	<key>shouldDismissSpine</key>
+	<string>buttonbesidestage</string>
+	<key>smartGroup</key>
+	<string>profileprocessor</string>
+	<key>temporaryCaption</key>
+	<string>persistCube</string>
+</dict>
+</plist>

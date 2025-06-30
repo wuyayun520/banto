@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionValidation</key>
+	<string>presenterorientation</string>
+	<key>crudeFinder</key>
+	<string>currentConvolution</string>
+	<key>drawprofile</key>
+	<string>subtlePager</string>
+	<key>histogramdelay</key>
+	<string>immediateAudio</string>
+	<key>mergerTension</key>
+	<string>seamlessEvent</string>
+	<key>popupOpacity</key>
+	<string>resetFactory</string>
+	<key>similarAlignment</key>
+	<string>transitiongesture</string>
+</dict>
+</plist>

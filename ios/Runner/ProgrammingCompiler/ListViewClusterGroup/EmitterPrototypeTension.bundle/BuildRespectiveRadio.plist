@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxBottom</key>
+	<string>checkboxHead</string>
+	<key>capacitiesthroughput</key>
+	<string>textfieldbottom</string>
+	<key>defaultprotocol</key>
+	<string>shouldParseKernel</string>
+	<key>evaluatealignment</key>
+	<string>bandwidthSkewY</string>
+	<key>lostGridView</key>
+	<string>animatedPosition</string>
+	<key>shouldYieldStateful</key>
+	<string>otherMerger</string>
+	<key>shouldkeepgraphic</key>
+	<string>significantMerger</string>
+	<key>toolTop</key>
+	<string>painterFlyweight</string>
+	<key>viewSaturation</key>
+	<string>allocatorValue</string>
+</dict>
+</plist>

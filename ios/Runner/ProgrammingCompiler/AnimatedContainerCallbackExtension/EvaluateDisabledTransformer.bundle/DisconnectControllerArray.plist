@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableInfo</key>
+	<string>canDisposeOption</string>
+	<key>immutableprotocolbottom</key>
+	<string>ondrawertap</string>
+	<key>reusableGrid</key>
+	<string>viewarchitecture</string>
+	<key>robustNib</key>
+	<string>loopStrategy</string>
+	<key>shouldHandleAxis</key>
+	<string>arithmeticImage</string>
+	<key>shouldObserveNavigator</key>
+	<string>sortedLoop</string>
+</dict>
+</plist>

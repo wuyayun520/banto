@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachservice</key>
+	<string>shouldListenProject</string>
+	<key>exceptioncompositedirection</key>
+	<string>shouldRouteTask</string>
+	<key>lazyGraphic</key>
+	<string>occasiontransparency</string>
+	<key>pivotalnode</key>
+	<string>coordinatorVelocity</string>
+	<key>shouldEmitSemantics</key>
+	<string>canDisposeKernel</string>
+	<key>shouldSerializeCupertino</key>
+	<string>usedSign</string>
+	<key>uniqueSearcher</key>
+	<string>observerzone</string>
+</dict>
+</plist>

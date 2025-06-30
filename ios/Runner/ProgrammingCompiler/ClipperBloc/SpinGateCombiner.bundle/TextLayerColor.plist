@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitDelay</key>
+	<string>shouldConnectArithmetic</string>
+	<key>dimensionTension</key>
+	<string>aspectskewx</string>
+	<key>erroradapterformat</key>
+	<string>fusedError</string>
+	<key>firstHash</key>
+	<string>shouldconnectnotifier</string>
+	<key>independentObject</key>
+	<string>integerDirection</string>
+	<key>joinername</key>
+	<string>regulateDependency</string>
+	<key>shouldDisposeTheme</key>
+	<string>isConvolution</string>
+	<key>shouldSkipMonster</key>
+	<string>ephemeralmaterializer</string>
+</dict>
+</plist>

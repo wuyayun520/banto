@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventTag</key>
+	<string>stackMediator</string>
+	<key>hierarchicalOccasion</key>
+	<string>cartesianoccasion</string>
+	<key>inheritedTopic</key>
+	<string>bufferProcess</string>
+	<key>opaquetimer</key>
+	<string>inactiveBloc</string>
+	<key>protectedconfigurationleft</key>
+	<string>accordionPromise</string>
+	<key>resourcevelocity</key>
+	<string>canProcessMonster</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnPadding</key>
+	<string>sineoutsidetype</string>
+	<key>impactMomentum</key>
+	<string>functionaldependency</string>
+	<key>offsetDirection</key>
+	<string>dedicatedTangent</string>
+	<key>resilienceIndex</key>
+	<string>preparemanager</string>
+	<key>shouldDisposeNavigator</key>
+	<string>sharedSubscription</string>
+	<key>singleMaterial</key>
+	<string>captionTail</string>
+	<key>statusTop</key>
+	<string>traversalFrequency</string>
+	<key>tabviewmanager</key>
+	<string>stepstream</string>
+</dict>
+</plist>

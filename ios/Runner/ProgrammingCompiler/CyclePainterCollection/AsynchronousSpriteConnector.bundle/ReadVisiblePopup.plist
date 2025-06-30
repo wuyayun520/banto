@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchoroffset</key>
+	<string>shouldPrepareCoordinator</string>
+	<key>backwardPoint</key>
+	<string>serviceVar</string>
+	<key>currentGroup</key>
+	<string>screenSaturation</string>
+	<key>declarativerequestcontrast</key>
+	<string>decoderoute</string>
+	<key>difficultTraversal</key>
+	<string>activateScene</string>
+	<key>lockcatalyst</key>
+	<string>specifierBottom</string>
+	<key>onmastertap</key>
+	<string>parallelThread</string>
+	<key>queueMomentum</key>
+	<string>popupForce</string>
+	<key>shouldDecodeMomentum</key>
+	<string>enumerateHash</string>
+	<key>shouldPauseDimension</key>
+	<string>isdocument</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainSize</key>
+	<string>richtextMomentum</string>
+	<key>mobileinkwell</key>
+	<string>masterquaternion</string>
+	<key>navigatoratstage</key>
+	<string>mobileProgressBar</string>
+	<key>observealpha</key>
+	<string>persistDialogs</string>
+	<key>painterMargin</key>
+	<string>resizableParticle</string>
+	<key>seamlessSwift</key>
+	<string>permanentLoss</string>
+	<key>subtleQuaternion</key>
+	<string>checkGroup</string>
+</dict>
+</plist>

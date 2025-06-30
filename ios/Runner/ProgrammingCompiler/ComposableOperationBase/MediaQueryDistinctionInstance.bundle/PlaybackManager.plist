@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviortransition</key>
+	<string>serializeRoute</string>
+	<key>clipperVisible</key>
+	<string>recursionBorder</string>
+	<key>pinchableMember</key>
+	<string>mendMargin</string>
+	<key>roledespitestate</key>
+	<string>shouldDisconnectGesture</string>
+	<key>shouldstreamcanvas</key>
+	<string>histogrambinder</string>
+	<key>thresholdPadding</key>
+	<string>shouldDeserializeBase</string>
+	<key>webTable</key>
+	<string>buildMovement</string>
+</dict>
+</plist>

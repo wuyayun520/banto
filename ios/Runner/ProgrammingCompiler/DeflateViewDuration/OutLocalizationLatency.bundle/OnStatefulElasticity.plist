@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedJoiner</key>
+	<string>canNotifyImage</string>
+	<key>anchorTint</key>
+	<string>queuesaturation</string>
+	<key>fixedCombiner</key>
+	<string>greatSwitch</string>
+	<key>multiplicationbesidecomposite</key>
+	<string>nextVideo</string>
+	<key>otherEmitter</key>
+	<string>capsuleBehavior</string>
+	<key>shouldStreamConstraint</key>
+	<string>shouldKeepMedia</string>
+	<key>standaloneSink</key>
+	<string>canListenDropdownButton</string>
+</dict>
+</plist>

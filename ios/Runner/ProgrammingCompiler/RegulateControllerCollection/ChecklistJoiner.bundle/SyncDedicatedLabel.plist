@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonConfidentiality</key>
+	<string>scopeDepth</string>
+	<key>connectorOffset</key>
+	<string>easyMend</string>
+	<key>elasticprotocol</key>
+	<string>tabviewPressure</string>
+	<key>immutableScale</key>
+	<string>intermediatecollectioncount</string>
+	<key>inactivesinkposition</key>
+	<string>thresholdAppearance</string>
+	<key>iterativeprofile</key>
+	<string>customizedScale</string>
+	<key>modalContrast</key>
+	<string>crucialtimermargin</string>
+	<key>segueindex</key>
+	<string>mitigateParticle</string>
+	<key>shouldLayoutTextField</key>
+	<string>logOperation</string>
+	<key>shouldMountLayout</key>
+	<string>resilientLayout</string>
+</dict>
+</plist>

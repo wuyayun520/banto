@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachcube</key>
+	<string>originaldelegate</string>
+	<key>eagerChart</key>
+	<string>convertVector</string>
+	<key>imperativeGestureDetector</key>
+	<string>arithmeticZone</string>
+	<key>momentumFrequency</key>
+	<string>scrollpermutation</string>
+	<key>tensorListView</key>
+	<string>textureMode</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedCreator</key>
+	<string>fillTween</string>
+	<key>backwardMethod</key>
+	<string>effectOrientation</string>
+	<key>concurrentStack</key>
+	<string>canDisposeTransition</string>
+	<key>framelocation</key>
+	<string>projectEdge</string>
+	<key>mediumRole</key>
+	<string>canStreamGraphic</string>
+	<key>pivotalLoss</key>
+	<string>keepDecoration</string>
+	<key>statefulInteger</key>
+	<string>sharedTimer</string>
+	<key>transformerparamspeed</key>
+	<string>shoulddeserializeduration</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>labelStatus</key>
+	<string>marshalEntity</string>
+	<key>multiplicationName</key>
+	<string>transitionPoint</string>
+	<key>reusableWidget</key>
+	<string>shouldCreateSegue</string>
+	<key>sharedPermutation</key>
+	<string>iterativeDrawer</string>
+	<key>shouldPaintGraphic</key>
+	<string>measureDuration</string>
+	<key>shouldprocessusage</key>
+	<string>shouldTrainClipper</string>
+	<key>specifyPolyfill</key>
+	<string>canSerializeKernel</string>
+	<key>tickeruntilvalue</key>
+	<string>loadExpanded</string>
+</dict>
+</plist>

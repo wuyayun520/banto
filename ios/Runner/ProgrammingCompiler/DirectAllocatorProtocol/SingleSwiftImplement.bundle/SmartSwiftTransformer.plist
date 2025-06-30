@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cuberate</key>
+	<string>canStartCanvas</string>
+	<key>customRect</key>
+	<string>responseAcceleration</string>
+	<key>explicitSize</key>
+	<string>unsortedInkWell</string>
+	<key>imageSpeed</key>
+	<string>entropyDirection</string>
+	<key>moduleInteraction</key>
+	<string>backwardDelivery</string>
+	<key>radioEdge</key>
+	<string>tappablethroughput</string>
+	<key>shouldMountedPromise</key>
+	<string>canTransitionDialogs</string>
+	<key>shouldPublishWidget</key>
+	<string>mechanismHue</string>
+	<key>threadvisible</key>
+	<string>canEncodeStream</string>
+</dict>
+</plist>

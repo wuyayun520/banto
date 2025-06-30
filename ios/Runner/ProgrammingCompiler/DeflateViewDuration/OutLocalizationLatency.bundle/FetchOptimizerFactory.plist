@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticnotificationtint</key>
+	<string>transitionMovement</string>
+	<key>autopriority</key>
+	<string>nativeBatch</string>
+	<key>bulletBottom</key>
+	<string>associatedSubpixel</string>
+	<key>euclideanLoader</key>
+	<string>canUnbindAccessory</string>
+	<key>intensityincludebuffer</key>
+	<string>transitionAppearance</string>
+	<key>secondWrapper</key>
+	<string>renameResolver</string>
+	<key>sustainableElement</key>
+	<string>latencyInteraction</string>
+</dict>
+</plist>

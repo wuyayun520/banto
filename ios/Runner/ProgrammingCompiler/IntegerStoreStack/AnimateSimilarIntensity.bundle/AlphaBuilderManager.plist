@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchStyle</key>
+	<string>vectorDirection</string>
+	<key>difficultIntensity</key>
+	<string>consumerCoord</string>
+	<key>fixedCurve</key>
+	<string>shouldPublishTheme</string>
+	<key>intuitiveProgressBar</key>
+	<string>builderFeedback</string>
+	<key>oldManager</key>
+	<string>tweenspacing</string>
+</dict>
+</plist>

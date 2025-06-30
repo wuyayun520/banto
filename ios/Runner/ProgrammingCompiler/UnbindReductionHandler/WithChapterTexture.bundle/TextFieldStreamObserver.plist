@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionmargin</key>
+	<string>displayablemobile</string>
+	<key>boxshadowdepth</key>
+	<string>resilientSine</string>
+	<key>entityHead</key>
+	<string>mitigateCoordinator</string>
+	<key>fusedThread</key>
+	<string>pinchableGridView</string>
+	<key>standaloneEfficiency</key>
+	<string>replaceProfile</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivefeaturecount</key>
+	<string>shouldcontinuelistview</string>
+	<key>defaultCertificate</key>
+	<string>schemaTop</string>
+	<key>gaterectangle</key>
+	<string>shouldTransformProjection</string>
+	<key>rowbridgemomentum</key>
+	<string>uniformBatch</string>
+	<key>shouldPauseRemainder</key>
+	<string>slashobserverpadding</string>
+	<key>sustainableStorage</key>
+	<string>deserializeGraph</string>
+	<key>viewtrigger</key>
+	<string>resumeTabView</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keySubpixel</key>
+	<string>listenProvider</string>
+	<key>layerforce</key>
+	<string>publicFilter</string>
+	<key>painterthroughlevel</key>
+	<string>webMend</string>
+	<key>permissiveMetrics</key>
+	<string>robustHeap</string>
+	<key>primaryTangent</key>
+	<string>canPersistCertificate</string>
+	<key>progressbarobserver</key>
+	<string>immutableManager</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatecoordinator</key>
+	<string>interfacePhase</string>
+	<key>cosinecolor</key>
+	<string>backwardtabbarmode</string>
+	<key>largeProvider</key>
+	<string>pagerTransparency</string>
+	<key>navigateprogressbar</key>
+	<string>configurationTemple</string>
+	<key>toolagainstlevel</key>
+	<string>deployCurve</string>
+</dict>
+</plist>

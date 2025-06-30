@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatStack</key>
+	<string>canSkipCupertino</string>
+	<key>imperativeInteractor</key>
+	<string>mendInterval</string>
+	<key>intuitiveMovement</key>
+	<string>tabbarState</string>
+	<key>newestaction</key>
+	<string>interfaceSystem</string>
+	<key>originalDrawer</key>
+	<string>permissiveCallback</string>
+	<key>rapidExtension</key>
+	<string>swifttriangles</string>
+	<key>updatesine</key>
+	<string>introspectLabel</string>
+</dict>
+</plist>

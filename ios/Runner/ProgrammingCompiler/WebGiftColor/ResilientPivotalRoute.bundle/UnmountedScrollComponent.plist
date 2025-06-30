@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicScenario</key>
+	<string>injectInterface</string>
+	<key>cupertinoGesture</key>
+	<string>displayableAlert</string>
+	<key>shouldEncodeGradient</key>
+	<string>intuitiveAlignment</string>
+	<key>significanttransitiontag</key>
+	<string>associateHash</string>
+	<key>storageSaturation</key>
+	<string>canBuildTable</string>
+	<key>streamdecoration</key>
+	<string>finishCustomPaint</string>
+	<key>subpixelfromcontext</key>
+	<string>accessoryObserver</string>
+	<key>symmetricwidgetdepth</key>
+	<string>rendererBottom</string>
+</dict>
+</plist>

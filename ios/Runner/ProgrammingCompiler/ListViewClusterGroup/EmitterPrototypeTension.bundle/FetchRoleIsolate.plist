@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorbound</key>
+	<string>evaluationLocation</string>
+	<key>hyperbolicTolerance</key>
+	<string>canTransformSpecifier</string>
+	<key>mainEvaluation</key>
+	<string>canKeepCurve</string>
+	<key>monstersingletonresponse</key>
+	<string>canStreamDelegate</string>
+	<key>multiGrayscale</key>
+	<string>tickerBuffer</string>
+	<key>providerduringphase</key>
+	<string>mediaFunction</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentStatus</key>
+	<string>greatAlert</string>
+	<key>capsuleScale</key>
+	<string>disconnectwidget</string>
+	<key>futureflags</key>
+	<string>handlerDirection</string>
+	<key>listenscreen</key>
+	<string>canReplaceNavigation</string>
+	<key>localIntegrity</key>
+	<string>declarativeSpot</string>
+	<key>lostAnimatedContainer</key>
+	<string>beginnervertex</string>
+	<key>missionpadding</key>
+	<string>scrollerspeed</string>
+	<key>onobserverchanged</key>
+	<string>accessibleLoss</string>
+	<key>shouldParseSwift</key>
+	<string>plateValue</string>
+	<key>shouldPrepareCursor</key>
+	<string>multiListView</string>
+</dict>
+</plist>

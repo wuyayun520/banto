@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableSink</key>
+	<string>immediateError</string>
+	<key>hyperbolicLinker</key>
+	<string>isolatetint</string>
+	<key>imperativeGram</key>
+	<string>alertValidation</string>
+	<key>lostPosition</key>
+	<string>exponentfacadetheme</string>
+	<key>parallelTask</key>
+	<string>mediocreNavigation</string>
+	<key>polyfillEdge</key>
+	<string>dynamicStream</string>
+	<key>resizableStorage</key>
+	<string>explicitOffset</string>
+	<key>shouldDecodeConsumer</key>
+	<string>basicPresenter</string>
+	<key>shouldTrainCatalyst</key>
+	<string>shouldReplaceTangent</string>
+	<key>statefulFlags</key>
+	<string>shouldDispatchCharacter</string>
+</dict>
+</plist>

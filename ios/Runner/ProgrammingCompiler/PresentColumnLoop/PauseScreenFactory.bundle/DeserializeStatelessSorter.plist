@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatepriority</key>
+	<string>bandwidthAcceleration</string>
+	<key>methodmargin</key>
+	<string>meshColor</string>
+	<key>relationalShape</key>
+	<string>sanitizeTimer</string>
+	<key>respectivePoint</key>
+	<string>shouldPopCustomPaint</string>
+	<key>responseInset</key>
+	<string>imperativeSpot</string>
+	<key>responsivetaskinterval</key>
+	<string>canRebuildIndicator</string>
+	<key>scaffoldSkewX</key>
+	<string>presentBoxShadow</string>
+</dict>
+</plist>

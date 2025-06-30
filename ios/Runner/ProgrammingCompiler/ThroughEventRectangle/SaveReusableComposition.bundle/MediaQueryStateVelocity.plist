@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeStack</key>
+	<string>persistDialogs</string>
+	<key>dynamicTriangles</key>
+	<string>nativeCapsule</string>
+	<key>mobileService</key>
+	<string>dividebullet</string>
+	<key>preparepainter</key>
+	<string>mainCharacteristic</string>
+</dict>
+</plist>

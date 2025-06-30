@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteBloc</key>
+	<string>replaceSkin</string>
+	<key>elementRate</key>
+	<string>capsuleprocessdensity</string>
+	<key>independentStorage</key>
+	<string>ephemeralItem</string>
+	<key>keepnode</key>
+	<string>canTrainListView</string>
+	<key>keeptransition</key>
+	<string>smallConnector</string>
+	<key>linkertag</key>
+	<string>connectCanvas</string>
+	<key>shouldValidateDialogs</key>
+	<string>rectPhase</string>
+	<key>uniformVertex</key>
+	<string>transformerComposite</string>
+	<key>unmarshaltable</key>
+	<string>removeZone</string>
+</dict>
+</plist>

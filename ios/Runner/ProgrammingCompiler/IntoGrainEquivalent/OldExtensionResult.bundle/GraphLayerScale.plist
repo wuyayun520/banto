@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisawaylevel</key>
+	<string>customizedStore</string>
+	<key>concreteeffectcoord</key>
+	<string>shouldCreateAxis</string>
+	<key>converterHead</key>
+	<string>radioMode</string>
+	<key>descriptorwithtype</key>
+	<string>eventBrightness</string>
+	<key>gesturedetectorDirection</key>
+	<string>greatState</string>
+	<key>independentAmortization</key>
+	<string>escalaterequest</string>
+	<key>isGraphic</key>
+	<string>localizationFramework</string>
+	<key>matrixdelay</key>
+	<string>projectActivity</string>
+	<key>rapidParticle</key>
+	<string>flexibleGroup</string>
+</dict>
+</plist>

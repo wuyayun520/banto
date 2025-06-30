@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedrestriction</key>
+	<string>descentSkewY</string>
+	<key>boxflyweightrotation</key>
+	<string>keepstore</string>
+	<key>effectpermutation</key>
+	<string>canObserveBase</string>
+	<key>errorremediation</key>
+	<string>transformerformvisibility</string>
+	<key>fusedSound</key>
+	<string>enhanceFeature</string>
+	<key>gridviewStyle</key>
+	<string>painterindex</string>
+	<key>hierarchicalPoint</key>
+	<string>paddingaspect</string>
+	<key>histogramFlags</key>
+	<string>shouldPaintCheckbox</string>
+	<key>persistentHero</key>
+	<string>chooserHead</string>
+	<key>pinchablesubscriptionshade</key>
+	<string>canPrepareSensor</string>
+</dict>
+</plist>

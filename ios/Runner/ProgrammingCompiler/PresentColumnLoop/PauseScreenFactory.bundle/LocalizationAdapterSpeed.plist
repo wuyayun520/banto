@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateinterval</key>
+	<string>similarReceiver</string>
+	<key>bordertheme</key>
+	<string>shouldMountedEqualization</string>
+	<key>cosineVisible</key>
+	<string>blocPattern</string>
+	<key>draggablechannel</key>
+	<string>chooserMode</string>
+	<key>shouldFinishMusic</key>
+	<string>projectKind</string>
+	<key>shouldProcessConvolution</key>
+	<string>hierarchicalCapsule</string>
+	<key>specifyMaterializer</key>
+	<string>accessorytaskhue</string>
+	<key>uniformMomentum</key>
+	<string>assetTemple</string>
+</dict>
+</plist>

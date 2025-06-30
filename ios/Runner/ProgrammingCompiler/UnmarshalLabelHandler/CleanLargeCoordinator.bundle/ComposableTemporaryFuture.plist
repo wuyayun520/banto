@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexorigin</key>
+	<string>geometricGroup</string>
+	<key>functionalDetector</key>
+	<string>geometricAction</string>
+	<key>imperativeTimeline</key>
+	<string>geometricEqualization</string>
+	<key>mutableTabView</key>
+	<string>usedConstraint</string>
+	<key>refactoralpha</key>
+	<string>spriteLocation</string>
+	<key>respectiveService</key>
+	<string>opaquescroller</string>
+	<key>shouldCancelNavigator</key>
+	<string>stackDensity</string>
+	<key>singleZone</key>
+	<string>segmentRate</string>
+</dict>
+</plist>

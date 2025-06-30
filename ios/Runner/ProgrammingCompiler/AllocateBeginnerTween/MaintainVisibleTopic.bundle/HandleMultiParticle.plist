@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basewithoutkind</key>
+	<string>responsedetector</string>
+	<key>crudeVolume</key>
+	<string>animatedStrength</string>
+	<key>deferredInfo</key>
+	<string>musicTop</string>
+	<key>desktopProcessor</key>
+	<string>rebuildPageView</string>
+	<key>featurecompositehead</key>
+	<string>responsiveGesture</string>
+	<key>hyperbolicerror</key>
+	<string>createCertificate</string>
+	<key>oncustompaintchanged</key>
+	<string>positionedBehavior</string>
+	<key>requiredContrast</key>
+	<string>descriptorPattern</string>
+</dict>
+</plist>

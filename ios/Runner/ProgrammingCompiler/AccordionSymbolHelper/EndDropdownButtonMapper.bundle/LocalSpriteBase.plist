@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationTint</key>
+	<string>statelessshape</string>
+	<key>disabledScale</key>
+	<string>stopGram</string>
+	<key>granularGrid</key>
+	<string>cosineForce</string>
+	<key>prevChannels</key>
+	<string>shouldloadstamp</string>
+	<key>primaryScenario</key>
+	<string>assetParam</string>
+	<key>robustScenario</key>
+	<string>schedulerFrequency</string>
+	<key>skinduringtype</key>
+	<string>offsetName</string>
+	<key>timerformtheme</key>
+	<string>integerEdge</string>
+</dict>
+</plist>

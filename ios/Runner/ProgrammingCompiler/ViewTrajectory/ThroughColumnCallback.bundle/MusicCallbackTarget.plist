@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterDuration</key>
+	<string>paintWidget</string>
+	<key>concreteCell</key>
+	<string>validateReduction</string>
+	<key>firstRequest</key>
+	<string>switchBound</string>
+	<key>mainpicker</key>
+	<string>publishercenter</string>
+	<key>nodeTop</key>
+	<string>otherGridView</string>
+	<key>olddependency</key>
+	<string>prismaticTrigger</string>
+	<key>viewright</key>
+	<string>shouldCacheKernel</string>
+</dict>
+</plist>

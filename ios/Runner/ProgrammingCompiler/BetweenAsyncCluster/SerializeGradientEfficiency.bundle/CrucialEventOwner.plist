@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTransformer</key>
+	<string>canCancelPositioned</string>
+	<key>desktopKernel</key>
+	<string>strokePressure</string>
+	<key>disparatesinkcenter</key>
+	<string>semanticsPosition</string>
+	<key>easyTitle</key>
+	<string>canLoadLog</string>
+	<key>mobiletheme</key>
+	<string>mutableIcon</string>
+	<key>prevrichtext</key>
+	<string>scaffoldParam</string>
+	<key>setstatepopup</key>
+	<string>semanticMapper</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionname</key>
+	<string>movementValue</string>
+	<key>hierarchicalCanvas</key>
+	<string>modelPhase</string>
+	<key>interactiveRemediation</key>
+	<string>positionState</string>
+	<key>invisibleNavigator</key>
+	<string>shouldDisconnectPadding</string>
+	<key>isBatch</key>
+	<string>consumerShape</string>
+	<key>localIndicator</key>
+	<string>singleEntity</string>
+	<key>shouldFetchKernel</key>
+	<string>isolateBuffer</string>
+</dict>
+</plist>

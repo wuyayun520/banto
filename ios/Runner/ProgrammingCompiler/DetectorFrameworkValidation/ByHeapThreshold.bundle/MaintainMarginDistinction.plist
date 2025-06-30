@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultEvaluation</key>
+	<string>handleslider</string>
+	<key>immutableTask</key>
+	<string>queueincludechain</string>
+	<key>logHead</key>
+	<string>retainLoop</string>
+	<key>lostStateful</key>
+	<string>agilehash</string>
+	<key>shouldPersistTouch</key>
+	<string>shouldObserveMusic</string>
+	<key>transformscene</key>
+	<string>paintEntropy</string>
+	<key>variantvector</key>
+	<string>shouldUnmountMatrix</string>
+</dict>
+</plist>

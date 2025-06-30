@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionHead</key>
+	<string>desktopmargintint</string>
+	<key>independentSkin</key>
+	<string>commonFragments</string>
+	<key>invisibleResult</key>
+	<string>parseZone</string>
+	<key>opaqueLog</key>
+	<string>allocatortheme</string>
+	<key>relationalStateful</key>
+	<string>modalproxyedge</string>
+	<key>sampleresponder</key>
+	<string>resultHead</string>
+	<key>sinkascent</key>
+	<string>axisSize</string>
+	<key>storagetop</key>
+	<string>smallInfrastructure</string>
+	<key>transitionlistener</key>
+	<string>rebuildAnimatedContainer</string>
+	<key>visibleProjection</key>
+	<string>respectiveVariant</string>
+</dict>
+</plist>

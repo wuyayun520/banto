@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateIndex</key>
+	<string>desktopRole</string>
+	<key>fixedCupertino</key>
+	<string>actioncenter</string>
+	<key>greatTextField</key>
+	<string>emitException</string>
+	<key>receiverbound</key>
+	<string>gestureNumber</string>
+	<key>shouldStreamAspect</key>
+	<string>coordinatorvalidation</string>
+	<key>smallModal</key>
+	<string>projectionMargin</string>
+</dict>
+</plist>

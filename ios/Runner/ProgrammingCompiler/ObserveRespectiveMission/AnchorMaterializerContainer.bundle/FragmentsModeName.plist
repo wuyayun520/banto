@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxInteraction</key>
+	<string>desktopMerger</string>
+	<key>hasoperation</key>
+	<string>streamlineGrain</string>
+	<key>particleemitter</key>
+	<string>shouldPushAccessory</string>
+	<key>particlefrequency</key>
+	<string>otherThread</string>
+	<key>radiusevolution</key>
+	<string>secondtext</string>
+	<key>semanticsview</key>
+	<string>directmethodname</string>
+	<key>shouldRenderStateless</key>
+	<string>formatstoryboard</string>
+	<key>specifySizedBox</key>
+	<string>distinctionLocation</string>
+</dict>
+</plist>

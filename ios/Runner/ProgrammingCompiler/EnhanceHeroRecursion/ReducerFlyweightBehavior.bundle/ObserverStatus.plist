@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationDistance</key>
+	<string>hardError</string>
+	<key>greatTweak</key>
+	<string>showStamp</string>
+	<key>mutableFragments</key>
+	<string>locateQueue</string>
+	<key>notationSkewY</key>
+	<string>efficiencyLeft</string>
+	<key>permissiveHeap</key>
+	<string>textureLevel</string>
+	<key>staticSearcher</key>
+	<string>nextConvolution</string>
+	<key>visibleChallenge</key>
+	<string>mutableProcessor</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerparameterrotation</key>
+	<string>declarativeAnchor</string>
+	<key>imagenavigator</key>
+	<string>serializeUnary</string>
+	<key>interactiveTabView</key>
+	<string>embracehistogram</string>
+	<key>numericalPicker</key>
+	<string>releaseProgressBar</string>
+	<key>shouldPaintScreen</key>
+	<string>composableGram</string>
+	<key>staticGrayscale</key>
+	<string>attachReference</string>
+	<key>tappableOption</key>
+	<string>listenBullet</string>
+	<key>unsortedEfficiency</key>
+	<string>secondBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableTransition</key>
+	<string>globalDescent</string>
+	<key>firstMap</key>
+	<string>reactiveTransformer</string>
+	<key>persistententropy</key>
+	<string>isHeap</string>
+	<key>profileFeedback</key>
+	<string>constrainttail</string>
+	<key>shouldPushBrush</key>
+	<string>canNavigateImage</string>
+	<key>splitterPosition</key>
+	<string>subscriptionwithfacade</string>
+	<key>textureShade</key>
+	<string>canUnmountedCheckbox</string>
+</dict>
+</plist>

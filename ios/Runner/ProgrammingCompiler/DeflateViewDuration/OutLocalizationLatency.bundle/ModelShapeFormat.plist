@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardsorter</key>
+	<string>playbackComposite</string>
+	<key>deferredRadio</key>
+	<string>equivalentStatus</string>
+	<key>encodecurve</key>
+	<string>difficultcursorinterval</string>
+	<key>errorfacadeorigin</key>
+	<string>remainderOpacity</string>
+	<key>resilienceValidation</key>
+	<string>activitySingleton</string>
+	<key>scrollableProject</key>
+	<string>localizationDensity</string>
+	<key>shouldPersistAperture</key>
+	<string>greatLoop</string>
+	<key>shouldUpdateSpine</key>
+	<string>bulletCount</string>
+	<key>uniformFilter</key>
+	<string>connectMargin</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityFrequency</key>
+	<string>primaryrenderer</string>
+	<key>durationtaskflags</key>
+	<string>comprehensiveLog</string>
+	<key>ignoredAsync</key>
+	<string>rangeInset</string>
+	<key>invisibleCursor</key>
+	<string>lostresult</string>
+	<key>notifygrid</key>
+	<string>singleCluster</string>
+	<key>priorArithmetic</key>
+	<string>canRebuildDialogs</string>
+	<key>storyboardPosition</key>
+	<string>skirtSize</string>
+</dict>
+</plist>

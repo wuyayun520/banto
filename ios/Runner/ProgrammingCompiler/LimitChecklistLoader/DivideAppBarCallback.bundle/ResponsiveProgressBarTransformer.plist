@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordioninteractoracceleration</key>
+	<string>scrollableRole</string>
+	<key>euclideanImage</key>
+	<string>delegateTheme</string>
+	<key>explicitBase</key>
+	<string>functionalText</string>
+	<key>greatswiftmargin</key>
+	<string>viewLayer</string>
+	<key>nativeAlpha</key>
+	<string>lostAppBar</string>
+	<key>shouldunbindfuture</key>
+	<string>arithmeticPublisher</string>
+	<key>unactivatedStream</key>
+	<string>defaultSpot</string>
+</dict>
+</plist>

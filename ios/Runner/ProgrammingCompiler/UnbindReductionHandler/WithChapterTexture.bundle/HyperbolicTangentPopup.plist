@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedReduction</key>
+	<string>stepLeft</string>
+	<key>concurrentPosition</key>
+	<string>shouldNavigateMovement</string>
+	<key>delegatestore</key>
+	<string>shaderProcess</string>
+	<key>detachwidget</key>
+	<string>canvashue</string>
+	<key>lostCubit</key>
+	<string>enabledEquivalent</string>
+	<key>meshCenter</key>
+	<string>primaryStep</string>
+	<key>mountedbloc</key>
+	<string>deflateRow</string>
+	<key>rapidTraversal</key>
+	<string>ignoredJoiner</string>
+	<key>selectedbehavior</key>
+	<string>profileParam</string>
+	<key>subscriptionMomentum</key>
+	<string>unlockSprite</string>
+</dict>
+</plist>

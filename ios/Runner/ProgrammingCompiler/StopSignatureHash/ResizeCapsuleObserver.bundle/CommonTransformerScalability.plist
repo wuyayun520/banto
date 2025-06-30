@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedFactory</key>
+	<string>endskirt</string>
+	<key>currentanimation</key>
+	<string>triggerBorder</string>
+	<key>euclideansprite</key>
+	<string>fixedFactory</string>
+	<key>hardStoryboard</key>
+	<string>resizableStore</string>
+	<key>semanticService</key>
+	<string>shouldParseOptimizer</string>
+	<key>shouldDismissBinary</key>
+	<string>attachProject</string>
+	<key>stateproxyposition</key>
+	<string>signatureplatformhue</string>
+	<key>trajectorytheme</key>
+	<string>shouldDisconnectAspectRatio</string>
+	<key>visibleProgressBar</key>
+	<string>statefulThroughput</string>
+</dict>
+</plist>

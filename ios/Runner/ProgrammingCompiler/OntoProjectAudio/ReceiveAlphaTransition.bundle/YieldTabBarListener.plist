@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveselector</key>
+	<string>normquaternion</string>
+	<key>capsuleBrightness</key>
+	<string>ignoredConstant</string>
+	<key>dependencyflags</key>
+	<string>drawerstream</string>
+	<key>hyperbolicBloc</key>
+	<string>sustainableScope</string>
+	<key>inheritedOperation</key>
+	<string>geometricMultiplication</string>
+	<key>shouldDeserializeDuration</key>
+	<string>canRenderSpecifier</string>
+	<key>shouldLayoutSpine</key>
+	<string>protocolDistance</string>
+	<key>shouldStopLoss</key>
+	<string>shouldMountedGrayscale</string>
+	<key>textVisibility</key>
+	<string>reductionAppearance</string>
+</dict>
+</plist>

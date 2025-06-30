@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioFormat</key>
+	<string>dismissSpecifier</string>
+	<key>behaviorTail</key>
+	<string>crucialResponder</string>
+	<key>channellikestyle</key>
+	<string>clipCoordinator</string>
+	<key>crucialOperation</key>
+	<string>animatedProgressBar</string>
+	<key>difficultContainer</key>
+	<string>shouldBindMap</string>
+	<key>disabledCanvas</key>
+	<string>cacheStoryboard</string>
+	<key>missedCompletion</key>
+	<string>skipController</string>
+	<key>scaleDirection</key>
+	<string>shapeContrast</string>
+	<key>screenInteraction</key>
+	<string>priorityFlags</string>
+</dict>
+</plist>

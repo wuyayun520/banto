@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowproxykind</key>
+	<string>enabledObserver</string>
+	<key>customAction</key>
+	<string>presenthero</string>
+	<key>dynamicCollection</key>
+	<string>buffersubscriber</string>
+	<key>elasticManager</key>
+	<string>emitPet</string>
+	<key>statelessFormat</key>
+	<string>callbackBehavior</string>
+</dict>
+</plist>

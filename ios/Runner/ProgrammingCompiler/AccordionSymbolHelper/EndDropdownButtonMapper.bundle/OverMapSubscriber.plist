@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatestoryboard</key>
+	<string>locatePresenter</string>
+	<key>assetTransparency</key>
+	<string>displayableconstant</string>
+	<key>durationtierduration</key>
+	<string>priorChooser</string>
+	<key>mediaqueryhue</key>
+	<string>shouldYieldTabView</string>
+	<key>menuRotation</key>
+	<string>restoreRadius</string>
+	<key>nextDetail</key>
+	<string>mitigateChapter</string>
+</dict>
+</plist>

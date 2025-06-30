@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>creatorAcceleration</key>
+	<string>opaqueModulus</string>
+	<key>difficultSorter</key>
+	<string>publicTask</string>
+	<key>inkwellSaturation</key>
+	<string>intuitiveShader</string>
+	<key>onstoryboardtap</key>
+	<string>formatContraction</string>
+	<key>painterBehavior</key>
+	<string>pausePlayback</string>
+	<key>shouldObserveLog</key>
+	<string>toleranceAlignment</string>
+	<key>usedPopup</key>
+	<string>layoutMaterial</string>
+</dict>
+</plist>

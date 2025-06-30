@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuechart</key>
+	<string>chooserStatus</string>
+	<key>elementOrientation</key>
+	<string>accessibleText</string>
+	<key>spineHead</key>
+	<string>reusableMusic</string>
+	<key>subsequentTimeline</key>
+	<string>requiredSizedBox</string>
+	<key>textfieldchart</key>
+	<string>canPersistDecoration</string>
+</dict>
+</plist>

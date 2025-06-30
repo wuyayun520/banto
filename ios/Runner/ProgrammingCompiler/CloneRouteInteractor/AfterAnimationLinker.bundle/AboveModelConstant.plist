@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintBound</key>
+	<string>responseBorder</string>
+	<key>disposecontroller</key>
+	<string>intermediateMission</string>
+	<key>evaluationState</key>
+	<string>augmentScene</string>
+	<key>missionRight</key>
+	<string>cloneFactory</string>
+	<key>originalKernel</key>
+	<string>canFinishCaption</string>
+	<key>seamlessTimer</key>
+	<string>sizedboxVariable</string>
+	<key>shouldDispatchEquipment</key>
+	<string>subscriptionLocation</string>
+	<key>shouldRouteText</key>
+	<string>responsiveTransition</string>
+	<key>thresholdFrequency</key>
+	<string>scalemomentum</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalScreen</key>
+	<string>columntheme</string>
+	<key>immutableSymbol</key>
+	<string>otherTexture</string>
+	<key>impactspacing</key>
+	<string>isslash</string>
+	<key>imperativeAperture</key>
+	<string>symbolOffset</string>
+	<key>infrastructureShade</key>
+	<string>musicMemento</string>
+	<key>mapFormat</key>
+	<string>cursorjoiner</string>
+	<key>nativeFuture</key>
+	<string>scrollMargin</string>
+	<key>protectedPager</key>
+	<string>replaceSign</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSelector</key>
+	<string>directBuffer</string>
+	<key>defaultmusic</key>
+	<string>respectiveRoute</string>
+	<key>setstatepreview</key>
+	<string>hardSplitter</string>
+	<key>shouldUnmountedProfile</key>
+	<string>streamCapacities</string>
+	<key>unactivatedTransformer</key>
+	<string>shouldPersistSymbol</string>
+</dict>
+</plist>

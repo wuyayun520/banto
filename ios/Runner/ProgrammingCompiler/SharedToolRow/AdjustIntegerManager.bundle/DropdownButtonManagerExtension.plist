@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeHue</key>
+	<string>shouldshowgradient</string>
+	<key>characterthroughsystem</key>
+	<string>beginnerBehavior</string>
+	<key>denseProcessor</key>
+	<string>containerDistance</string>
+	<key>gemBrightness</key>
+	<string>shouldSubscribeCosine</string>
+	<key>shouldUnmountedBinary</key>
+	<string>revisitSprite</string>
+	<key>singleImpact</key>
+	<string>canTrainNavigation</string>
+	<key>statelessFuture</key>
+	<string>singleFuture</string>
+	<key>uniformSubscription</key>
+	<string>detailShade</string>
+</dict>
+</plist>

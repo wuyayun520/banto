@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricAscent</key>
+	<string>annotateAnimation</string>
+	<key>largeHero</key>
+	<string>semanticnode</string>
+	<key>shouldDispatchStateless</key>
+	<string>pivotalSprite</string>
+	<key>shouldUnmountPromise</key>
+	<string>cubitScale</string>
+</dict>
+</plist>

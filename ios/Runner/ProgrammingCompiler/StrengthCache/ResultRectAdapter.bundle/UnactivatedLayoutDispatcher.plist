@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonresource</key>
+	<string>shouldDismissCollection</string>
+	<key>consultativesign</key>
+	<string>updateHandler</string>
+	<key>explicitRoute</key>
+	<string>shouldFetchProtocol</string>
+	<key>gesturedetectorShape</key>
+	<string>responsiveScroll</string>
+	<key>pickerEdge</key>
+	<string>dissociatetask</string>
+	<key>synchronousInterpolation</key>
+	<string>inflateProgressBar</string>
+	<key>techniquelayer</key>
+	<string>stampLocation</string>
+</dict>
+</plist>

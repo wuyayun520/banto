@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSpot</key>
+	<string>rectRotation</string>
+	<key>cartesianOptimizer</key>
+	<string>rectangleDirection</string>
+	<key>inkwellDepth</key>
+	<string>denseBaseline</string>
+	<key>liteCatalyst</key>
+	<string>disconnectSegue</string>
+	<key>mainConstraint</key>
+	<string>keepCoordinator</string>
+	<key>specifyComposition</key>
+	<string>effectDirection</string>
+	<key>statefulMonster</key>
+	<string>persistentPositioned</string>
+</dict>
+</plist>

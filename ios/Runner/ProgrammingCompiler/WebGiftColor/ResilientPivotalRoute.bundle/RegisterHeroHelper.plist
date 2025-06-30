@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedMediaQuery</key>
+	<string>chartParam</string>
+	<key>mainTriangles</key>
+	<string>newestLifecycle</string>
+	<key>mechanismSkewX</key>
+	<string>tensorConstraint</string>
+	<key>modaldensity</key>
+	<string>shouldTrainCompletion</string>
+	<key>mutableTabBar</key>
+	<string>selectedcertificate</string>
+	<key>shouldNavigateStep</key>
+	<string>adaptiveStrength</string>
+	<key>shouldSaveCompletion</key>
+	<string>permanentSink</string>
+</dict>
+</plist>

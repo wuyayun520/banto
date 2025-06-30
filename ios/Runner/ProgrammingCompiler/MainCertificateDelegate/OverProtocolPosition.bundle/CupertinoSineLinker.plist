@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedImage</key>
+	<string>canStreamSkin</string>
+	<key>directDescent</key>
+	<string>restrictionLeft</string>
+	<key>euclideanPainter</key>
+	<string>spinRect</string>
+	<key>monsterRotation</key>
+	<string>presentTabView</string>
+	<key>multiMedia</key>
+	<string>optionPosition</string>
+	<key>secondAsset</key>
+	<string>localInterpolation</string>
+	<key>storageHead</key>
+	<string>publicModel</string>
+</dict>
+</plist>

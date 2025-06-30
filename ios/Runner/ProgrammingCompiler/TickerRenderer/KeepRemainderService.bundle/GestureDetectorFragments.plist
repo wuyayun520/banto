@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocexceptcommand</key>
+	<string>customEvaluation</string>
+	<key>rapidAllocator</key>
+	<string>shouldFetchCheckbox</string>
+	<key>rapidTopic</key>
+	<string>typicalThreshold</string>
+	<key>shouldRestartShader</key>
+	<string>imperativecompleter</string>
+	<key>shouldTransformBehavior</key>
+	<string>directObserver</string>
+	<key>sophisticatedParticle</key>
+	<string>screenWork</string>
+	<key>sortedState</key>
+	<string>updateAnimatedContainer</string>
+	<key>spineeffect</key>
+	<string>attachController</string>
+	<key>statelessvideo</key>
+	<string>poolBuilder</string>
+</dict>
+</plist>

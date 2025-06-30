@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterduringcontext</key>
+	<string>newestChallenge</string>
+	<key>enabledPainter</key>
+	<string>canStopAspectRatio</string>
+	<key>exponentInteraction</key>
+	<string>permutationSkewX</string>
+	<key>hashMode</key>
+	<string>resizableDependency</string>
+	<key>inactiveAnimator</key>
+	<string>requiredPermutation</string>
+	<key>mediumMedia</key>
+	<string>offsetTween</string>
+	<key>positionandstage</key>
+	<string>autooverlay</string>
+	<key>prismaticDrawer</key>
+	<string>toolFlags</string>
+	<key>tickerdrawer</key>
+	<string>playbackFlags</string>
+	<key>transitionalongadapter</key>
+	<string>publicBloc</string>
+</dict>
+</plist>

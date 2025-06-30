@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchindex</key>
+	<string>permanentDescription</string>
+	<key>commonActivity</key>
+	<string>granularTrigger</string>
+	<key>enabledDescriptor</key>
+	<string>presentstream</string>
+	<key>resumesine</key>
+	<string>showexpanded</string>
+	<key>routerAcceleration</key>
+	<string>canMountStamp</string>
+	<key>shouldEmitCupertino</key>
+	<string>titledespitescope</string>
+</dict>
+</plist>

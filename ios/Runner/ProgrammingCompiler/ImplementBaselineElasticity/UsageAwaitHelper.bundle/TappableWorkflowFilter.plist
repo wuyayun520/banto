@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarBottom</key>
+	<string>gestureSingleton</string>
+	<key>inheritedResource</key>
+	<string>shouldDecodeHistogram</string>
+	<key>quitspine</key>
+	<string>layoutImage</string>
+	<key>rapidLogarithm</key>
+	<string>monsterresponse</string>
+	<key>shouldEncodeCheckbox</key>
+	<string>canAttachStoryboard</string>
+	<key>shouldserializeternary</key>
+	<string>trajectoryOpacity</string>
+	<key>statefulMomentum</key>
+	<string>blocTransparency</string>
+	<key>synchronousState</key>
+	<string>fragmentVisibility</string>
+</dict>
+</plist>

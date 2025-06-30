@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitArithmetic</key>
+	<string>mediocreGate</string>
+	<key>nodelifecycle</key>
+	<string>defaultindicator</string>
+	<key>queueincludejob</key>
+	<string>largecolor</string>
+	<key>rapidLifecycle</key>
+	<string>shouldInflateProjection</string>
+	<key>smallTimeline</key>
+	<string>localMaterial</string>
+	<key>statefulsize</key>
+	<string>cubeBound</string>
+	<key>subtleChart</key>
+	<string>volumeScale</string>
+	<key>typicalScaffold</key>
+	<string>refreshQueue</string>
+	<key>uniformSwitch</key>
+	<string>comprehensiveScreen</string>
+</dict>
+</plist>

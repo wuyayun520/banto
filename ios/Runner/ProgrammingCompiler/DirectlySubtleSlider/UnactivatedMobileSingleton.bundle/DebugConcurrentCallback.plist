@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachoverlay</key>
+	<string>criticalTheme</string>
+	<key>composableview</key>
+	<string>effectNumber</string>
+	<key>compositionalAmortization</key>
+	<string>shouldRenderOption</string>
+	<key>unactivatedmapper</key>
+	<string>canCancelCanvas</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalElasticity</key>
+	<string>unactivatedJoiner</string>
+	<key>consumerstyle</key>
+	<string>canTransitionFlex</string>
+	<key>inheritedInterface</key>
+	<string>canEmitTransition</string>
+	<key>marshalstoryboard</key>
+	<string>constantDepth</string>
+	<key>mediumactiondistance</key>
+	<string>composableConstraint</string>
+	<key>observertension</key>
+	<string>shouldFormatThread</string>
+	<key>protectedmatrix</key>
+	<string>gramEnvironment</string>
+	<key>replacebloc</key>
+	<string>seguehead</string>
+	<key>statelesssegmentvisible</key>
+	<string>handlerDistance</string>
+</dict>
+</plist>

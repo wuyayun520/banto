@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationtieredge</key>
+	<string>oldProvider</string>
+	<key>draggableAction</key>
+	<string>usedhandler</string>
+	<key>euclideanNavigator</key>
+	<string>independentSize</string>
+	<key>independentInteractor</key>
+	<string>geometricpolyfill</string>
+	<key>moduleDensity</key>
+	<string>transformmomentum</string>
+	<key>notifymethod</key>
+	<string>objectfeedback</string>
+	<key>pinchableRequest</key>
+	<string>optimizedecoration</string>
+	<key>priorityPadding</key>
+	<string>shouldTransitionBinary</string>
+	<key>protectedListener</key>
+	<string>shouldAnimateImage</string>
+	<key>reactiveMaterial</key>
+	<string>semanticLayout</string>
+</dict>
+</plist>

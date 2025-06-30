@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineskewy</key>
+	<string>canInflateGram</string>
+	<key>dynamicMovement</key>
+	<string>overlayTier</string>
+	<key>eagerColumn</key>
+	<string>drawerTint</string>
+	<key>radioalongstyle</key>
+	<string>canMountedNotification</string>
+	<key>shouldDispatchPainter</key>
+	<string>cupertinoQueue</string>
+	<key>subsequentDispatcher</key>
+	<string>directSprite</string>
+</dict>
+</plist>

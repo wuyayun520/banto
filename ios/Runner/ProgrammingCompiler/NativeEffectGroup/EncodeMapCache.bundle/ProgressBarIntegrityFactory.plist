@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedresult</key>
+	<string>certificateVelocity</string>
+	<key>currentCertificate</key>
+	<string>previewPressure</string>
+	<key>fillsensor</key>
+	<string>prismaticSwift</string>
+	<key>mainCollection</key>
+	<string>symmetricMaster</string>
+	<key>mapperdepth</key>
+	<string>autoFilter</string>
+	<key>missedChannel</key>
+	<string>listenRadio</string>
+	<key>titletransparency</key>
+	<string>hardAnalyzer</string>
+</dict>
+</plist>

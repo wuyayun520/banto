@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoMargin</key>
+	<string>diffablePositioned</string>
+	<key>dynamicGrayscale</key>
+	<string>lostBatch</string>
+	<key>intensityappearance</key>
+	<string>flexibleBuilder</string>
+	<key>optionDistance</key>
+	<string>shouldDisposeObserver</string>
+	<key>persistcurve</key>
+	<string>finishFragment</string>
+	<key>shouldPaintDuration</key>
+	<string>canRestartOption</string>
+	<key>shouldPublishNotification</key>
+	<string>scrollableslashbrightness</string>
+	<key>sliderdistance</key>
+	<string>navigatePrecision</string>
+	<key>smallTexture</key>
+	<string>opaqueStore</string>
+	<key>usecasePressure</key>
+	<string>largeGrayscale</string>
+</dict>
+</plist>

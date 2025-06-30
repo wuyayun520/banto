@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileRectangle</key>
+	<string>firstTimer</string>
+	<key>shouldEncodeInteger</key>
+	<string>emitZone</string>
+	<key>throughputtop</key>
+	<string>logarithmDelay</string>
+</dict>
+</plist>

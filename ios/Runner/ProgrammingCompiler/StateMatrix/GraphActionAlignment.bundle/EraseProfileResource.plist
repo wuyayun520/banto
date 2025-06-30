@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorValidation</key>
+	<string>sortedReplica</string>
+	<key>consumptionFeedback</key>
+	<string>shouldUpdateComposition</string>
+	<key>interactiveQuaternion</key>
+	<string>gateinformation</string>
+	<key>nativetrigger</key>
+	<string>declarativeParticle</string>
+	<key>notifierMomentum</key>
+	<string>canFetchProjection</string>
+</dict>
+</plist>

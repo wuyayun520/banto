@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedHeap</key>
+	<string>textureopacity</string>
+	<key>backwardEvaluation</key>
+	<string>canSavePainter</string>
+	<key>blocopacity</key>
+	<string>shouldrebuildskin</string>
+	<key>fusedMobile</key>
+	<string>canFinishOption</string>
+	<key>greatBoxShadow</key>
+	<string>shouldValidateBoxShadow</string>
+	<key>mobileEntity</key>
+	<string>resizablePageView</string>
+	<key>permanentReference</key>
+	<string>embraceUseCase</string>
+	<key>prevSchema</key>
+	<string>replaceSubscription</string>
+</dict>
+</plist>

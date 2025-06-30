@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionaspecttop</key>
+	<string>flexibleVolume</string>
+	<key>adaptivePositioned</key>
+	<string>menuLeft</string>
+	<key>customizedZone</key>
+	<string>persistEqualization</string>
+	<key>euclideanLayer</key>
+	<string>textDepth</string>
+	<key>nodestateinset</key>
+	<string>canBuildTangent</string>
+	<key>optimizecanvas</key>
+	<string>canPublishProject</string>
+	<key>shouldconnectmomentum</key>
+	<string>canRestartGesture</string>
+	<key>storyboardTint</key>
+	<string>particleCoord</string>
+	<key>transformindicator</key>
+	<string>autoTool</string>
+	<key>widgetadaptervisible</key>
+	<string>shouldListenScroll</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionopacity</key>
+	<string>shouldPrepareAspectRatio</string>
+	<key>finderResponse</key>
+	<string>audioedge</string>
+	<key>mediafeedback</key>
+	<string>canRenderObserver</string>
+	<key>nextStream</key>
+	<string>denseBuilder</string>
+	<key>shouldPaintSegue</key>
+	<string>shouldstopequipment</string>
+	<key>symmetricEquipment</key>
+	<string>delicateGraph</string>
+	<key>tangentacceleration</key>
+	<string>scaleFlyweight</string>
+</dict>
+</plist>

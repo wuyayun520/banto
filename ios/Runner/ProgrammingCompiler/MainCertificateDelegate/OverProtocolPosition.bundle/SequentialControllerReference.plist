@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitTable</key>
+	<string>itemDepth</string>
+	<key>kernelbottom</key>
+	<string>injectListener</string>
+	<key>listenerspacing</key>
+	<string>positionRate</string>
+	<key>localCubit</key>
+	<string>capacitiesSkewY</string>
+	<key>rectangletop</key>
+	<string>gridviewInterpreter</string>
+	<key>shouldPersistOperation</key>
+	<string>minPoint</string>
+	<key>shouldReplaceWidget</key>
+	<string>canDecodeButton</string>
+</dict>
+</plist>

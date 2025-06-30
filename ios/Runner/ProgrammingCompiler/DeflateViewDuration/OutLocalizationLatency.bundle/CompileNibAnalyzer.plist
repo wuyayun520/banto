@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediaqueryAppearance</key>
+	<string>canEncodeBullet</string>
+	<key>newestBrush</key>
+	<string>canEndRow</string>
+	<key>processchannel</key>
+	<string>multiView</string>
+	<key>seguenumbertheme</key>
+	<string>popupProxy</string>
+	<key>symmetricSensor</key>
+	<string>tensorDetail</string>
+	<key>usedInteractor</key>
+	<string>visitScene</string>
+</dict>
+</plist>

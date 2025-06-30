@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedAlignment</key>
+	<string>canRestartRow</string>
+	<key>groupFlags</key>
+	<string>autoAccessory</string>
+	<key>previewVisible</key>
+	<string>shouldDisconnectActivity</string>
+	<key>rapidGestureDetector</key>
+	<string>notifyListView</string>
+	<key>shouldFormatAccessory</key>
+	<string>appbarcontrast</string>
+	<key>shouldobservemusic</key>
+	<string>keepSizedBox</string>
+</dict>
+</plist>

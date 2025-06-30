@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynctransparency</key>
+	<string>canDeserializeAnimatedContainer</string>
+	<key>gestureInterval</key>
+	<string>canTransformSensor</string>
+	<key>isolatedistance</key>
+	<string>subscribeGestureDetector</string>
+	<key>secondSample</key>
+	<string>gradientPrototype</string>
+	<key>setupdescription</key>
+	<string>animatedcontaineroffset</string>
+	<key>shouldDispatchInterpolation</key>
+	<string>undertakeBuilder</string>
+	<key>significantMatrix</key>
+	<string>cupertinoCell</string>
+	<key>symmetricCombiner</key>
+	<string>detectorRight</string>
+	<key>vectormediatorhue</key>
+	<string>descriptioncolor</string>
+</dict>
+</plist>

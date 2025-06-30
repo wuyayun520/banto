@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>creatorHead</key>
+	<string>similarMapper</string>
+	<key>lazyVertex</key>
+	<string>semanticDetector</string>
+	<key>materialImage</key>
+	<string>concurrentlabelvisible</string>
+	<key>pivotalCustomPaint</key>
+	<string>shouldTransitionReduction</string>
+	<key>resolvershapevalidation</key>
+	<string>canPauseCatalyst</string>
+	<key>shouldEmitBullet</key>
+	<string>accelerateStore</string>
+</dict>
+</plist>

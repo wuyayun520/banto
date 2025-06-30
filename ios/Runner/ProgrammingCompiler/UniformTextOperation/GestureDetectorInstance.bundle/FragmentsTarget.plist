@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionMargin</key>
+	<string>liteBrush</string>
+	<key>deferredThroughput</key>
+	<string>accelerateRow</string>
+	<key>disparateMap</key>
+	<string>chartValue</string>
+	<key>intermediatedrawercoord</key>
+	<string>expandedcallback</string>
+	<key>projectionMomentum</key>
+	<string>moveGraph</string>
+	<key>shouldDisposeCustomPaint</key>
+	<string>responsiveLayout</string>
+	<key>transitionSpeed</key>
+	<string>comprehensiveStrength</string>
+	<key>unsortedStatus</key>
+	<string>draggableInfrastructure</string>
+</dict>
+</plist>

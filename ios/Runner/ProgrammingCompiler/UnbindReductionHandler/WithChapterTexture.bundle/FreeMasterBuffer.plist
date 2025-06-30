@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumestorage</key>
+	<string>cubitcount</string>
+	<key>euclideanExpanded</key>
+	<string>symmetricCube</string>
+	<key>explicitTransformer</key>
+	<string>immediateArithmetic</string>
+	<key>interactorforce</key>
+	<string>dedicatedtheme</string>
+	<key>resumeheap</key>
+	<string>shouldPersistAlert</string>
+	<key>shouldUnbindChannels</key>
+	<string>directlyAlignment</string>
+	<key>tappableRouter</key>
+	<string>canCacheInteger</string>
+</dict>
+</plist>

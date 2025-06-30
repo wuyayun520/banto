@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directmaterializer</key>
+	<string>audioTop</string>
+	<key>lazyCoordinator</key>
+	<string>easyObserver</string>
+	<key>nativeTitle</key>
+	<string>shouldConnectSwift</string>
+	<key>statetexture</key>
+	<string>performTimer</string>
+	<key>titleSize</key>
+	<string>deserializefeature</string>
+</dict>
+</plist>

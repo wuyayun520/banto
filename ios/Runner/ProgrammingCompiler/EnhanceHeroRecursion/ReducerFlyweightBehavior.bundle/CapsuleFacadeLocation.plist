@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionOpacity</key>
+	<string>sharedSlider</string>
+	<key>continuesingleton</key>
+	<string>firstCaption</string>
+	<key>crucialProtocol</key>
+	<string>keepGraphic</string>
+	<key>diffableLoader</key>
+	<string>shouldUnbindInkWell</string>
+	<key>shouldParseGraphic</key>
+	<string>animatedusage</string>
+	<key>shouldUnmountArithmetic</key>
+	<string>hardIntegration</string>
+	<key>standaloneMechanism</key>
+	<string>visitResource</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerAlignment</key>
+	<string>specifyBuffer</string>
+	<key>binaryInset</key>
+	<string>thresholdcoord</string>
+	<key>dedicatedRole</key>
+	<string>finderEdge</string>
+	<key>eagersingleton</key>
+	<string>fragmentInterpreter</string>
+	<key>resizableBloc</key>
+	<string>shouldSkipGestureDetector</string>
+	<key>substantialAnalogy</key>
+	<string>mobileChapter</string>
+</dict>
+</plist>

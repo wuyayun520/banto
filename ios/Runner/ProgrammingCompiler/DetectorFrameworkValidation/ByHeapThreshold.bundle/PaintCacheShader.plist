@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetSpeed</key>
+	<string>shouldNotifySlash</string>
+	<key>asynchronousscalability</key>
+	<string>canResumeNotifier</string>
+	<key>hardBrush</key>
+	<string>requiredGrayscale</string>
+	<key>parseunary</key>
+	<string>publicSprite</string>
+	<key>permanentMend</key>
+	<string>inheritednotificationmomentum</string>
+	<key>robustutil</key>
+	<string>shouldPushThread</string>
+	<key>smallAperture</key>
+	<string>occasionLeft</string>
+	<key>strokeColor</key>
+	<string>disabledModule</string>
+</dict>
+</plist>

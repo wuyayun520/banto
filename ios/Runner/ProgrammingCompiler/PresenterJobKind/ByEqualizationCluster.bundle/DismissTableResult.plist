@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectreducer</key>
+	<string>shouldSubscribeController</string>
+	<key>coordinatorvariablespacing</key>
+	<string>referencebrightness</string>
+	<key>geometriccolumnkind</key>
+	<string>replaceListView</string>
+	<key>independentReplica</key>
+	<string>lazyCursor</string>
+	<key>notifierSize</key>
+	<string>rotatelog</string>
+	<key>scrollablepopupfeedback</key>
+	<string>shouldPublishBitrate</string>
+	<key>sizereceiver</key>
+	<string>imageparameterskewx</string>
+</dict>
+</plist>

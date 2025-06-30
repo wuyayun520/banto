@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopChart</key>
+	<string>shouldReplaceCache</string>
+	<key>lostprofiletint</key>
+	<string>flexState</string>
+	<key>mobileobserver</key>
+	<string>canSetStateSpine</string>
+	<key>responsiveScalability</key>
+	<string>specifyConstraint</string>
+</dict>
+</plist>

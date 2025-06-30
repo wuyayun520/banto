@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRow</key>
+	<string>canKeepTheme</string>
+	<key>imperativePager</key>
+	<string>otherTrajectory</string>
+	<key>nextConnector</key>
+	<string>storeRow</string>
+	<key>numericalDecoration</key>
+	<string>activatedEntropy</string>
+	<key>scenarioLeft</key>
+	<string>memberBehavior</string>
+</dict>
+</plist>

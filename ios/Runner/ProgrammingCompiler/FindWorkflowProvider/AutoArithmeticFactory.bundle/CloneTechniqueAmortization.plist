@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deploygridview</key>
+	<string>delicateNorm</string>
+	<key>iterativeLoader</key>
+	<string>createproject</string>
+	<key>measurechannel</key>
+	<string>canTransitionAspect</string>
+	<key>missedTabBar</key>
+	<string>continueAppBar</string>
+	<key>mobileIndicator</key>
+	<string>trianglesDensity</string>
+	<key>prevTechnique</key>
+	<string>fetchGrayscale</string>
+	<key>resilientviewdistance</key>
+	<string>disclaimerBorder</string>
+	<key>storyboardcount</key>
+	<string>retainedScenario</string>
+	<key>sustainablePager</key>
+	<string>mapvisible</string>
+</dict>
+</plist>

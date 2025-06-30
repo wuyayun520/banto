@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectstateless</key>
+	<string>disconnectCycle</string>
+	<key>convolutiontransformer</key>
+	<string>setstatePainter</string>
+	<key>restrictionMode</key>
+	<string>exceptionFeedback</string>
+	<key>tickercenter</key>
+	<string>publicAlignment</string>
+	<key>uniqueVector</key>
+	<string>normalVolume</string>
+</dict>
+</plist>

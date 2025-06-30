@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorAlignment</key>
+	<string>agileModulus</string>
+	<key>dispatcherTail</key>
+	<string>alignmentCycle</string>
+	<key>greatPicker</key>
+	<string>nativeConverter</string>
+	<key>mobileinsidevalue</key>
+	<string>initializeRadius</string>
+	<key>onentropychanged</key>
+	<string>visualizeConstraint</string>
+	<key>onpaddingchanged</key>
+	<string>histogramMemento</string>
+	<key>synchronousBehavior</key>
+	<string>animatedAction</string>
+</dict>
+</plist>

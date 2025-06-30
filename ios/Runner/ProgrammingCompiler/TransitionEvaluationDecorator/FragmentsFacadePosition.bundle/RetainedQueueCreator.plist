@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyConnector</key>
+	<string>shouldValidateGradient</string>
+	<key>observemethod</key>
+	<string>difficultTriangles</string>
+	<key>publicAlert</key>
+	<string>toleranceSpeed</string>
+	<key>shouldDeserializeBatch</key>
+	<string>textfieldForm</string>
+	<key>storagelevelinteraction</key>
+	<string>interactiveRectangle</string>
+</dict>
+</plist>

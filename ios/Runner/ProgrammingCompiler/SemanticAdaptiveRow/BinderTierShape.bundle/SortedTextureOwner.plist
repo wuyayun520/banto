@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxFormat</key>
+	<string>shouldKeepBox</string>
+	<key>completionColor</key>
+	<string>statefulInfo</string>
+	<key>keyStorage</key>
+	<string>secondConsumer</string>
+	<key>parallelModule</key>
+	<string>skipanchor</string>
+	<key>previewTop</key>
+	<string>sliderconsumer</string>
+</dict>
+</plist>

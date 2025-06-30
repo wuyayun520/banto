@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialhistogram</key>
+	<string>reactiveManager</string>
+	<key>lastdrawer</key>
+	<string>managerState</string>
+	<key>mediumbaseline</key>
+	<string>ondrawerchanged</string>
+	<key>multiFuture</key>
+	<string>cellParam</string>
+	<key>resizablestore</key>
+	<string>observerTail</string>
+	<key>semanticOption</key>
+	<string>notifierAdapter</string>
+	<key>shouldShowCertificate</key>
+	<string>shouldSubscribeMission</string>
+	<key>vectorVelocity</key>
+	<string>factorycenter</string>
+</dict>
+</plist>

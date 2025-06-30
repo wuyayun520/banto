@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerbridgecenter</key>
+	<string>channelsHue</string>
+	<key>durationchaincoord</key>
+	<string>lostStorage</string>
+	<key>enabledDistinction</key>
+	<string>contractionTransparency</string>
+	<key>imperativecontroller</key>
+	<string>shouldLoadCapacities</string>
+	<key>informationMode</key>
+	<string>measurePresenter</string>
+	<key>onprojectiontap</key>
+	<string>popupDensity</string>
+	<key>shouldYieldMargin</key>
+	<string>associatedlayermargin</string>
+	<key>slidersearcher</key>
+	<string>compositionalsingleton</string>
+	<key>statefulError</key>
+	<string>localMerger</string>
+</dict>
+</plist>

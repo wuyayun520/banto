@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lazySensor</key>
+	<string>deactivateIsolate</string>
+	<key>opaqueBinary</key>
+	<string>segueShape</string>
+	<key>protectedlabel</key>
+	<string>positionFunction</string>
+	<key>reductionspacing</key>
+	<string>permanentGrain</string>
+	<key>shouldDetachPageView</key>
+	<string>dispatchScale</string>
+	<key>shouldFinishSpecifier</key>
+	<string>axisSize</string>
+	<key>shouldparsenib</key>
+	<string>shouldLayoutCupertino</string>
+	<key>sorterState</key>
+	<string>bufferStructure</string>
+	<key>vectorBehavior</key>
+	<string>builderTransparency</string>
+	<key>visibleSensor</key>
+	<string>shouldDisposeSkin</string>
+</dict>
+</plist>

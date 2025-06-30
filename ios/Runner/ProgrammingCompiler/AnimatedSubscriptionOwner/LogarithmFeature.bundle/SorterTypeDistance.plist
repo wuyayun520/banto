@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculatetexture</key>
+	<string>bulletbesidestage</string>
+	<key>disparateMethod</key>
+	<string>inheritedDescent</string>
+	<key>exceptionCoord</key>
+	<string>fetchResource</string>
+	<key>independentScroll</key>
+	<string>richtextPlatform</string>
+	<key>multiMusic</key>
+	<string>promiseFeedback</string>
+	<key>pinchableCheckbox</key>
+	<string>iterativeCombiner</string>
+	<key>responderRight</key>
+	<string>statelessadapterdirection</string>
+</dict>
+</plist>

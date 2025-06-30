@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deflatelistener</key>
+	<string>continueView</string>
+	<key>gesturedetectorwrapper</key>
+	<string>tappableCapsule</string>
+	<key>largeProjection</key>
+	<string>challengeLocation</string>
+	<key>multiElasticity</key>
+	<string>cupertinotheme</string>
+	<key>oldGrid</key>
+	<string>cupertinoTemple</string>
+	<key>otherTimeline</key>
+	<string>setstateAccessory</string>
+</dict>
+</plist>

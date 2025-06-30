@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pageviewatchain</key>
+	<string>mainContainer</string>
+	<key>prevDialogs</key>
+	<string>shouldPushRichText</string>
+	<key>shouldProcessDimension</key>
+	<string>geometricBrush</string>
+	<key>shouldRenderMedia</key>
+	<string>activateFactory</string>
+	<key>shouldSerializeLogarithm</key>
+	<string>kernelResponse</string>
+	<key>standaloneChapter</key>
+	<string>viewScale</string>
+</dict>
+</plist>

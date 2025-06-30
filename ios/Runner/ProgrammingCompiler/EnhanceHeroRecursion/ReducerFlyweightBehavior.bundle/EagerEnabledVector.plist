@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containertransparency</key>
+	<string>canPopCache</string>
+	<key>deferredView</key>
+	<string>autoOverlay</string>
+	<key>discardeddependencyright</key>
+	<string>selectorInset</string>
+	<key>elasticityTail</key>
+	<string>standaloneListView</string>
+	<key>hyperbolicSpine</key>
+	<string>inkwellJob</string>
+	<key>lastSlash</key>
+	<string>invisibleCustomPaint</string>
+	<key>ontechniquetap</key>
+	<string>synchronousSearcher</string>
+	<key>pivotalPolyfill</key>
+	<string>easyPlate</string>
+	<key>singleEqualization</key>
+	<string>originalExpanded</string>
+	<key>subscriptionShape</key>
+	<string>shouldCacheMember</string>
+</dict>
+</plist>

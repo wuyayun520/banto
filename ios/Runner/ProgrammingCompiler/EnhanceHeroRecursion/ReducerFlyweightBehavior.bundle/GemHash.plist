@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineTension</key>
+	<string>advancedSink</string>
+	<key>channelmementovalidation</key>
+	<string>symmetricConverter</string>
+	<key>criticalcubit</key>
+	<string>sustainableindicatorinterval</string>
+	<key>delicateConsumer</key>
+	<string>reusableLatency</string>
+	<key>fixedInterface</key>
+	<string>allocateResource</string>
+	<key>mobileMaterial</key>
+	<string>mobileInjection</string>
+	<key>requiredGrain</key>
+	<string>vectorPadding</string>
+	<key>shouldshowmargin</key>
+	<string>displayableComponent</string>
+	<key>streamlinenib</key>
+	<string>shareddescriptionforce</string>
+</dict>
+</plist>

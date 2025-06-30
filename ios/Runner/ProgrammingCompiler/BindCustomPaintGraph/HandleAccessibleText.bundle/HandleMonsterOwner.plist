@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedReference</key>
+	<string>lazyPopup</string>
+	<key>apertureTop</key>
+	<string>permanentIntegration</string>
+	<key>iconRate</key>
+	<string>assetMethod</string>
+	<key>materializelabel</key>
+	<string>webFlex</string>
+	<key>mobileBound</key>
+	<string>shouldSerializeChannels</string>
+	<key>respondmethod</key>
+	<string>formatIcon</string>
+	<key>subtleCapacities</key>
+	<string>notifiertransparency</string>
+</dict>
+</plist>

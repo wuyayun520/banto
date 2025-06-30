@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableCard</key>
+	<string>gesturedetectorindex</string>
+	<key>mediocreborder</key>
+	<string>canAttachAppBar</string>
+	<key>metadataopacity</key>
+	<string>draggableInfrastructure</string>
+	<key>momentumVisible</key>
+	<string>pointCount</string>
+	<key>sequentialPermutation</key>
+	<string>selectedTouch</string>
+	<key>shouldCancelFuture</key>
+	<string>shouldStartMomentum</string>
+	<key>statesincebridge</key>
+	<string>graphParam</string>
+	<key>tappableBuilder</key>
+	<string>trainMargin</string>
+</dict>
+</plist>

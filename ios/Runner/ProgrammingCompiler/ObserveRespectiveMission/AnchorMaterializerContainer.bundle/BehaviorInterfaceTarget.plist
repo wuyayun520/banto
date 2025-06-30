@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedGrid</key>
+	<string>cartesianEntropy</string>
+	<key>binderOffset</key>
+	<string>inkwellLocation</string>
+	<key>flexaboutmethod</key>
+	<string>contractionalonglayer</string>
+	<key>integrationCount</key>
+	<string>popstateful</string>
+	<key>layoutLeft</key>
+	<string>resolverbandwidth</string>
+	<key>mediumCluster</key>
+	<string>disabledDecoration</string>
+	<key>mutableNotification</key>
+	<string>canNotifyPriority</string>
+	<key>prevAnimatedContainer</key>
+	<string>presenterascent</string>
+</dict>
+</plist>

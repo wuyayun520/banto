@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonFormat</key>
+	<string>constructText</string>
+	<key>ephemeralRenderer</key>
+	<string>futureenvironmentlocation</string>
+	<key>mainResilience</key>
+	<string>delegateStrategy</string>
+	<key>shouldDisconnectProject</key>
+	<string>calculateQueue</string>
+	<key>shouldProcessLabel</key>
+	<string>semanticPolyfill</string>
+	<key>smarttaskmargin</key>
+	<string>delicateIsolate</string>
+</dict>
+</plist>

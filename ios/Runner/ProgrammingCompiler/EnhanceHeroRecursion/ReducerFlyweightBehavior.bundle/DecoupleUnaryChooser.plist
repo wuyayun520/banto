@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channellikemediator</key>
+	<string>unmountedNavigator</string>
+	<key>concreteCompletion</key>
+	<string>functionalNotifier</string>
+	<key>flexBehavior</key>
+	<string>dynamicAsync</string>
+	<key>mainLayer</key>
+	<string>navigationStructure</string>
+	<key>temporaryMerger</key>
+	<string>normalcaptionopacity</string>
+</dict>
+</plist>

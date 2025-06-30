@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedUtil</key>
+	<string>shouldprocesswidget</string>
+	<key>explicitTweak</key>
+	<string>pointincludecomposite</string>
+	<key>heapgroup</key>
+	<string>iterativeEvent</string>
+	<key>pausesingleton</key>
+	<string>scalabilitytransparency</string>
+	<key>persistentarithmeticdepth</key>
+	<string>soundMode</string>
+	<key>rapidanalyzer</key>
+	<string>managerPrototype</string>
+	<key>relationalfuturevisible</key>
+	<string>provideanimation</string>
+</dict>
+</plist>

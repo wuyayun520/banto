@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentStatus</key>
+	<string>canCreateCoordinator</string>
+	<key>multiplicationInteraction</key>
+	<string>resilientRange</string>
+	<key>progressbaranalyzer</key>
+	<string>cupertinoGridView</string>
+	<key>requiredHandler</key>
+	<string>geometricSingleton</string>
+	<key>temporaryProfile</key>
+	<string>canFormatPrecision</string>
+	<key>tensorFilter</key>
+	<string>substantialObserver</string>
+</dict>
+</plist>

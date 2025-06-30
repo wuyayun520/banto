@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedRenderer</key>
+	<string>firstAlpha</string>
+	<key>criticalobserver</key>
+	<string>responsiveCharacteristic</string>
+	<key>entityDepth</key>
+	<string>adjustLayer</string>
+	<key>equivalentFeedback</key>
+	<string>advancedmaster</string>
+	<key>geometricStateless</key>
+	<string>resizableMusic</string>
+	<key>prevPolyfill</key>
+	<string>dynamicBorder</string>
+</dict>
+</plist>

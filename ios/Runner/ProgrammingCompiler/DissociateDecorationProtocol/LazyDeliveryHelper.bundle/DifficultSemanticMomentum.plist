@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoReliability</key>
+	<string>shouldRoutePageView</string>
+	<key>heapSkewX</key>
+	<string>utilBridge</string>
+	<key>invisibleColor</key>
+	<string>webChooser</string>
+	<key>mutableBorder</key>
+	<string>navigatorFacade</string>
+	<key>shouldDismissNavigator</key>
+	<string>cubeBridge</string>
+	<key>specifyInteractor</key>
+	<string>completedMember</string>
+	<key>sustainableStream</key>
+	<string>segueresult</string>
+	<key>timerTransparency</key>
+	<string>shouldStopAperture</string>
+</dict>
+</plist>

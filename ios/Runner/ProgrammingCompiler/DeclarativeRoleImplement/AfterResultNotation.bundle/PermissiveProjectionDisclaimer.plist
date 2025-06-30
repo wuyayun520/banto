@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleScaffold</key>
+	<string>tappableresolver</string>
+	<key>gridinset</key>
+	<string>shouldPopDocument</string>
+	<key>hasNotifier</key>
+	<string>injectionsincefacade</string>
+	<key>nodesincebridge</key>
+	<string>liteCubit</string>
+	<key>normalTransition</key>
+	<string>timePressure</string>
+	<key>repositoryinterpreterdensity</key>
+	<string>opaqueRange</string>
+	<key>scrollOpacity</key>
+	<string>curveState</string>
+	<key>shouldAnimateAppBar</key>
+	<string>completedCard</string>
+	<key>shouldPrepareUsage</key>
+	<string>cubitCycle</string>
+	<key>stampduration</key>
+	<string>retainedNotation</string>
+</dict>
+</plist>

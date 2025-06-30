@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorcombiner</key>
+	<string>specifySubpixel</string>
+	<key>decoupleinjection</key>
+	<string>debugReducer</string>
+	<key>mainmechanism</key>
+	<string>navigatorParameter</string>
+	<key>methodscheduler</key>
+	<string>streamamongmode</string>
+	<key>oldsubscriptionstate</key>
+	<string>textureChain</string>
+	<key>shouldObserveLog</key>
+	<string>deflateCubit</string>
+	<key>singleLogarithm</key>
+	<string>marshalParticle</string>
+	<key>taskcount</key>
+	<string>previewDensity</string>
+	<key>unbindprecision</key>
+	<string>stepPressure</string>
+</dict>
+</plist>

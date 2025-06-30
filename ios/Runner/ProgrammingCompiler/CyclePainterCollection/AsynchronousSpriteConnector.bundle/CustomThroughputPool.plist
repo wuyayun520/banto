@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalAllocator</key>
+	<string>stopCatalyst</string>
+	<key>loopasparam</key>
+	<string>relationalTolerance</string>
+	<key>mobileviewtint</key>
+	<string>hardIntensity</string>
+	<key>reactiveReliability</key>
+	<string>pinchableButton</string>
+	<key>reductionoffset</key>
+	<string>keyCache</string>
+	<key>relationalText</key>
+	<string>grayscalePhase</string>
+	<key>shouldProcessCanvas</key>
+	<string>animatedcontainerType</string>
+</dict>
+</plist>

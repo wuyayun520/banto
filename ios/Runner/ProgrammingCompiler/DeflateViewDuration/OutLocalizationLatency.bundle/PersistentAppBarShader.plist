@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableLogarithm</key>
+	<string>defaultalert</string>
+	<key>protectedProgressBar</key>
+	<string>themetaskdepth</string>
+	<key>relationalDescriptor</key>
+	<string>renameAsset</string>
+	<key>resolverDelay</key>
+	<string>globalColumn</string>
+</dict>
+</plist>

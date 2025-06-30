@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerBrightness</key>
+	<string>canShowRoute</string>
+	<key>loadsingleton</key>
+	<string>resolveconsumer</string>
+	<key>rectparamfeedback</key>
+	<string>disconnectFrame</string>
+	<key>responseatcycle</key>
+	<string>canDisconnectLabel</string>
+	<key>retainedstampbound</key>
+	<string>tappableprogressbarkind</string>
+	<key>shouldSerializeSwift</key>
+	<string>unsortedPresenter</string>
+	<key>soundOrientation</key>
+	<string>materialexceptparameter</string>
+	<key>tensorSorter</key>
+	<string>unmountedBase</string>
+	<key>webEmitter</key>
+	<string>controllerHead</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianNode</key>
+	<string>accessibleChannel</string>
+	<key>discardedModule</key>
+	<string>immediateMaterializer</string>
+	<key>enabledTheme</key>
+	<string>imageSaturation</string>
+	<key>hierarchicalZone</key>
+	<string>integritydistance</string>
+	<key>imageFlags</key>
+	<string>parsechannel</string>
+	<key>shouldSubscribeCaption</key>
+	<string>joinerTag</string>
+	<key>shouldUpdateLoss</key>
+	<string>operationIndex</string>
+	<key>smartCluster</key>
+	<string>parsecubit</string>
+	<key>subtleProfile</key>
+	<string>thresholdResponse</string>
+	<key>symmetricModal</key>
+	<string>loopSingleton</string>
+</dict>
+</plist>

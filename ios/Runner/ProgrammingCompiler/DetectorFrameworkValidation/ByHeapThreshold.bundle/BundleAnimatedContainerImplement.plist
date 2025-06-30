@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventDepth</key>
+	<string>presenterBorder</string>
+	<key>largeContraction</key>
+	<string>sampleTension</string>
+	<key>masterprovider</key>
+	<string>scaffoldNumber</string>
+	<key>mediumPoint</key>
+	<string>measureBuilder</string>
+	<key>mobileLoop</key>
+	<string>paddingcompositecolor</string>
+	<key>optionHue</key>
+	<string>dialogsBorder</string>
+	<key>retainedCharacter</key>
+	<string>canNavigateRichText</string>
+	<key>sequentialMethod</key>
+	<string>rapidUnary</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heapAppearance</key>
+	<string>symmetricLog</string>
+	<key>largeTernary</key>
+	<string>tableScope</string>
+	<key>prevtexture</key>
+	<string>retainedFragment</string>
+	<key>sharedBuffer</key>
+	<string>nativeSink</string>
+	<key>zonelikestate</key>
+	<string>denseCurve</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantState</key>
+	<string>diversifiedChallenge</string>
+	<key>haschannels</key>
+	<string>mobileCosine</string>
+	<key>intermediateBinder</key>
+	<string>reusableMission</string>
+	<key>lastAllocator</key>
+	<string>futureContrast</string>
+	<key>pushgraph</key>
+	<string>canNavigateAccessory</string>
+	<key>shouldFinishCheckbox</key>
+	<string>canPushPlate</string>
+	<key>shouldStartStream</key>
+	<string>divideParticle</string>
+	<key>sortedTask</key>
+	<string>draggableCell</string>
+	<key>switchOffset</key>
+	<string>traversalVisibility</string>
+</dict>
+</plist>

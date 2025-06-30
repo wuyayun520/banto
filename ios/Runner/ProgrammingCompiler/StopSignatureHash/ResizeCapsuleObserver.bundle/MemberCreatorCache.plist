@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveDispatcher</key>
+	<string>notificationmetrics</string>
+	<key>composableproviderdepth</key>
+	<string>normFlags</string>
+	<key>expandedStyle</key>
+	<string>reconcileManager</string>
+	<key>fixedData</key>
+	<string>painterForm</string>
+	<key>inheritedBorder</key>
+	<string>shouldSubscribeChannels</string>
+	<key>mapperOffset</key>
+	<string>shouldDispatchArithmetic</string>
+	<key>mobileAwait</key>
+	<string>axisValidation</string>
+</dict>
+</plist>

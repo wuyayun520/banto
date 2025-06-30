@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalysttint</key>
+	<string>notificationFeedback</string>
+	<key>combinestateful</key>
+	<string>disabledSession</string>
+	<key>euclideanCupertino</key>
+	<string>shouldKeepThread</string>
+	<key>flexibleprojectborder</key>
+	<string>shouldHandleImage</string>
+	<key>permissivebuttonshape</key>
+	<string>skinResponse</string>
+	<key>quaternionDensity</key>
+	<string>multiTheme</string>
+	<key>shouldPushNorm</key>
+	<string>fixedBatch</string>
+	<key>tickerContrast</key>
+	<string>shouldInflateDocument</string>
+</dict>
+</plist>

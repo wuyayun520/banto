@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveStore</key>
+	<string>uniqueallocatordelay</string>
+	<key>disabledRouter</key>
+	<string>selectedprovider</string>
+	<key>inheritednavigator</key>
+	<string>subsequentRoute</string>
+	<key>injectoffset</key>
+	<string>mobileOrigin</string>
+	<key>playbackShape</key>
+	<string>shouldReplacePlate</string>
+	<key>shouldContinueBinary</key>
+	<string>buttonjobright</string>
+	<key>shouldMountedChecklist</key>
+	<string>meshVisible</string>
+	<key>shouldvalidatedescriptor</key>
+	<string>inactiverepositorysaturation</string>
+	<key>wrapsensor</key>
+	<string>temporaryAppBar</string>
+</dict>
+</plist>

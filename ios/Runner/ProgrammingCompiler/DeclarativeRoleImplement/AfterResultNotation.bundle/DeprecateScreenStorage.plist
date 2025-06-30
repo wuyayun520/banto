@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleResilience</key>
+	<string>spriteProcess</string>
+	<key>advancedNorm</key>
+	<string>eraseCompleter</string>
+	<key>cupertinoMerger</key>
+	<string>flexibleBuffer</string>
+	<key>easyPermutation</key>
+	<string>optimizerCycle</string>
+	<key>effectVisibility</key>
+	<string>comprehensiveDropdownButton</string>
+	<key>interpolationSaturation</key>
+	<string>threadstate</string>
+	<key>secondMargin</key>
+	<string>configurationHead</string>
+	<key>smallviewmomentum</key>
+	<string>activePlayback</string>
+</dict>
+</plist>

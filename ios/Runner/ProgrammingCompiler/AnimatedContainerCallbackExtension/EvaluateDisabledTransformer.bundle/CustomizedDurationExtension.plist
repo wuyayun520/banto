@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDialogs</key>
+	<string>mixinPreview</string>
+	<key>activatednorm</key>
+	<string>canCancelSwift</string>
+	<key>arithmeticSingleton</key>
+	<string>iterativePlate</string>
+	<key>integrationAppearance</key>
+	<string>animatedModel</string>
+	<key>publishoverlay</key>
+	<string>canUpdateAnimation</string>
+	<key>relationalContrast</key>
+	<string>unsortedScale</string>
+	<key>shouldParseUnary</key>
+	<string>fixedtouchlocation</string>
+</dict>
+</plist>

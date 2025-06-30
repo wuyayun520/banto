@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heroSaturation</key>
+	<string>lockError</string>
+	<key>litepageviewspeed</key>
+	<string>reductionTask</string>
+	<key>lockawait</key>
+	<string>deferredPageView</string>
+	<key>similarAnimatedContainer</key>
+	<string>shouldStartModal</string>
+	<key>textureOrientation</key>
+	<string>nativeStrength</string>
+</dict>
+</plist>

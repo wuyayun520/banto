@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainermomentum</key>
+	<string>playbackscroller</string>
+	<key>chapterleft</key>
+	<string>canNotifyPromise</string>
+	<key>errorbehavior</key>
+	<string>lossParam</string>
+	<key>immutableSink</key>
+	<string>streamleft</string>
+	<key>mediumActivity</key>
+	<string>delicateRouter</string>
+	<key>shouldEncodeCell</key>
+	<string>holdChapter</string>
+</dict>
+</plist>

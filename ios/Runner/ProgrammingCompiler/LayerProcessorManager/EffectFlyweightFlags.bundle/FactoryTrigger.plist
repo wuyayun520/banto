@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderInset</key>
+	<string>mapLayer</string>
+	<key>cacheShade</key>
+	<string>prismaticSprite</string>
+	<key>euclideanScroller</key>
+	<string>dynamicSymbol</string>
+	<key>gramaboutplatform</key>
+	<string>primaryCanvas</string>
+	<key>independentgridviewrate</key>
+	<string>semanticUnary</string>
+	<key>integerDelay</key>
+	<string>flexibleRemainder</string>
+	<key>isAlert</key>
+	<string>animateNotifier</string>
+	<key>pivotalunary</key>
+	<string>globalRole</string>
+	<key>shouldReplaceTechnique</key>
+	<string>modelAlignment</string>
+</dict>
+</plist>

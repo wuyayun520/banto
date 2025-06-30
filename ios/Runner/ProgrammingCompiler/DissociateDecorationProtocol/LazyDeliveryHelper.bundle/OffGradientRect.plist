@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegategroup</key>
+	<string>tabviewtexture</string>
+	<key>dialogsAppearance</key>
+	<string>canPaintFuture</string>
+	<key>hasspot</key>
+	<string>tweenStyle</string>
+	<key>otherinteractorstyle</key>
+	<string>permissiveScalability</string>
+	<key>persistentCell</key>
+	<string>backwardExponent</string>
+	<key>singletontierscale</key>
+	<string>retrieveInterface</string>
+</dict>
+</plist>

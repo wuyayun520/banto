@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterinset</key>
+	<string>pauseMomentum</string>
+	<key>compositionaltitlefeedback</key>
+	<string>ascentEdge</string>
+	<key>easyMobile</key>
+	<string>ignoredconsumer</string>
+	<key>lostPositioned</key>
+	<string>haschannels</string>
+	<key>missedposition</key>
+	<string>shouldDismissBase</string>
+	<key>normalCycle</key>
+	<string>shouldPresentSwift</string>
+	<key>profiledensity</key>
+	<string>zoneInterval</string>
+	<key>similarProjection</key>
+	<string>animateTouch</string>
+	<key>smartanchorflags</key>
+	<string>queuecoord</string>
+</dict>
+</plist>

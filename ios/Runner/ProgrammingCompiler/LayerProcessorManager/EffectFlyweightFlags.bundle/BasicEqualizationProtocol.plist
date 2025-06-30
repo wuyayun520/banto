@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetDelay</key>
+	<string>originalRadio</string>
+	<key>awaitbehavior</key>
+	<string>canSerializeResource</string>
+	<key>channelTheme</key>
+	<string>globalScreen</string>
+	<key>denseLoop</key>
+	<string>elasticWorkflow</string>
+	<key>loadunary</key>
+	<string>observeClipper</string>
+	<key>managercenter</key>
+	<string>protectedActivity</string>
+	<key>reconcilenavigator</key>
+	<string>shouldSerializeMultiplication</string>
+</dict>
+</plist>

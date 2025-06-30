@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyReceiver</key>
+	<string>normTheme</string>
+	<key>interactionFeedback</key>
+	<string>uniformReduction</string>
+	<key>shouldPushCupertino</key>
+	<string>prevBitrate</string>
+	<key>signResponse</key>
+	<string>shouldUpdatePlate</string>
+</dict>
+</plist>

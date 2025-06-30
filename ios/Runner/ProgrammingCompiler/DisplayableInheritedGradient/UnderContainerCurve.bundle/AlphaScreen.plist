@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableOption</key>
+	<string>customComponent</string>
+	<key>flexTag</key>
+	<string>handlerequest</string>
+	<key>robustAnimator</key>
+	<string>strengthrate</string>
+	<key>shouldTransitionCell</key>
+	<string>exitPopup</string>
+	<key>sophisticatedview</key>
+	<string>listenPet</string>
+	<key>statelessHandler</key>
+	<string>shouldProcessDocument</string>
+	<key>unmountedcapacities</key>
+	<string>implementaspectratio</string>
+</dict>
+</plist>

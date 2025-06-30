@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheinterval</key>
+	<string>requiredConfiguration</string>
+	<key>declarativeBuffer</key>
+	<string>interfaceamonginterpreter</string>
+	<key>deferredImage</key>
+	<string>cursorTransparency</string>
+	<key>mediadespitevariable</key>
+	<string>mutableConsumption</string>
+	<key>originalIntegrity</key>
+	<string>canParseTouch</string>
+	<key>resizableTitle</key>
+	<string>delicateConverter</string>
+	<key>shouldNotifyCache</key>
+	<string>restoreFrame</string>
+	<key>shouldSubscribeOverlay</key>
+	<string>navigateTransition</string>
+</dict>
+</plist>

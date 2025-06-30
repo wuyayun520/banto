@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityHead</key>
+	<string>eventDensity</string>
+	<key>channelFlags</key>
+	<string>quitEntity</string>
+	<key>distinctionTail</key>
+	<string>delegatePattern</string>
+	<key>responderAlignment</key>
+	<string>parseFrame</string>
+	<key>scrollableController</key>
+	<string>gramVisitor</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTriangles</key>
+	<string>setupView</string>
+	<key>awaitmatrix</key>
+	<string>pauseTheme</string>
+	<key>backwardAnalogy</key>
+	<string>architectureDepth</string>
+	<key>checkboxBound</key>
+	<string>canEndAxis</string>
+	<key>descriptionefficiency</key>
+	<string>shouldListenGem</string>
+	<key>localAspectRatio</key>
+	<string>canListenMovement</string>
+	<key>responderBottom</key>
+	<string>restartIcon</string>
+</dict>
+</plist>

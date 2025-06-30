@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorVisibility</key>
+	<string>cartesianInstruction</string>
+	<key>customizedevent</key>
+	<string>presentCheckbox</string>
+	<key>custompaintwidget</key>
+	<string>ignoredcomponent</string>
+	<key>framesize</key>
+	<string>shouldUnbindTouch</string>
+	<key>localRole</key>
+	<string>confidentialityTension</string>
+	<key>scopeInterval</key>
+	<string>cursorinsidememento</string>
+	<key>shouldNotifyHeap</key>
+	<string>autoElasticity</string>
+	<key>usedchartmomentum</key>
+	<string>monsterdespitenumber</string>
+</dict>
+</plist>

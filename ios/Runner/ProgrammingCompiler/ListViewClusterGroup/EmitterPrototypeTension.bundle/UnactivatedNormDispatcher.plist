@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedstore</key>
+	<string>cachePriority</string>
+	<key>bitrateInset</key>
+	<string>usageSystem</string>
+	<key>currentbutton</key>
+	<string>viewNumber</string>
+	<key>delegatetheme</key>
+	<string>shouldconnectscroll</string>
+	<key>disparatetimervisible</key>
+	<string>liteExponent</string>
+	<key>hyperbolicTransition</key>
+	<string>backwardreduction</string>
+	<key>interactiveConfidentiality</key>
+	<string>memberbloc</string>
+	<key>quaternionAcceleration</key>
+	<string>calculateInteractor</string>
+	<key>subpixelVelocity</key>
+	<string>statelessstreamfeedback</string>
+</dict>
+</plist>

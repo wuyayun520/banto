@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordioncompositionacceleration</key>
+	<string>canReplaceClipper</string>
+	<key>hierarchicalHandler</key>
+	<string>activeGroup</string>
+	<key>immutableAppBar</key>
+	<string>canTrainThread</string>
+	<key>reusableGridView</key>
+	<string>scrollInset</string>
+	<key>statefulCreator</key>
+	<string>createOptimizer</string>
+</dict>
+</plist>

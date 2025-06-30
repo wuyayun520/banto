@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedView</key>
+	<string>animateScene</string>
+	<key>euclideanDelivery</key>
+	<string>textureAppearance</string>
+	<key>extensiontween</key>
+	<string>emitState</string>
+	<key>immediateStream</key>
+	<string>shouldParsePlate</string>
+	<key>integerStatus</key>
+	<string>deprecateinterface</string>
+	<key>retainedSound</key>
+	<string>extensionDelay</string>
+	<key>shouldListenConvolution</key>
+	<string>radiusFlyweight</string>
+	<key>statefulContrast</key>
+	<string>flexibleAspectRatio</string>
+	<key>tappableRadius</key>
+	<string>numericalPermutation</string>
+</dict>
+</plist>

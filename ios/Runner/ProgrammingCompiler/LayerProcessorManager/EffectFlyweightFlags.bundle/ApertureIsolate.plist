@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computegraphic</key>
+	<string>findTicker</string>
+	<key>currentcube</key>
+	<string>shouldcontinuefragment</string>
+	<key>flexibleBloc</key>
+	<string>shouldRestartChallenge</string>
+	<key>mediumMaster</key>
+	<string>secondThroughput</string>
+	<key>nativeInjection</key>
+	<string>canUnmountedKernel</string>
+	<key>observerspacing</key>
+	<string>deferredCombiner</string>
+	<key>rectTop</key>
+	<string>shouldroutecatalyst</string>
+	<key>retainedCycle</key>
+	<string>shouldShowDimension</string>
+	<key>shouldInflatePageView</key>
+	<string>eventvisitorduration</string>
+</dict>
+</plist>
