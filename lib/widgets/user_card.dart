@@ -10,6 +10,7 @@ class UserCard extends StatefulWidget {
   final double width;
   final double height;
   final VoidCallback? onFavoriteChanged;
+  final Function(UserModel)? onCardTap;
 
   const UserCard({
     super.key,
@@ -17,6 +18,7 @@ class UserCard extends StatefulWidget {
     required this.width,
     required this.height,
     this.onFavoriteChanged,
+    this.onCardTap,
   });
 
   @override
@@ -146,12 +148,16 @@ class _UserCardState extends State<UserCard> with TickerProviderStateMixin {
   }
 
   void _onCardTap(BuildContext context) {
-    Navigator.push(
-      context,
-      MaterialPageRoute(
-        builder: (context) => UserDetailPage(user: widget.user),
-      ),
-    );
+    if (widget.onCardTap != null) {
+      widget.onCardTap!(widget.user);
+    } else {
+      Navigator.push(
+        context,
+        MaterialPageRoute(
+          builder: (context) => UserDetailPage(user: widget.user),
+        ),
+      );
+    }
   }
 
   @override

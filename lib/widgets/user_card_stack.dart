@@ -8,12 +8,14 @@ class UserCardStack extends StatefulWidget {
   final List<UserModel> users;
   final double width;
   final double height;
+  final Function(UserModel)? onCardTap;
 
   const UserCardStack({
     super.key,
     required this.users,
     required this.width,
     required this.height,
+    this.onCardTap,
   });
 
   @override
@@ -135,15 +137,6 @@ class _UserCardStackState extends State<UserCardStack>
     );
   }
 
-  void _onCardTap(UserModel user) {
-    Navigator.push(
-      context,
-      MaterialPageRoute(
-        builder: (context) => UserDetailPage(user: user),
-      ),
-    );
-  }
-
   @override
   Widget build(BuildContext context) {
     return SizedBox(
@@ -169,7 +162,6 @@ class _UserCardStackState extends State<UserCardStack>
                       left: (i - _currentIndex) * 8.0,
                       top: (i - _currentIndex) * 8.0,
                       child: GestureDetector(
-                        onTap: () => _onCardTap(widget.users[i]),
                         onPanEnd: (details) {
                           // 只有向右滑动且速度足够快时才触发
                           if (details.velocity.pixelsPerSecond.dx > 300) {
@@ -182,6 +174,7 @@ class _UserCardStackState extends State<UserCardStack>
                             user: widget.users[i],
                             width: widget.width,
                             height: widget.height,
+                            onCardTap: widget.onCardTap,
                             onFavoriteChanged: () {
                               // 收藏状态改变时的回调，这里可以添加额外的逻辑
                               print('Favorite status changed for user: ${widget.users[i].name}');

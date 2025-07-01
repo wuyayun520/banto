@@ -1,13 +1,17 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:convert';
 import 'dart:math';
 import '../../constants/app_constants.dart';
+import '../../constants/app_colors.dart';
 import '../../models/user_model.dart';
 import '../../widgets/user_card_stack.dart';
 import '../../widgets/top_options_bar.dart';
 import '../../widgets/user_list_view.dart';
 import '../../widgets/search_bar_widget.dart';
+import '../in_app_purchases_page.dart';
+import '../user_detail_page.dart';
 
 class Tab1Page extends StatefulWidget {
   const Tab1Page({super.key});
@@ -24,11 +28,302 @@ class _Tab1PageState extends State<Tab1Page> {
   bool _isLoading = true;
   int _selectedOptionIndex = 0;
   String _searchQuery = '';
+  int _goldCoins = 0;
+  Set<String> _viewedUsers = {};
+  static const int _viewCost = 6; // 查看一个用户消耗6个金币
 
   @override
   void initState() {
     super.initState();
     _loadUserData();
+    _loadGoldCoins();
+    _loadViewedUsers();
+  }
+
+  Future<void> _loadGoldCoins() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _goldCoins = prefs.getInt('petCoins') ?? 0;
+    });
+  }
+
+  Future<void> _saveGoldCoins(int amount) async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _goldCoins = amount;
+    });
+    await prefs.setInt('petCoins', _goldCoins);
+  }
+
+  Future<void> _loadViewedUsers() async {
+    final prefs = await SharedPreferences.getInstance();
+    final viewedList = prefs.getStringList('viewedUsers') ?? [];
+    setState(() {
+      _viewedUsers = viewedList.toSet();
+    });
+  }
+
+  Future<void> _saveViewedUsers() async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setStringList('viewedUsers', _viewedUsers.toList());
+  }
+
+  Future<bool> _checkAndConsumeCoins(UserModel user) async {
+    // 如果已经查看过这个用户，不需要消耗金币
+    if (_viewedUsers.contains(user.userId)) {
+      return true;
+    }
+
+    // 检查金币是否足够
+    if (_goldCoins < _viewCost) {
+      _showInsufficientCoinsDialog();
+      return false;
+    }
+
+    // 消耗金币并记录已查看用户
+    await _saveGoldCoins(_goldCoins - _viewCost);
+    _viewedUsers.add(user.userId);
+    await _saveViewedUsers();
+    
+    // 显示消耗金币提示
+    _showCoinsConsumedSnackBar();
+    
+    return true;
+  }
+
+  void _showInsufficientCoinsDialog() {
+    showDialog(
+      context: context,
+      barrierDismissible: false,
+      builder: (BuildContext context) {
+        return Dialog(
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(20),
+          ),
+          child: Container(
+            padding: const EdgeInsets.all(24),
+            decoration: BoxDecoration(
+              borderRadius: BorderRadius.circular(20),
+              gradient: LinearGradient(
+                begin: Alignment.topLeft,
+                end: Alignment.bottomRight,
+                colors: [
+                  Colors.white,
+                  AppColors.primary.withOpacity(0.05),
+                ],
+              ),
+            ),
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                // 图标
+                Container(
+                  width: 80,
+                  height: 80,
+                  decoration: BoxDecoration(
+                    gradient: AppColors.primaryGradient,
+                    shape: BoxShape.circle,
+                    boxShadow: [
+                      BoxShadow(
+                        color: AppColors.primary.withOpacity(0.3),
+                        blurRadius: 15,
+                        offset: const Offset(0, 6),
+                      ),
+                    ],
+                  ),
+                  child: const Icon(
+                    Icons.local_bar,
+                    color: Colors.white,
+                    size: 40,
+                  ),
+                ),
+                const SizedBox(height: 20),
+                
+                // 标题
+                const Text(
+                  'Insufficient Fragrance Coins',
+                  style: TextStyle(
+                    fontSize: 22,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.black87,
+                  ),
+                  textAlign: TextAlign.center,
+                ),
+                const SizedBox(height: 12),
+                
+                // 当前余额
+                Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                  decoration: BoxDecoration(
+                    color: AppColors.primary.withOpacity(0.1),
+                    borderRadius: BorderRadius.circular(12),
+                  ),
+                  child: Row(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      Icon(
+                        Icons.local_bar,
+                        color: AppColors.primary,
+                        size: 20,
+                      ),
+                      const SizedBox(width: 8),
+                      Text(
+                        'Current: $_goldCoins coins',
+                        style: TextStyle(
+                          fontSize: 16,
+                          fontWeight: FontWeight.w600,
+                          color: AppColors.primary,
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+                const SizedBox(height: 16),
+                
+                // 描述
+                Text(
+                  'You need $_viewCost fragrance coins to view this profile. Get more coins to unlock premium fragrance experiences!',
+                  style: TextStyle(
+                    fontSize: 16,
+                    color: Colors.grey[600],
+                    height: 1.5,
+                  ),
+                  textAlign: TextAlign.center,
+                ),
+                const SizedBox(height: 24),
+                
+                // 按钮
+                Row(
+                  children: [
+                    Expanded(
+                      child: TextButton(
+                        onPressed: () {
+                          Navigator.of(context).pop();
+                        },
+                        style: TextButton.styleFrom(
+                          padding: const EdgeInsets.symmetric(vertical: 12),
+                          shape: RoundedRectangleBorder(
+                            borderRadius: BorderRadius.circular(12),
+                          ),
+                        ),
+                        child: Text(
+                          'Cancel',
+                          style: TextStyle(
+                            fontSize: 16,
+                            fontWeight: FontWeight.w600,
+                            color: Colors.grey[600],
+                          ),
+                        ),
+                      ),
+                    ),
+                    const SizedBox(width: 12),
+                    Expanded(
+                      child: Container(
+                        decoration: BoxDecoration(
+                          gradient: AppColors.primaryGradient,
+                          borderRadius: BorderRadius.circular(12),
+                          boxShadow: [
+                            BoxShadow(
+                              color: AppColors.primary.withOpacity(0.3),
+                              blurRadius: 8,
+                              offset: const Offset(0, 4),
+                            ),
+                          ],
+                        ),
+                        child: Material(
+                          color: Colors.transparent,
+                          child: InkWell(
+                            onTap: () {
+                              Navigator.of(context).pop();
+                              Navigator.push(
+                                context,
+                                MaterialPageRoute(
+                                  builder: (context) => const InAppPurchasesPage(),
+                                ),
+                              ).then((_) {
+                                // 从内购页面返回后重新加载金币
+                                _loadGoldCoins();
+                              });
+                            },
+                            borderRadius: BorderRadius.circular(12),
+                            child: const Padding(
+                              padding: EdgeInsets.symmetric(vertical: 12),
+                              child: Text(
+                                'Get Coins',
+                                style: TextStyle(
+                                  fontSize: 16,
+                                  fontWeight: FontWeight.bold,
+                                  color: Colors.white,
+                                ),
+                                textAlign: TextAlign.center,
+                              ),
+                            ),
+                          ),
+                        ),
+                      ),
+                    ),
+                  ],
+                ),
+              ],
+            ),
+          ),
+        );
+      },
+    );
+  }
+
+  void _showCoinsConsumedSnackBar() {
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: Row(
+          children: [
+            Container(
+              width: 24,
+              height: 24,
+              decoration: BoxDecoration(
+                color: Colors.white.withOpacity(0.2),
+                shape: BoxShape.circle,
+              ),
+              child: const Icon(
+                Icons.local_bar,
+                color: Colors.white,
+                size: 16,
+              ),
+            ),
+            const SizedBox(width: 12),
+            Text(
+              'Consumed $_viewCost fragrance coins',
+              style: const TextStyle(
+                color: Colors.white,
+                fontSize: 15,
+                fontWeight: FontWeight.w500,
+              ),
+            ),
+          ],
+        ),
+        backgroundColor: AppColors.primary,
+        duration: const Duration(seconds: 2),
+        behavior: SnackBarBehavior.floating,
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+        margin: const EdgeInsets.all(16),
+      ),
+    );
+  }
+
+  Future<void> _onUserCardTap(UserModel user) async {
+    final canView = await _checkAndConsumeCoins(user);
+    if (canView) {
+      // 跳转到用户详情页面
+      Navigator.push(
+        context,
+        MaterialPageRoute(
+          builder: (context) => UserDetailPage(user: user),
+        ),
+      );
+      
+      // 触发震动反馈
+      HapticFeedback.lightImpact();
+    }
   }
 
   Future<void> _loadUserData() async {
@@ -187,6 +482,7 @@ class _Tab1PageState extends State<Tab1Page> {
                           users: _randomUsers,
                           width: cardWidth-40,
                           height: cardHeight-30,
+                          onCardTap: _onUserCardTap,
                         ),
                       ),
                     // 4个图片选项栏目
@@ -216,7 +512,10 @@ class _Tab1PageState extends State<Tab1Page> {
               ),
               // 用户列表展示区域
               if (!_isLoading)
-                UserListView(users: _filteredUsers),
+                UserListView(
+                  users: _filteredUsers,
+                  onUserTap: _onUserCardTap, // 传入金币检查回调
+                ),
               // 底部间距
               const SizedBox(height: 100),
             ],

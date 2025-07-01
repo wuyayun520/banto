@@ -4,7 +4,9 @@ import 'dart:convert';
 import 'package:video_player/video_player.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../../constants/app_constants.dart';
+import '../../constants/app_colors.dart';
 import '../post_detail_page.dart';
+import '../subscriptions_page.dart';
 
 class Tab2Page extends StatefulWidget {
   const Tab2Page({super.key});
@@ -18,12 +20,38 @@ class _Tab2PageState extends State<Tab2Page> {
   List<PostItem> visiblePosts = [];
   List<String> reportedPostIds = [];
   bool isLoading = true;
+  bool _isVip = false;
+  DateTime? _vipExpiry;
+  final ScrollController _scrollController = ScrollController();
+  bool _isDialogShowing = false;
 
   @override
   void initState() {
     super.initState();
     _loadReportedPosts();
     _loadPostData();
+    _loadVipStatus();
+  }
+
+  @override
+  void dispose() {
+    _scrollController.dispose();
+    super.dispose();
+  }
+
+  Future<void> _loadVipStatus() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _isVip = prefs.getBool('isVip') ?? false;
+      final expiryStr = prefs.getString('vipExpiry');
+      _vipExpiry = expiryStr != null ? DateTime.tryParse(expiryStr) : null;
+      
+      // 检查VIP是否过期
+      if (_isVip && _vipExpiry != null && _vipExpiry!.isBefore(DateTime.now())) {
+        _isVip = false;
+        prefs.setBool('isVip', false);
+      }
+    });
   }
 
   Future<void> _loadReportedPosts() async {
@@ -82,6 +110,179 @@ class _Tab2PageState extends State<Tab2Page> {
     });
   }
 
+  bool _onScrollNotification(ScrollNotification scrollNotification) {
+    // 如果弹窗正在显示，阻止所有滑动
+    if (_isDialogShowing) {
+      return true;
+    }
+    
+    if (scrollNotification is ScrollStartNotification) {
+      // 滑动开始时检查VIP状态
+      if (!_isVip) {
+        _showVipRequiredDialog();
+        return true; // 阻止滑动
+      }
+    }
+    return false; // 允许滑动继续
+  }
+
+  void _showVipRequiredDialog() {
+    if (_isDialogShowing) return; // 防止重复弹窗
+    
+    setState(() {
+      _isDialogShowing = true;
+    });
+    
+    showDialog(
+      context: context,
+      barrierDismissible: false,
+      barrierColor: Colors.black54, // 增强背景遮罩
+      builder: (BuildContext context) {
+        return PopScope(
+          canPop: false, // 禁止返回键关闭
+          child: AlertDialog(
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(20),
+            ),
+            title: Row(
+              children: [
+                Container(
+                  padding: const EdgeInsets.all(8),
+                  decoration: BoxDecoration(
+                    gradient: AppColors.primaryGradient,
+                    borderRadius: BorderRadius.circular(10),
+                  ),
+                  child: const Icon(
+                    Icons.local_bar,
+                    color: Colors.white,
+                    size: 24,
+                  ),
+                ),
+                const SizedBox(width: 12),
+                const Text(
+                  'Banto Premium',
+                  style: TextStyle(
+                    fontWeight: FontWeight.bold,
+                    fontSize: 20,
+                  ),
+                ),
+              ],
+            ),
+            content: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                const Text(
+                  'Unlock unlimited browsing with Banto Premium!',
+                  style: TextStyle(
+                    fontSize: 16,
+                    height: 1.4,
+                  ),
+                ),
+                const SizedBox(height: 16),
+                Container(
+                  padding: const EdgeInsets.all(16),
+                  decoration: BoxDecoration(
+                    color: AppColors.primary.withValues(alpha: 0.1),
+                    borderRadius: BorderRadius.circular(12),
+                  ),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Row(
+                        children: [
+                          Icon(
+                            Icons.check_circle,
+                            color: AppColors.primary,
+                            size: 18,
+                          ),
+                          const SizedBox(width: 8),
+                          const Text(
+                            'Unlimited Browse discovery',
+                            style: TextStyle(
+                              fontWeight: FontWeight.w600,
+                              fontSize: 14,
+                            ),
+                          ),
+                        ],
+                      ),
+                      const SizedBox(height: 8),
+                      Row(
+                        children: [
+                          Icon(
+                            Icons.check_circle,
+                            color: AppColors.primary,
+                            size: 18,
+                          ),
+                          const SizedBox(width: 8),
+                          const Text(
+                            'Ad-free experience',
+                            style: TextStyle(
+                              fontWeight: FontWeight.w600,
+                              fontSize: 14,
+                            ),
+                          ),
+                        ],
+                      ),
+                    ],
+                  ),
+                ),
+              ],
+            ),
+            actions: [
+              TextButton(
+                onPressed: () {
+                  Navigator.of(context).pop();
+                  setState(() {
+                    _isDialogShowing = false;
+                  });
+                },
+                child: Text(
+                  'Later',
+                  style: TextStyle(
+                    color: Colors.grey[600],
+                    fontSize: 16,
+                  ),
+                ),
+              ),
+              Container(
+                decoration: BoxDecoration(
+                  gradient: AppColors.primaryGradient,
+                  borderRadius: BorderRadius.circular(25),
+                ),
+                child: TextButton(
+                  onPressed: () {
+                    Navigator.of(context).pop();
+                    setState(() {
+                      _isDialogShowing = false;
+                    });
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => const SubscriptionsPage(),
+                      ),
+                    ).then((_) {
+                      // 用户从订阅页面返回后重新检查VIP状态
+                      _loadVipStatus();
+                    });
+                  },
+                  child: const Text(
+                    'Get Premium',
+                    style: TextStyle(
+                      color: Colors.white,
+                      fontSize: 16,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                ),
+              ),
+            ],
+          ),
+        );
+      },
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -98,62 +299,143 @@ class _Tab2PageState extends State<Tab2Page> {
               ),
             ),
           ),
-          // 滚动内容
-          SingleChildScrollView(
-            child: Column(
-              children: [
-                const SizedBox(height: 64),
-                // Discover文字图片
-                Padding(
-                  padding: const EdgeInsets.only(left: 24),
-                  child: Align(
-                    alignment: Alignment.centerLeft,
-                    child: Image.asset(
-                      'assets/images/banto_post_discover.png',
-                      height: 32,
-                      fit: BoxFit.contain,
-                    ),
-                  ),
-                ),
-                const SizedBox(height: 16),
-                // Banner图片
-                Padding(
-                  padding: const EdgeInsets.symmetric(horizontal: 12),
-                  child: Image.asset(
-                    'assets/images/banto_post_banner.png',
-                    height: 140,
-                    fit: BoxFit.scaleDown,
-                  ),
-                ),
-                // 帖子网格
-                if (isLoading)
-                  const Padding(
-                    padding: EdgeInsets.all(30),
-                    child: CircularProgressIndicator(),
-                  )
-                else
+          // 滚动内容 - 添加滑动监听
+          NotificationListener<ScrollNotification>(
+            onNotification: _onScrollNotification,
+            child: SingleChildScrollView(
+              controller: _scrollController,
+              child: Column(
+                children: [
+                  const SizedBox(height: 64),
+                  // Discover文字图片
                   Padding(
-                    padding: const EdgeInsets.symmetric(horizontal: 20),
-                    child: GridView.builder(
-                      shrinkWrap: true,
-                      physics: const NeverScrollableScrollPhysics(),
-                      gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-                        crossAxisCount: 2,
-                        crossAxisSpacing: 10,
-                        mainAxisSpacing: 10,
-                        childAspectRatio: 0.8,
+                    padding: const EdgeInsets.only(left: 24),
+                    child: Align(
+                      alignment: Alignment.centerLeft,
+                      child: Image.asset(
+                        'assets/images/banto_post_discover.png',
+                        height: 32,
+                        fit: BoxFit.contain,
                       ),
-                      itemCount: visiblePosts.length,
-                      itemBuilder: (context, index) {
-                        return PostCard(
-                          post: visiblePosts[index],
-                          onPostReported: _onPostReported,
-                        );
-                      },
                     ),
                   ),
-                const SizedBox(height: 80),
-              ],
+                  const SizedBox(height: 16),
+                  // Banner图片
+                  Padding(
+                    padding: const EdgeInsets.symmetric(horizontal: 12),
+                    child: Image.asset(
+                      'assets/images/banto_post_banner.png',
+                      height: 140,
+                      fit: BoxFit.scaleDown,
+                    ),
+                  ),
+                  // VIP状态提示 (如果不是VIP)
+                  if (!_isVip)
+                    Container(
+                      margin: const EdgeInsets.fromLTRB(20, 16, 20, 8),
+                      padding: const EdgeInsets.all(16),
+                      decoration: BoxDecoration(
+                        gradient: AppColors.primaryGradient,
+                        borderRadius: BorderRadius.circular(16),
+                        boxShadow: [
+                          BoxShadow(
+                            color: AppColors.primary.withValues(alpha: 0.3),
+                            blurRadius: 10,
+                            offset: const Offset(0, 4),
+                          ),
+                        ],
+                      ),
+                      child: Row(
+                        children: [
+                          const Icon(
+                            Icons.local_bar,
+                            color: Colors.white,
+                            size: 28,
+                          ),
+                          const SizedBox(width: 12),
+                          const Expanded(
+                            child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                Text(
+                                  'Upgrade to Premium',
+                                  style: TextStyle(
+                                    color: Colors.white,
+                                    fontWeight: FontWeight.bold,
+                                    fontSize: 16,
+                                  ),
+                                ),
+                                SizedBox(height: 4),
+                                Text(
+                                  'Unlock unlimited browsing & more',
+                                  style: TextStyle(
+                                    color: Colors.white,
+                                    fontSize: 12,
+                                  ),
+                                ),
+                              ],
+                            ),
+                          ),
+                          GestureDetector(
+                            onTap: () {
+                              Navigator.push(
+                                context,
+                                MaterialPageRoute(
+                                  builder: (context) => const SubscriptionsPage(),
+                                ),
+                              ).then((_) {
+                                _loadVipStatus();
+                              });
+                            },
+                            child: Container(
+                              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                              decoration: BoxDecoration(
+                                color: Colors.white,
+                                borderRadius: BorderRadius.circular(20),
+                              ),
+                              child: Text(
+                                'Get Premium',
+                                style: TextStyle(
+                                  color: AppColors.primary,
+                                  fontWeight: FontWeight.bold,
+                                  fontSize: 12,
+                                ),
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                  // 帖子网格
+                  if (isLoading)
+                    const Padding(
+                      padding: EdgeInsets.all(30),
+                      child: CircularProgressIndicator(),
+                    )
+                  else
+                    Padding(
+                      padding: const EdgeInsets.symmetric(horizontal: 10),
+                      child: GridView.builder(
+                        shrinkWrap: true,
+                        physics: const NeverScrollableScrollPhysics(),
+                        gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+                          crossAxisCount: 2,
+                          crossAxisSpacing: 10,
+                          mainAxisSpacing: 10,
+                          childAspectRatio: 0.8,
+                        ),
+                        itemCount: visiblePosts.length,
+                        itemBuilder: (context, index) {
+                          return PostCard(
+                            post: visiblePosts[index],
+                            onPostReported: _onPostReported,
+                          );
+                        },
+                      ),
+                    ),
+                  const SizedBox(height: 80),
+                ],
+              ),
             ),
           ),
         ],
@@ -216,7 +498,7 @@ class PostCard extends StatelessWidget {
         borderRadius: BorderRadius.circular(16),
         boxShadow: [
           BoxShadow(
-            color: Colors.black.withOpacity(0.1),
+            color: Colors.black.withValues(alpha: 0.1),
             blurRadius: 8,
             offset: const Offset(0, 2),
           ),
@@ -265,7 +547,7 @@ class PostCard extends StatelessWidget {
                           child: Container(
                             padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
                             decoration: BoxDecoration(
-                              color: Colors.black.withOpacity(0.6),
+                              color: Colors.black.withValues(alpha: 0.6),
                               borderRadius: BorderRadius.circular(12),
                             ),
                             child: Row(
@@ -524,7 +806,7 @@ class _VideoThumbnailState extends State<VideoThumbnail> {
                 end: Alignment.bottomCenter,
                 colors: [
                   Colors.transparent,
-                  Colors.black.withOpacity(0.3),
+                  Colors.black.withValues(alpha: 0.3),
                 ],
               ),
             ),

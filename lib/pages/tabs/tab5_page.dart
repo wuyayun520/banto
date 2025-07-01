@@ -10,6 +10,8 @@ import '../about_us_page.dart';
 import '../privacy_policy_page.dart';
 import '../terms_of_service_page.dart';
 import '../my_collection_page.dart';
+import '../subscriptions_page.dart';
+import '../in_app_purchases_page.dart';
 
 class Tab5Page extends StatefulWidget {
   const Tab5Page({super.key});
@@ -304,267 +306,339 @@ class _Tab5PageState extends State<Tab5Page> with AutomaticKeepAliveClientMixin 
                     valueColor: AlwaysStoppedAnimation<Color>(Color(0xFF7DE8FD)),
                   ),
                 )
-              : Column(
-                  children: [
-                    // 顶部个人资料卡片
-                    Container(
-                      margin: const EdgeInsets.all(20),
-                      padding: const EdgeInsets.all(20),
-                      decoration: BoxDecoration(
-                        color: Colors.white.withOpacity(0.95),
-                        borderRadius: BorderRadius.circular(20),
-                        boxShadow: [
-                          BoxShadow(
-                            color: Colors.black.withOpacity(0.1),
-                            blurRadius: 20,
-                            offset: const Offset(0, 8),
-                          ),
-                        ],
-                      ),
-                      child: Row(
-                        children: [
-                          // 头像
-                          GestureDetector(
-                            onTap: _isEditing ? _pickImageFromGallery : null,
-                            child: Container(
-                              decoration: BoxDecoration(
-                                shape: BoxShape.circle,
-                                boxShadow: [
-                                  BoxShadow(
-                                    color: AppColors.primary.withOpacity(0.2),
-                                    blurRadius: 12,
-                                    offset: const Offset(0, 4),
-                                  ),
-                                ],
-                              ),
-                              child: Stack(
-                                children: [
-                                  Container(
-                                    width: 80,
-                                    height: 80,
-                                    decoration: BoxDecoration(
-                                      shape: BoxShape.circle,
-                                      border: Border.all(
-                                        color: AppColors.primary.withOpacity(0.3),
-                                        width: 2,
-                                      ),
-                                    ),
-                                    child: ClipOval(
-                                      child: _buildAvatarImage(),
-                                    ),
-                                  ),
-                                  if (_isEditing)
-                                    Positioned(
-                                      bottom: 0,
-                                      right: 0,
-                                      child: Container(
-                                        width: 24,
-                                        height: 24,
-                                        decoration: BoxDecoration(
-                                          gradient: AppColors.primaryGradient,
-                                          shape: BoxShape.circle,
-                                          border: Border.all(
-                                            color: Colors.white,
-                                            width: 2,
-                                          ),
-                                        ),
-                                        child: const Icon(
-                                          Icons.camera_alt_rounded,
-                                          color: Colors.white,
-                                          size: 12,
-                                        ),
-                                      ),
-                                    ),
-                                ],
-                              ),
-                            ),
-                          ),
-                          const SizedBox(width: 20),
-                          // 名称和签名
-                          Expanded(
-                            child: Column(
-                              crossAxisAlignment: CrossAxisAlignment.start,
-                              children: [
-                                // 名称
-                                _isEditing
-                                    ? TextField(
-                                        controller: _nameController,
-                                        style: const TextStyle(
-                                          fontSize: 24,
-                                          fontWeight: FontWeight.bold,
-                                          color: Colors.black87,
-                                        ),
-                                        decoration: const InputDecoration(
-                                          border: UnderlineInputBorder(),
-                                          isDense: true,
-                                          contentPadding: EdgeInsets.symmetric(vertical: 4),
-                                        ),
-                                        maxLength: 30,
-                                        buildCounter: (context, {required currentLength, required isFocused, maxLength}) => null,
-                                      )
-                                    : Text(
-                                        _userProfile?.name ?? 'Darlene Beats',
-                                        style: const TextStyle(
-                                          fontSize: 24,
-                                          fontWeight: FontWeight.bold,
-                                          color: Colors.black87,
-                                        ),
-                                      ),
-                                const SizedBox(height: 8),
-                                // 签名
-                                _isEditing
-                                    ? TextField(
-                                        controller: _signatureController,
-                                        style: TextStyle(
-                                          fontSize: 16,
-                                          color: Colors.grey[600],
-                                        ),
-                                        decoration: const InputDecoration(
-                                          border: UnderlineInputBorder(),
-                                          isDense: true,
-                                          contentPadding: EdgeInsets.symmetric(vertical: 4),
-                                        ),
-                                        maxLength: 100,
-                                        maxLines: 2,
-                                        buildCounter: (context, {required currentLength, required isFocused, maxLength}) => null,
-                                      )
-                                    : Text(
-                                        _userProfile?.signature ?? 'An ordinary perfume collector',
-                                        style: TextStyle(
-                                          fontSize: 16,
-                                          color: Colors.grey[600],
-                                        ),
-                                      ),
-                              ],
-                            ),
-                          ),
-                          // 编辑按钮
-                          IconButton(
-                            onPressed: _toggleEdit,
-                            icon: Icon(
-                              _isEditing ? Icons.close : Icons.edit,
-                              color: AppColors.primary,
-                              size: 24,
-                            ),
-                          ),
-                        ],
-                      ),
-                    ),
-                    // 编辑模式下的保存/取消按钮
-                    if (_isEditing)
+              : SingleChildScrollView(
+                  child: Column(
+                    children: [
+                      // 顶部个人资料卡片
                       Container(
-                        margin: const EdgeInsets.symmetric(horizontal: 20),
+                        margin: const EdgeInsets.all(20),
+                        padding: const EdgeInsets.all(20),
+                        decoration: BoxDecoration(
+                          color: Colors.white.withOpacity(0.95),
+                          borderRadius: BorderRadius.circular(20),
+                          boxShadow: [
+                            BoxShadow(
+                              color: Colors.black.withOpacity(0.1),
+                              blurRadius: 20,
+                              offset: const Offset(0, 8),
+                            ),
+                          ],
+                        ),
                         child: Row(
                           children: [
-                            Expanded(
+                            // 头像
+                            GestureDetector(
+                              onTap: _isEditing ? _pickImageFromGallery : null,
                               child: Container(
-                                height: 48,
                                 decoration: BoxDecoration(
-                                  color: Colors.grey[300],
-                                  borderRadius: BorderRadius.circular(24),
-                                ),
-                                child: Material(
-                                  color: Colors.transparent,
-                                  child: InkWell(
-                                    onTap: _cancelEdit,
-                                    borderRadius: BorderRadius.circular(24),
-                                    child: const Center(
-                                      child: Text(
-                                        'Cancel',
-                                        style: TextStyle(
-                                          color: Colors.black54,
-                                          fontSize: 16,
-                                          fontWeight: FontWeight.w600,
-                                        ),
-                                      ),
-                                    ),
-                                  ),
-                                ),
-                              ),
-                            ),
-                            const SizedBox(width: 16),
-                            Expanded(
-                              child: Container(
-                                height: 48,
-                                decoration: BoxDecoration(
-                                  gradient: AppColors.primaryGradient,
-                                  borderRadius: BorderRadius.circular(24),
+                                  shape: BoxShape.circle,
                                   boxShadow: [
                                     BoxShadow(
-                                      color: AppColors.primary.withOpacity(0.4),
-                                      blurRadius: 8,
+                                      color: AppColors.primary.withOpacity(0.2),
+                                      blurRadius: 12,
                                       offset: const Offset(0, 4),
                                     ),
                                   ],
                                 ),
-                                child: Material(
-                                  color: Colors.transparent,
-                                  child: InkWell(
-                                    onTap: _saveUserProfile,
-                                    borderRadius: BorderRadius.circular(24),
-                                    child: const Center(
-                                      child: Text(
-                                        'Save',
-                                        style: TextStyle(
-                                          color: Colors.white,
-                                          fontSize: 16,
-                                          fontWeight: FontWeight.w600,
+                                child: Stack(
+                                  children: [
+                                    Container(
+                                      width: 80,
+                                      height: 80,
+                                      decoration: BoxDecoration(
+                                        shape: BoxShape.circle,
+                                        border: Border.all(
+                                          color: AppColors.primary.withOpacity(0.3),
+                                          width: 2,
                                         ),
                                       ),
+                                      child: ClipOval(
+                                        child: _buildAvatarImage(),
+                                      ),
                                     ),
-                                  ),
+                                    if (_isEditing)
+                                      Positioned(
+                                        bottom: 0,
+                                        right: 0,
+                                        child: Container(
+                                          width: 24,
+                                          height: 24,
+                                          decoration: BoxDecoration(
+                                            gradient: AppColors.primaryGradient,
+                                            shape: BoxShape.circle,
+                                            border: Border.all(
+                                              color: Colors.white,
+                                              width: 2,
+                                            ),
+                                          ),
+                                          child: const Icon(
+                                            Icons.camera_alt_rounded,
+                                            color: Colors.white,
+                                            size: 12,
+                                          ),
+                                        ),
+                                      ),
+                                  ],
                                 ),
+                              ),
+                            ),
+                            const SizedBox(width: 20),
+                            // 名称和签名
+                            Expanded(
+                              child: Column(
+                                crossAxisAlignment: CrossAxisAlignment.start,
+                                children: [
+                                  // 名称
+                                  _isEditing
+                                      ? TextField(
+                                          controller: _nameController,
+                                          style: const TextStyle(
+                                            fontSize: 24,
+                                            fontWeight: FontWeight.bold,
+                                            color: Colors.black87,
+                                          ),
+                                          decoration: const InputDecoration(
+                                            border: UnderlineInputBorder(),
+                                            isDense: true,
+                                            contentPadding: EdgeInsets.symmetric(vertical: 4),
+                                          ),
+                                          maxLength: 30,
+                                          buildCounter: (context, {required currentLength, required isFocused, maxLength}) => null,
+                                        )
+                                      : Text(
+                                          _userProfile?.name ?? 'Darlene Beats',
+                                          style: const TextStyle(
+                                            fontSize: 24,
+                                            fontWeight: FontWeight.bold,
+                                            color: Colors.black87,
+                                          ),
+                                        ),
+                                  const SizedBox(height: 8),
+                                  // 签名
+                                  _isEditing
+                                      ? TextField(
+                                          controller: _signatureController,
+                                          style: TextStyle(
+                                            fontSize: 16,
+                                            color: Colors.grey[600],
+                                          ),
+                                          decoration: const InputDecoration(
+                                            border: UnderlineInputBorder(),
+                                            isDense: true,
+                                            contentPadding: EdgeInsets.symmetric(vertical: 4),
+                                          ),
+                                          maxLength: 100,
+                                          maxLines: 2,
+                                          buildCounter: (context, {required currentLength, required isFocused, maxLength}) => null,
+                                        )
+                                      : Text(
+                                          _userProfile?.signature ?? 'An ordinary perfume collector',
+                                          style: TextStyle(
+                                            fontSize: 16,
+                                            color: Colors.grey[600],
+                                          ),
+                                        ),
+                                ],
+                              ),
+                            ),
+                            // 编辑按钮
+                            IconButton(
+                              onPressed: _toggleEdit,
+                              icon: Icon(
+                                _isEditing ? Icons.close : Icons.edit,
+                                color: AppColors.primary,
+                                size: 24,
                               ),
                             ),
                           ],
                         ),
                       ),
-                    // 选项列表
-                    const SizedBox(height: 32),
-                    Container(
-                      margin: const EdgeInsets.symmetric(horizontal: 20),
-                      child: Column(
-                        children: [
-                          _buildOptionItem(
-                            icon: Icons.info_outline,
-                            title: 'About Us',
-                            onTap: () => Navigator.push(
-                              context,
-                              MaterialPageRoute(builder: (context) => const AboutUsPage()),
+                      // VIP图片
+                      Container(
+                        margin: const EdgeInsets.symmetric(horizontal: 20),
+                        child: Material(
+                          color: Colors.transparent,
+                          child: InkWell(
+                            onTap: () {
+                              HapticFeedback.lightImpact();
+                              Navigator.push(
+                                context,
+                                MaterialPageRoute(
+                                  builder: (context) => const SubscriptionsPage(),
+                                ),
+                              );
+                            },
+                            borderRadius: BorderRadius.circular(16),
+                            child: Container(
+                              width: double.infinity,
+                              height: 140,
+                              decoration: BoxDecoration(
+                                borderRadius: BorderRadius.circular(16),
+                                boxShadow: [
+                                  BoxShadow(
+                                    color: Colors.black.withOpacity(0.1),
+                                    blurRadius: 15,
+                                    offset: const Offset(0, 6),
+                                  ),
+                                ],
+                              ),
+                              child: ClipRRect(
+                                borderRadius: BorderRadius.circular(16),
+                                child: Image.asset(
+                                  'assets/images/banto_me_vip.png',
+                                  fit: BoxFit.cover,
+                                  errorBuilder: (context, error, stackTrace) {
+                                    return Container(
+                                      decoration: BoxDecoration(
+                                        color: Colors.grey[300],
+                                        borderRadius: BorderRadius.circular(16),
+                                      ),
+                                      child: Center(
+                                        child: Icon(
+                                          Icons.image_not_supported,
+                                          color: Colors.grey[500],
+                                          size: 32,
+                                        ),
+                                      ),
+                                    );
+                                  },
+                                ),
+                              ),
                             ),
                           ),
-                          const SizedBox(height: 12),
-                          _buildOptionItem(
-                            icon: Icons.privacy_tip_outlined,
-                            title: 'Privacy Policy',
-                            onTap: () => Navigator.push(
-                              context,
-                              MaterialPageRoute(builder: (context) => const PrivacyPolicyPage()),
-                            ),
-                          ),
-                          const SizedBox(height: 12),
-                          _buildOptionItem(
-                            icon: Icons.description_outlined,
-                            title: 'Terms of Service',
-                            onTap: () => Navigator.push(
-                              context,
-                              MaterialPageRoute(builder: (context) => const TermsOfServicePage()),
-                            ),
-                          ),
-                          const SizedBox(height: 12),
-                          _buildOptionItem(
-                            icon: Icons.favorite_outlined,
-                            title: 'My Collection',
-                            onTap: () => Navigator.push(
-                              context,
-                              MaterialPageRoute(builder: (context) => const MyCollectionPage()),
-                            ),
-                          ),
-                        ],
+                        ),
                       ),
-                    ),
-                    const Spacer(),
-                  ],
+                      const SizedBox(height: 16),
+                      // 编辑模式下的保存/取消按钮
+                      if (_isEditing)
+                        Container(
+                          margin: const EdgeInsets.symmetric(horizontal: 20),
+                          child: Row(
+                            children: [
+                              Expanded(
+                                child: Container(
+                                  height: 48,
+                                  decoration: BoxDecoration(
+                                    color: Colors.grey[300],
+                                    borderRadius: BorderRadius.circular(24),
+                                  ),
+                                  child: Material(
+                                    color: Colors.transparent,
+                                    child: InkWell(
+                                      onTap: _cancelEdit,
+                                      borderRadius: BorderRadius.circular(24),
+                                      child: const Center(
+                                        child: Text(
+                                          'Cancel',
+                                          style: TextStyle(
+                                            color: Colors.black54,
+                                            fontSize: 16,
+                                            fontWeight: FontWeight.w600,
+                                          ),
+                                        ),
+                                      ),
+                                    ),
+                                  ),
+                                ),
+                              ),
+                              const SizedBox(width: 16),
+                              Expanded(
+                                child: Container(
+                                  height: 48,
+                                  decoration: BoxDecoration(
+                                    gradient: AppColors.primaryGradient,
+                                    borderRadius: BorderRadius.circular(24),
+                                    boxShadow: [
+                                      BoxShadow(
+                                        color: AppColors.primary.withOpacity(0.4),
+                                        blurRadius: 8,
+                                        offset: const Offset(0, 4),
+                                      ),
+                                    ],
+                                  ),
+                                  child: Material(
+                                    color: Colors.transparent,
+                                    child: InkWell(
+                                      onTap: _saveUserProfile,
+                                      borderRadius: BorderRadius.circular(24),
+                                      child: const Center(
+                                        child: Text(
+                                          'Save',
+                                          style: TextStyle(
+                                            color: Colors.white,
+                                            fontSize: 16,
+                                            fontWeight: FontWeight.w600,
+                                          ),
+                                        ),
+                                      ),
+                                    ),
+                                  ),
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                      // 选项列表
+                      const SizedBox(height: 32),
+                      Container(
+                        margin: const EdgeInsets.symmetric(horizontal: 20),
+                        child: Column(
+                          children: [
+                            _buildOptionItem(
+                              icon: Icons.account_balance_wallet_outlined,
+                              title: 'Balance',
+                              onTap: () {
+                                // 导航到金币购买页面
+                                Navigator.push(
+                                  context,
+                                  MaterialPageRoute(
+                                    builder: (context) => const InAppPurchasesPage(),
+                                  ),
+                                );
+                              },
+                            ),
+                            const SizedBox(height: 12),
+                            _buildOptionItem(
+                              icon: Icons.info_outline,
+                              title: 'About Us',
+                              onTap: () => Navigator.push(
+                                context,
+                                MaterialPageRoute(builder: (context) => const AboutUsPage()),
+                              ),
+                            ),
+                            const SizedBox(height: 12),
+                            _buildOptionItem(
+                              icon: Icons.privacy_tip_outlined,
+                              title: 'Privacy Policy',
+                              onTap: () => Navigator.push(
+                                context,
+                                MaterialPageRoute(builder: (context) => const PrivacyPolicyPage()),
+                              ),
+                            ),
+                            const SizedBox(height: 12),
+                            _buildOptionItem(
+                              icon: Icons.description_outlined,
+                              title: 'Terms of Service',
+                              onTap: () => Navigator.push(
+                                context,
+                                MaterialPageRoute(builder: (context) => const TermsOfServicePage()),
+                              ),
+                            ),
+                            const SizedBox(height: 12),
+                            _buildOptionItem(
+                              icon: Icons.favorite_outlined,
+                              title: 'My Collection',
+                              onTap: () => Navigator.push(
+                                context,
+                                MaterialPageRoute(builder: (context) => const MyCollectionPage()),
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                      const SizedBox(height: 40),
+                    ],
+                  ),
                 ),
         ),
       ),
