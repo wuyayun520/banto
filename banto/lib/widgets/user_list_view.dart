@@ -7,10 +7,12 @@ import '../services/favorites_service.dart';
 
 class UserListView extends StatefulWidget {
   final List<UserModel> users;
+  final Function(UserModel)? onUserTap;
   
   const UserListView({
     super.key,
     required this.users,
+    this.onUserTap,
   });
 
   @override
@@ -116,12 +118,16 @@ class _UserListViewState extends State<UserListView> {
   }
 
   void _onUserTap(BuildContext context, UserModel user) {
-    Navigator.push(
-      context,
-      MaterialPageRoute(
-        builder: (context) => UserDetailPage(user: user),
-      ),
-    );
+    if (widget.onUserTap != null) {
+      widget.onUserTap!(user);
+    } else {
+      Navigator.push(
+        context,
+        MaterialPageRoute(
+          builder: (context) => UserDetailPage(user: user),
+        ),
+      );
+    }
   }
 
   @override
