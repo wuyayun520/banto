@@ -152,6 +152,10 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
     });
     final prefs = await SharedPreferences.getInstance();
     await prefs.setBool('isVip', true);
+    
+    // 保存订阅类型
+    await prefs.setString('vipSubscriptionType', purchaseDetails.productID);
+    
     // 计算有效期
     DateTime now = DateTime.now();
     DateTime expiry;
@@ -236,6 +240,8 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
         _Privilege(icon: Icons.smart_toy, text: 'Unlimited consultation with AI advisors'),
         _Privilege(icon: Icons.camera_alt, text: 'Unlimited modification of user avatars'),
         _Privilege(icon: Icons.favorite, text: 'Like and collect your favorite users infinitely'),
+        _Privilege(icon: Icons.download, text: 'Save others\' work pictures without limit'),
+        _Privilege(icon: Icons.mic, text: 'Chatting can send voice messages'),
         _Privilege(icon: Icons.block, text: 'Ad-free experience'),
       ],
       // Monthly
@@ -244,6 +250,11 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
         _Privilege(icon: Icons.smart_toy, text: 'Unlimited consultation with AI advisors'),
         _Privilege(icon: Icons.camera_alt, text: 'Unlimited modification of user avatars'),
         _Privilege(icon: Icons.favorite, text: 'Like and collect your favorite users infinitely'),
+        _Privilege(icon: Icons.download, text: 'Save others\' work pictures without limit'),
+        _Privilege(icon: Icons.video_library, text: 'Save others\' video works without limit'),
+        _Privilege(icon: Icons.mic, text: 'Chatting can send voice messages'),
+        _Privilege(icon: Icons.videocam, text: 'Chatting can involve making video calls'),
+        _Privilege(icon: Icons.comment, text: 'Post a dynamic comment and share your thoughts'),
         _Privilege(icon: Icons.block, text: 'Ad-free experience'),
       ],
     ];
