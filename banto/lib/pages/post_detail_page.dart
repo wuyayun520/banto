@@ -4,8 +4,12 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:flutter/services.dart';
 import 'dart:convert';
 import 'dart:math';
+import 'package:image_gallery_saver/image_gallery_saver.dart';
+import 'package:permission_handler/permission_handler.dart';
 import '../constants/app_constants.dart';
+import '../constants/app_colors.dart';
 import '../services/follow_service.dart';
+import '../pages/subscriptions_page.dart';
 import 'tabs/tab2_page.dart';
 
 // 评论数据模型
@@ -67,6 +71,11 @@ class _PostDetailPageState extends State<PostDetailPage> {
   bool _isLiked = false;
   bool _isLikeLoading = false;
   int _likeCount = 0;
+  // VIP status variables
+  bool _isVip = false;
+  bool _isMonthlyVip = false;
+  DateTime? _vipExpiry;
+  bool _isCommentDialogShowing = false;
 
   // Perfume-related comment templates
   static const List<String> _perfumeComments = [
@@ -130,6 +139,7 @@ class _PostDetailPageState extends State<PostDetailPage> {
     _loadComments();
     _checkFollowStatus();
     _loadLikeStatus();
+    _loadVipStatus();
   }
 
   @override
@@ -217,7 +227,203 @@ class _PostDetailPageState extends State<PostDetailPage> {
     });
   }
 
+  Future<void> _loadVipStatus() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _isVip = prefs.getBool('isVip') ?? false;
+      final expiryStr = prefs.getString('vipExpiry');
+      _vipExpiry = expiryStr != null ? DateTime.tryParse(expiryStr) : null;
+      
+      // Check if VIP is expired
+      if (_isVip && _vipExpiry != null && _vipExpiry!.isBefore(DateTime.now())) {
+        _isVip = false;
+        prefs.setBool('isVip', false);
+      }
+      
+      // Check if it's monthly subscription VIP
+      final subscriptionType = prefs.getString('vipSubscriptionType');
+      _isMonthlyVip = _isVip && subscriptionType == 'BantoMonthVIP';
+    });
+  }
+
+  void _showCommentVipRequiredDialog() {
+    if (_isCommentDialogShowing) return;
+    
+    setState(() {
+      _isCommentDialogShowing = true;
+    });
+    
+    showDialog(
+      context: context,
+      barrierDismissible: false,
+      barrierColor: Colors.black54,
+      builder: (BuildContext context) {
+        return PopScope(
+          canPop: false,
+          child: AlertDialog(
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(20),
+            ),
+            title: Row(
+              children: [
+                Container(
+                  padding: const EdgeInsets.all(8),
+                  decoration: BoxDecoration(
+                    gradient: AppColors.primaryGradient,
+                    borderRadius: BorderRadius.circular(10),
+                  ),
+                  child: const Icon(
+                    Icons.comment,
+                    color: Colors.white,
+                    size: 24,
+                  ),
+                ),
+                const SizedBox(width: 12),
+                const Expanded(
+                  child: Text(
+                    'Monthly Premium Required',
+                    style: TextStyle(
+                      fontWeight: FontWeight.bold,
+                      fontSize: 18,
+                    ),
+                  ),
+                ),
+              ],
+            ),
+            content: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.center,
+              children: [
+                const SizedBox(height: 16),
+                Container(
+                  width: 80,
+                  height: 80,
+                  decoration: BoxDecoration(
+                    gradient: AppColors.primaryGradient,
+                    shape: BoxShape.circle,
+                    boxShadow: [
+                      BoxShadow(
+                        color: AppColors.primary.withValues(alpha: 0.3),
+                        blurRadius: 15,
+                        offset: const Offset(0, 6),
+                      ),
+                    ],
+                  ),
+                  child: const Icon(
+                    Icons.local_bar,
+                    color: Colors.white,
+                    size: 40,
+                  ),
+                ),
+                const SizedBox(height: 20),
+                Text(
+                  _isVip && !_isMonthlyVip 
+                    ? 'Commenting requires Monthly Premium subscription!'
+                    : 'Unlock commenting with Monthly Premium!',
+                  style: const TextStyle(
+                    fontSize: 16,
+                    height: 1.4,
+                  ),
+                  textAlign: TextAlign.center,
+                ),
+                const SizedBox(height: 12),
+                Text(
+                  'Share your thoughts and engage with the community using Monthly Premium.',
+                  style: TextStyle(
+                    fontSize: 14,
+                    color: Colors.grey[600],
+                    height: 1.3,
+                  ),
+                  textAlign: TextAlign.center,
+                ),
+                const SizedBox(height: 16),
+                Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                  decoration: BoxDecoration(
+                    gradient: AppColors.primaryGradient,
+                    borderRadius: BorderRadius.circular(20),
+                    boxShadow: [
+                      BoxShadow(
+                        color: AppColors.primary.withValues(alpha: 0.2),
+                        blurRadius: 8,
+                        offset: const Offset(0, 2),
+                      ),
+                    ],
+                  ),
+                  child: const Row(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      Text(
+                        'Monthly Premium \$49.99',
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 14,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ],
+            ),
+            actions: [
+              TextButton(
+                onPressed: () {
+                  Navigator.of(context).pop();
+                  setState(() {
+                    _isCommentDialogShowing = false;
+                  });
+                },
+                child: Text(
+                  'Later',
+                  style: TextStyle(
+                    color: Colors.grey[600],
+                    fontSize: 16,
+                  ),
+                ),
+              ),
+              Container(
+                decoration: BoxDecoration(
+                  gradient: AppColors.primaryGradient,
+                  borderRadius: BorderRadius.circular(25),
+                ),
+                child: TextButton(
+                  onPressed: () {
+                    Navigator.of(context).pop();
+                    setState(() {
+                      _isCommentDialogShowing = false;
+                    });
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => const SubscriptionsPage(initialIndex: 1),
+                      ),
+                    );
+                  },
+                  child: const Text(
+                    'Get Monthly Premium',
+                    style: TextStyle(
+                      color: Colors.white,
+                      fontSize: 16,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                ),
+              ),
+            ],
+          ),
+        );
+      },
+    );
+  }
+
   Future<void> _postComment() async {
+    // Check monthly VIP status first
+    if (!_isMonthlyVip) {
+      _showCommentVipRequiredDialog();
+      return;
+    }
+
     final commentText = _commentController.text.trim();
     if (commentText.isEmpty) return;
 
@@ -253,13 +459,37 @@ class _PostDetailPageState extends State<PostDetailPage> {
         _commentController.clear();
       });
 
+      // Haptic feedback
+      HapticFeedback.lightImpact();
+
       // Show success message
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(
-            content: Text('Comment posted successfully!'),
+          SnackBar(
+            content: Row(
+              children: [
+                Container(
+                  padding: const EdgeInsets.all(4),
+                  decoration: const BoxDecoration(
+                    color: Colors.white,
+                    shape: BoxShape.circle,
+                  ),
+                  child: const Icon(
+                    Icons.check,
+                    color: Colors.green,
+                    size: 16,
+                  ),
+                ),
+                const SizedBox(width: 12),
+                const Text('Comment posted successfully!'),
+              ],
+            ),
             backgroundColor: Colors.green,
-            duration: Duration(seconds: 2),
+            duration: const Duration(seconds: 2),
+            behavior: SnackBarBehavior.floating,
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(10),
+            ),
           ),
         );
       }
@@ -268,10 +498,31 @@ class _PostDetailPageState extends State<PostDetailPage> {
       // Show error message
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(
-            content: Text('Failed to post comment. Please try again.'),
+          SnackBar(
+            content: Row(
+              children: [
+                Container(
+                  padding: const EdgeInsets.all(4),
+                  decoration: const BoxDecoration(
+                    color: Colors.white,
+                    shape: BoxShape.circle,
+                  ),
+                  child: const Icon(
+                    Icons.error_outline,
+                    color: Colors.red,
+                    size: 16,
+                  ),
+                ),
+                const SizedBox(width: 12),
+                const Text('Failed to post comment. Please try again.'),
+              ],
+            ),
             backgroundColor: Colors.red,
-            duration: Duration(seconds: 2),
+            duration: const Duration(seconds: 2),
+            behavior: SnackBarBehavior.floating,
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(10),
+            ),
           ),
         );
       }
@@ -952,38 +1203,105 @@ class _PostDetailPageState extends State<PostDetailPage> {
                       child: Container(
                         padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
                         decoration: BoxDecoration(
-                          color: Colors.grey[100],
+                          color: _isMonthlyVip ? Colors.grey[100] : Colors.grey[200],
                           borderRadius: BorderRadius.circular(25),
+                          border: _isMonthlyVip ? null : Border.all(
+                            color: Colors.grey[400]!,
+                            width: 1,
+                          ),
                         ),
-                        child: TextField(
-                          controller: _commentController,
-                          decoration: const InputDecoration(
-                            hintText: 'Say something...',
-                            hintStyle: TextStyle(
-                              color: Colors.grey,
-                              fontSize: 16,
+                        child: Row(
+                          children: [
+                            if (!_isMonthlyVip) ...[
+                              Container(
+                                padding: const EdgeInsets.all(4),
+                                decoration: BoxDecoration(
+                                  gradient: AppColors.primaryGradient,
+                                  shape: BoxShape.circle,
+                                ),
+                                child: const Icon(
+                                  Icons.lock,
+                                  color: Colors.white,
+                                  size: 12,
+                                ),
+                              ),
+                              const SizedBox(width: 8),
+                            ],
+                            Expanded(
+                              child: TextField(
+                                controller: _commentController,
+                                enabled: _isMonthlyVip,
+                                decoration: InputDecoration(
+                                  hintText: _isMonthlyVip 
+                                      ? 'Say something...'
+                                      : 'Monthly Premium required to comment',
+                                  hintStyle: TextStyle(
+                                    color: _isMonthlyVip ? Colors.grey : Colors.grey[500],
+                                    fontSize: 16,
+                                  ),
+                                  border: InputBorder.none,
+                                  contentPadding: EdgeInsets.zero,
+                                ),
+                                style: TextStyle(
+                                  fontSize: 16,
+                                  color: _isMonthlyVip ? Colors.black : Colors.grey[400],
+                                ),
+                                maxLines: null,
+                                textInputAction: TextInputAction.send,
+                                onSubmitted: _isMonthlyVip ? (_) => _postComment() : null,
+                                onTap: !_isMonthlyVip ? () => _showCommentVipRequiredDialog() : null,
+                              ),
                             ),
-                            border: InputBorder.none,
-                            contentPadding: EdgeInsets.zero,
-                          ),
-                          style: const TextStyle(
-                            fontSize: 16,
-                            color: Colors.black,
-                          ),
-                          maxLines: null,
-                          textInputAction: TextInputAction.send,
-                          onSubmitted: (_) => _postComment(),
+                            if (_isMonthlyVip) ...[
+                              const SizedBox(width: 8),
+                              Container(
+                                padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                                decoration: BoxDecoration(
+                                  gradient: AppColors.primaryGradient,
+                                  borderRadius: BorderRadius.circular(12),
+                                ),
+                                child: const Row(
+                                  mainAxisSize: MainAxisSize.min,
+                                  children: [
+                                    Icon(
+                                      Icons.local_bar,
+                                      color: Colors.white,
+                                      size: 12,
+                                    ),
+                                    SizedBox(width: 4),
+                                    Text(
+                                      'Monthly',
+                                      style: TextStyle(
+                                        color: Colors.white,
+                                        fontSize: 10,
+                                        fontWeight: FontWeight.bold,
+                                      ),
+                                    ),
+                                  ],
+                                ),
+                              ),
+                            ],
+                          ],
                         ),
                       ),
                     ),
                     const SizedBox(width: 12),
                     GestureDetector(
-                      onTap: _isPostingComment ? null : _postComment,
+                      onTap: _isMonthlyVip && !_isPostingComment ? _postComment : (!_isMonthlyVip ? _showCommentVipRequiredDialog : null),
                       child: Container(
                         padding: const EdgeInsets.all(12),
                         decoration: BoxDecoration(
-                          color: _isPostingComment ? Colors.grey : Colors.blue,
+                          color: _isMonthlyVip 
+                              ? (_isPostingComment ? Colors.grey : Colors.blue)
+                              : Colors.grey[400],
                           shape: BoxShape.circle,
+                          boxShadow: _isMonthlyVip ? [
+                            BoxShadow(
+                              color: Colors.blue.withValues(alpha: 0.3),
+                              blurRadius: 6,
+                              offset: const Offset(0, 2),
+                            ),
+                          ] : null,
                         ),
                         child: _isPostingComment
                             ? const SizedBox(
@@ -994,10 +1312,33 @@ class _PostDetailPageState extends State<PostDetailPage> {
                                   valueColor: AlwaysStoppedAnimation<Color>(Colors.white),
                                 ),
                               )
-                            : const Icon(
-                                Icons.send,
-                                color: Colors.white,
-                                size: 20,
+                            : Stack(
+                                alignment: Alignment.center,
+                                children: [
+                                  Icon(
+                                    Icons.send,
+                                    color: Colors.white,
+                                    size: 20,
+                                  ),
+                                  if (!_isMonthlyVip)
+                                    Positioned(
+                                      top: -2,
+                                      right: -2,
+                                      child: Container(
+                                        width: 12,
+                                        height: 12,
+                                        decoration: BoxDecoration(
+                                          gradient: AppColors.primaryGradient,
+                                          shape: BoxShape.circle,
+                                        ),
+                                        child: const Icon(
+                                          Icons.lock,
+                                          color: Colors.white,
+                                          size: 8,
+                                        ),
+                                      ),
+                                    ),
+                                ],
                               ),
                       ),
                     ),
@@ -1320,12 +1661,15 @@ class _PostDetailPageState extends State<PostDetailPage> {
               children: [
                 Row(
                   children: [
-                    Text(
-                      userName,
-                      style: const TextStyle(
-                        fontSize: 14,
-                        fontWeight: FontWeight.w600,
-                        color: Colors.black,
+                    Expanded(
+                      child: Text(
+                        userName,
+                        style: const TextStyle(
+                          fontSize: 14,
+                          fontWeight: FontWeight.w600,
+                          color: Colors.black,
+                        ),
+                        overflow: TextOverflow.ellipsis,
                       ),
                     ),
                     const SizedBox(width: 8),
@@ -1431,12 +1775,18 @@ class _VideoPlayerPageState extends State<VideoPlayerPage> {
   bool _isInitialized = false;
   bool _hasError = false;
   bool _showControls = true;
+  bool _isVip = false;
+  bool _isMonthlyVip = false;
+  DateTime? _vipExpiry;
+  bool _isDialogShowing = false;
+  bool _isDownloading = false;
 
   @override
   void initState() {
     super.initState();
     _initializeVideo();
     _hideControlsAfterDelay();
+    _loadVipStatus();
   }
 
   void _hideControlsAfterDelay() {
@@ -1557,6 +1907,108 @@ class _VideoPlayerPageState extends State<VideoPlayerPage> {
                   ),
                 ),
               ),
+            // 下载按钮
+            if (_showControls)
+              Positioned(
+                top: 16,
+                right: 16,
+                child: GestureDetector(
+                  onTap: _isDownloading ? null : _downloadVideo,
+                  child: Container(
+                    width: 40,
+                    height: 40,
+                    decoration: BoxDecoration(
+                      color: _isMonthlyVip 
+                          ? AppColors.primary.withValues(alpha: 0.9)
+                          : Colors.black.withValues(alpha: 0.5),
+                      shape: BoxShape.circle,
+                      boxShadow: _isMonthlyVip ? [
+                        BoxShadow(
+                          color: AppColors.primary.withValues(alpha: 0.3),
+                          blurRadius: 8,
+                          offset: const Offset(0, 2),
+                        ),
+                      ] : null,
+                    ),
+                    child: _isDownloading
+                        ? const SizedBox(
+                            width: 20,
+                            height: 20,
+                            child: CircularProgressIndicator(
+                              strokeWidth: 2,
+                              valueColor: AlwaysStoppedAnimation<Color>(Colors.white),
+                            ),
+                          )
+                        : Stack(
+                            alignment: Alignment.center,
+                            children: [
+                              const Icon(
+                                Icons.download,
+                                color: Colors.white,
+                                size: 20,
+                              ),
+                              if (!_isMonthlyVip)
+                                Positioned(
+                                  top: -2,
+                                  right: -2,
+                                  child: Container(
+                                    width: 12,
+                                    height: 12,
+                                    decoration: BoxDecoration(
+                                      gradient: AppColors.primaryGradient,
+                                      shape: BoxShape.circle,
+                                    ),
+                                    child: const Icon(
+                                      Icons.lock,
+                                      color: Colors.white,
+                                      size: 8,
+                                    ),
+                                  ),
+                                ),
+                            ],
+                          ),
+                  ),
+                ),
+              ),
+            // VIP状态指示器
+            if (_showControls && _isMonthlyVip)
+              Positioned(
+                top: 70,
+                right: 16,
+                child: Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                  decoration: BoxDecoration(
+                    gradient: AppColors.primaryGradient,
+                    borderRadius: BorderRadius.circular(12),
+                    boxShadow: [
+                      BoxShadow(
+                        color: AppColors.primary.withValues(alpha: 0.3),
+                        blurRadius: 6,
+                        offset: const Offset(0, 2),
+                      ),
+                    ],
+                  ),
+                  child: const Row(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      Icon(
+                        Icons.local_bar,
+                        color: Colors.white,
+                        size: 12,
+                      ),
+                      SizedBox(width: 4),
+                      Text(
+                        'Monthly',
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 10,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
             // 播放/暂停按钮
             if (_showControls && _isInitialized)
               Positioned.fill(
@@ -1652,6 +2104,284 @@ class _VideoPlayerPageState extends State<VideoPlayerPage> {
               ),
           ],
         ),
+      ),
+    );
+  }
+
+  Future<void> _loadVipStatus() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _isVip = prefs.getBool('isVip') ?? false;
+      final expiryStr = prefs.getString('vipExpiry');
+      _vipExpiry = expiryStr != null ? DateTime.tryParse(expiryStr) : null;
+      
+      // Check if VIP is expired
+      if (_isVip && _vipExpiry != null && _vipExpiry!.isBefore(DateTime.now())) {
+        _isVip = false;
+        prefs.setBool('isVip', false);
+      }
+      
+      // Check if it's monthly subscription VIP
+      final subscriptionType = prefs.getString('vipSubscriptionType');
+      _isMonthlyVip = _isVip && subscriptionType == 'BantoMonthVIP';
+    });
+  }
+
+  void _showVipRequiredDialog() {
+    if (_isDialogShowing) return;
+    
+    setState(() {
+      _isDialogShowing = true;
+    });
+    
+    showDialog(
+      context: context,
+      barrierDismissible: false,
+      barrierColor: Colors.black54,
+      builder: (BuildContext context) {
+        return PopScope(
+          canPop: false,
+          child: AlertDialog(
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(20),
+            ),
+            title: Row(
+              children: [
+                Container(
+                  padding: const EdgeInsets.all(8),
+                  decoration: BoxDecoration(
+                    gradient: AppColors.primaryGradient,
+                    borderRadius: BorderRadius.circular(10),
+                  ),
+                  child: const Icon(
+                    Icons.videocam,
+                    color: Colors.white,
+                    size: 24,
+                  ),
+                ),
+                const SizedBox(width: 12),
+                const Expanded(
+                  child: Text(
+                    'Monthly Premium Required',
+                    style: TextStyle(
+                      fontWeight: FontWeight.bold,
+                      fontSize: 18,
+                    ),
+                  ),
+                ),
+              ],
+            ),
+            content: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.center,
+              children: [
+                const SizedBox(height: 16),
+                Container(
+                  width: 80,
+                  height: 80,
+                  decoration: BoxDecoration(
+                    gradient: AppColors.primaryGradient,
+                    shape: BoxShape.circle,
+                    boxShadow: [
+                      BoxShadow(
+                        color: AppColors.primary.withValues(alpha: 0.3),
+                        blurRadius: 15,
+                        offset: const Offset(0, 6),
+                      ),
+                    ],
+                  ),
+                  child: const Icon(
+                    Icons.local_bar,
+                    color: Colors.white,
+                    size: 40,
+                  ),
+                ),
+                const SizedBox(height: 20),
+                Text(
+                  _isVip && !_isMonthlyVip 
+                    ? 'Video download requires Monthly Premium subscription!'
+                    : 'Unlock video download with Monthly Premium!',
+                  style: const TextStyle(
+                    fontSize: 16,
+                    height: 1.4,
+                  ),
+                  textAlign: TextAlign.center,
+                ),
+                const SizedBox(height: 12),
+                Text(
+                  'Save your favorite fragrance videos and access all Monthly Premium features.',
+                  style: TextStyle(
+                    fontSize: 14,
+                    color: Colors.grey[600],
+                    height: 1.3,
+                  ),
+                  textAlign: TextAlign.center,
+                ),
+                const SizedBox(height: 16),
+                Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                  decoration: BoxDecoration(
+                    gradient: AppColors.primaryGradient,
+                    borderRadius: BorderRadius.circular(20),
+                    boxShadow: [
+                      BoxShadow(
+                        color: AppColors.primary.withValues(alpha: 0.2),
+                        blurRadius: 8,
+                        offset: const Offset(0, 2),
+                      ),
+                    ],
+                  ),
+                  child: const Row(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      Text(
+                        'Monthly Premium \$49.99',
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 14,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ],
+            ),
+            actions: [
+              TextButton(
+                onPressed: () {
+                  Navigator.of(context).pop();
+                  setState(() {
+                    _isDialogShowing = false;
+                  });
+                },
+                child: Text(
+                  'Later',
+                  style: TextStyle(
+                    color: Colors.grey[600],
+                    fontSize: 16,
+                  ),
+                ),
+              ),
+              Container(
+                decoration: BoxDecoration(
+                  gradient: AppColors.primaryGradient,
+                  borderRadius: BorderRadius.circular(25),
+                ),
+                child: TextButton(
+                  onPressed: () {
+                    Navigator.of(context).pop();
+                    setState(() {
+                      _isDialogShowing = false;
+                    });
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => const SubscriptionsPage(initialIndex: 1),
+                      ),
+                    ).then((_) {
+                      _loadVipStatus();
+                    });
+                  },
+                  child: const Text(
+                    'Get Monthly Premium',
+                    style: TextStyle(
+                      color: Colors.white,
+                      fontSize: 16,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                ),
+              ),
+            ],
+          ),
+        );
+      },
+    );
+  }
+
+  Future<void> _downloadVideo() async {
+    if (!_isMonthlyVip) {
+      _showVipRequiredDialog();
+      return;
+    }
+
+    if (_isDownloading) return;
+
+    setState(() {
+      _isDownloading = true;
+    });
+
+    try {
+      // 请求存储权限
+      PermissionStatus status = await Permission.photos.request();
+      
+      if (!status.isGranted) {
+        _showSnackBar('Storage permission is required to save videos', Colors.red);
+        setState(() {
+          _isDownloading = false;
+        });
+        return;
+      }
+
+      // 保存视频到相册
+      final result = await ImageGallerySaver.saveFile(
+        widget.videoPath,
+        name: "Banto_Video_${DateTime.now().millisecondsSinceEpoch}",
+      );
+
+      if (result['isSuccess'] == true) {
+        _showSnackBar('Video saved to gallery successfully!', Colors.green);
+        HapticFeedback.lightImpact();
+      } else {
+        _showSnackBar('Failed to save video', Colors.red);
+      }
+    } catch (e) {
+      print('Error saving video: $e');
+      _showSnackBar('Failed to save video: $e', Colors.red);
+    } finally {
+      setState(() {
+        _isDownloading = false;
+      });
+    }
+  }
+
+  void _showSnackBar(String message, Color backgroundColor) {
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: Row(
+          children: [
+            Container(
+              width: 24,
+              height: 24,
+              decoration: BoxDecoration(
+                color: Colors.white.withValues(alpha: 0.2),
+                shape: BoxShape.circle,
+              ),
+              child: Icon(
+                backgroundColor == Colors.green ? Icons.check : Icons.error_outline,
+                color: Colors.white,
+                size: 16,
+              ),
+            ),
+            const SizedBox(width: 12),
+            Expanded(
+              child: Text(
+                message,
+                style: const TextStyle(
+                  color: Colors.white,
+                  fontSize: 15,
+                  fontWeight: FontWeight.w500,
+                ),
+              ),
+            ),
+          ],
+        ),
+        backgroundColor: backgroundColor,
+        duration: const Duration(seconds: 3),
+        behavior: SnackBarBehavior.floating,
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+        margin: const EdgeInsets.all(16),
       ),
     );
   }
@@ -1821,18 +2551,303 @@ class ImagePreviewDialog extends StatefulWidget {
 class _ImagePreviewDialogState extends State<ImagePreviewDialog> {
   late PageController _pageController;
   late int _currentIndex;
+  bool _isVip = false;
+  DateTime? _vipExpiry;
+  bool _isDialogShowing = false;
+  bool _isDownloading = false;
 
   @override
   void initState() {
     super.initState();
     _currentIndex = widget.initialIndex;
     _pageController = PageController(initialPage: widget.initialIndex);
+    _loadVipStatus();
   }
 
   @override
   void dispose() {
     _pageController.dispose();
     super.dispose();
+  }
+
+  Future<void> _loadVipStatus() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _isVip = prefs.getBool('isVip') ?? false;
+      final expiryStr = prefs.getString('vipExpiry');
+      _vipExpiry = expiryStr != null ? DateTime.tryParse(expiryStr) : null;
+      
+      // Check if VIP is expired
+      if (_isVip && _vipExpiry != null && _vipExpiry!.isBefore(DateTime.now())) {
+        _isVip = false;
+        prefs.setBool('isVip', false);
+      }
+    });
+  }
+
+  void _showVipRequiredDialog() {
+    if (_isDialogShowing) return;
+    
+    setState(() {
+      _isDialogShowing = true;
+    });
+    
+    showDialog(
+      context: context,
+      barrierDismissible: false,
+      barrierColor: Colors.black54,
+      builder: (BuildContext context) {
+        return PopScope(
+          canPop: false,
+          child: AlertDialog(
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(20),
+            ),
+            title: Row(
+              children: [
+                Container(
+                  padding: const EdgeInsets.all(8),
+                  decoration: BoxDecoration(
+                    gradient: AppColors.primaryGradient,
+                    borderRadius: BorderRadius.circular(10),
+                  ),
+                  child: const Icon(
+                    Icons.download,
+                    color: Colors.white,
+                    size: 24,
+                  ),
+                ),
+                const SizedBox(width: 12),
+                const Expanded(
+                  child: Text(
+                    'Banto Premium',
+                    style: TextStyle(
+                      fontWeight: FontWeight.bold,
+                      fontSize: 20,
+                    ),
+                  ),
+                ),
+              ],
+            ),
+            content: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.center,
+              children: [
+                const SizedBox(height: 16),
+                Container(
+                  width: 80,
+                  height: 80,
+                  decoration: BoxDecoration(
+                    gradient: AppColors.primaryGradient,
+                    shape: BoxShape.circle,
+                    boxShadow: [
+                      BoxShadow(
+                        color: AppColors.primary.withValues(alpha: 0.3),
+                        blurRadius: 15,
+                        offset: const Offset(0, 6),
+                      ),
+                    ],
+                  ),
+                  child: const Icon(
+                    Icons.local_bar,
+                    color: Colors.white,
+                    size: 40,
+                  ),
+                ),
+                const SizedBox(height: 20),
+                const Text(
+                  'Unlock image download with Banto Premium!',
+                  style: TextStyle(
+                    fontSize: 16,
+                    height: 1.4,
+                  ),
+                  textAlign: TextAlign.center,
+                ),
+                const SizedBox(height: 12),
+                Text(
+                  'Save your favorite fragrance images and access all premium features.',
+                  style: TextStyle(
+                    fontSize: 14,
+                    color: Colors.grey[600],
+                    height: 1.3,
+                  ),
+                  textAlign: TextAlign.center,
+                ),
+                const SizedBox(height: 16),
+                Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                  decoration: BoxDecoration(
+                    gradient: AppColors.primaryGradient,
+                    borderRadius: BorderRadius.circular(20),
+                    boxShadow: [
+                      BoxShadow(
+                        color: AppColors.primary.withValues(alpha: 0.2),
+                        blurRadius: 8,
+                        offset: const Offset(0, 2),
+                      ),
+                    ],
+                  ),
+                  child: const Row(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      Text(
+                        'Starting at \$12.99/week',
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 14,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ],
+            ),
+            actions: [
+              TextButton(
+                onPressed: () {
+                  Navigator.of(context).pop();
+                  setState(() {
+                    _isDialogShowing = false;
+                  });
+                },
+                child: Text(
+                  'Later',
+                  style: TextStyle(
+                    color: Colors.grey[600],
+                    fontSize: 16,
+                  ),
+                ),
+              ),
+              Container(
+                decoration: BoxDecoration(
+                  gradient: AppColors.primaryGradient,
+                  borderRadius: BorderRadius.circular(25),
+                ),
+                child: TextButton(
+                  onPressed: () {
+                    Navigator.of(context).pop();
+                    setState(() {
+                      _isDialogShowing = false;
+                    });
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => const SubscriptionsPage(),
+                      ),
+                    ).then((_) {
+                      _loadVipStatus();
+                    });
+                  },
+                  child: const Text(
+                    'Get Premium',
+                    style: TextStyle(
+                      color: Colors.white,
+                      fontSize: 16,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                ),
+              ),
+            ],
+          ),
+        );
+      },
+    );
+  }
+
+  Future<void> _downloadImage() async {
+    if (!_isVip) {
+      _showVipRequiredDialog();
+      return;
+    }
+
+    if (_isDownloading) return;
+
+    setState(() {
+      _isDownloading = true;
+    });
+
+    try {
+      // 请求存储权限
+      PermissionStatus status = await Permission.photos.request();
+      
+      if (!status.isGranted) {
+        _showSnackBar('Storage permission is required to save images', Colors.red);
+        setState(() {
+          _isDownloading = false;
+        });
+        return;
+      }
+
+      // 获取当前图片路径
+      String currentImagePath = widget.allImages[_currentIndex];
+      
+      // 读取资源图片
+      final ByteData data = await rootBundle.load(currentImagePath);
+      final List<int> bytes = data.buffer.asUint8List();
+      
+      // 保存图片到相册
+      final result = await ImageGallerySaver.saveImage(
+        Uint8List.fromList(bytes),
+        quality: 100,
+        name: "Banto_${DateTime.now().millisecondsSinceEpoch}",
+      );
+
+      if (result['isSuccess'] == true) {
+        _showSnackBar('Image saved to gallery successfully!', Colors.green);
+        HapticFeedback.lightImpact();
+      } else {
+        _showSnackBar('Failed to save image', Colors.red);
+      }
+    } catch (e) {
+      print('Error saving image: $e');
+      _showSnackBar('Failed to save image: $e', Colors.red);
+    } finally {
+      setState(() {
+        _isDownloading = false;
+      });
+    }
+  }
+
+  void _showSnackBar(String message, Color backgroundColor) {
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: Row(
+          children: [
+            Container(
+              width: 24,
+              height: 24,
+              decoration: BoxDecoration(
+                color: Colors.white.withValues(alpha: 0.2),
+                shape: BoxShape.circle,
+              ),
+              child: Icon(
+                backgroundColor == Colors.green ? Icons.check : Icons.error_outline,
+                color: Colors.white,
+                size: 16,
+              ),
+            ),
+            const SizedBox(width: 12),
+            Expanded(
+              child: Text(
+                message,
+                style: const TextStyle(
+                  color: Colors.white,
+                  fontSize: 15,
+                  fontWeight: FontWeight.w500,
+                ),
+              ),
+            ),
+          ],
+        ),
+        backgroundColor: backgroundColor,
+        duration: const Duration(seconds: 3),
+        behavior: SnackBarBehavior.floating,
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+        margin: const EdgeInsets.all(16),
+      ),
+    );
   }
 
   @override
@@ -1843,7 +2858,7 @@ class _ImagePreviewDialogState extends State<ImagePreviewDialog> {
       child: Container(
         width: double.infinity,
         height: double.infinity,
-        color: Colors.black.withOpacity(0.9),
+        color: Colors.black.withValues(alpha: 0.9),
         child: Stack(
           children: [
             Center(
@@ -1884,9 +2899,10 @@ class _ImagePreviewDialogState extends State<ImagePreviewDialog> {
                 ),
               ),
             ),
+            // 关闭按钮
             Positioned(
               top: 50,
-              right: 20,
+              left: 20,
               child: GestureDetector(
                 onTap: () => Navigator.pop(context),
                 child: Container(
@@ -1904,6 +2920,69 @@ class _ImagePreviewDialogState extends State<ImagePreviewDialog> {
                 ),
               ),
             ),
+            // 下载按钮
+            Positioned(
+              top: 50,
+              right: 20,
+              child: GestureDetector(
+                onTap: _isDownloading ? null : _downloadImage,
+                child: Container(
+                  width: 40,
+                  height: 40,
+                  decoration: BoxDecoration(
+                    color: _isVip 
+                        ? AppColors.primary.withValues(alpha: 0.9)
+                        : Colors.black.withValues(alpha: 0.5),
+                    shape: BoxShape.circle,
+                    boxShadow: _isVip ? [
+                      BoxShadow(
+                        color: AppColors.primary.withValues(alpha: 0.3),
+                        blurRadius: 8,
+                        offset: const Offset(0, 2),
+                      ),
+                    ] : null,
+                  ),
+                  child: _isDownloading
+                      ? const SizedBox(
+                          width: 20,
+                          height: 20,
+                          child: CircularProgressIndicator(
+                            strokeWidth: 2,
+                            valueColor: AlwaysStoppedAnimation<Color>(Colors.white),
+                          ),
+                        )
+                      : Stack(
+                          alignment: Alignment.center,
+                          children: [
+                            Icon(
+                              Icons.download,
+                              color: Colors.white,
+                              size: 20,
+                            ),
+                            if (!_isVip)
+                              Positioned(
+                                top: -2,
+                                right: -2,
+                                child: Container(
+                                  width: 12,
+                                  height: 12,
+                                  decoration: BoxDecoration(
+                                    gradient: AppColors.primaryGradient,
+                                    shape: BoxShape.circle,
+                                  ),
+                                  child: const Icon(
+                                    Icons.lock,
+                                    color: Colors.white,
+                                    size: 8,
+                                  ),
+                                ),
+                              ),
+                          ],
+                        ),
+                ),
+              ),
+            ),
+            // 图片指示器
             if (widget.allImages.length > 1)
               Positioned(
                 bottom: 50,
@@ -1920,10 +2999,56 @@ class _ImagePreviewDialogState extends State<ImagePreviewDialog> {
                       decoration: BoxDecoration(
                         shape: BoxShape.circle,
                         color: index == _currentIndex
-                            ? Colors.white
-                            : Colors.white.withOpacity(0.5),
+                            ? AppColors.primary
+                            : Colors.white.withValues(alpha: 0.5),
+                        boxShadow: index == _currentIndex ? [
+                          BoxShadow(
+                            color: AppColors.primary.withValues(alpha: 0.3),
+                            blurRadius: 4,
+                            offset: const Offset(0, 1),
+                          ),
+                        ] : null,
                       ),
                     ),
+                  ),
+                ),
+              ),
+            // VIP状态指示器（底部左侧）
+            if (_isVip)
+              Positioned(
+                bottom: 100,
+                left: 20,
+                child: Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                  decoration: BoxDecoration(
+                    gradient: AppColors.primaryGradient,
+                    borderRadius: BorderRadius.circular(20),
+                    boxShadow: [
+                      BoxShadow(
+                        color: AppColors.primary.withValues(alpha: 0.3),
+                        blurRadius: 8,
+                        offset: const Offset(0, 2),
+                      ),
+                    ],
+                  ),
+                  child: Row(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      const Icon(
+                        Icons.local_bar,
+                        color: Colors.white,
+                        size: 16,
+                      ),
+                      const SizedBox(width: 6),
+                      const Text(
+                        'Premium',
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 12,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                    ],
                   ),
                 ),
               ),

@@ -1,11 +1,14 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:record/record.dart';
 import 'package:just_audio/just_audio.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../models/user_model.dart';
 import '../constants/app_colors.dart';
 import '../services/chat_history_service.dart';
 import 'video_call_page.dart';
+import 'subscriptions_page.dart';
 import 'dart:io';
 import 'package:path_provider/path_provider.dart';
 import 'dart:convert';
@@ -26,11 +29,37 @@ class _ChatPageState extends State<ChatPage> {
   final AudioRecorder _recorder = AudioRecorder();
   bool _isRecording = false;
   DateTime? _recordingStartTime;
+  // VIP status variables
+  bool _isVip = false;
+  DateTime? _vipExpiry;
+  bool _isVoiceDialogShowing = false;
+  bool _isMonthlyVip = false;
+  bool _isVideoCallDialogShowing = false;
 
   @override
   void initState() {
     super.initState();
     _loadMessages();
+    _loadVipStatus();
+  }
+
+  Future<void> _loadVipStatus() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _isVip = prefs.getBool('isVip') ?? false;
+      final expiryStr = prefs.getString('vipExpiry');
+      _vipExpiry = expiryStr != null ? DateTime.tryParse(expiryStr) : null;
+      
+      // Check if VIP is expired
+      if (_isVip && _vipExpiry != null && _vipExpiry!.isBefore(DateTime.now())) {
+        _isVip = false;
+        prefs.setBool('isVip', false);
+      }
+      
+      // Check if it's monthly subscription VIP
+      final subscriptionType = prefs.getString('vipSubscriptionType');
+      _isMonthlyVip = _isVip && subscriptionType == 'BantoMonthVIP';
+    });
   }
 
   Future<String> _getMediaDir() async {
@@ -166,7 +195,232 @@ class _ChatPageState extends State<ChatPage> {
     }
   }
 
+  void _showVoiceVipRequiredDialog() {
+    if (_isVoiceDialogShowing) return;
+    
+    setState(() {
+      _isVoiceDialogShowing = true;
+    });
+    
+    showDialog(
+      context: context,
+      barrierDismissible: false,
+      builder: (BuildContext context) {
+        return Dialog(
+          backgroundColor: Colors.transparent,
+          child: Container(
+            margin: const EdgeInsets.symmetric(horizontal: 20),
+            decoration: BoxDecoration(
+              gradient: LinearGradient(
+                begin: Alignment.topLeft,
+                end: Alignment.bottomRight,
+                colors: [
+                  Colors.white,
+                  Colors.white.withValues(alpha: 0.95),
+                ],
+              ),
+              borderRadius: BorderRadius.circular(24),
+              boxShadow: [
+                BoxShadow(
+                  color: AppColors.primary.withValues(alpha: 0.3),
+                  blurRadius: 20,
+                  offset: const Offset(0, 10),
+                ),
+              ],
+            ),
+            child: Padding(
+              padding: const EdgeInsets.all(24),
+              child: Column(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  // VIP Icon
+                  Container(
+                    width: 80,
+                    height: 80,
+                    decoration: BoxDecoration(
+                      gradient: AppColors.primaryGradient,
+                      shape: BoxShape.circle,
+                      boxShadow: [
+                        BoxShadow(
+                          color: AppColors.primary.withValues(alpha: 0.4),
+                          blurRadius: 16,
+                          offset: const Offset(0, 8),
+                        ),
+                      ],
+                    ),
+                    child: const Icon(
+                      Icons.mic_rounded,
+                      color: Colors.white,
+                      size: 40,
+                    ),
+                  ),
+                  const SizedBox(height: 24),
+                  
+                  // Title
+                  Text(
+                    'VIP Required for Voice Messages',
+                    style: TextStyle(
+                      fontSize: 22,
+                      fontWeight: FontWeight.w700,
+                      color: AppColors.textPrimary,
+                    ),
+                    textAlign: TextAlign.center,
+                  ),
+                  const SizedBox(height: 12),
+                  
+                  // Description
+                  Text(
+                    'Unlock premium voice messaging with Banto VIP subscription!',
+                    style: TextStyle(
+                      fontSize: 16,
+                      color: AppColors.textSecondary,
+                      height: 1.4,
+                    ),
+                    textAlign: TextAlign.center,
+                  ),
+                  const SizedBox(height: 16),
+                  Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                    decoration: BoxDecoration(
+                      gradient: AppColors.primaryGradient,
+                      borderRadius: BorderRadius.circular(20),
+                      boxShadow: [
+                        BoxShadow(
+                          color: AppColors.primary.withValues(alpha: 0.2),
+                          blurRadius: 8,
+                          offset: const Offset(0, 2),
+                        ),
+                      ],
+                    ),
+                    child: const Row(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        Text(
+                          'Starting at \$12.99/week',
+                          style: TextStyle(
+                            color: Colors.white,
+                            fontSize: 14,
+                            fontWeight: FontWeight.bold,
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
+                  const SizedBox(height: 12),
+                  Text(
+                    'Connect better with voice messages and discover all premium features.',
+                    style: TextStyle(
+                      fontSize: 14,
+                      color: Colors.grey[600],
+                      height: 1.3,
+                    ),
+                    textAlign: TextAlign.center,
+                  ),
+                  const SizedBox(height: 16),
+                  
+                  Text(
+                    'Connect better with voice messages and discover all premium features.',
+                    style: TextStyle(
+                      fontSize: 14,
+                      color: Colors.grey[600],
+                      height: 1.3,
+                    ),
+                    textAlign: TextAlign.center,
+                  ),
+                  const SizedBox(height: 24),
+                  
+                  // Buttons
+                  Row(
+                    children: [
+                      Expanded(
+                        child: TextButton(
+                          onPressed: () {
+                            Navigator.pop(context);
+                            setState(() {
+                              _isVoiceDialogShowing = false;
+                            });
+                          },
+                          style: TextButton.styleFrom(
+                            backgroundColor: Colors.grey.shade100,
+                            foregroundColor: AppColors.textSecondary,
+                            padding: const EdgeInsets.symmetric(vertical: 16),
+                            shape: RoundedRectangleBorder(
+                              borderRadius: BorderRadius.circular(12),
+                            ),
+                          ),
+                          child: const Text(
+                            'Later',
+                            style: TextStyle(
+                              fontSize: 16,
+                              fontWeight: FontWeight.w600,
+                            ),
+                          ),
+                        ),
+                      ),
+                      const SizedBox(width: 12),
+                      Expanded(
+                        child: Container(
+                          decoration: BoxDecoration(
+                            gradient: AppColors.primaryGradient,
+                            borderRadius: BorderRadius.circular(12),
+                            boxShadow: [
+                              BoxShadow(
+                                color: AppColors.primary.withValues(alpha: 0.4),
+                                blurRadius: 8,
+                                offset: const Offset(0, 4),
+                              ),
+                            ],
+                          ),
+                          child: TextButton(
+                            onPressed: () {
+                              Navigator.pop(context);
+                              setState(() {
+                                _isVoiceDialogShowing = false;
+                              });
+                              Navigator.push(
+                                context,
+                                MaterialPageRoute(
+                                  builder: (context) => const SubscriptionsPage(),
+                                ),
+                              );
+                            },
+                            style: TextButton.styleFrom(
+                              backgroundColor: Colors.transparent,
+                              foregroundColor: Colors.white,
+                              padding: const EdgeInsets.symmetric(vertical: 16),
+                              shape: RoundedRectangleBorder(
+                                borderRadius: BorderRadius.circular(12),
+                              ),
+                            ),
+                            child: const Text(
+                              'Get Premium',
+                              style: TextStyle(
+                                fontSize: 16,
+                                fontWeight: FontWeight.w700,
+                              ),
+                            ),
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ],
+              ),
+            ),
+          ),
+        );
+      },
+    );
+  }
+
   Future<void> _startOrStopRecording() async {
+    // Check VIP status first
+    if (!_isVip) {
+      HapticFeedback.lightImpact();
+      _showVoiceVipRequiredDialog();
+      return;
+    }
+    
     try {
     if (_isRecording) {
         // 停止录制
@@ -505,19 +759,239 @@ class _ChatPageState extends State<ChatPage> {
                   onSend: _sendMessage,
                   onImage: _pickImage,
                   onRecord: _startOrStopRecording,
-                  onVideoCall: () => Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                      builder: (context) => VideoCallPage(user: widget.user),
-                    ),
-                  ),
+                  onVideoCall: _handleVideoCall,
                   isRecording: _isRecording,
                   recordingStartTime: _recordingStartTime,
+                  isVip: _isVip,
+                  isMonthlyVip: _isMonthlyVip,
                 ),
               ],
             ),
           ),
         ],
+      ),
+    );
+  }
+
+  void _showVideoCallVipRequiredDialog() {
+    if (_isVideoCallDialogShowing) return;
+    
+    setState(() {
+      _isVideoCallDialogShowing = true;
+    });
+    
+    showDialog(
+      context: context,
+      barrierDismissible: false,
+      builder: (BuildContext context) {
+        return Dialog(
+          backgroundColor: Colors.transparent,
+          child: Container(
+            margin: const EdgeInsets.symmetric(horizontal: 20),
+            decoration: BoxDecoration(
+              gradient: LinearGradient(
+                begin: Alignment.topLeft,
+                end: Alignment.bottomRight,
+                colors: [
+                  Colors.white,
+                  Colors.white.withValues(alpha: 0.95),
+                ],
+              ),
+              borderRadius: BorderRadius.circular(24),
+              boxShadow: [
+                BoxShadow(
+                  color: AppColors.primary.withValues(alpha: 0.3),
+                  blurRadius: 20,
+                  offset: const Offset(0, 10),
+                ),
+              ],
+            ),
+            child: Padding(
+              padding: const EdgeInsets.all(24),
+              child: Column(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  // VIP Icon
+                  Container(
+                    width: 80,
+                    height: 80,
+                    decoration: BoxDecoration(
+                      gradient: AppColors.primaryGradient,
+                      shape: BoxShape.circle,
+                      boxShadow: [
+                        BoxShadow(
+                          color: AppColors.primary.withValues(alpha: 0.4),
+                          blurRadius: 16,
+                          offset: const Offset(0, 8),
+                        ),
+                      ],
+                    ),
+                    child: const Icon(
+                      Icons.videocam_rounded,
+                      color: Colors.white,
+                      size: 40,
+                    ),
+                  ),
+                  const SizedBox(height: 24),
+                  
+                  // Title
+                  Text(
+                    'Monthly Premium Required',
+                    style: TextStyle(
+                      fontSize: 22,
+                      fontWeight: FontWeight.w700,
+                      color: AppColors.textPrimary,
+                    ),
+                    textAlign: TextAlign.center,
+                  ),
+                  const SizedBox(height: 12),
+                  
+                  // Description
+                  Text(
+                    'Video calls are exclusive to Monthly Premium subscribers!',
+                    style: TextStyle(
+                      fontSize: 16,
+                      color: AppColors.textSecondary,
+                      height: 1.4,
+                    ),
+                    textAlign: TextAlign.center,
+                  ),
+                  const SizedBox(height: 16),
+                  Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                    decoration: BoxDecoration(
+                      gradient: AppColors.primaryGradient,
+                      borderRadius: BorderRadius.circular(20),
+                      boxShadow: [
+                        BoxShadow(
+                          color: AppColors.primary.withValues(alpha: 0.2),
+                          blurRadius: 8,
+                          offset: const Offset(0, 2),
+                        ),
+                      ],
+                    ),
+                    child: const Row(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        Text(
+                          'Monthly Premium \$49.99',
+                          style: TextStyle(
+                            color: Colors.white,
+                            fontSize: 14,
+                            fontWeight: FontWeight.bold,
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
+                  const SizedBox(height: 12),
+                  Text(
+                    'Upgrade to Monthly Premium to unlock video calls and all exclusive features.',
+                    style: TextStyle(
+                      fontSize: 14,
+                      color: Colors.grey[600],
+                      height: 1.3,
+                    ),
+                    textAlign: TextAlign.center,
+                  ),
+                  const SizedBox(height: 16),
+                  
+                  // Buttons
+                  Row(
+                    children: [
+                      Expanded(
+                        child: TextButton(
+                          onPressed: () {
+                            Navigator.pop(context);
+                            setState(() {
+                              _isVideoCallDialogShowing = false;
+                            });
+                          },
+                          style: TextButton.styleFrom(
+                            backgroundColor: Colors.grey.shade100,
+                            foregroundColor: AppColors.textSecondary,
+                            padding: const EdgeInsets.symmetric(vertical: 16),
+                            shape: RoundedRectangleBorder(
+                              borderRadius: BorderRadius.circular(12),
+                            ),
+                          ),
+                          child: const Text(
+                            'Later',
+                            style: TextStyle(
+                              fontSize: 16,
+                              fontWeight: FontWeight.w600,
+                            ),
+                          ),
+                        ),
+                      ),
+                      const SizedBox(width: 12),
+                      Expanded(
+                        child: Container(
+                          decoration: BoxDecoration(
+                            gradient: AppColors.primaryGradient,
+                            borderRadius: BorderRadius.circular(12),
+                            boxShadow: [
+                              BoxShadow(
+                                color: AppColors.primary.withValues(alpha: 0.4),
+                                blurRadius: 8,
+                                offset: const Offset(0, 4),
+                              ),
+                            ],
+                          ),
+                          child: TextButton(
+                            onPressed: () {
+                              Navigator.pop(context);
+                              setState(() {
+                                _isVideoCallDialogShowing = false;
+                              });
+                              Navigator.push(
+                                context,
+                                MaterialPageRoute(
+                                  builder: (context) => const SubscriptionsPage(initialIndex: 1),
+                                ),
+                              );
+                            },
+                            style: TextButton.styleFrom(
+                              backgroundColor: Colors.transparent,
+                              foregroundColor: Colors.white,
+                              padding: const EdgeInsets.symmetric(vertical: 16),
+                              shape: RoundedRectangleBorder(
+                                borderRadius: BorderRadius.circular(12),
+                              ),
+                            ),
+                            child: const Text(
+                              'Get Monthly Premium',
+                              style: TextStyle(
+                                fontSize: 16,
+                                fontWeight: FontWeight.w700,
+                              ),
+                            ),
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ],
+              ),
+            ),
+          ),
+        );
+      },
+    );
+  }
+
+  void _handleVideoCall() {
+    // Check monthly VIP status first
+    if (!_isMonthlyVip) {
+      HapticFeedback.lightImpact();
+      _showVideoCallVipRequiredDialog();
+      return;
+    }
+    
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => VideoCallPage(user: widget.user),
       ),
     );
   }
@@ -943,6 +1417,8 @@ class _ChatInputBar extends StatelessWidget {
   final VoidCallback onVideoCall;
   final bool isRecording;
   final DateTime? recordingStartTime;
+  final bool isVip;
+  final bool isMonthlyVip;
   
   const _ChatInputBar({
     required this.controller, 
@@ -952,6 +1428,8 @@ class _ChatInputBar extends StatelessWidget {
     required this.onVideoCall,
     required this.isRecording, 
     this.recordingStartTime,
+    required this.isVip,
+    required this.isMonthlyVip,
   });
 
   void _showMoreOptions(BuildContext context) {
@@ -1007,8 +1485,8 @@ class _ChatInputBar extends StatelessWidget {
                       // 录音选项
                       _MoreOptionItem(
                         icon: Icons.mic_rounded,
-                        label: 'Record',
-                        color: const Color(0xFFFF6B6B),
+                        label: isVip ? 'Record' : 'Record (VIP)',
+                        color: isVip ? const Color(0xFFFF6B6B) : Colors.grey,
                         onTap: () {
                           Navigator.pop(context);
                           onRecord();
@@ -1027,8 +1505,8 @@ class _ChatInputBar extends StatelessWidget {
                       // 视频拨打选项
                       _MoreOptionItem(
                         icon: Icons.videocam_rounded,
-                        label: 'Video Call',
-                        color: const Color(0xFF4CAF50),
+                        label: isMonthlyVip ? 'Video Call' : 'Video Call (Monthly)',
+                        color: isMonthlyVip ? const Color(0xFF4CAF50) : Colors.grey,
                         onTap: () {
                           Navigator.pop(context);
                           onVideoCall();
@@ -1143,36 +1621,109 @@ class _ChatInputBar extends StatelessWidget {
             Row(
               children: [
                 // 更多选项按钮 / 停止录音按钮
-                Container(
-                  decoration: BoxDecoration(
-                    gradient: isRecording 
-                        ? LinearGradient(
-                            colors: [
-                              const Color(0xFFFF6B6B),
-                              const Color(0xFFFF5252),
-                            ],
-                          )
-                        : AppColors.primaryGradient,
-                    shape: BoxShape.circle,
-                    boxShadow: [
-                      BoxShadow(
-                        color: isRecording 
-                            ? const Color(0xFFFF6B6B).withOpacity(0.4) 
-                            : AppColors.primary.withOpacity(0.4),
-                        blurRadius: 8,
-                        offset: const Offset(0, 3),
+                Stack(
+                  children: [
+                    Container(
+                      decoration: BoxDecoration(
+                        gradient: isRecording 
+                            ? LinearGradient(
+                                colors: [
+                                  const Color(0xFFFF6B6B),
+                                  const Color(0xFFFF5252),
+                                ],
+                              )
+                            : isVip 
+                                ? AppColors.primaryGradient
+                                : LinearGradient(
+                                    colors: [
+                                      Colors.grey.shade400,
+                                      Colors.grey.shade500,
+                                    ],
+                                  ),
+                        shape: BoxShape.circle,
+                        boxShadow: [
+                          BoxShadow(
+                            color: isRecording 
+                                ? const Color(0xFFFF6B6B).withOpacity(0.4) 
+                                : isVip 
+                                    ? AppColors.primary.withOpacity(0.4)
+                                    : Colors.grey.withOpacity(0.3),
+                            blurRadius: 8,
+                            offset: const Offset(0, 3),
+                          ),
+                        ],
                       ),
-                    ],
-                  ),
-                  child: IconButton(
-                    icon: Icon(
-                      isRecording ? Icons.stop_rounded : Icons.add_rounded,
-                      color: Colors.white,
-                      size: 24,
+                      child: IconButton(
+                        icon: Stack(
+                          children: [
+                            Icon(
+                              isRecording ? Icons.stop_rounded : Icons.add_rounded,
+                              color: Colors.white,
+                              size: 24,
+                            ),
+                            if (!isVip && !isRecording)
+                              Positioned(
+                                right: -2,
+                                top: -2,
+                                child: Container(
+                                  width: 12,
+                                  height: 12,
+                                  decoration: BoxDecoration(
+                                    color: Colors.orange,
+                                    shape: BoxShape.circle,
+                                    border: Border.all(color: Colors.white, width: 1),
+                                  ),
+                                  child: const Icon(
+                                    Icons.lock,
+                                    color: Colors.white,
+                                    size: 8,
+                                  ),
+                                ),
+                              ),
+                          ],
+                        ),
+                        onPressed: isRecording ? onRecord : () => _showMoreOptions(context),
+                        tooltip: isRecording 
+                            ? 'Stop recording' 
+                            : isVip 
+                                ? 'More options' 
+                                : 'More options (Voice requires VIP)',
+                      ),
                     ),
-                    onPressed: isRecording ? onRecord : () => _showMoreOptions(context),
-                    tooltip: isRecording ? 'Stop recording' : 'More options',
-                  ),
+                    // VIP badge
+                    if (isVip && !isRecording)
+                      Positioned(
+                        right: -4,
+                        top: -4,
+                        child: Container(
+                          padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+                          decoration: BoxDecoration(
+                            gradient: LinearGradient(
+                              colors: [
+                                Colors.amber.shade400,
+                                Colors.orange.shade400,
+                              ],
+                            ),
+                            borderRadius: BorderRadius.circular(8),
+                            boxShadow: [
+                              BoxShadow(
+                                color: Colors.orange.withOpacity(0.4),
+                                blurRadius: 4,
+                                offset: const Offset(0, 2),
+                              ),
+                            ],
+                          ),
+                          child: const Text(
+                            'VIP',
+                            style: TextStyle(
+                              color: Colors.white,
+                              fontSize: 8,
+                              fontWeight: FontWeight.w700,
+                            ),
+                          ),
+                        ),
+                      ),
+                  ],
                 ),
                 const SizedBox(width: 12),
                 // 文本输入框
@@ -1269,34 +1820,66 @@ class _MoreOptionItem extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final bool isDisabled = color == Colors.grey;
+    
     return GestureDetector(
       onTap: onTap,
       child: Column(
         mainAxisSize: MainAxisSize.min,
         children: [
-          Container(
-            width: 64,
-            height: 64,
-            decoration: BoxDecoration(
-              color: color.withOpacity(0.1),
-              shape: BoxShape.circle,
-              border: Border.all(
-                color: color.withOpacity(0.3),
-                width: 2,
-              ),
-              boxShadow: [
-                BoxShadow(
-                  color: color.withOpacity(0.2),
-                  blurRadius: 8,
-                  offset: const Offset(0, 3),
+          Stack(
+            children: [
+              Container(
+                width: 64,
+                height: 64,
+                decoration: BoxDecoration(
+                  color: color.withOpacity(0.1),
+                  shape: BoxShape.circle,
+                  border: Border.all(
+                    color: color.withOpacity(0.3),
+                    width: 2,
+                  ),
+                  boxShadow: [
+                    BoxShadow(
+                      color: color.withOpacity(0.2),
+                      blurRadius: 8,
+                      offset: const Offset(0, 3),
+                    ),
+                  ],
                 ),
-              ],
-            ),
-            child: Icon(
-              icon,
-              color: color,
-              size: 28,
-            ),
+                child: Icon(
+                  icon,
+                  color: color,
+                  size: 28,
+                ),
+              ),
+              if (isDisabled)
+                Positioned(
+                  right: 4,
+                  top: 4,
+                  child: Container(
+                    width: 20,
+                    height: 20,
+                    decoration: BoxDecoration(
+                      color: Colors.orange,
+                      shape: BoxShape.circle,
+                      border: Border.all(color: Colors.white, width: 2),
+                      boxShadow: [
+                        BoxShadow(
+                          color: Colors.orange.withOpacity(0.4),
+                          blurRadius: 4,
+                          offset: const Offset(0, 2),
+                        ),
+                      ],
+                    ),
+                    child: const Icon(
+                      Icons.lock,
+                      color: Colors.white,
+                      size: 12,
+                    ),
+                  ),
+                ),
+            ],
           ),
           const SizedBox(height: 8),
           Text(
@@ -1304,8 +1887,9 @@ class _MoreOptionItem extends StatelessWidget {
             style: TextStyle(
               fontSize: 14,
               fontWeight: FontWeight.w500,
-              color: AppColors.textPrimary,
+              color: isDisabled ? Colors.grey : AppColors.textPrimary,
             ),
+            textAlign: TextAlign.center,
           ),
         ],
       ),
