@@ -232,13 +232,18 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
     final List<List<_Privilege>> planPrivileges = [
       // Weekly
       [
-        _Privilege(icon: Icons.local_bar, text: 'Unlimited Browse discovery'),
+        _Privilege(icon: Icons.explore, text: 'Unlimited browsing to discover works'),
+        _Privilege(icon: Icons.smart_toy, text: 'Unlimited consultation with AI advisors'),
+        _Privilege(icon: Icons.camera_alt, text: 'Unlimited modification of user avatars'),
+        _Privilege(icon: Icons.favorite, text: 'Like and collect your favorite users infinitely'),
         _Privilege(icon: Icons.block, text: 'Ad-free experience'),
- 
       ],
       // Monthly
       [
-        _Privilege(icon: Icons.local_bar, text: 'Unlimited Browse discovery'),
+        _Privilege(icon: Icons.explore, text: 'Unlimited browsing to discover works'),
+        _Privilege(icon: Icons.smart_toy, text: 'Unlimited consultation with AI advisors'),
+        _Privilege(icon: Icons.camera_alt, text: 'Unlimited modification of user avatars'),
+        _Privilege(icon: Icons.favorite, text: 'Like and collect your favorite users infinitely'),
         _Privilege(icon: Icons.block, text: 'Ad-free experience'),
       ],
     ];
