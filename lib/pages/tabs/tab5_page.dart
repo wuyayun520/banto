@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:path_provider/path_provider.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:io';
 import '../../constants/app_constants.dart';
 import '../../constants/app_colors.dart';
@@ -24,6 +25,9 @@ class _Tab5PageState extends State<Tab5Page> with AutomaticKeepAliveClientMixin 
   UserProfile? _userProfile;
   bool _isLoading = true;
   bool _isEditing = false;
+  bool _isVip = false;
+  DateTime? _vipExpiry;
+  bool _isDialogShowing = false;
   final TextEditingController _nameController = TextEditingController();
   final TextEditingController _signatureController = TextEditingController();
   final ImagePicker _picker = ImagePicker();
@@ -35,6 +39,7 @@ class _Tab5PageState extends State<Tab5Page> with AutomaticKeepAliveClientMixin 
   void initState() {
     super.initState();
     _loadUserProfile();
+    _loadVipStatus();
   }
 
   @override
@@ -63,6 +68,21 @@ class _Tab5PageState extends State<Tab5Page> with AutomaticKeepAliveClientMixin 
         _isLoading = false;
       });
     }
+  }
+
+  Future<void> _loadVipStatus() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _isVip = prefs.getBool('isVip') ?? false;
+      final expiryStr = prefs.getString('vipExpiry');
+      _vipExpiry = expiryStr != null ? DateTime.tryParse(expiryStr) : null;
+      
+      // 检查VIP是否过期
+      if (_isVip && _vipExpiry != null && _vipExpiry!.isBefore(DateTime.now())) {
+        _isVip = false;
+        prefs.setBool('isVip', false);
+      }
+    });
   }
 
   Future<void> _saveUserProfile() async {
@@ -285,6 +305,240 @@ class _Tab5PageState extends State<Tab5Page> with AutomaticKeepAliveClientMixin 
     }
   }
 
+  void _showVipRequiredDialog() {
+    if (_isDialogShowing) return; // 防止重复弹窗
+    
+    setState(() {
+      _isDialogShowing = true;
+    });
+    
+    showDialog(
+      context: context,
+      barrierDismissible: false,
+      barrierColor: Colors.black54,
+      builder: (BuildContext context) {
+        return PopScope(
+          canPop: false,
+          child: AlertDialog(
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(20),
+            ),
+            title: Row(
+              children: [
+                Container(
+                  padding: const EdgeInsets.all(8),
+                  decoration: BoxDecoration(
+                    gradient: AppColors.primaryGradient,
+                    borderRadius: BorderRadius.circular(10),
+                  ),
+                  child: const Icon(
+                    Icons.camera_alt_rounded,
+                    color: Colors.white,
+                    size: 24,
+                  ),
+                ),
+                const SizedBox(width: 12),
+                const Text(
+                  'Banto Premium',
+                  style: TextStyle(
+                    fontWeight: FontWeight.bold,
+                    fontSize: 20,
+                  ),
+                ),
+              ],
+            ),
+            content: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                const Text(
+                  'Unlock Banto Premium to customize your exclusive avatar!',
+                  style: TextStyle(
+                    fontSize: 16,
+                    height: 1.4,
+                  ),
+                ),
+                const SizedBox(height: 16),
+                Container(
+                  padding: const EdgeInsets.all(16),
+                  decoration: BoxDecoration(
+                    color: AppColors.primary.withValues(alpha: 0.1),
+                    borderRadius: BorderRadius.circular(12),
+                  ),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Row(
+                        children: [
+                          Icon(
+                            Icons.check_circle,
+                            color: AppColors.primary,
+                            size: 18,
+                          ),
+                          const SizedBox(width: 8),
+                          const Expanded(
+                            child: Text(
+                              'Unlimited browsing to discover works',
+                              style: TextStyle(
+                                fontWeight: FontWeight.w600,
+                                fontSize: 14,
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                      const SizedBox(height: 8),
+                      Row(
+                        children: [
+                          Icon(
+                            Icons.check_circle,
+                            color: AppColors.primary,
+                            size: 18,
+                          ),
+                          const SizedBox(width: 8),
+                          const Expanded(
+                            child: Text(
+                              'Unlimited consultation with AI advisors',
+                              style: TextStyle(
+                                fontWeight: FontWeight.w600,
+                                fontSize: 14,
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                      const SizedBox(height: 8),
+                      Row(
+                        children: [
+                          Icon(
+                            Icons.check_circle,
+                            color: AppColors.primary,
+                            size: 18,
+                          ),
+                          const SizedBox(width: 8),
+                          const Expanded(
+                            child: Text(
+                              'Unlimited modification of user avatars',
+                              style: TextStyle(
+                                fontWeight: FontWeight.w600,
+                                fontSize: 14,
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                      const SizedBox(height: 8),
+                      Row(
+                        children: [
+                          Icon(
+                            Icons.check_circle,
+                            color: AppColors.primary,
+                            size: 18,
+                          ),
+                          const SizedBox(width: 8),
+                          const Expanded(
+                            child: Text(
+                              'Like and collect your favorite users infinitely',
+                              style: TextStyle(
+                                fontWeight: FontWeight.w600,
+                                fontSize: 14,
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                      const SizedBox(height: 8),
+                      Row(
+                        children: [
+                          Icon(
+                            Icons.check_circle,
+                            color: AppColors.primary,
+                            size: 18,
+                          ),
+                          const SizedBox(width: 8),
+                          const Expanded(
+                            child: Text(
+                              'Ad-free experience',
+                              style: TextStyle(
+                                fontWeight: FontWeight.w600,
+                                fontSize: 14,
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                    ],
+                  ),
+                ),
+              ],
+            ),
+            actions: [
+              TextButton(
+                onPressed: () {
+                  Navigator.of(context).pop();
+                  setState(() {
+                    _isDialogShowing = false;
+                  });
+                },
+                child: Text(
+                  'Later',
+                  style: TextStyle(
+                    color: Colors.grey[600],
+                    fontSize: 16,
+                  ),
+                ),
+              ),
+              Container(
+                decoration: BoxDecoration(
+                  gradient: AppColors.primaryGradient,
+                  borderRadius: BorderRadius.circular(25),
+                ),
+                child: TextButton(
+                  onPressed: () {
+                    Navigator.of(context).pop();
+                    setState(() {
+                      _isDialogShowing = false;
+                    });
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => const SubscriptionsPage(),
+                      ),
+                    ).then((_) {
+                      // 用户从订阅页面返回后重新检查VIP状态
+                      _loadVipStatus();
+                    });
+                  },
+                  child: const Text(
+                    'Get Premium',
+                    style: TextStyle(
+                      color: Colors.white,
+                      fontSize: 16,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                ),
+              ),
+            ],
+          ),
+        );
+      },
+    );
+  }
+
+  Future<void> _onAvatarTap() async {
+    if (!_isEditing) return;
+    
+    // 检查VIP状态
+    if (!_isVip) {
+      _showVipRequiredDialog();
+      return;
+    }
+    
+    // VIP用户可以修改头像
+    await _pickImageFromGallery();
+  }
+
   @override
   Widget build(BuildContext context) {
     super.build(context);
@@ -328,7 +582,7 @@ class _Tab5PageState extends State<Tab5Page> with AutomaticKeepAliveClientMixin 
                           children: [
                             // 头像
                             GestureDetector(
-                              onTap: _isEditing ? _pickImageFromGallery : null,
+                              onTap: _onAvatarTap,
                               child: Container(
                                 decoration: BoxDecoration(
                                   shape: BoxShape.circle,

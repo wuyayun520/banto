@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../../services/ai_service.dart';
+import '../subscriptions_page.dart';
+import '../../constants/app_colors.dart';
 
 class ChatMessage {
   final String text;
@@ -25,6 +28,9 @@ class _Tab3PageState extends State<Tab3Page> {
   final ScrollController _scrollController = ScrollController();
   final List<ChatMessage> _messages = [];
   bool _isLoading = false;
+  bool _isVip = false;
+  DateTime? _vipExpiry;
+  bool _isDialogShowing = false;
 
   // Predefined suggestions
   final List<String> _suggestions = [
@@ -42,6 +48,7 @@ class _Tab3PageState extends State<Tab3Page> {
       isUser: false,
       timestamp: DateTime.now(),
     ));
+    _loadVipStatus();
   }
 
   @override
@@ -51,8 +58,250 @@ class _Tab3PageState extends State<Tab3Page> {
     super.dispose();
   }
 
+  Future<void> _loadVipStatus() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _isVip = prefs.getBool('isVip') ?? false;
+      final expiryStr = prefs.getString('vipExpiry');
+      _vipExpiry = expiryStr != null ? DateTime.tryParse(expiryStr) : null;
+      
+      // 检查VIP是否过期
+      if (_isVip && _vipExpiry != null && _vipExpiry!.isBefore(DateTime.now())) {
+        _isVip = false;
+        prefs.setBool('isVip', false);
+      }
+    });
+  }
+
+  void _showVipRequiredDialog() {
+    if (_isDialogShowing) return; // 防止重复弹窗
+    
+    setState(() {
+      _isDialogShowing = true;
+    });
+    
+    showDialog(
+      context: context,
+      barrierDismissible: false,
+      barrierColor: Colors.black54,
+      builder: (BuildContext context) {
+        return PopScope(
+          canPop: false,
+          child: AlertDialog(
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(20),
+            ),
+            title: Row(
+              children: [
+                Container(
+                  padding: const EdgeInsets.all(8),
+                  decoration: BoxDecoration(
+                    gradient: AppColors.primaryGradient,
+                    borderRadius: BorderRadius.circular(10),
+                  ),
+                  child: const Icon(
+                    Icons.smart_toy,
+                    color: Colors.white,
+                    size: 24,
+                  ),
+                ),
+                const SizedBox(width: 12),
+                const Text(
+                  'Banto Premium',
+                  style: TextStyle(
+                    fontWeight: FontWeight.bold,
+                    fontSize: 20,
+                  ),
+                ),
+              ],
+            ),
+            content: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                const Text(
+                  'Unlock unlimited AI conversations with Banto Premium!',
+                  style: TextStyle(
+                    fontSize: 16,
+                    height: 1.4,
+                  ),
+                ),
+                const SizedBox(height: 16),
+                Container(
+                  padding: const EdgeInsets.all(16),
+                  decoration: BoxDecoration(
+                    color: AppColors.primary.withValues(alpha: 0.1),
+                    borderRadius: BorderRadius.circular(12),
+                  ),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Row(
+                        children: [
+                          Icon(
+                            Icons.check_circle,
+                            color: AppColors.primary,
+                            size: 18,
+                          ),
+                          const SizedBox(width: 8),
+                          const Expanded(
+                            child: Text(
+                              'Unlimited browsing to discover works',
+                              style: TextStyle(
+                                fontWeight: FontWeight.w600,
+                                fontSize: 14,
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                      const SizedBox(height: 8),
+                      Row(
+                        children: [
+                          Icon(
+                            Icons.check_circle,
+                            color: AppColors.primary,
+                            size: 18,
+                          ),
+                          const SizedBox(width: 8),
+                          const Expanded(
+                            child: Text(
+                              'Unlimited consultation with AI advisors',
+                              style: TextStyle(
+                                fontWeight: FontWeight.w600,
+                                fontSize: 14,
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                      const SizedBox(height: 8),
+                      Row(
+                        children: [
+                          Icon(
+                            Icons.check_circle,
+                            color: AppColors.primary,
+                            size: 18,
+                          ),
+                          const SizedBox(width: 8),
+                          const Expanded(
+                            child: Text(
+                              'Unlimited modification of user avatars',
+                              style: TextStyle(
+                                fontWeight: FontWeight.w600,
+                                fontSize: 14,
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                      const SizedBox(height: 8),
+                      Row(
+                        children: [
+                          Icon(
+                            Icons.check_circle,
+                            color: AppColors.primary,
+                            size: 18,
+                          ),
+                          const SizedBox(width: 8),
+                          const Expanded(
+                            child: Text(
+                              'Like and collect your favorite users infinitely',
+                              style: TextStyle(
+                                fontWeight: FontWeight.w600,
+                                fontSize: 14,
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                      const SizedBox(height: 8),
+                      Row(
+                        children: [
+                          Icon(
+                            Icons.check_circle,
+                            color: AppColors.primary,
+                            size: 18,
+                          ),
+                          const SizedBox(width: 8),
+                          const Expanded(
+                            child: Text(
+                              'Ad-free experience',
+                              style: TextStyle(
+                                fontWeight: FontWeight.w600,
+                                fontSize: 14,
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                    ],
+                  ),
+                ),
+              ],
+            ),
+            actions: [
+              TextButton(
+                onPressed: () {
+                  Navigator.of(context).pop();
+                  setState(() {
+                    _isDialogShowing = false;
+                  });
+                },
+                child: Text(
+                  'Later',
+                  style: TextStyle(
+                    color: Colors.grey[600],
+                    fontSize: 16,
+                  ),
+                ),
+              ),
+              Container(
+                decoration: BoxDecoration(
+                  gradient: AppColors.primaryGradient,
+                  borderRadius: BorderRadius.circular(25),
+                ),
+                child: TextButton(
+                  onPressed: () {
+                    Navigator.of(context).pop();
+                    setState(() {
+                      _isDialogShowing = false;
+                    });
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => const SubscriptionsPage(),
+                      ),
+                    ).then((_) {
+                      // 用户从订阅页面返回后重新检查VIP状态
+                      _loadVipStatus();
+                    });
+                  },
+                  child: const Text(
+                    'Get Premium',
+                    style: TextStyle(
+                      color: Colors.white,
+                      fontSize: 16,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                ),
+              ),
+            ],
+          ),
+        );
+      },
+    );
+  }
+
   void _sendMessage(String message) async {
     if (message.trim().isEmpty) return;
+
+    // 检查VIP状态
+    if (!_isVip) {
+      _showVipRequiredDialog();
+      return;
+    }
 
     setState(() {
       _messages.add(ChatMessage(
@@ -151,7 +400,12 @@ class _Tab3PageState extends State<Tab3Page> {
                 ),
               ),
               // Suggestions (only show when no messages except welcome)
-              if (_messages.length <= 1) _buildSuggestions(),
+              if (_messages.length <= 1) 
+                Flexible(
+                  child: SingleChildScrollView(
+                    child: _buildSuggestions(),
+                  ),
+                ),
               // Input area
               _buildInputArea(),
             ],
@@ -325,7 +579,7 @@ class _Tab3PageState extends State<Tab3Page> {
 
   Widget _buildSuggestions() {
     return Container(
-      padding: const EdgeInsets.all(16),
+      padding: const EdgeInsets.all(12),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
@@ -357,10 +611,10 @@ class _Tab3PageState extends State<Tab3Page> {
               ),
             ],
           ),
-          const SizedBox(height: 16),
+          const SizedBox(height: 12),
           ..._suggestions.map((suggestion) => Container(
             width: double.infinity,
-            margin: const EdgeInsets.only(bottom: 12),
+            margin: const EdgeInsets.only(bottom: 8),
             child: InkWell(
               onTap: () => _sendMessage(suggestion),
               borderRadius: BorderRadius.circular(12),
@@ -398,7 +652,7 @@ class _Tab3PageState extends State<Tab3Page> {
               ),
             ),
           )),
-          const SizedBox(height: 20),
+          const SizedBox(height: 12),
           Text(
             'Try saying to me, "What fragrance is suitable for today\'s interview?" or "Rose-toned but not too sweet"',
             style: TextStyle(
